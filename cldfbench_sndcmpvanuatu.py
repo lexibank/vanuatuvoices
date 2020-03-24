@@ -1,26 +1,22 @@
 import pathlib
+import attr
 
-from cldfbench import Dataset as BaseDataset
+from pylexibank.providers.sndcmp import SNDCMP as BaseDataset
+from pylexibank.providers.sndcmp import SNDCMPConcept
+
+@attr.s
+class CustomConcept(SNDCMPConcept):
+    Bislama_Gloss = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "sndcmpvanuatu"
 
-    def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return super().cldf_specs()
+    study_name = "Vanuatu"
+    second_gloss_lang = "Bislama"
+    source_id_array = ["Shimelman2019"]
+    create_cognates = False
 
-    def cmd_download(self, args):
-        """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
+    concept_class = CustomConcept
 
-        >>> self.raw_dir.download(url, fname)
-        """
-        pass
-
-    def cmd_makecldf(self, args):
-        """
-        Convert the raw data to a CLDF dataset.
-
-        >>> args.writer.objects['LanguageTable'].append(...)
-        """

@@ -1,0 +1,192 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,IndexInSource
+0_one,one,1493,ONE,wan,1-0
+1_two,two,1498,TWO,tu,2-0
+2_three,three,492,THREE,tri,3-0
+3_four,four,1500,FOUR,fo,4-0
+4_five,five,493,FIVE,faiv,5-0
+5_six,six,1703,SIX,sikis,6-0
+6_seven,seven,1704,SEVEN,seven,7-0
+7_eight,eight,1705,EIGHT,eit,8-0
+8_nine,nine,1483,NINE,naen,9-0
+9_ten,ten,1515,TEN,ten,10-0
+10_twenty,twenty,1710,TWENTY,twenti,11-0
+11_fifty,fifty,1717,FIFTY,fifti,15-0
+12_onehundred,one hundred,1634,HUNDRED,wan hundred,20-0
+13_onethousand,one thousand,1843,THOUSAND,wan taosan,21-0
+14_year,year,1226,YEAR,yia,51-0
+15_right,right,1019,RIGHT,raet,81-0
+16_left,left,244,LEFT,lef,82-0
+17_i,I,1209,I,mi,101-0
+18_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),mifala,102-0
+19_webothincl,"we  (both, INcl.)",2637,WE TWO (INCLUSIVE),yumitu,102-1
+20_webothexcl,"we  (both, EXcl.)",2636,WE TWO (EXCLUSIVE),mitufala,102-2
+21_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),yumi,102-3
+22_thou,thou,1215,THOU,yu,104-0
+23_youboth,you  (both),1213,YOU,yutufala,105-0
+24_youall,you  (all),2111,YOU TWO,yufala,105-2
+25_heshe,he/she,2642,HE OR SHE,hem,106-0
+26_theyall,they  (all),817,THEY,olgeta,107-0
+27_theyboth,they  (both),2635,THEY TWO,tufala,107-2
+28_nonot,"no, not",2279,NO OR NOT,no,112-0
+29_what,what,1236,WHAT,wanem,121-0
+30_who,who,1235,WHO,hu,122-0
+31_where,where,1237,WHERE,wea,123-0
+32_when,when,1238,WHEN,wanem,124-0
+33_how,how,1239,HOW,hao,125-0
+34_this,this,1214,THIS,hemia ia,131-0
+35_that,that,78,THAT,hemia longwei,132-0
+36_above,above,1741,ABOVE,antap,138-0
+37_below,below,1485,BELOW OR UNDER,andanit,139-0
+38_ininside,"in, inside",1460,IN,insaed,141-0
+39_head,head,1256,HEAD,hed,201-0
+40_hair,hair,1040,HAIR,hea,205-0
+41_eye,eye,1248,EYE,ae,211-0
+42_nose,nose,1221,NOSE,nus,212-0
+43_ear,ear,1247,EAR,sora,213-0
+44_mouth,mouth,674,MOUTH,maot,221-0
+45_tongue,tongue,1205,TONGUE,tang,223-0
+46_tooth,tooth,1380,TOOTH,tut,224-0
+47_hand,hand,1277,HAND,han,231-0
+48_shoulder,shoulder,1482,SHOULDER,solda,233-0
+49_neck,neck,1333,NECK,nek,241-0
+50_back,back,1291,BACK,baksaed,242-0
+51_leg,leg,2098,FOOT OR LEG,lek,252-0
+52_blood,blood,946,BLOOD,blad,261-0
+53_bone,bone,1394,BONE,bun,262-0
+54_skin,skin,763,SKIN,sikin,263-0
+55_belly,belly,1251,BELLY,bel,271-0
+56_intestines,intestines,1991,INTESTINES,kat,272-0
+57_breast,breast,1402,BREAST,titi,274-0
+58_liver,liver,1224,LIVER,leva,284-0
+59_dog,dog,2009,DOG,dog,312-0
+60_bird,bird,937,BIRD,pijin,321-0
+61_fish,fish,227,FISH,fis,324-0
+62_snake,snake,730,SNAKE,snek,341-0
+63_worm,worm,1219,WORM,wom,342-0
+64_louse,louse,1392,LOUSE,laus,343-0
+65_rat,rat,1490,RAT,rat,345-0
+66_spider,spider,843,SPIDER,spida,349-0
+67_mosquito,mosquito,1509,MOSQUITO,moskito,352-0
+68_egg,egg,744,EGG,ek,381-0
+69_tail,tail,1220,TAIL,tel,383-0
+70_wing,wing,1257,WING,win,384-0
+71_feather,feather,1201,FEATHER,feta,385-0
+72_man,man,2106,MALE PERSON,man,402-0
+73_woman,woman,2105,FEMALE PERSON,woman,403-0
+74_child,child,2099,CHILD,pikinini,405-0
+75_name,name,1405,NAME,nem,410-0
+76_mother,mother,1216,MOTHER,mama,431-0
+77_father,father,1217,FATHER,papa,432-0
+78_husband,husband,1200,HUSBAND,man blong mi,435-0
+79_wife,wife,1199,WIFE,woman blong mi,436-0
+80_day,day,1225,DAY (NOT NIGHT),dei,501-0
+81_night,night,1233,NIGHT,naet,502-0
+82_moon,moon,1313,MOON,mun,512-0
+83_star,star,1430,STAR,sta,513-0
+84_sky,sky,1732,SKY,skae,515-0
+85_water,water,948,WATER,wota,521-0
+86_lake,lake,624,LAKE,"lek, lagun",523-0
+87_sea,sea,1474,SEA,solwota,524-0
+88_fire,fire,221,FIRE,faea,541-0
+89_smoke,smoke,778,SMOKE (EXHAUST),smok,542-0
+90_ash,ash,646,ASH,asis,543-0
+91_stone,stone,857,STONE,ston,551-0
+92_earthsoil,"earth, soil",1228,EARTH (SOIL),kraon,552-0
+93_dust,dust,2,DUST,tas,553-0
+94_sand,sand,671,SAND,sanbij,554-0
+95_rain,rain,658,RAIN (PRECIPITATION),ren,581-0
+96_cloud,cloud,1489,CLOUD,klaud,584-0
+97_wind,wind,960,WIND,win,585-0
+98_thunder,thunder,1150,THUNDER,tanda,592-0
+99_lightning,lightning,1654,LIGHTNING,laetning,593-0
+100_meatflesh,"meat, flesh",2615,FLESH OR MEAT,mit,603-0
+101_fruit,fruit,1507,FRUIT,frut,609-0
+102_woodsforest,"woods, forest",420,FOREST,dak bus,622-0
+103_root,root,670,ROOT,rus,624-0
+104_branch,branch,1531,BRANCH,branj,625-0
+105_leaf,leaf,628,LEAF,lif,626-0
+106_wood,wood,1295,STICK,wud,628-0
+107_grass,grass,606,GRASS,kras,631-0
+108_flower,flower,239,FLOWER,flowa,632-0
+109_thatchroof,"thatch, roof",2100,THATCH OR ROOF,"tatj, ruf",633-0
+110_house,house,1252,HOUSE,haos,651-0
+111_rope,rope,1218,ROPE,rop,662-0
+112_roadpath,"road, path",2457,PATH OR ROAD,rod,681-0
+113_black,black,163,BLACK,blak,701-0
+114_white,white,1335,WHITE,waet,702-0
+115_red,red,156,RED,red,703-0
+116_green,green,1425,GREEN,grin,704-0
+117_yellow,yellow,1424,YELLOW,yalo,705-0
+118_big,big,1202,BIG,big,711-0
+119_small,small,1246,SMALL,smol,717-0
+120_sharp,sharp,1396,SHARP,shap,741-0
+121_bluntdull,"blunt, dull",379,BLUNT,no shap,742-0
+122_shyashamed,"shy, ashamed",487,SHY,"shem, kwaet",749-0
+123_old,old,1229,OLD,olfala,752-0
+124_painfulsick,"painful, sick",2103,PAINFUL OR SICK,"sik, soa",763-0
+125_good,good,1035,GOOD,gud,771-0
+126_bad,bad,1292,BAD,"bad, rabis",772-0
+127_correcttrue,"correct, true",1725,CORRECT (RIGHT),"strait, tru",773-0
+128_dirty,dirty,1230,DIRTY,toti,777-0
+129_rotten,rotten,1728,ROTTEN,roten,780-0
+130_heavy,heavy,1210,HEAVY,hevi,786-0
+131_far,far,1406,FAR,longwei,788-0
+132_near,near,1942,NEAR,kolosap,789-0
+133_cold,cold,1287,COLD,kolkol,792-0
+134_dry,dry,1398,DRY,drae,793-0
+135_wet,wet,1726,WET,wetwet,794-0
+136_new,new,1231,NEW,niu,798-0
+137_other,other,197,OTHER,narafala,799-0
+138_come,come,1446,COME,kam,802-0
+139_walk,walk,1443,WALK,wokabaot,803-0
+140_stand,stand,1442,STAND,stanap,811-0
+141_sit,sit,1416,SIT,sidaon,812-0
+142_fall,fall,1280,FALL,foldaon,813-0
+143_liedown,lie down,215,LIE DOWN,ledaon,814-0
+144_turn,turn,1588,TURN,tanem,815-0
+145_climb,climb,1102,CLIMB,klaem,818-0
+146_swim,swim,1439,SWIM,swim,821-0
+147_flyverb,fly (verb),1441,FLY (MOVE THROUGH AIR),flae,822-0
+148_throw,throw,1456,THROW,sakemaot,826-0
+149_hide,hide,602,HIDE (CONCEAL),haetem,827-0
+150_eat,eat,1336,EAT,kakae,831-0
+151_drink,drink,1401,DRINK,drink,832-0
+152_yawn,yawn,1028,YAWN,wantem silip,836-0
+153_spit,spit,1440,SPIT,spet,837-0
+154_dream,dream,1920,DREAM (SOMETHING),drim,840-0
+155_sleep,sleep,1585,SLEEP,silip,841-0
+156_live,live,1422,BE ALIVE,laev,842-0
+157_die,die,2101,BE DEAD OR DIE,ded,843-0
+158_kill,kill,1417,KILL,kilimded,844-0
+159_see,see,1409,SEE,luk,851-0
+160_hear,hear,1408,HEAR,harem,852-0
+161_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE),smel,854-0
+162_laugh,laugh,1355,LAUGH,laf,858-0
+163_cry,cry,1839,CRY,krae,859-0
+164_blow,blow,175,BLOW (OF WIND),blo,867-0
+165_burn,burn,2102,BURN,bon,868-0
+166_sew,sew,1457,SEW,somap,874-0
+167_pound,pound,354,POUND,kilkilim,880-0
+168_hit,hit,1433,HIT,kilim,881-0
+169_cut,cut,1432,CUT,katem,887-0
+170_split,split,1437,SPLIT,spletem,888-0
+171_dig,dig,1418,DIG,digim,889-0
+172_hunt,hunt,1435,HUNT,kasem,892-0
+173_hold,hold,1448,HOLD,holem,893-0
+174_fear,fear,1419,FEAR (BE AFRAID),fraet,895-0
+175_count,count,1420,COUNT,kaontem,896-0
+176_breathe,breathe,1407,BREATHE,pulum win,897-0
+177_vomit,vomit,1278,VOMIT,traot,900-0
+178_tieup,tie (up),1094,FASTEN,fasem taet,901-0
+179_squeeze,squeeze,1414,SQUEEZE,skwisim,902-0
+180_swell,swell,1573,SWELL,solap,903-0
+181_say,say,1458,SAY,talem,904-0
+182_scratch,scratch,1436,SCRATCH,sikrasem,905-0
+183_stab,stab,1434,STAB,stikim,906-0
+184_buy,buy,1869,BUY,pem,912-0
+185_steal,steal,713,STEAL,stilim,913-0
+186_plant,plant,1486,PLANT (SOMETHING),planem,918-0
+187_cook,cook,1100,COOK (SOMETHING),kuk,922-0
+188_shoot,shoot,1172,SHOOT,shutum,940-0
+189_work,work,1086,WORK (ACTIVITY),wok,950-0
+190_open,open,1156,OPEN,openem,962-0
