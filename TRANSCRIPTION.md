@@ -5,86 +5,83 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 23693 | ✓ | ✓ |
+| a | 24126 | ✓ | ✓ |
 | n | 14261 | ✓ | ✓ |
-| i | 13273 | ✓ | ✓ |
-| u | 9125 | ✓ | ✓ |
+| i | 13480 | ✓ | ✓ |
+| u | 9129 | ✓ | ✓ |
 | l | 8266 | ✓ | ✓ |
-| m | 8209 | ✓ | ✓ |
+| m | 8208 | ✓ | ✓ |
 | o | 8035 | ✓ | ✓ |
-| r | 7529 | ✓ | ✓ |
-| t | 7468 | ✓ | ✓ |
-| ɛ | 6580 | ✓ | ✓ |
+| r | 7641 | ✓ | ✓ |
+| t | 7467 | ✓ | ✓ |
+| ɛ | 6579 | ✓ | ✓ |
 | e | 5771 | ✓ | ✓ |
-| s | 5452 | ✓ | ✓ |
-| ɪ | 3477 | ✓ | ✓ |
+| s | 5532 | ✓ | ✓ |
+| ɪ | 3557 | ✓ | ✓ |
 | k | 3308 | ✓ | ✓ |
-| ŋ | 3167 | ✓ | ✓ |
-| v | 3117 | ✓ | ✓ |
+| ŋ | 3246 | ✓ | ✓ |
+| v | 3118 | ✓ | ✓ |
 | ɣ | 2607 | ✓ | ✓ |
 | x | 2396 | ✓ | ✓ |
+| ᵐb | 1998 | ✓ | ✓ |
 | h | 1689 | ✓ | ✓ |
-| b | 1671 | ✓ | ✓ |
-| p | 1667 | ✓ | ✓ |
+| p | 1668 | ✓ | ✓ |
 | + | 1605 | ✓ | ✓ |
-| w | 1598 | ✓ | ✓ |
-| ᵐb | 1442 | ✓ | ✓ |
+| w | 1600 | ✓ | ✓ |
+| b | 1200 | ✓ | ✓ |
+| ⁿd | 1089 | ✓ | ✓ |
 | ə | 990 | ✓ | ✓ |
-| ⁿd | 958 | ✓ | ✓ |
 | β | 933 | ✓ | ✓ |
-| d | 866 | ✓ | ✓ |
 | f | 852 | ✓ | ✓ |
+| d | 811 | ✓ | ✓ |
 | ɾ | 798 | ✓ | ✓ |
 | mʷ | 746 | ✓ | ✓ |
-| ᵑg | 716 | ✓ | ✓ |
+| ᵑg | 717 | ✓ | ✓ |
 | ɔ | 680 | ✓ | ✓ |
 | ɸ | 659 | ✓ | ✓ |
-| ʧ | 599 | ✓ | ✓ |
+| ʧ | 593 | ✓ | ✓ |
 | ʊ | 556 | ✓ | ✓ |
-| g | 487 | ✓ | ✓ |
-| aᵐ | 377 | ? | ? |
-| æ | 375 | ✓ | ✓ |
+| g | 485 | ✓ | ✓ |
+| æ | 374 | ✓ | ✓ |
 | ʉ | 342 | ✓ | ✓ |
 | ɡ | 326 | ✓ | ✓ |
 | ʔ | 299 | ✓ | ✓ |
-| ᵐbʷ | 287 | ✓ | ✓ |
+| ᵐbʷ | 288 | ✓ | ✓ |
 | ⁿdʳ | 283 | ? | ? |
-| t͡s | 250 | ✓ | ✓ |
-| aⁿ | 249 | ? | ? |
+| t͡s | 242 | ✓ | ✓ |
 | ð | 228 | ✓ | ✓ |
-| dʳ | 199 | ? | ? |
+| ᵐʙ | 203 | ✓ | ✓ |
+| aⁿ | 198 | ? | ? |
 | uᵐ | 192 | ? | ? |
+| ᵑɡ | 188 | ✓ | ✓ |
 | j | 187 | ✓ | ✓ |
-| ᵑɡ | 185 | ✓ | ✓ |
-| bʷ | 168 | ✓ | ✓ |
-| ᵐʙ | 168 | ✓ | ✓ |
 | vʷ | 162 | ✓ | ✓ |
 | z | 162 | ✓ | ✓ |
 | aᵑ | 160 | ? | ? |
 | n̼ | 137 | ✓ | ✓ |
-| iⁿ | 125 | ? | ? |
-| t͡ʃ | 125 | ✓ | ✓ |
-| ʙ | 123 | ✓ | ✓ |
+| ʃ | 130 | ✓ | ✓ |
+| dʳ | 123 | ? | ? |
+| t͡ʃ | 118 | ✓ | ✓ |
 | ɛᵐ | 116 | ? | ? |
-| iᵐ | 114 | ? | ? |
-| ŋʷ | 114 | ✓ | ✓ |
 | oᵐ | 110 | ? | ? |
 | kʷ | 99 | ✓ | ✓ |
-| ʃ | 99 | ✓ | ✓ |
-| ᵑɡʷ | 91 | ✓ | ✓ |
-| pʷ | 83 | ✓ | ✓ |
-| ⁿʒ | 82 | ✓ | ✓ |
-| rs | 81 | ? | ? |
-| ɪᵐ | 81 | ? | ? |
+| ʙ | 88 | ✓ | ✓ |
+| ᵑɡʷ | 88 | ✓ | ✓ |
+| bʷ | 87 | ✓ | ✓ |
+| pʷ | 87 | ✓ | ✓ |
+| <<ʷ>> | 84 | ? | ? |
 | ɛⁿ | 79 | ? | ? |
+| ʷ | 79 | ? | ? |
+| ⁿʒ | 77 | ✓ | ✓ |
+| <<ʳ>> | 76 | ? | ? |
 | vs | 71 | ? | ? |
 | iᵑ | 70 | ? | ? |
 | ɪⁿ | 70 | ? | ? |
 | βʷ | 69 | ✓ | ✓ |
 | k̚ | 67 | ✓ | ✓ |
+| ʒ | 67 | ✓ | ✓ |
 | fʷ | 64 | ✓ | ✓ |
 | ms | 64 | ✓ | ✓ |
-| ʒ | 62 | ✓ | ✓ |
 | ɸʷ | 61 | ✓ | ✓ |
 | xʷ | 60 | ✓ | ✓ |
 | ns | 58 | ✓ | ✓ |
@@ -97,13 +94,12 @@
 | <?> | 52 | ? | ? |
 | aː | 52 | ✓ | ✓ |
 | mw | 51 | ? | ? |
-| bw | 48 | ? | ? |
 | ð̼ | 48 | ✓ | ✓ |
 | œ | 48 | ✓ | ✓ |
+| bw | 47 | ? | ? |
 | kʰ | 47 | ✓ | ✓ |
 | lᵐ | 47 | ✓ | ✓ |
 | ŋs | 44 | ✓ | ✓ |
-| š | 43 | ? | ? |
 | ã | 41 | ✓ | ✓ |
 | ɬ | 41 | ✓ | ✓ |
 | ɲ | 41 | ✓ | ✓ |
@@ -112,13 +108,15 @@
 | oᵑ | 38 | ? | ? |
 | tʰ | 38 | ✓ | ✓ |
 | ⁿz | 37 | ✓ | ✓ |
-| ⁿt | 35 | ✓ | ✓ |
+| ⁿt | 36 | ✓ | ✓ |
+| ŋʷ | 35 | ✓ | ✓ |
 | lw | 34 | ? | ? |
 | uᵑ | 34 | ? | ? |
 | u̥ | 33 | ✓ | ✓ |
-| rᵐ | 32 | ✓ | ✓ |
 | aˑ | 31 | ✓ | ✓ |
 | ɣs | 31 | ? | ? |
+| ⁿt͡s | 30 | ✓ | ✓ |
+| ⁿʧ | 29 | ✓ | ✓ |
 | ĩ | 28 | ✓ | ✓ |
 | ls | 26 | ? | ? |
 | tᵐ | 24 | ✓ | ✓ |
@@ -127,11 +125,10 @@
 | nh | 23 | ✓ | ✓ |
 | t˺ | 23 | ? | ? |
 | ɐ | 23 | ✓ | ✓ |
-| ⁿʧ | 23 | ✓ | ✓ |
 | mᵇ | 22 | ? | ? |
 | χ | 22 | ✓ | ✓ |
-| ⁿt͡s | 22 | ✓ | ✓ |
 | eᵐ | 21 | ? | ? |
+| iⁿ | 21 | ? | ? |
 | nw | 21 | ? | ? |
 | oo | 21 | ✓ | ✓ |
 | sᵐ | 21 | ✓ | ✓ |
@@ -140,8 +137,8 @@
 | sw | 20 | ? | ? |
 | ɘ | 20 | ✓ | ✓ |
 | əⁿ | 20 | ? | ? |
-| ᵏpʷ | 20 | ? | ? |
 | uʰ | 19 | ? | ? |
+| ⁿt͡ʃ | 19 | ✓ | ✓ |
 | t̚ | 18 | ✓ | ✓ |
 | õ | 18 | ✓ | ✓ |
 | i̥ | 17 | ✓ | ✓ |
@@ -149,6 +146,7 @@
 | eᵑ | 16 | ? | ? |
 | p̼ | 16 | ? | ? |
 | u: | 16 | ✓ | ✓ |
+| ᵏpʷ | 16 | ? | ? |
 | ɛʰ | 15 | ? | ? |
 | iʰ | 14 | ? | ? |
 | rw | 14 | ? | ? |
@@ -160,8 +158,10 @@
 | u͂ | 12 | ? | ? |
 | vh | 12 | ? | ? |
 | ĭ | 12 | ✓ | ✓ |
+| š | 12 | ? | ? |
 | ɪᵑ | 12 | ? | ? |
-| ⁿt͡ʃ | 12 | ✓ | ✓ |
+| <<ⁿ>> | 11 | ? | ? |
+| iᵐ | 11 | ? | ? |
 | o̥ | 11 | ✓ | ✓ |
 | ɛᵑ | 11 | ? | ? |
 | ps | 10 | ✓ | ✓ |
@@ -205,6 +205,7 @@
 | ŋw | 6 | ? | ? |
 | ɳ | 6 | ✓ | ✓ |
 | ᵑk | 6 | ✓ | ✓ |
+| <<͡>> | 5 | ? | ? |
 | nʃ | 5 | ✓ | ✓ |
 | oʷ | 5 | ? | ? |
 | p̚ | 5 | ✓ | ✓ |
@@ -217,6 +218,7 @@
 | ŭ | 5 | ✓ | ✓ |
 | ʊᵐ | 5 | ? | ? |
 | ʊⁿ | 5 | ? | ? |
+| <<ᵏ>> | 4 | ? | ? |
 | bⁿ | 4 | ✓ | ✓ |
 | fs | 4 | ? | ? |
 | iː | 4 | ✓ | ✓ |
@@ -235,11 +237,9 @@
 | ʁ | 4 | ✓ | ✓ |
 | ʉⁿ | 4 | ? | ? |
 | ʊ̥ | 4 | ✓ | ✓ |
-| ᵑgʷ | 4 | ✓ | ✓ |
 | ⁿt͡ɕ | 4 | ✓ | ✓ |
 | a͂ | 3 | ? | ? |
 | a͡t | 3 | ? | ? |
-| a͡u | 3 | ✓ | ✓ |
 | bs | 3 | ✓ | ✓ |
 | gs | 3 | ✓ | ✓ |
 | gᵐ | 3 | ✓ | ✓ |
@@ -272,16 +272,16 @@
 | ʌ | 3 | ✓ | ✓ |
 | θ | 3 | ✓ | ✓ |
 | ᵐbs | 3 | ✓ | ✓ |
+| ᵐm | 3 | ✓ | ✓ |
 | ᵐβ | 3 | ✓ | ✓ |
+| ᵑgʷ | 3 | ✓ | ✓ |
 | ⁿg | 3 | ✓ | ✓ |
-| <<ʲ>> | 2 | ? | ? |
-| <<ʷ>> | 2 | ? | ? |
-| <<͡>> | 2 | ? | ? |
 | aˀ | 2 | ✓ | ✓ |
 | ee | 2 | ✓ | ✓ |
 | eʲ | 2 | ? | ? |
 | eˑ | 2 | ✓ | ✓ |
 | fʲ | 2 | ✓ | ✓ |
+| gʷ | 2 | ✓ | ✓ |
 | hs | 2 | ? | ? |
 | hʷ | 2 | ✓ | ✓ |
 | hⁿ | 2 | ✓ | ✓ |
@@ -308,16 +308,13 @@
 | ɣ̞ | 2 | ✓ | ✓ |
 | ɤ | 2 | ✓ | ✓ |
 | β̆ | 2 | ? | ? |
-| ᵐm | 2 | ✓ | ✓ |
+| ᵐp | 2 | ✓ | ✓ |
 | ᵐv | 2 | ✓ | ✓ |
 | ᵐʙs | 2 | ? | ? |
-| ⁿb | 2 | ✓ | ✓ |
-| ⁿp | 2 | ✓ | ✓ |
 | ⁿɡ | 2 | ✓ | ✓ |
-| <<:>> | 1 | ? | ? |
 | <<ʰ>> | 1 | ? | ? |
-| <<̻>> | 1 | ? | ? |
-| <???> | 1 | ? | ? |
+| <<ʲ>> | 1 | ? | ? |
+| <<ᵐ>> | 1 | ? | ? |
 | _ᵑ | 1 | ? | ? |
 | a͡m | 1 | ? | ? |
 | a͡ŋ | 1 | ? | ? |
@@ -347,6 +344,7 @@
 | mᵇs | 1 | ? | ? |
 | mᵗs | 1 | ? | ? |
 | mᵚ | 1 | ? | ? |
+| m⁽ʷ⁾ | 1 | ? | ? |
 | nʰ | 1 | ✓ | ✓ |
 | nʷ | 1 | ✓ | ✓ |
 | n̪ | 1 | ✓ | ✓ |
@@ -357,6 +355,7 @@
 | o͡i | 1 | ✓ | ✓ |
 | pp | 1 | ✓ | ✓ |
 | p̚w | 1 | ? | ? |
+| rs | 1 | ? | ? |
 | rʒ | 1 | ? | ? |
 | rʲ | 1 | ✓ | ✓ |
 | rː | 1 | ✓ | ✓ |
@@ -367,6 +366,7 @@
 | tʃ | 1 | ✓ | ✓ |
 | t̚w | 1 | ? | ? |
 | t̪ | 1 | ✓ | ✓ |
+| t̻ | 1 | ✓ | ✓ |
 | uˑ | 1 | ✓ | ✓ |
 | uᵏ | 1 | ? | ? |
 | vᵐ | 1 | ✓ | ✓ |
@@ -375,6 +375,7 @@
 | xʃ | 1 | ? | ? |
 | xⁱ | 1 | ? | ? |
 | ã: | 1 | ✓ | ✓ |
+| æ: | 1 | ✓ | ✓ |
 | æˑ | 1 | ✓ | ✓ |
 | æ̃ | 1 | ✓ | ✓ |
 | ŋʃ | 1 | ✓ | ✓ |
@@ -385,6 +386,7 @@
 | ɔᵐ | 1 | ? | ? |
 | əː | 1 | ✓ | ✓ |
 | ɛɛ | 1 | ✓ | ✓ |
+| ɛʲ | 1 | ? | ? |
 | ɛˑ | 1 | ✓ | ✓ |
 | ɛ͂ | 1 | ? | ? |
 | ɣw | 1 | ? | ? |
@@ -397,6 +399,7 @@
 | ɪ̆ⁿ | 1 | ? | ? |
 | ɪ̥ | 1 | ✓ | ✓ |
 | ɪ̥ⁿ | 1 | ? | ? |
+| ɪᵐ | 1 | ? | ? |
 | ɫ | 1 | ✓ | ✓ |
 | ɰs | 1 | ? | ? |
 | ɵ͡l | 1 | ? | ? |
@@ -412,11 +415,8 @@
 | βw | 1 | ? | ? |
 | βʲ | 1 | ✓ | ✓ |
 | χᵐ | 1 | ✓ | ✓ |
-| ᵐbw | 1 | ? | ? |
 | ᵐbʳ | 1 | ? | ? |
-| ᵐbᵐ | 1 | ✓ | ✓ |
 | ᵐbⁿ | 1 | ✓ | ✓ |
-| ᵐp | 1 | ✓ | ✓ |
 | ᵑa | 1 | ? | ? |
 | ᵑgs | 1 | ✓ | ✓ |
 | ᶰd | 1 | ✓ | ✓ |
@@ -433,7 +433,7 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 
@@ -443,106 +443,106 @@
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:------------------------------|:--------------|:--------------|:----------------|:-------------------------------------------|
-| Bislama1-106_wood-1 | Bislama1 | 106_wood | wudᵗ | w u <s> dᵗ </s> |
-| Bislama1-10_twenty-1 | Bislama1 | 10_twenty | twɛnti | <s> tw </s> ɛ n t i |
-| Bislama1-111_rope-1 | Bislama1 | 111_rope | rop˺ | r o <s> p˺ </s> |
-| Bislama1-112_roadpath-1 | Bislama1 | 112_roadpath | rodᵗ | r o <s> dᵗ </s> |
-| Bislama1-131_far-1 | Bislama1 | 131_far | lɔŋwe | l ɔ <s> ŋw </s> e |
-| Bislama1-135_wet-1 | Bislama1 | 135_wet | wɛtwɛt | w ɛ <s> tw </s> ɛ t |
-| Bislama1-166_sew-1 | Bislama1 | 166_sew | somap˺ | s o m a <s> p˺ </s> |
-| Bislama1-16_left-1 | Bislama1 | 16_left | lɛfᵗ | l ɛ <s> fᵗ </s> |
-| Bislama1-35_that-1 | Bislama1 | 35_that | ɛmia lɔŋwe | ɛ m i a + l ɔ <s> ŋw </s> e |
-| Bislama1-39_head-1 | Bislama1 | 39_head | hɛdᵗ | h ɛ <s> dᵗ </s> |
-| Bislama1-47_hand-1 | Bislama1 | 47_hand | hanᵗ | h a <s> nᵗ </s> |
-| Bislama1-52_blood-1 | Bislama1 | 52_blood | bladᵗ | b l a <s> dᵗ </s> |
-| Bislama1-87_sea-1 | Bislama1 | 87_sea | solwɔta | s o <s> lw </s> ɔ t a |
-| Bislama2-106_wood-1 | Bislama2 | 106_wood | wudᵗ | w u <s> dᵗ </s> |
-| Bislama2-10_twenty-1 | Bislama2 | 10_twenty | twɛnti | <s> tw </s> ɛ n t i |
-| Bislama2-131_far-1 | Bislama2 | 131_far | lɔŋwɛ | l ɔ <s> ŋw </s> ɛ |
-| Bislama2-135_wet-1 | Bislama2 | 135_wet | wɛtwɛt | w ɛ <s> tw </s> ɛ t |
-| Bislama2-158_kill-1 | Bislama2 | 158_kill | kɪlɪmiⁿdɛt | k ɪ l ɪ m <s> iⁿ </s> d ɛ t |
-| Bislama2-166_sew-1 | Bislama2 | 166_sew | somap˺ | s o m a <s> p˺ </s> |
-| Bislama2-179_squeeze-1 | Bislama2 | 179_squeeze | swisɪm | <s> sw </s> i s ɪ m |
-| Bislama2-33_how-1 | Bislama2 | 33_how | hao olsɛm wanɛm | h a o + o <s> ls </s> ɛ m + w a n ɛ m |
-| Bislama2-35_that-1 | Bislama2 | 35_that | hɛmia lɔŋwe | h ɛ m i a + l ɔ <s> ŋw </s> e |
-| Bislama2-39_head-1 | Bislama2 | 39_head | hɛdᵗ | h ɛ <s> dᵗ </s> |
-| Bislama2-50_back-1 | Bislama2 | 50_back | bɔksaidᵗ | b ɔ ks a i <s> dᵗ </s> |
-| Bislama2-52_blood-1 | Bislama2 | 52_blood | bladᵗ | b l a <s> dᵗ </s> |
-| Bislama2-87_sea-1 | Bislama2 | 87_sea | solwɔta | s o <s> lw </s> ɔ t a |
-| Nhavailombaha-116_green-1 | Nhavailombaha | 116_green | ᵑɡʷaruᵑɡʷaroɣa | ᵑɡʷ a r <s> uᵑ </s> ɡʷ a r o ɣ a |
-| Nhavailombaha-116_green-2 | Nhavailombaha | 116_green | ᵑɡʷaruᵐbʷaroɣa | ᵑɡʷ a r <s> uᵐ </s> bʷ a r o ɣ a |
-| Nhavailombaha-120_sharp-1 | Nhavailombaha | 120_sharp | maᵑɡeᵑɡeni | m <s> aᵑ </s> ɡ <s> eᵑ </s> ɡ e n i |
-| Nhavailombaha-128_dirty-1 | Nhavailombaha | 128_dirty | soᵑɡora | s <s> oᵑ </s> ɡ o r a |
-| Nhavailombaha-129_rotten-1 | Nhavailombaha | 129_rotten | maⁿda | m <s> aⁿ </s> d a |
-| Nhavailombaha-12_onehundred-1 | Nhavailombaha | 12_onehundred | ɸuⁿdolue | ɸ <s> uⁿ </s> d o l u e |
-| Nhavailombaha-132_near-1 | Nhavailombaha | 132_near | kaᵑɡarani | k <s> aᵑ </s> ɡ a r a n i |
-| Nhavailombaha-133_cold-1 | Nhavailombaha | 133_cold | xamʷaⁿdiⁿdi | x a mʷ <s> aⁿ </s> d <s> iⁿ </s> d i |
-| Nhavailombaha-135_wet-1 | Nhavailombaha | 135_wet | ᵐbiᵐbilu | ᵐb <s> iᵐ </s> b i l u |
-| Nhavailombaha-136_new-1 | Nhavailombaha | 136_new | xaraᵑɡʷa | x a r <s> aᵑ </s> ɡʷ a |
-| Nhavailombaha-136_new-2 | Nhavailombaha | 136_new | karaᵑɡʷa | k a r <s> aᵑ </s> ɡʷ a |
-| Nhavailombaha-140_stand-1 | Nhavailombaha | 140_stand | laᵐbe | l <s> aᵐ </s> b e |
-| Nhavailombaha-144_turn-1 | Nhavailombaha | 144_turn | tuⁿdori | t <s> uⁿ </s> d o r i |
-| Nhavailombaha-153_spit-1 | Nhavailombaha | 153_spit | loⁿdo | l <s> oⁿ </s> d o |
-| Nhavailombaha-154_dream-1 | Nhavailombaha | 154_dream | ᵐbʷoᵐbore | ᵐbʷ <s> oᵐ </s> b o r e |
-| Nhavailombaha-166_sew-1 | Nhavailombaha | 166_sew | turuᵐbiᵐbi | t u r <s> uᵐ </s> b <s> iᵐ </s> b i |
-| Nhavailombaha-173_hold-1 | Nhavailombaha | 173_hold | haᵑɡo | h <s> aᵑ </s> ɡ o |
-| Nhavailombaha-176_breathe-1 | Nhavailombaha | 176_breathe | reβe maᵐbuhi | r e β e + m <s> aᵐ </s> b u h i |
-| Nhavailombaha-189_work-1 | Nhavailombaha | 189_work | taᵐbana | t <s> aᵐ </s> b a n a |
-| Nhavailombaha-21_weallincl-1 | Nhavailombaha | 21_weallincl | kiⁿde | k <s> iⁿ </s> d e |
-| Nhavailombaha-22_thou-1 | Nhavailombaha | 22_thou | niᵑɡo | n <s> iᵑ </s> ɡ o |
-| Nhavailombaha-47_hand-1 | Nhavailombaha | 47_hand | limaⁿda | l i m <s> aⁿ </s> d a |
-| Nhavailombaha-48_shoulder-1 | Nhavailombaha | 48_shoulder | siᵑɡʷe | s <s> iᵑ </s> ɡʷ e |
-| Nhavailombaha-51_leg-1 | Nhavailombaha | 51_leg | ᵑɡaruᵑɡu | ᵑɡ a r <s> uᵑ </s> ɡ u |
-| Nhavailombaha-55_belly-1 | Nhavailombaha | 55_belly | taᵑɡʷaŋi | t <s> aᵑ </s> ɡʷ a ŋ i |
-| Nhavailombaha-5_six-1 | Nhavailombaha | 5_six | kaiʲono | k a <s> iʲ </s> o n o |
-| Nhavailombaha-6_seven-1 | Nhavailombaha | 6_seven | kaiᵐbitu | k a <s> iᵐ </s> b i t u |
-| Nhavailombaha-6_seven-2 | Nhavailombaha | 6_seven | xaiᵐbitu | x a <s> iᵐ </s> b i t u |
-| Nhavailombaha-76_mother-1 | Nhavailombaha | 76_mother | ratahiᵑɡu | r a t a h <s> iᵑ </s> ɡ u |
-| Nhavailombaha-77_father-1 | Nhavailombaha | 77_father | tamaᵑɡu | t a m <s> aᵑ </s> ɡ u |
-| Nhavailombaha-78_husband-1 | Nhavailombaha | 78_husband | tamainetuᵑɡu | t a m a i n e t <s> uᵑ </s> ɡ u |
-| Nhavailombaha-79_wife-1 | Nhavailombaha | 79_wife | xaxoraᵑɡu | x a x o r <s> aᵑ </s> ɡ u |
-| Nhavailombaha-84_sky-1 | Nhavailombaha | 84_sky | ⁿdoⁿdo maeto | ⁿd <s> oⁿ </s> d o + m a e t o |
-| Nleonda-107_grass-1 | Nleonda | 107_grass | laᵐbute | l <s> aᵐ </s> b u t e |
-| Nleonda-116_green-1 | Nleonda | 116_green | kʷaruᵑɡʷaroɣa | kʷ a r <s> uᵑ </s> ɡʷ a r o ɣ a |
-| Nleonda-128_dirty-1 | Nleonda | 128_dirty | soᵑɡo | s <s> oᵑ </s> ɡ o |
-| Nleonda-129_rotten-1 | Nleonda | 129_rotten | mʷaᵐboᵐbo | mʷ <s> aᵐ </s> b <s> oᵐ </s> b o |
-| Nleonda-12_onehundred-1 | Nleonda | 12_onehundred | ɸuⁿdolue | ɸ <s> uⁿ </s> d o l u e |
-| Nleonda-132_near-1 | Nleonda | 132_near | ᵑɡaᵑɡarai | ᵑɡ <s> aᵑ </s> ɡ a r a i |
-| Nleonda-133_cold-1 | Nleonda | 133_cold | xawaⁿdiⁿdi | x a w <s> aⁿ </s> d <s> iⁿ </s> d i |
-| Nleonda-135_wet-1 | Nleonda | 135_wet | ᵐbiᵐbilu | ᵐb <s> iᵐ </s> b i l u |
-| Nleonda-136_new-1 | Nleonda | 136_new | xaraᵑɡʷa | x a r <s> aᵑ </s> ɡʷ a |
-| Nleonda-140_stand-1 | Nleonda | 140_stand | laᵐbe | l <s> aᵐ </s> b e |
-| Nleonda-144_turn-1 | Nleonda | 144_turn | taleleⁿdori | t a l e l <s> eⁿ </s> d o r i |
-| Nleonda-153_spit-1 | Nleonda | 153_spit | loⁿdo | l <s> oⁿ </s> d o |
-| Nleonda-154_dream-1 | Nleonda | 154_dream | ᵐboᵐbore | ᵐb <s> oᵐ </s> b o r e |
-| Nleonda-172_hunt-2 | Nleonda | 172_hunt | tureʲɣi | t u r <s> eʲ </s> ɣ i |
-| Nleonda-173_hold-1 | Nleonda | 173_hold | haᵑɡo | h <s> aᵑ </s> ɡ o |
-| Nleonda-176_breathe-1 | Nleonda | 176_breathe | maᵐbu | m <s> aᵐ </s> b u |
-| Nleonda-179_squeeze-1 | Nleonda | 179_squeeze | mʷaᵑɡʷiriᵑɡʷiri | mʷ <s> aᵑ </s> ɡʷ i r <s> iᵑ </s> ɡʷ i r i |
-| Nleonda-182_scratch-1 | Nleonda | 182_scratch | taᵑɡari | t <s> aᵑ </s> ɡ a r i |
-| Nleonda-19_webothincl-1 | Nleonda | 19_webothincl | hiⁿderu | h <s> iⁿ </s> d e r u |
-| Nleonda-21_weallincl-1 | Nleonda | 21_weallincl | hiⁿde | h <s> iⁿ </s> d e |
-| Nleonda-22_thou-1 | Nleonda | 22_thou | niᵑɡo | n <s> iᵑ </s> ɡ o |
-| Nleonda-48_shoulder-1 | Nleonda | 48_shoulder | siᵑɡʷe | s <s> iᵑ </s> ɡʷ e |
-| Nleonda-55_belly-1 | Nleonda | 55_belly | taᵑɡʷai | t <s> aᵑ </s> ɡʷ a i |
-| Nleonda-5_six-1 | Nleonda | 5_six | keiʲõ | k e <s> iʲ </s> õ |
-| Nleonda-65_rat-1 | Nleonda | 65_rat | laᵐboa | l <s> aᵐ </s> b o a |
-| Nleonda-6_seven-1 | Nleonda | 6_seven | xeiᵐbitu | x e <s> iᵐ </s> b i t u |
-| Nleonda-76_mother-1 | Nleonda | 76_mother | xarueᵑɡu | x a r u <s> eᵑ </s> ɡ u |
-| Nleonda-77_father-1 | Nleonda | 77_father | tamaᵑɡu | t a m <s> aᵑ </s> ɡ u |
-| Nleonda-78_husband-1 | Nleonda | 78_husband | taminetuᵑɡu | t a m i n e t <s> uᵑ </s> ɡ u |
-| Nleonda-79_wife-1 | Nleonda | 79_wife | kexoraᵑɡu | k e x o r <s> aᵑ </s> ɡ u |
-| Nleonda-79_wife-2 | Nleonda | 79_wife | xexoraᵑɡu | x e x o r <s> aᵑ </s> ɡ u |
-| Nleonda-84_sky-1 | Nleonda | 84_sky | ⁿdoⁿdo | ⁿd <s> oⁿ </s> d o |
-| Nleonda-96_cloud-1 | Nleonda | 96_cloud | ⁿdoⁿdomaβute | ⁿd <s> oⁿ </s> d o m a β u t e |
-| Nleovandue-12_onehundred-1 | Nleovandue | 12_onehundred | ɸuⁿdolue | ɸ <s> uⁿ </s> d o l u e |
-| Nleovandue-19_webothincl-1 | Nleovandue | 19_webothincl | kiⁿderu | k <s> iⁿ </s> d e r u |
-| Nleovandue-21_weallincl-1 | Nleovandue | 21_weallincl | kiⁿde | k <s> iⁿ </s> d e |
-| Nleovandue-22_thou-1 | Nleovandue | 22_thou | niᵑɡo | n <s> iᵑ </s> ɡ o |
-| Nleovandue-24_youall-1 | Nleovandue | 24_youall | kimiuᵐbulu | k i m i <s> uᵐ </s> b u l u |
-| Nleovandue-27_theyboth-1 | Nleovandue | 27_theyboth | ŋereᵐbulu | ŋ e r <s> eᵐ </s> b u l u |
-| Nleovandue-48_shoulder-1 | Nleovandue | 48_shoulder | siᵑɡʷe | s <s> iᵑ </s> ɡʷ e |
-| Nleovandue-51_leg-1 | Nleovandue | 51_leg | ᵑɡaruᵑɡu | ᵑɡ a r <s> uᵑ </s> ɡ u |
+| Bislama1-107_wood-1 | Bislama1 | 107_wood | wudᵗ | w u <s> dᵗ </s> |
+| Bislama1-112_rope-1 | Bislama1 | 112_rope | rop˺ | r o <s> p˺ </s> |
+| Bislama1-113_roadpath-1 | Bislama1 | 113_roadpath | rodᵗ | r o <s> dᵗ </s> |
+| Bislama1-11_twenty-1 | Bislama1 | 11_twenty | twɛnti | <s> tw </s> ɛ n t i |
+| Bislama1-132_far-1 | Bislama1 | 132_far | lɔŋwe | l ɔ <s> ŋw </s> e |
+| Bislama1-136_wet-1 | Bislama1 | 136_wet | wɛtwɛt | w ɛ <s> tw </s> ɛ t |
+| Bislama1-167_sew-1 | Bislama1 | 167_sew | somap˺ | s o m a <s> p˺ </s> |
+| Bislama1-17_left-1 | Bislama1 | 17_left | lɛfᵗ | l ɛ <s> fᵗ </s> |
+| Bislama1-36_that-1 | Bislama1 | 36_that | ɛmia lɔŋwe | ɛ m i a + l ɔ <s> ŋw </s> e |
+| Bislama1-40_head-1 | Bislama1 | 40_head | hɛdᵗ | h ɛ <s> dᵗ </s> |
+| Bislama1-48_hand-1 | Bislama1 | 48_hand | hanᵗ | h a <s> nᵗ </s> |
+| Bislama1-53_blood-1 | Bislama1 | 53_blood | bladᵗ | b l a <s> dᵗ </s> |
+| Bislama1-88_sea-1 | Bislama1 | 88_sea | solwɔta | s o <s> lw </s> ɔ t a |
+| Bislama2-107_wood-1 | Bislama2 | 107_wood | wudᵗ | w u <s> dᵗ </s> |
+| Bislama2-11_twenty-1 | Bislama2 | 11_twenty | twɛnti | <s> tw </s> ɛ n t i |
+| Bislama2-132_far-1 | Bislama2 | 132_far | lɔŋwɛ | l ɔ <s> ŋw </s> ɛ |
+| Bislama2-136_wet-1 | Bislama2 | 136_wet | wɛtwɛt | w ɛ <s> tw </s> ɛ t |
+| Bislama2-167_sew-1 | Bislama2 | 167_sew | somap˺ | s o m a <s> p˺ </s> |
+| Bislama2-180_squeeze-1 | Bislama2 | 180_squeeze | swisɪm | <s> sw </s> i s ɪ m |
+| Bislama2-34_how-1 | Bislama2 | 34_how | hao olsɛm wanɛm | h a o + o <s> ls </s> ɛ m + w a n ɛ m |
+| Bislama2-36_that-1 | Bislama2 | 36_that | hɛmia lɔŋwe | h ɛ m i a + l ɔ <s> ŋw </s> e |
+| Bislama2-40_head-1 | Bislama2 | 40_head | hɛdᵗ | h ɛ <s> dᵗ </s> |
+| Bislama2-51_back-1 | Bislama2 | 51_back | bɔksaidᵗ | b ɔ ks a i <s> dᵗ </s> |
+| Bislama2-53_blood-1 | Bislama2 | 53_blood | bladᵗ | b l a <s> dᵗ </s> |
+| Bislama2-88_sea-1 | Bislama2 | 88_sea | solwɔta | s o <s> lw </s> ɔ t a |
+| Nhavailombaha-102_fruit-1 | Nhavailombaha | 102_fruit | ŋʷasi | ŋ <s> ʷ </s> a s i |
+| Nhavailombaha-117_green-1 | Nhavailombaha | 117_green | ᵑɡʷaruᵑɡʷaroɣa | ᵑɡʷ a r <s> uᵑ </s> ɡʷ a r o ɣ a |
+| Nhavailombaha-117_green-2 | Nhavailombaha | 117_green | ᵑɡʷaruᵐbʷaroɣa | ᵑɡʷ a r <s> uᵐ </s> bʷ a r o ɣ a |
+| Nhavailombaha-121_sharp-1 | Nhavailombaha | 121_sharp | maᵑɡeᵑɡeni | m <s> aᵑ </s> ɡ <s> eᵑ </s> ɡ e n i |
+| Nhavailombaha-129_dirty-1 | Nhavailombaha | 129_dirty | soᵑɡora | s <s> oᵑ </s> ɡ o r a |
+| Nhavailombaha-130_rotten-1 | Nhavailombaha | 130_rotten | maⁿda | m <s> aⁿ </s> d a |
+| Nhavailombaha-133_near-1 | Nhavailombaha | 133_near | kaᵑɡarani | k <s> aᵑ </s> ɡ a r a n i |
+| Nhavailombaha-134_cold-1 | Nhavailombaha | 134_cold | xamʷaⁿdiⁿdi | x a mʷ <s> aⁿ </s> d i ⁿd i |
+| Nhavailombaha-137_new-1 | Nhavailombaha | 137_new | xaraᵑɡʷa | x a r <s> aᵑ </s> ɡʷ a |
+| Nhavailombaha-137_new-2 | Nhavailombaha | 137_new | karaᵑɡʷa | k a r <s> aᵑ </s> ɡʷ a |
+| Nhavailombaha-13_onehundred-1 | Nhavailombaha | 13_onehundred | ɸuⁿdolue | ɸ <s> uⁿ </s> d o l u e |
+| Nhavailombaha-145_turn-1 | Nhavailombaha | 145_turn | tuⁿdori | t <s> uⁿ </s> d o r i |
+| Nhavailombaha-154_spit-1 | Nhavailombaha | 154_spit | loⁿdo | l <s> oⁿ </s> d o |
+| Nhavailombaha-155_dream-1 | Nhavailombaha | 155_dream | ᵐbʷoᵐbore | ᵐbʷ <s> oᵐ </s> b o r e |
+| Nhavailombaha-157_live-1 | Nhavailombaha | 157_live | ŋʷaso | ŋ <s> ʷ </s> a s o |
+| Nhavailombaha-167_sew-1 | Nhavailombaha | 167_sew | turuᵐbiᵐbi | t u r <s> uᵐ </s> b i ᵐb i |
+| Nhavailombaha-174_hold-1 | Nhavailombaha | 174_hold | haᵑɡo | h <s> aᵑ </s> ɡ o |
+| Nhavailombaha-23_thou-1 | Nhavailombaha | 23_thou | niᵑɡo | n <s> iᵑ </s> ɡ o |
+| Nhavailombaha-48_hand-1 | Nhavailombaha | 48_hand | limaⁿda | l i m <s> aⁿ </s> d a |
+| Nhavailombaha-49_shoulder-1 | Nhavailombaha | 49_shoulder | siᵑɡʷe | s <s> iᵑ </s> ɡʷ e |
+| Nhavailombaha-52_leg-1 | Nhavailombaha | 52_leg | ᵑɡaruᵑɡu | ᵑɡ a r <s> uᵑ </s> ɡ u |
+| Nhavailombaha-56_belly-1 | Nhavailombaha | 56_belly | taᵑɡʷaŋi | t <s> aᵑ </s> ɡʷ a ŋ i |
+| Nhavailombaha-63_snake-1 | Nhavailombaha | 63_snake | ŋʷata | ŋ <s> ʷ </s> a t a |
+| Nhavailombaha-6_six-1 | Nhavailombaha | 6_six | kaiʲono | k a <s> iʲ </s> o n o |
+| Nhavailombaha-73_man-1 | Nhavailombaha | 73_man | ŋʷera | ŋ <s> ʷ </s> e r a |
+| Nhavailombaha-77_mother-1 | Nhavailombaha | 77_mother | ratahiᵑɡu | r a t a h <s> iᵑ </s> ɡ u |
+| Nhavailombaha-78_father-1 | Nhavailombaha | 78_father | tamaᵑɡu | t a m <s> aᵑ </s> ɡ u |
+| Nhavailombaha-79_husband-1 | Nhavailombaha | 79_husband | tamainetuᵑɡu | t a m a i n e t <s> uᵑ </s> ɡ u |
+| Nhavailombaha-80_wife-1 | Nhavailombaha | 80_wife | xaxoraᵑɡu | x a x o r <s> aᵑ </s> ɡ u |
+| Nhavailombaha-85_sky-1 | Nhavailombaha | 85_sky | ⁿdoⁿdo maeto | ⁿd <s> oⁿ </s> d o + m a e t o |
+| Nleonda-102_fruit-1 | Nleonda | 102_fruit | ŋʷasiɣi | ŋ <s> ʷ </s> a s i ɣ i |
+| Nleonda-117_green-1 | Nleonda | 117_green | kʷaruᵑɡʷaroɣa | kʷ a r <s> uᵑ </s> ɡʷ a r o ɣ a |
+| Nleonda-129_dirty-1 | Nleonda | 129_dirty | soᵑɡo | s <s> oᵑ </s> ɡ o |
+| Nleonda-130_rotten-1 | Nleonda | 130_rotten | mʷaᵐboᵐbo | mʷ a ᵐb <s> oᵐ </s> b o |
+| Nleonda-133_near-1 | Nleonda | 133_near | ᵑɡaᵑɡarai | ᵑɡ <s> aᵑ </s> ɡ a r a i |
+| Nleonda-134_cold-1 | Nleonda | 134_cold | xawaⁿdiⁿdi | x a w <s> aⁿ </s> d i ⁿd i |
+| Nleonda-137_new-1 | Nleonda | 137_new | xaraᵑɡʷa | x a r <s> aᵑ </s> ɡʷ a |
+| Nleonda-13_onehundred-1 | Nleonda | 13_onehundred | ɸuⁿdolue | ɸ <s> uⁿ </s> d o l u e |
+| Nleonda-145_turn-1 | Nleonda | 145_turn | taleleⁿdori | t a l e l <s> eⁿ </s> d o r i |
+| Nleonda-154_spit-1 | Nleonda | 154_spit | loⁿdo | l <s> oⁿ </s> d o |
+| Nleonda-155_dream-1 | Nleonda | 155_dream | ᵐboᵐbore | ᵐb <s> oᵐ </s> b o r e |
+| Nleonda-157_live-1 | Nleonda | 157_live | ŋʷaso | ŋ <s> ʷ </s> a s o |
+| Nleonda-173_hunt-2 | Nleonda | 173_hunt | tureʲɣi | t u r <s> eʲ </s> ɣ i |
+| Nleonda-174_hold-1 | Nleonda | 174_hold | haᵑɡo | h <s> aᵑ </s> ɡ o |
+| Nleonda-180_squeeze-1 | Nleonda | 180_squeeze | mʷaᵑɡʷiriᵑɡʷiri | mʷ <s> aᵑ </s> ɡʷ i r <s> iᵑ </s> ɡʷ i r i |
+| Nleonda-183_scratch-1 | Nleonda | 183_scratch | taᵑɡari | t <s> aᵑ </s> ɡ a r i |
+| Nleonda-23_thou-1 | Nleonda | 23_thou | niᵑɡo | n <s> iᵑ </s> ɡ o |
+| Nleonda-49_shoulder-1 | Nleonda | 49_shoulder | siᵑɡʷe | s <s> iᵑ </s> ɡʷ e |
+| Nleonda-50_neck-1 | Nleonda | 50_neck | ŋʷaɣoro | ŋ <s> ʷ </s> a ɣ o r o |
+| Nleonda-56_belly-1 | Nleonda | 56_belly | taᵑɡʷai | t <s> aᵑ </s> ɡʷ a i |
+| Nleonda-63_snake-1 | Nleonda | 63_snake | ŋʷata | ŋ <s> ʷ </s> a t a |
+| Nleonda-6_six-1 | Nleonda | 6_six | keiʲõ | k e <s> iʲ </s> õ |
+| Nleonda-73_man-1 | Nleonda | 73_man | ŋʷera | ŋ <s> ʷ </s> e r a |
+| Nleonda-77_mother-1 | Nleonda | 77_mother | xarueᵑɡu | x a r u <s> eᵑ </s> ɡ u |
+| Nleonda-78_father-1 | Nleonda | 78_father | tamaᵑɡu | t a m <s> aᵑ </s> ɡ u |
+| Nleonda-79_husband-1 | Nleonda | 79_husband | taminetuᵑɡu | t a m i n e t <s> uᵑ </s> ɡ u |
+| Nleonda-80_wife-1 | Nleonda | 80_wife | kexoraᵑɡu | k e x o r <s> aᵑ </s> ɡ u |
+| Nleonda-80_wife-2 | Nleonda | 80_wife | xexoraᵑɡu | x e x o r <s> aᵑ </s> ɡ u |
+| Nleonda-85_sky-1 | Nleonda | 85_sky | ⁿdoⁿdo | ⁿd <s> oⁿ </s> d o |
+| Nleonda-97_cloud-1 | Nleonda | 97_cloud | ⁿdoⁿdomaβute | ⁿd <s> oⁿ </s> d o m a β u t e |
+| Nleovandue-102_fruit-1 | Nleovandue | 102_fruit | ŋʷasiɣi | ŋ <s> ʷ </s> a s i ɣ i |
+| Nleovandue-13_onehundred-1 | Nleovandue | 13_onehundred | ɸuⁿdolue | ɸ <s> uⁿ </s> d o l u e |
+| Nleovandue-23_thou-1 | Nleovandue | 23_thou | niᵑɡo | n <s> iᵑ </s> ɡ o |
+| Nleovandue-25_youall-1 | Nleovandue | 25_youall | kimiuᵐbulu | k i m i <s> uᵐ </s> b u l u |
+| Nleovandue-28_theyboth-1 | Nleovandue | 28_theyboth | ŋereᵐbulu | ŋ e r <s> eᵐ </s> b u l u |
+| Nleovandue-49_shoulder-1 | Nleovandue | 49_shoulder | siᵑɡʷe | s <s> iᵑ </s> ɡʷ e |
+| Nleovandue-52_leg-1 | Nleovandue | 52_leg | ᵑɡaruᵑɡu | ᵑɡ a r <s> uᵑ </s> ɡ u |
+| Nleovandue-56_belly-1 | Nleovandue | 56_belly | taᵑɡʷaŋi | t <s> aᵑ </s> ɡʷ a ŋ i |
+| Nleovandue-63_snake-1 | Nleovandue | 63_snake | ŋʷata | ŋ <s> ʷ </s> a t a |
+| Nleovandue-73_man-1 | Nleovandue | 73_man | ŋʷera | ŋ <s> ʷ </s> e r a |
+| Nleovandue-77_mother-1 | Nleovandue | 77_mother | rataxiᵑɡu | r a t a x <s> iᵑ </s> ɡ u |
+| Nleovandue-78_father-1 | Nleovandue | 78_father | retamaᵑɡu | r e t a m <s> aᵑ </s> ɡ u |
+| Nleovandue-85_sky-1 | Nleovandue | 85_sky | ⁿdoⁿdo | ⁿd <s> oⁿ </s> d o |
+| Nleovandue-87_lake-2 | Nleovandue | 87_lake | wai loɸaturuwɛʲ | w a i + l o ɸ a t u r u w <s> ɛʲ </s> |
+| Nleovandue-97_cloud-1 | Nleovandue | 97_cloud | ⁿdoⁿdo | ⁿd <s> oⁿ </s> d o |
 
 (100 rows)
 

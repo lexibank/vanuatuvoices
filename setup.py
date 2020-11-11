@@ -7,24 +7,24 @@ with open("metadata.json", encoding="utf-8") as fp:
 
 
 setup(
-    name='cldfbench_sndcmpvanuatu',
+    name='lexibank_vanuatuvoices',
     description=metadata["title"],
     license=metadata.get("license", ""),
     url=metadata.get("url", ""),
-    py_modules=['cldfbench_sndcmpvanuatu'],
+    py_modules=['lexibank_vanuatuvoices'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'cldfbench.dataset': [
-            'sndcmpvanuatu=cldfbench_sndcmpvanuatu:Dataset',
+            'vanuatuvoices=lexibank_vanuatuvoices:Dataset',
         ],
         "cldfbench.commands": [
-            "sndcmpvanuatu=sndcmpvanuatu_subcommands",
+            "vanuatuvoices=vanuatuvoices_subcommands",
         ]
     },
     install_requires=[
-        'cldfbench',
-        'pylexibank>=2.4.0'
+        'pylexibank>=2.8.0',
+        'cldfbench>=1.2.2',
     ],
     extras_require={
         'test': [
