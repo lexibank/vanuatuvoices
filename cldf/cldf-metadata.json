@@ -1,33 +1,33 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Shimelman, Aviva, Paul Heggarty, Giovanni Abete, Laura W\u00e4gerle, Darja D\u00ebrmaku-Appelganz & Mary Walworth. 2019. Sound Comparisons: Malakula. (Available online at https://soundcomparisons.com/Vanuatu, Accessed on 2020-03-11.)",
+    "dc:bibliographicCitation": "Shimelman, Aviva and Heggarty, Paul and Takau, Lana and Walworth, Mary and Ennever, Tom and Rodriguez, Iveth and D\u00ebrmaku-Appelganz, Darja and W\u00e4gerle, Laura and Abete, Giovanni and Fitzpatrick, Tom and Duhamel, Marie-France and Touati, Benjamin and Kami, Kaitip W. and Colleran, Heidi and Gray, Russell. 2019. Word list of Sound-Comparisons' study \u201cVanuatu\u201d. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://soundcomparisons.com/Vanuatu, Accessed on 2020-11-10.)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://soundcomparisons.com/Vanuatu",
     "dc:isVersionOf": null,
-    "dc:license": "CC BY 4.0 \u2013 media files: CC BY-NC-ND 4.0",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Sound-Comparisons study Vanuatu",
-    "dcat:accessURL": "https://github.com/lexibank/sndcmpvanuatu",
+    "dc:title": "Word list of Sound-Comparisons' study \u201cVanuatu\u201d provided by Aviva Shimelman - accessible via https:/soundcomparisons.com/Vanuatu",
+    "dcat:accessURL": "https://github.com/lexibank/vanuatuvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/sndcmpvanuatu",
-            "dc:created": "96c407c"
+            "rdf:about": "https://github.com/lexibank/vanuatuvoices",
+            "dc:created": "4c04f92"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,14 +39,14 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "sndcmpvanuatu",
+    "rdf:ID": "vanuatuvoices",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 30064,
+            "dc:extent": 30188,
             "tableSchema": {
                 "columns": [
                     {
@@ -115,6 +115,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     },
                     {
                         "datatype": "string",
@@ -217,6 +225,10 @@
                     {
                         "datatype": "string",
                         "name": "IndexInSource"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "IsProto"
                     }
                 ],
                 "primaryKey": [
@@ -266,7 +278,7 @@
             "url": "parameters.csv"
         },
         {
-            "dc:extent": 86690,
+            "dc:extent": 87062,
             "tableSchema": {
                 "columns": [
                     {
