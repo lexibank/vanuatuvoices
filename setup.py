@@ -15,7 +15,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={
-        'cldfbench.dataset': [
+        'lexibank.dataset': [
             'vanuatuvoices=lexibank_vanuatuvoices:Dataset',
         ],
         "cldfbench.commands": [
@@ -23,7 +23,7 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=2.8.0',
+        'pylexibank>=2.8.1',
         'cldfbench>=1.2.2',
     ],
     extras_require={
