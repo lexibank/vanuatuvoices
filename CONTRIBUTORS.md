@@ -4,12 +4,12 @@ Name               | GitHub user     | Description                          | Ro
 ---                | ---             | ---                                  | ---
 Aviva Shimelman |  | author, data entry, audio recordings | Author
 Paul Heggarty |  | author | Author
-Tom Enneve |  | author, data entry, audio recordings | Author
+Tom Ennever |  | author, data entry, audio recordings | Author
 Iveth Rodriguez |  | author, data entry, audio recordings, audio post-processing, mark-up | Author
 Tom Fitzpatrick |  | author, data entry, audio recordings, audio post-processing, mark-up | Author
-Marie-France Duhamel |  | author, data entry, audio recordings | Author
+Marie-France Duhamel |  | audio recordings | Author
 Lana Takau |  | author, data entry, audio recordings | Author
-Mary Walworth |  | data entry | Author
+Mary Walworth |  | admin, data entry | Author
 Giovanni Abete |  | data entry | Author
 Benjamin Touati |  | data entry | Author
 Darja Dërmaku-Appelganz |  | audio post-processing, mark-up | Author
