@@ -17,6 +17,4 @@ Laura Wägerle |  | audio post-processing, mark-up | Author
 Kaitip W. Kami |  | admin | Author
 Heidi Colleran |  | admin | Author
 Russell Gray |  | admin | Author
-Darja Dërmaku-Appelganz |  | audio post-processing, mark-up | Author
-Laura Wägerle |  | audio post-processing, mark-up | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other

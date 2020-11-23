@@ -22,4 +22,3 @@ class Dataset(BaseDataset):
     form_placeholder = '►'
 
     concept_class = CustomConcept
-
