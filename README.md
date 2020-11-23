@@ -1,12 +1,6 @@
-# Word list of Sound-Comparisons' study “Vanuatu” provided by Aviva Shimelman - accessible via https:/soundcomparisons.com/Vanuatu
+# Vanuatu Voices
 
-Cite the source dataset as
-
-> Shimelman, Aviva and Heggarty, Paul and Takau, Lana and Walworth, Mary and Ennever, Tom and Rodriguez, Iveth and Dërmaku-Appelganz, Darja and Wägerle, Laura and Abete, Giovanni and Fitzpatrick, Tom and Duhamel, Marie-France and Touati, Benjamin and Kami, Kaitip W. and Colleran, Heidi and Gray, Russell. 2019. Word list of Sound-Comparisons' study “Vanuatu”. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https://soundcomparisons.com/Vanuatu, Accessed on 2020-11-10.)
-
-This dataset is licensed under a CC-BY-4.0 license
-
-Available online at https://soundcomparisons.com/Vanuatu
+This dataset is licensed under a CC-BY-NC-4.0 license
 
 ## Statistics
 
