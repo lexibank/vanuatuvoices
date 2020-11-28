@@ -7,7 +7,7 @@ Paul Heggarty |  | Founded and manages https://soundcomparisons.com where this d
 Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Tom Fitzpatrick |  | Provided the recordings of 6 dialects of the Sa language on Pentecost island | Author
-Marie-France Duhamel |  | Provided the recordings of the Raga and Lokasai languages on Pentecost island | Author
+Marie-France Duhamel |  | Provided the recordings of the Raga and Lolkasai languages on Pentecost island | Author
 Lana Takau |  | Translated the Vanuatu study into Bislama, recorded languages of Malekula and Pentecost Island, edited and transcribed all languages of Pentecost Island and many languages of Malekula Island  | Author
 Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Directed fieldworkers to Maewo, Ambae, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
 Giovanni Abete |  | Provided detailed phonetic transcription for many Malekula languages  | Author
