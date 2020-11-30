@@ -1,174 +1,174 @@
-ID,Name,LongName,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,IndexInSource,IsProto
-Bislama2,Bislama (2),Bislama (2):  more tending to local pronunciations,bisl1239,Bislama,bis,Papunesia,-16.10302,167.4168,Indo-European,48700000007,False
-Bislama1,Bislama (1),Bislama (1):  more tending to English pronunciations,bisl1239,Bislama,bis,Papunesia,-16.10694,167.4208,Indo-European,48700000008,False
-Nleonda,N: Leonda,Ambae:  North:  Leonda:  Ngwetangwele,amba1270,Ambae,omb,,-15.314,167.852877,Austronesian,48731303809,False
-Nhavailombaha,N: Havai: Lombaha,Ambae:  North:  Havai:  Lombaha,lomb1262,Lombaha,omb,Papunesia,-15.31659,167.81886,Austronesian,48731305309,False
-Nleovandue,N: Leõ: Vandue,Ambae:  North:  Leõ:  Vandue,amba1270,Ambae,omb,,-15.31851,167.820332,Austronesian,48731307509,False
-Wwalaha,W: Walaha,Ambae:  West:  Walaha,wala1268,Walaha,nnd,Papunesia,-15.40071,167.701737,Austronesian,48731405509,False
-Evuindondo,E: Vuindondo,Ambae:  East:  Vuindondo,east2443,East Ambae,omb,Papunesia,-15.30571,167.971219,Austronesian,48731603709,False
-Elolovoli,E: Lolovoli,Ambae:  East:  Lolovoli,east2443,East Ambae,omb,Papunesia,-15.36437,167.927911,Austronesian,48731605609,False
-Esanasolokave,E: Sana: Solokave,Ambae:  East:  Sana:  Solokave,east2443,East Ambae,nnd,Papunesia,-15.45831,167.856408,Austronesian,48731608309,False
-Ssakao,S: Sakao,Ambae:  South:  Sakao,amba1270,Ambae,nnd,,-15.42439,167.894062,Austronesian,48731703709,False
-Slolovele,S: Lolovele,Ambae:  South:  Lolovele,amba1270,Ambae,nnd,,-15.44771,167.869802,Austronesian,48731705409,False
-Sbiribiri,S: Biribiri,Ambae:  South:  Biribiri,amba1270,Ambae,nnd,,-15.46989,167.82893,Austronesian,48731707209,False
-Nsungwadianaumumu,N: Sungwadia: Naumumu,Maewo:  North:  Sungwadia:  Naumumu,mari1426,Sunwadia,mrb,Papunesia,-14.93637,168.053014,Austronesian,48732302209,False
-Nsungwadiatasmaor,N: Sungwadia: Tasmaor,Maewo:  North:  Sungwadia/Tasmaor:  Naumumu,mari1426,Sunwadia,mrb,Papunesia,-14.93637,168.053014,Austronesian,48732302309,False
-Nmwerlap,N: Mwerlap,Maewo:  North:  Sungwadia/Mwerlap:  Marino,mari1426,Sunwadia,mrb,Papunesia,-14.96984,168.058964,Austronesian,48732304609,False
-Nsungwadiauta,N: Sungwadia: Uta,Maewo:  North:  Sungwadia/Uta:  Marino,mari1426,Sunwadia,mrb,Papunesia,-14.97184,168.0573,Austronesian,48732305509,False
-Nsungwadianaone,N: Sungwadia: Naone,Maewo:  North:  Sungwadia/Tanurik:  Naone,mari1426,Sunwadia,mrb,Papunesia,-15.01508,168.066583,Austronesian,48732307809,False
-Ctlsungwadagarongnawo,Ctl: Sungwadaga: Rongnawo,Maewo:  Central:  Sungwadaga:  Rongnawo,cent2058,Central Maewo,mwo,Papunesia,-15.10197,168.079925,Austronesian,48732502409,False
-Ctlsungwadangota,Ctl: Sungwada: Ngota,Maewo:  Central:  Sungwada:  Ngota,cent2058,Central Maewo,mwo,Papunesia,-15.10125,168.121197,Austronesian,48732502509,False
-Ctlsungwadagalalaundi,Ctl: Sungwadaga: Lalaundi,Maewo:  Central:  Sungwandaga:  Lalaundi,cent2058,Central Maewo,mwo,Papunesia,-15.11413,168.14195,Austronesian,48732504609,False
-Ctlsungwadogarata,Ctl: Sungwadoga: Rata,Maewo:  Central:  Sungwaloge:  Sungwadola/Rata:  Navenvene,tali1260,Talise (Vanuatu),btr,Papunesia,-15.11413,168.14195,Austronesian,48732504709,False
-Ctlsungwadolagwaranuta,Ctl: Sungwadola: Gwaran Uta,Maewo:  Central:  Sungwaloge:  Sungwadola/Gwaran Uta:  Navenvene,tali1260,Talise (Vanuatu),btr,Papunesia,-15.12506,168.091146,Austronesian,48732505209,False
-Ctletawetnaviso,Ctl-E: Tawet: Naviso,Maewo:  Central:  East:  Sungwaloge/Tawet:  Naviso,tali1260,Talise (Vanuatu),btr,Papunesia,-15.12286,168.144,Austronesian,48732505809,False
-Ctlnalembanarovorovo,Ctl: Nalemba: Narovorovo,Maewo:  Central:  Sungwaloge/Nalemba:  Narovorovo,naro1250,Narovorovo,btr,Papunesia,-15.1826,168.110702,Austronesian,48732508409,False
-Ctltawetnarovorovo,Ctl: Tawet: Narovorovo,Maewo:  Central:  Sungwaloge/Tawet:  Narovorovo,naro1250,Narovorovo,btr,Papunesia,-15.18528,168.109444,Austronesian,48732508509,False
-Ctlnalembanasawa,Ctl: Nalemba: Nasawa,Maewo:  Central:  Sungwaloge/Nalemba:  Nasawa,nasa1241,Nasawa,btr,Papunesia,-15.19677,168.112254,Austronesian,48732508609,False
-Sxalangibaetora,S: Xalangi: Baetora,Maewo:  South:  Xalangi:  Baetora,maew1234,Maewo,btr,,-15.25972,168.116944,Austronesian,48732702209,False
-Sragaavavanvae,S: Raga: Avavanvae,Maewo:  South:  Raga:  Avavanvae,maew1234,Maewo,btr,,-15.34347,168.127388,Austronesian,48732705309,False
-Ssungagageavavanvae,S: Sungagage: Avavanvae,Maewo:  South:  Sungagage:  Avavanvae,maew1234,Maewo,btr,,-15.34347,168.127388,Austronesian,48732705409,False
-Ssungagageasanvari,S: Sungagage: Asanvari,Maewo:  South:  Sungagage:  Asanvari,maew1234,Maewo,btr,,-15.37944,168.128889,Austronesian,48732707509,False
-Ssungagageavanbatai,S: Sungagage: Avanbatai,Maewo:  South:  Sungagage:  Avanbatai,maew1234,Maewo,btr,,-15.38639,168.146667,Austronesian,48732707709,False
-Venentautealpalak,V’ënen Taute: Alpalak,,bign1238,Big Nambas,nmb,Papunesia,-15.99722,167.1825,Austronesian,48741151109,False
-Venentautebenenavet,V’ënen Taute: Benenavet,,bign1238,Big Nambas,nmb,Papunesia,-16.02038,167.17671,Austronesian,48741153209,False
-Venentautebenmara,V’ënen Taute: Benmara,,bign1238,Big Nambas,nmb,Papunesia,-16.05552,167.23261,Austronesian,48741155209,False
-Venentauteunmet,V’ënen Taute: Unmet,,bign1238,Big Nambas,nmb,Papunesia,-16.15371,167.26022,Austronesian,48741157409,False
-Venentautehamax,V’ënen Taute: Hamax,,bign1238,Big Nambas,nmb,Papunesia,-16.111,167.249,Austronesian,48741158409,False
-Espiegelsbaysolwota,Espiegel’s Bay: Solwota,,malu1245,Malua Bay,mll,Papunesia,-15.979,167.192,Austronesian,48741322109,False
-Espiegelsbaylitebral,Espiegel’s Bay: Litebral,,malu1245,Malua Bay,mll,Papunesia,-15.974,167.193,Austronesian,48741324209,False
-Espiegelsbayunspecified,Espiegel’s Bay: Unspecified,,malu1245,Malua Bay,mll,Papunesia,-15.98228,167.19103,Austronesian,48741324309,False
-Maluabaycoast,Malua Bay: Coast,,malu1245,Malua Bay,mll,Papunesia,-15.98334,167.18798,Austronesian,48741326309,False
-Maluabaypetarmul,Malua Bay: Petarmul,,malu1245,Malua Bay,mll,Papunesia,-16.00022,167.22137,Austronesian,48741327409,False
-Maluabaytiptir,Malua Bay: Tiptir,,malu1245,Malua Bay,mll,Papunesia,-15.9905,167.21991,Austronesian,48741328309,False
-Maluabaymarasup,Malua Bay: Marasup,,malu1245,Malua Bay,mll,Papunesia,-15.99098,167.2198,Austronesian,48741328409,False
-Najittanmial,Najit: Tanmial,,,,,,-15.94786,167.18226,,48741345109,False
-Nesetanmial,Nese: Tanmial,,nese1235,Nese,,Papunesia,-15.9305,167.17653,Austronesian,48741365109,False
-Nesesanboise,Nese: Sanboise,,nese1235,Nese,,Papunesia,-15.91461,167.17833,Austronesian,48741367209,False
-Vaobeetehul,Vao: Beetehul,,vaoo1237,Vao,vao,Papunesia,-15.89728,167.30443,Austronesian,48741556509,False
-Vaocanada,Vao: Canada,,vaoo1237,Vao,vao,Papunesia,-15.89978,167.30731,Austronesian,48741557509,False
-Vaopeteri,Vao: Peteri,,vaoo1237,Vao,vao,Papunesia,-15.89887,167.3051,Austronesian,48741557609,False
-Vaotorono,Vao: Torono,,vaoo1237,Vao,vao,Papunesia,-15.89986,167.30819,Austronesian,48741557709,False
-Tiraxbotmelesnial,Tirax: Botmelesnial,,maee1241,Tirax,mme,Papunesia,-16.0583,167.369,Austronesian,48741733509,False
-Tiraxmae,Tirax: Mae,,maee1241,Tirax,mme,Papunesia,-16.05839,167.36953,Austronesian,48741733609,False
-Tiraxbethel,Tirax: Bethel,,maee1241,Tirax,mme,Papunesia,-16.03923,167.40186,Austronesian,48741735809,False
-Tiraxolamb,Tirax: Olamb,,maee1241,Tirax,mme,Papunesia,-15.98701,167.26154,Austronesian,48741736409,False
-Tiraxbakru,Tirax: Bakru,,maee1241,Tirax,mme,Papunesia,-16.00354,167.29696,Austronesian,48741736509,False
-Tiraxorap,Tirax: Orap,,maee1241,Tirax,mme,Papunesia,-15.97,167.34464,Austronesian,48741737809,False
-Atchinorap,Atchin: Orap,,atch1238,Atchin,upv,Papunesia,-15.9156,167.30641,Austronesian,48741752709,False
-Atchinsmallisland,Atchin: Small Island,,atch1238,Atchin,upv,Papunesia,-15.9439,167.33993,Austronesian,48741752809,False
-Walabotku,Wala: Botku,,wala1267,Wala-Rano,upv,Papunesia,-15.96841,167.29246,Austronesian,48741754509,False
-Walaworprev,Wala: Worprev,,wala1267,Wala-Rano,upv,Papunesia,-15.97775,167.37656,Austronesian,48741754709,False
-Walapetreros,Wala: Petreros,,wala1267,Wala-Rano,upv,Papunesia,-15.97544,167.37627,Austronesian,48741754809,False
-Walapreng,Wala: Preng,,wala1267,Wala-Rano,upv,Papunesia,-15.97342,167.37627,Austronesian,48741754909,False
-Ranotwalung,Rano: Twalung,,wala1267,Wala-Rano,upv,Papunesia,-15.98389,167.38444,Austronesian,48741756709,False
-Ranopotora,Rano: Potora,,wala1267,Wala-Rano,upv,Papunesia,-15.98472,167.3866,Austronesian,48741756809,False
-Ranochinambong,Rano: Chinambong,,wala1267,Wala-Rano,upv,Papunesia,-15.99049,167.39063,Austronesian,48741756909,False
-Uripivtautuvillage,Uripiv: Tautu Village,,urip1250,,upv,,-16.06661,167.3975,,48741757609,False
-Uripivtautu,Uripiv: Tautu,,urip1250,,upv,,-16.06778,167.40111,,48741758709,False
-Uripivdurpif,Uripiv: Durpif,,urip1240,Uripiv,upv,Papunesia,-16.07265,167.447,Austronesian,48741758809,False
-Uripivpotnambe,Uripiv: Potnambe,,urip1240,Uripiv,upv,Papunesia,-16.07391,167.45203,Austronesian,48741758909,False
-Wowolesarmalas,Wowo: Lesarmalas,,vovo1238,Vovo,upv,Papunesia,-15.90733,167.17927,Austronesian,48741953109,False
-Wowowowo,Wowo: Wowo,,vovo1238,Vovo,upv,Papunesia,-15.90224,167.18459,Austronesian,48741954109,False
-Alavaswowo,Alavas: Wowo,,vovo1238,Vovo,upv,Papunesia,-15.90293,167.18499,Austronesian,48741956109,False
-Alavasalavas,Alavas: Alavas,,vovo1238,Vovo,upv,Papunesia,-15.89046,167.24151,Austronesian,48741957109,False
-Larevatfwishile,Larevat: Fwishile,,lare1249,Larevat,lrv,Papunesia,-16.17351,167.37147,Austronesian,48742133509,False
-Larevatlarevat,Larevat: Larevat,,lare1249,Larevat,lrv,Papunesia,-16.17464,167.37145,Austronesian,48742136709,False
-Larevatmosox,Larevat: Mosox,,lare1249,Larevat,lrv,Papunesia,-16.17628,167.37023,Austronesian,48742137609,False
-Neveeicoast,Neve’ei: Coast,,vinm1237,Neve'ei,vnm,Papunesia,-16.22942,167.38365,Austronesian,48742314209,False
-Neveeivinmavis1,Neve’ei: Vinmavis 1,Neve’ei:  Vinmavis  (speaker 1),vinm1237,Neve'ei,vnm,Papunesia,-16.27169,167.39957,Austronesian,48742315109,False
-Neveeivinmavis2,Neve’ei: Vinmavis 2,Neve’ei:  Vinmavis  (speaker 2),vinm1237,Neve'ei,vnm,Papunesia,-16.2291,167.3981,Austronesian,48742315209,False
-Novoldixonreef,Novol: Dixon Reef,,dixo1238,Dixon Reef,,Papunesia,-16.34747,167.37749,Austronesian,48742515109,False
-Novoltavendrua,Novol: Tavendrua,,dixo1238,Dixon Reef,,Papunesia,-16.34446,167.38392,Austronesian,48742516109,False
-Novolbangir,Novol: Bangir,,dixo1238,Dixon Reef,,Papunesia,-16.29424,167.66802,Austronesian,48742516709,False
-Nasarianwileven,Nasarian: Wileven,,nasa1240,Nasarian,nvh,Papunesia,-16.38333,167.4681,Austronesian,48742525109,False
-Nasarianngava,Nasarian: Ngava,,nasa1240,Nasarian,nvh,Papunesia,-16.25313,167.51643,Austronesian,48742525609,False
-Angavaedixonreef,Angavae: Dixon Reef,,,,,,-16.34055,167.38133,,48742535109,False
-Nahavaqbanour,Nahavaq: Banour,,sout2857,Nahavaq,sns,Papunesia,-16.49503,167.4187,Austronesian,48742715209,False
-Nahavaqlembinwin,Nahavaq: Lembinwin,,sout2857,Nahavaq,sns,Papunesia,-16.499,167.4328,Austronesian,48742717309,False
-Nahavaqcarolinebay,Nahavaq: Caroline Bay,,sout2857,Nahavaq,sns,Papunesia,-16.56268,167.46,Austronesian,48742718509,False
-Nahavaqloorndavo,Nahavaq: Loorndavo,,sout2857,Nahavaq,sns,Papunesia,-16.52763,167.44872,Austronesian,48742718709,False
-Naatiwindua,Naati: Windua,,nati1244,Nati,,Papunesia,-16.50139,167.49372,Austronesian,48742725109,False
-Nindelawa,Ninde: Lawa,,labo1244,Ninde,mwi,Papunesia,-16.44484,167.42897,Austronesian,48742733109,False
-Nindeopmobamba,Ninde: Opmobamba,,labo1244,Ninde,mwi,Papunesia,-16.435,167.4189,Austronesian,48742733409,False
-Nindelabo,Ninde: Labo,,labo1244,Ninde,mwi,Papunesia,-16.45523,167.4384,Austronesian,48742735209,False
-Nindewindua,Ninde: Windua,,labo1244,Ninde,mwi,Papunesia,-16.48302,167.4478,Austronesian,48742738309,False
-Nindesouthwestbay,Ninde: Southwest Bay,,labo1244,Ninde,mwi,Papunesia,-16.48255,167.44635,Austronesian,48742739309,False
-Nahaaimbatmbang,Naha’ai: Mbatmbang,,malf1237,Na'ahai,mfl,Papunesia,-16.56778,167.53083,Austronesian,48742954309,False
-Naahaimbatvanui,Na’ahai: Mbatvanui,,malf1237,Na'ahai,mlx,Papunesia,-16.53056,167.57778,Austronesian,48742954809,False
-Nahaaimalfaxal,Naha’ai: Malfaxal,,malf1237,Na'ahai,mfl,Papunesia,-16.55216,167.56539,Austronesian,48742956509,False
-Naahaitoman,Na’ahai: Toman,,malf1237,Na'ahai,mlx,Papunesia,-16.58306,167.47306,Austronesian,48742958609,False
-Axambsmallislandmaliambor,Axamb: Small Island-Maliambor,,aham1237,,ahb,,-16.51721,167.65111,,48742977409,False
-Axambsmallisland,Axamb: Small Island,,aham1237,,ahb,,-16.51664,167.65287,,48742977509,False
-Neverversakan,Neverver: Sakan,,ling1265,Neverver,lgk,Papunesia,-16.175,167.475,Austronesian,48743314709,False
-Neververmindu,Neverver: Mindu,,ling1265,Neverver,lgk,Papunesia,-16.17437,167.474,Austronesian,48743316709,False
-Neververlimap,Neverver: Limap,,ling1265,Neverver,lgk,Papunesia,-16.21749,167.53351,Austronesian,48743318409,False
-Tapemaraxusmae,Tape (Maraxus): Mae,,mara1399,Maragus,mrs,Papunesia,-16.10139,167.26806,Austronesian,48743325409,False
-Tapetautu1,Tape: Tautu 1,Tape: Tautu  (speaker 1),mara1399,Maragus,mrs,Papunesia,-16.08389,167.2833,Austronesian,48743325809,False
-Namanlitzlitz,Naman (Litzlitz),,litz1237,Naman,lzl,Papunesia,-16.10139,167.3847,Austronesian,48743515809,False
-Ngatataremb,Ngata: Taremb,,,,,,-16.26154,167.51544,,48743535509,False
-Unuanoferai,Unua: Noferai,,unua1237,Unua,onu,Papunesia,-16.23333,167.60139,Austronesian,48743712809,False
-Unuambatumbo,Unua: Mbatumbo,,unua1237,Unua,onu,Papunesia,-16.23361,167.6011,Austronesian,48743714809,False
-Unuabenuamor,Unua: Benuamor,,unua1237,Unua,onu,Papunesia,-16.2346,167.60636,Austronesian,48743716709,False
-Pangkumudatisman,Pangkumu: Datisman,,rere1240,Rerep,pgk,Papunesia,-16.28244,167.6626,Austronesian,48743725609,False
-Pangkumundarmif,Pangkumu: Ndarmif,,rere1240,Rerep,pgk,Papunesia,-16.28389,167.6669,Austronesian,48743725809,False
-Nititakhatbol,Nitita: Khatbol,,niti1249,Nitita,,Papunesia,-16.18053,167.5316,Austronesian,48743735709,False
-Fiftikhatbol,Fifti: Khatbol,,vivt1234,Vivti,,Papunesia,-16.18053,167.5316,Austronesian,48743745709,False
-Fiftimalmbor,Fifti: Malmbor,,vivt1234,Vivti,,Papunesia,-16.2813,167.51228,Austronesian,48743746809,False
-Tesmbolmelaklak,Tesmbol: Melaklak,,,,,,-16.28444,167.6666,,48743755609,False
-Tesmbolusus,Tesmbol: Usus,,,,,,-16.28644,167.6646,,48743755709,False
-Netimbbangir,Netimb: Bangir,,aulu1238,Aulua,aul,Papunesia,-16.37936,167.66783,Austronesian,48743922709,False
-Aulualoxseasolokh,Aulua: Loxse-Asolokh,,aulu1238,Aulua,aul,Papunesia,-16.322,167.716,Austronesian,48743923709,False
-Aulualoxselanfitfit,Aulua: Loxse-Lanfitfit,,aulu1238,Aulua,aul,Papunesia,-16.33667,167.73972,Austronesian,48743925809,False
-Xolimbwenelang,Xoli (Mbwenelang),,boin1237,Boinelang,,Papunesia,-16.34139,167.7425,Austronesian,48743935709,False
-Burmbartengan,Burmbar: Tengan,,burm1263,Burmbar,vrt,Papunesia,-16.38095,167.70045,Austronesian,48743942609,False
-Burmbarfartavo,Burmbar: Fartavo,,burm1263,Burmbar,vrt,Papunesia,-16.34167,167.74778,Austronesian,48743942809,False
-Burmbarburmbar,Burmbar: Burmbar,,burm1263,Burmbar,vrt,Papunesia,-16.38806,167.78222,Austronesian,48743946809,False
-Nisvaironevie,Nisvai: Ronevie,,nisv1234,Nisvai,,Papunesia,-16.41306,167.78556,Austronesian,48743957709,False
-Nisvaiblacksands,Nisvai: Blacksands,,nisv1234,Nisvai,,Papunesia,-16.38847,167.78301,Austronesian,48743957809,False
-Mandrifarun,Mandri: Farun,,nisv1234,Nisvai,,Papunesia,-16.50111,167.63972,Austronesian,48743958409,False
-Mandrifaru,Mandri: Faru,,nisv1234,Nisvai,,Papunesia,-16.52147,167.71586,Austronesian,48743959509,False
-Portsandwichlamap,Port Sandwich: Lamap,,port1285,Port Sandwich,psw,Papunesia,-16.425,167.805,Austronesian,48743967709,False
-Portsandwichmerivar,Port Sandwich: Merivar,,port1285,Port Sandwich,psw,Papunesia,-16.428,167.808,Austronesian,48743967809,False
-Avoksmallisland,Avok: Small Island,,avok1244,Avok,,Papunesia,-16.5218,167.77738,Austronesian,48743974709,False
-Avokhokai,Avok: Hokai,,avok1244,Avok,,Papunesia,-16.53778,167.74,Austronesian,48743976409,False
-Avokhokai2,Avok: Hokai 2,,avok1244,Avok,,Papunesia,-16.54125,167.73977,Austronesian,48743977509,False
-Uliveolurtes,Uliveo: Lurtes,,mask1242,Maskelynes,klv,Papunesia,-16.53072,167.83389,Austronesian,48743982709,False
-Uliveopelongk,Uliveo: Pelongk,,mask1242,Maskelynes,klv,Papunesia,-16.51917,167.83139,Austronesian,48743984509,False
-Uliveopeskaros,Uliveo: Peskaros,Uliveo: Peskaros  (speaker 1),mask1242,Maskelynes,klv,Papunesia,-16.51917,167.83139,Austronesian,48743985509,False
-Uliveopeskaros2,Uliveo: Peskaros 2,Uliveo: Peskaros  (speaker 2),mask1242,Maskelynes,klv,Papunesia,-16.52542,167.82515,Austronesian,48743985609,False
-Batarxopulipitav,Batarxopu: Lipitav,,,,,,-15.97922,167.22837,,48744132309,False
-Batarxopugonwar,Batarxopu: Gonwar,,,,,,-15.97988,167.23898,,48744133309,False
-Batarxopulumsak,Batarxopu: Lumsak,,,,,,-16.0025,167.30917,,48744134409,False
-Batarxopulembilmbil,Batarxopu: Lembilmbil,,,,,,-16.03911,167.30511,,48744136709,False
-Batarxopubenut,Batarxopu: Benut,,,,,,-16.03317,167.30046,,48744137709,False
-Sivitinjavwomol,Siviti (Njav): Womol,,,,,,-15.97389,167.23509,,48744145409,False
-Sivitinjavgonwar,Siviti (Njav): Gonwar,,,,,,-15.97988,167.2362,,48744145509,False
-Sivitinjavjericho,Siviti (Njav): Jericho,,,,,,-15.96543,167.27869,,48744146609,False
-Sivitinjavtanmililib2,Siviti (Njav): Tanmililib 2,Siviti (Njav): Tanmililib  (speaker 2),,,,,-15.96888,167.23593,,48744147409,False
-Sivitinjavtanmililib,Siviti (Njav): Tanmililib,Siviti (Njav): Tanmililib  (speaker 1),,,,,-15.973,167.234,,48744147509,False
-Letemboinatingatlang,Letemboi: Natingatlang,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.40056,167.6178,Austronesian,48744514409,False
-Letemboiaingelemolesa,Letemboi: Aingelemolesa,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.41806,167.5847,Austronesian,48744514709,False
-Letemboinewotenyene,Letemboi: Newotenyene,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.2667,167.536,Austronesian,48744515509,False
-Letemboinevatanyene,Letemboi: Nevatanyene,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.434,167.567,Austronesian,48744516609,False
-Navwienmbonvor,Navwien: Mbonvor,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.4161,167.6535,Austronesian,48744545509,False
-Nasvangbigisland,Nasvang: Big Island,,navw1234,Navwien,,Papunesia,-16.44294,167.67644,Austronesian,48744574609,False
-Nasvangfarun,Nasvang: Farun,,nasv1234,Nasvang,,Papunesia,-16.51167,167.63944,Austronesian,48744575509,False
-Natanganmbonvor,Natangan: Mbonvor,,,,,,-16.53089,167.57531,,48744585509,False
-Avavakhatbol,Avava: Khatbol,,katb1237,Avava,tmb,Papunesia,-16.18473,167.46723,Austronesian,48745012309,False
-Avavatisvel,Avava: Tisvel,,katb1237,Avava,tmb,Papunesia,-16.27153,167.39939,Austronesian,48745013109,False
-Salangdixonreef,Salang: DixonReef,,katb1237,Avava,tmb,Papunesia,-16.26833,167.4339,Austronesian,48745015109,False
-Bangaasaktaremb,Bangaasak: Taremb,,katb1237,Avava,tmb,Papunesia,-16.21925,167.571,Austronesian,48745017709,False
-Nombotkoteneioleian,Nombotkote: Neioleian,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.48428,167.54336,Austronesian,48745023309,False
-Nombotkoteblacksands,Nombotkote: Blacksands,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.32063,167.44212,Austronesian,48745025209,False
-Nombotkotemelkin,Nombotkote: Melkin,,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.32806,167.59949,Austronesian,48745025609,False
-Ragaloltongbay,Raga: Loltong Bay,Raga:  Loltong Bay,,,,,-15.54889,168.14889,,48762506009,False
-Ragalolkasai,Raga: Lolkasai,Raga:  Lolkasai,,,,,-15.58444,168.19111,,48762508809,False
-Safrangusuksu,Sa F.: Rangusuksu,Sa F.:  Rangusuksu,,,,,-15.90056,168.18528,,48768502009,False
-Safponof,Sa F.: Ponof,Sa F.:  Ponof,,,,,-15.89583,168.27028,,48768502809,False
-Sageneral,Sa: ‘General’,Sa:  ‘General’,,,,,-15.90611,168.18694,,48768503009,False
-Safyangtus,Sa F.: Yangtus,Sa F.:  Yantus,,,,,-15.90306,168.26944,,48768503809,False
-Sapaangi,Sa: Paangi,Sa:  Paangi,,,,,-15.94611,168.19444,,48768505109,False
-Sabunlap,Sa: Bunlap,Sa:  Bunlap,,,,,-15.9575,168.26889,,48768506709,False
-Saranwas,Sa: Ranwas,Sa:  Ranwas,,,,,-15.96861,168.26556,,48768507809,False
-Sahaa,Sa: Haa,Sa:  Haa,,,,,-16.00111,168.21056,,48768508509,False
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,LongName,IndexInSource,IsProto
+Bislama2,Bislama (2),bisl1239,Bislama,bis,Papunesia,-16.10302,167.4168,Indo-European,Bislama (2):  more tending to local pronunciations,48700000007,False
+Bislama1,Bislama (1),bisl1239,Bislama,bis,Papunesia,-16.10694,167.4208,Indo-European,Bislama (1):  more tending to English pronunciations,48700000008,False
+Nleonda,N: Leonda,amba1270,Ambae,omb,,-15.314,167.852877,Austronesian,Ambae:  North:  Leonda:  Ngwetangwele,48731303809,False
+Nhavailombaha,N: Havai: Lombaha,lomb1262,Lombaha,omb,Papunesia,-15.31659,167.81886,Austronesian,Ambae:  North:  Havai:  Lombaha,48731305309,False
+Nleovandue,N: Leõ: Vandue,amba1270,Ambae,omb,,-15.31851,167.820332,Austronesian,Ambae:  North:  Leõ:  Vandue,48731307509,False
+Wwalaha,W: Walaha,wala1268,Walaha,nnd,Papunesia,-15.40071,167.701737,Austronesian,Ambae:  West:  Walaha,48731405509,False
+Evuindondo,E: Vuindondo,east2443,East Ambae,omb,Papunesia,-15.30571,167.971219,Austronesian,Ambae:  East:  Vuindondo,48731603709,False
+Elolovoli,E: Lolovoli,east2443,East Ambae,omb,Papunesia,-15.36437,167.927911,Austronesian,Ambae:  East:  Lolovoli,48731605609,False
+Esanasolokave,E: Sana: Solokave,east2443,East Ambae,nnd,Papunesia,-15.45831,167.856408,Austronesian,Ambae:  East:  Sana:  Solokave,48731608309,False
+Ssakao,S: Sakao,amba1270,Ambae,nnd,,-15.42439,167.894062,Austronesian,Ambae:  South:  Sakao,48731703709,False
+Slolovele,S: Lolovele,amba1270,Ambae,nnd,,-15.44771,167.869802,Austronesian,Ambae:  South:  Lolovele,48731705409,False
+Sbiribiri,S: Biribiri,amba1270,Ambae,nnd,,-15.46989,167.82893,Austronesian,Ambae:  South:  Biribiri,48731707209,False
+Nsungwadianaumumu,N: Sungwadia: Naumumu,mari1426,Sunwadia,mrb,Papunesia,-14.93637,168.053014,Austronesian,Maewo:  North:  Sungwadia:  Naumumu,48732302209,False
+Nsungwadiatasmaor,N: Sungwadia: Tasmaor,mari1426,Sunwadia,mrb,Papunesia,-14.93637,168.053014,Austronesian,Maewo:  North:  Sungwadia/Tasmaor:  Naumumu,48732302309,False
+Nmwerlap,N: Mwerlap,mari1426,Sunwadia,mrb,Papunesia,-14.96984,168.058964,Austronesian,Maewo:  North:  Sungwadia/Mwerlap:  Marino,48732304609,False
+Nsungwadiauta,N: Sungwadia: Uta,mari1426,Sunwadia,mrb,Papunesia,-14.97184,168.0573,Austronesian,Maewo:  North:  Sungwadia/Uta:  Marino,48732305509,False
+Nsungwadianaone,N: Sungwadia: Naone,mari1426,Sunwadia,mrb,Papunesia,-15.01508,168.066583,Austronesian,Maewo:  North:  Sungwadia/Tanurik:  Naone,48732307809,False
+Ctlsungwadagarongnawo,Ctl: Sungwadaga: Rongnawo,cent2058,Central Maewo,mwo,Papunesia,-15.10197,168.079925,Austronesian,Maewo:  Central:  Sungwadaga:  Rongnawo,48732502409,False
+Ctlsungwadangota,Ctl: Sungwada: Ngota,cent2058,Central Maewo,mwo,Papunesia,-15.10125,168.121197,Austronesian,Maewo:  Central:  Sungwada:  Ngota,48732502509,False
+Ctlsungwadagalalaundi,Ctl: Sungwadaga: Lalaundi,cent2058,Central Maewo,mwo,Papunesia,-15.11413,168.14195,Austronesian,Maewo:  Central:  Sungwandaga:  Lalaundi,48732504609,False
+Ctlsungwadogarata,Ctl: Sungwadoga: Rata,tali1260,Talise (Vanuatu),btr,Papunesia,-15.11413,168.14195,Austronesian,Maewo:  Central:  Sungwaloge:  Sungwadola/Rata:  Navenvene,48732504709,False
+Ctlsungwadolagwaranuta,Ctl: Sungwadola: Gwaran Uta,tali1260,Talise (Vanuatu),btr,Papunesia,-15.12506,168.091146,Austronesian,Maewo:  Central:  Sungwaloge:  Sungwadola/Gwaran Uta:  Navenvene,48732505209,False
+Ctletawetnaviso,Ctl-E: Tawet: Naviso,tali1260,Talise (Vanuatu),btr,Papunesia,-15.12286,168.144,Austronesian,Maewo:  Central:  East:  Sungwaloge/Tawet:  Naviso,48732505809,False
+Ctlnalembanarovorovo,Ctl: Nalemba: Narovorovo,naro1250,Narovorovo,btr,Papunesia,-15.1826,168.110702,Austronesian,Maewo:  Central:  Sungwaloge/Nalemba:  Narovorovo,48732508409,False
+Ctltawetnarovorovo,Ctl: Tawet: Narovorovo,naro1250,Narovorovo,btr,Papunesia,-15.18528,168.109444,Austronesian,Maewo:  Central:  Sungwaloge/Tawet:  Narovorovo,48732508509,False
+Ctlnalembanasawa,Ctl: Nalemba: Nasawa,nasa1241,Nasawa,btr,Papunesia,-15.19677,168.112254,Austronesian,Maewo:  Central:  Sungwaloge/Nalemba:  Nasawa,48732508609,False
+Sxalangibaetora,S: Xalangi: Baetora,maew1234,Maewo,btr,,-15.25972,168.116944,Austronesian,Maewo:  South:  Xalangi:  Baetora,48732702209,False
+Sragaavavanvae,S: Raga: Avavanvae,maew1234,Maewo,btr,,-15.34347,168.127388,Austronesian,Maewo:  South:  Raga:  Avavanvae,48732705309,False
+Ssungagageavavanvae,S: Sungagage: Avavanvae,maew1234,Maewo,btr,,-15.34347,168.127388,Austronesian,Maewo:  South:  Sungagage:  Avavanvae,48732705409,False
+Ssungagageasanvari,S: Sungagage: Asanvari,maew1234,Maewo,btr,,-15.37944,168.128889,Austronesian,Maewo:  South:  Sungagage:  Asanvari,48732707509,False
+Ssungagageavanbatai,S: Sungagage: Avanbatai,maew1234,Maewo,btr,,-15.38639,168.146667,Austronesian,Maewo:  South:  Sungagage:  Avanbatai,48732707709,False
+Venentautealpalak,V’ënen Taute: Alpalak,bign1238,Big Nambas,nmb,Papunesia,-15.99722,167.1825,Austronesian,,48741151109,False
+Venentautebenenavet,V’ënen Taute: Benenavet,bign1238,Big Nambas,nmb,Papunesia,-16.02038,167.17671,Austronesian,,48741153209,False
+Venentautebenmara,V’ënen Taute: Benmara,bign1238,Big Nambas,nmb,Papunesia,-16.05552,167.23261,Austronesian,,48741155209,False
+Venentauteunmet,V’ënen Taute: Unmet,bign1238,Big Nambas,nmb,Papunesia,-16.15371,167.26022,Austronesian,,48741157409,False
+Venentautehamax,V’ënen Taute: Hamax,bign1238,Big Nambas,nmb,Papunesia,-16.111,167.249,Austronesian,,48741158409,False
+Espiegelsbaysolwota,Espiegel’s Bay: Solwota,malu1245,Malua Bay,mll,Papunesia,-15.979,167.192,Austronesian,,48741322109,False
+Espiegelsbaylitebral,Espiegel’s Bay: Litebral,malu1245,Malua Bay,mll,Papunesia,-15.974,167.193,Austronesian,,48741324209,False
+Espiegelsbayunspecified,Espiegel’s Bay: Unspecified,malu1245,Malua Bay,mll,Papunesia,-15.98228,167.19103,Austronesian,,48741324309,False
+Maluabaycoast,Malua Bay: Coast,malu1245,Malua Bay,mll,Papunesia,-15.98334,167.18798,Austronesian,,48741326309,False
+Maluabaypetarmul,Malua Bay: Petarmul,malu1245,Malua Bay,mll,Papunesia,-16.00022,167.22137,Austronesian,,48741327409,False
+Maluabaytiptir,Malua Bay: Tiptir,malu1245,Malua Bay,mll,Papunesia,-15.9905,167.21991,Austronesian,,48741328309,False
+Maluabaymarasup,Malua Bay: Marasup,malu1245,Malua Bay,mll,Papunesia,-15.99098,167.2198,Austronesian,,48741328409,False
+Najittanmial,Najit: Tanmial,,,,,-15.94786,167.18226,,,48741345109,False
+Nesetanmial,Nese: Tanmial,nese1235,Nese,,Papunesia,-15.9305,167.17653,Austronesian,,48741365109,False
+Nesesanboise,Nese: Sanboise,nese1235,Nese,,Papunesia,-15.91461,167.17833,Austronesian,,48741367209,False
+Vaobeetehul,Vao: Beetehul,vaoo1237,Vao,vao,Papunesia,-15.89728,167.30443,Austronesian,,48741556509,False
+Vaocanada,Vao: Canada,vaoo1237,Vao,vao,Papunesia,-15.89978,167.30731,Austronesian,,48741557509,False
+Vaopeteri,Vao: Peteri,vaoo1237,Vao,vao,Papunesia,-15.89887,167.3051,Austronesian,,48741557609,False
+Vaotorono,Vao: Torono,vaoo1237,Vao,vao,Papunesia,-15.89986,167.30819,Austronesian,,48741557709,False
+Tiraxbotmelesnial,Tirax: Botmelesnial,maee1241,Tirax,mme,Papunesia,-16.0583,167.369,Austronesian,,48741733509,False
+Tiraxmae,Tirax: Mae,maee1241,Tirax,mme,Papunesia,-16.05839,167.36953,Austronesian,,48741733609,False
+Tiraxbethel,Tirax: Bethel,maee1241,Tirax,mme,Papunesia,-16.03923,167.40186,Austronesian,,48741735809,False
+Tiraxolamb,Tirax: Olamb,maee1241,Tirax,mme,Papunesia,-15.98701,167.26154,Austronesian,,48741736409,False
+Tiraxbakru,Tirax: Bakru,maee1241,Tirax,mme,Papunesia,-16.00354,167.29696,Austronesian,,48741736509,False
+Tiraxorap,Tirax: Orap,maee1241,Tirax,mme,Papunesia,-15.97,167.34464,Austronesian,,48741737809,False
+Atchinorap,Atchin: Orap,atch1238,Atchin,upv,Papunesia,-15.9156,167.30641,Austronesian,,48741752709,False
+Atchinsmallisland,Atchin: Small Island,atch1238,Atchin,upv,Papunesia,-15.9439,167.33993,Austronesian,,48741752809,False
+Walabotku,Wala: Botku,wala1267,Wala-Rano,upv,Papunesia,-15.96841,167.29246,Austronesian,,48741754509,False
+Walaworprev,Wala: Worprev,wala1267,Wala-Rano,upv,Papunesia,-15.97775,167.37656,Austronesian,,48741754709,False
+Walapetreros,Wala: Petreros,wala1267,Wala-Rano,upv,Papunesia,-15.97544,167.37627,Austronesian,,48741754809,False
+Walapreng,Wala: Preng,wala1267,Wala-Rano,upv,Papunesia,-15.97342,167.37627,Austronesian,,48741754909,False
+Ranotwalung,Rano: Twalung,wala1267,Wala-Rano,upv,Papunesia,-15.98389,167.38444,Austronesian,,48741756709,False
+Ranopotora,Rano: Potora,wala1267,Wala-Rano,upv,Papunesia,-15.98472,167.3866,Austronesian,,48741756809,False
+Ranochinambong,Rano: Chinambong,wala1267,Wala-Rano,upv,Papunesia,-15.99049,167.39063,Austronesian,,48741756909,False
+Uripivtautuvillage,Uripiv: Tautu Village,urip1250,,upv,,-16.06661,167.3975,,,48741757609,False
+Uripivtautu,Uripiv: Tautu,urip1250,,upv,,-16.06778,167.40111,,,48741758709,False
+Uripivdurpif,Uripiv: Durpif,urip1240,Uripiv,upv,Papunesia,-16.07265,167.447,Austronesian,,48741758809,False
+Uripivpotnambe,Uripiv: Potnambe,urip1240,Uripiv,upv,Papunesia,-16.07391,167.45203,Austronesian,,48741758909,False
+Wowolesarmalas,Wowo: Lesarmalas,vovo1238,Vovo,upv,Papunesia,-15.90733,167.17927,Austronesian,,48741953109,False
+Wowowowo,Wowo: Wowo,vovo1238,Vovo,upv,Papunesia,-15.90224,167.18459,Austronesian,,48741954109,False
+Alavaswowo,Alavas: Wowo,vovo1238,Vovo,upv,Papunesia,-15.90293,167.18499,Austronesian,,48741956109,False
+Alavasalavas,Alavas: Alavas,vovo1238,Vovo,upv,Papunesia,-15.89046,167.24151,Austronesian,,48741957109,False
+Larevatfwishile,Larevat: Fwishile,lare1249,Larevat,lrv,Papunesia,-16.17351,167.37147,Austronesian,,48742133509,False
+Larevatlarevat,Larevat: Larevat,lare1249,Larevat,lrv,Papunesia,-16.17464,167.37145,Austronesian,,48742136709,False
+Larevatmosox,Larevat: Mosox,lare1249,Larevat,lrv,Papunesia,-16.17628,167.37023,Austronesian,,48742137609,False
+Neveeicoast,Neve’ei: Coast,vinm1237,Neve'ei,vnm,Papunesia,-16.22942,167.38365,Austronesian,,48742314209,False
+Neveeivinmavis1,Neve’ei: Vinmavis 1,vinm1237,Neve'ei,vnm,Papunesia,-16.27169,167.39957,Austronesian,Neve’ei:  Vinmavis  (speaker 1),48742315109,False
+Neveeivinmavis2,Neve’ei: Vinmavis 2,vinm1237,Neve'ei,vnm,Papunesia,-16.2291,167.3981,Austronesian,Neve’ei:  Vinmavis  (speaker 2),48742315209,False
+Novoldixonreef,Novol: Dixon Reef,dixo1238,Dixon Reef,,Papunesia,-16.34747,167.37749,Austronesian,,48742515109,False
+Novoltavendrua,Novol: Tavendrua,dixo1238,Dixon Reef,,Papunesia,-16.34446,167.38392,Austronesian,,48742516109,False
+Novolbangir,Novol: Bangir,dixo1238,Dixon Reef,,Papunesia,-16.29424,167.66802,Austronesian,,48742516709,False
+Nasarianwileven,Nasarian: Wileven,nasa1240,Nasarian,nvh,Papunesia,-16.38333,167.4681,Austronesian,,48742525109,False
+Nasarianngava,Nasarian: Ngava,nasa1240,Nasarian,nvh,Papunesia,-16.25313,167.51643,Austronesian,,48742525609,False
+Angavaedixonreef,Angavae: Dixon Reef,,,,,-16.34055,167.38133,,,48742535109,False
+Nahavaqbanour,Nahavaq: Banour,sout2857,Nahavaq,sns,Papunesia,-16.49503,167.4187,Austronesian,,48742715209,False
+Nahavaqlembinwin,Nahavaq: Lembinwin,sout2857,Nahavaq,sns,Papunesia,-16.499,167.4328,Austronesian,,48742717309,False
+Nahavaqcarolinebay,Nahavaq: Caroline Bay,sout2857,Nahavaq,sns,Papunesia,-16.56268,167.46,Austronesian,,48742718509,False
+Nahavaqloorndavo,Nahavaq: Loorndavo,sout2857,Nahavaq,sns,Papunesia,-16.52763,167.44872,Austronesian,,48742718709,False
+Naatiwindua,Naati: Windua,nati1244,Nati,,Papunesia,-16.50139,167.49372,Austronesian,,48742725109,False
+Nindelawa,Ninde: Lawa,labo1244,Ninde,mwi,Papunesia,-16.44484,167.42897,Austronesian,,48742733109,False
+Nindeopmobamba,Ninde: Opmobamba,labo1244,Ninde,mwi,Papunesia,-16.435,167.4189,Austronesian,,48742733409,False
+Nindelabo,Ninde: Labo,labo1244,Ninde,mwi,Papunesia,-16.45523,167.4384,Austronesian,,48742735209,False
+Nindewindua,Ninde: Windua,labo1244,Ninde,mwi,Papunesia,-16.48302,167.4478,Austronesian,,48742738309,False
+Nindesouthwestbay,Ninde: Southwest Bay,labo1244,Ninde,mwi,Papunesia,-16.48255,167.44635,Austronesian,,48742739309,False
+Nahaaimbatmbang,Naha’ai: Mbatmbang,malf1237,Na'ahai,mfl,Papunesia,-16.56778,167.53083,Austronesian,,48742954309,False
+Naahaimbatvanui,Na’ahai: Mbatvanui,malf1237,Na'ahai,mlx,Papunesia,-16.53056,167.57778,Austronesian,,48742954809,False
+Nahaaimalfaxal,Naha’ai: Malfaxal,malf1237,Na'ahai,mfl,Papunesia,-16.55216,167.56539,Austronesian,,48742956509,False
+Naahaitoman,Na’ahai: Toman,malf1237,Na'ahai,mlx,Papunesia,-16.58306,167.47306,Austronesian,,48742958609,False
+Axambsmallislandmaliambor,Axamb: Small Island-Maliambor,aham1237,,ahb,,-16.51721,167.65111,,,48742977409,False
+Axambsmallisland,Axamb: Small Island,aham1237,,ahb,,-16.51664,167.65287,,,48742977509,False
+Neverversakan,Neverver: Sakan,ling1265,Neverver,lgk,Papunesia,-16.175,167.475,Austronesian,,48743314709,False
+Neververmindu,Neverver: Mindu,ling1265,Neverver,lgk,Papunesia,-16.17437,167.474,Austronesian,,48743316709,False
+Neververlimap,Neverver: Limap,ling1265,Neverver,lgk,Papunesia,-16.21749,167.53351,Austronesian,,48743318409,False
+Tapemaraxusmae,Tape (Maraxus): Mae,mara1399,Maragus,mrs,Papunesia,-16.10139,167.26806,Austronesian,,48743325409,False
+Tapetautu1,Tape: Tautu 1,mara1399,Maragus,mrs,Papunesia,-16.08389,167.2833,Austronesian,Tape: Tautu  (speaker 1),48743325809,False
+Namanlitzlitz,Naman (Litzlitz),litz1237,Naman,lzl,Papunesia,-16.10139,167.3847,Austronesian,,48743515809,False
+Ngatataremb,Ngata: Taremb,,,,,-16.26154,167.51544,,,48743535509,False
+Unuanoferai,Unua: Noferai,unua1237,Unua,onu,Papunesia,-16.23333,167.60139,Austronesian,,48743712809,False
+Unuambatumbo,Unua: Mbatumbo,unua1237,Unua,onu,Papunesia,-16.23361,167.6011,Austronesian,,48743714809,False
+Unuabenuamor,Unua: Benuamor,unua1237,Unua,onu,Papunesia,-16.2346,167.60636,Austronesian,,48743716709,False
+Pangkumudatisman,Pangkumu: Datisman,rere1240,Rerep,pgk,Papunesia,-16.28244,167.6626,Austronesian,,48743725609,False
+Pangkumundarmif,Pangkumu: Ndarmif,rere1240,Rerep,pgk,Papunesia,-16.28389,167.6669,Austronesian,,48743725809,False
+Nititakhatbol,Nitita: Khatbol,niti1249,Nitita,,Papunesia,-16.18053,167.5316,Austronesian,,48743735709,False
+Fiftikhatbol,Fifti: Khatbol,vivt1234,Vivti,,Papunesia,-16.18053,167.5316,Austronesian,,48743745709,False
+Fiftimalmbor,Fifti: Malmbor,vivt1234,Vivti,,Papunesia,-16.2813,167.51228,Austronesian,,48743746809,False
+Tesmbolmelaklak,Tesmbol: Melaklak,,,,,-16.28444,167.6666,,,48743755609,False
+Tesmbolusus,Tesmbol: Usus,,,,,-16.28644,167.6646,,,48743755709,False
+Netimbbangir,Netimb: Bangir,aulu1238,Aulua,aul,Papunesia,-16.37936,167.66783,Austronesian,,48743922709,False
+Aulualoxseasolokh,Aulua: Loxse-Asolokh,aulu1238,Aulua,aul,Papunesia,-16.322,167.716,Austronesian,,48743923709,False
+Aulualoxselanfitfit,Aulua: Loxse-Lanfitfit,aulu1238,Aulua,aul,Papunesia,-16.33667,167.73972,Austronesian,,48743925809,False
+Xolimbwenelang,Xoli (Mbwenelang),boin1237,Boinelang,,Papunesia,-16.34139,167.7425,Austronesian,,48743935709,False
+Burmbartengan,Burmbar: Tengan,burm1263,Burmbar,vrt,Papunesia,-16.38095,167.70045,Austronesian,,48743942609,False
+Burmbarfartavo,Burmbar: Fartavo,burm1263,Burmbar,vrt,Papunesia,-16.34167,167.74778,Austronesian,,48743942809,False
+Burmbarburmbar,Burmbar: Burmbar,burm1263,Burmbar,vrt,Papunesia,-16.38806,167.78222,Austronesian,,48743946809,False
+Nisvaironevie,Nisvai: Ronevie,nisv1234,Nisvai,,Papunesia,-16.41306,167.78556,Austronesian,,48743957709,False
+Nisvaiblacksands,Nisvai: Blacksands,nisv1234,Nisvai,,Papunesia,-16.38847,167.78301,Austronesian,,48743957809,False
+Mandrifarun,Mandri: Farun,nisv1234,Nisvai,,Papunesia,-16.50111,167.63972,Austronesian,,48743958409,False
+Mandrifaru,Mandri: Faru,nisv1234,Nisvai,,Papunesia,-16.52147,167.71586,Austronesian,,48743959509,False
+Portsandwichlamap,Port Sandwich: Lamap,port1285,Port Sandwich,psw,Papunesia,-16.425,167.805,Austronesian,,48743967709,False
+Portsandwichmerivar,Port Sandwich: Merivar,port1285,Port Sandwich,psw,Papunesia,-16.428,167.808,Austronesian,,48743967809,False
+Avoksmallisland,Avok: Small Island,avok1244,Avok,,Papunesia,-16.5218,167.77738,Austronesian,,48743974709,False
+Avokhokai,Avok: Hokai,avok1244,Avok,,Papunesia,-16.53778,167.74,Austronesian,,48743976409,False
+Avokhokai2,Avok: Hokai 2,avok1244,Avok,,Papunesia,-16.54125,167.73977,Austronesian,,48743977509,False
+Uliveolurtes,Uliveo: Lurtes,mask1242,Maskelynes,klv,Papunesia,-16.53072,167.83389,Austronesian,,48743982709,False
+Uliveopelongk,Uliveo: Pelongk,mask1242,Maskelynes,klv,Papunesia,-16.51917,167.83139,Austronesian,,48743984509,False
+Uliveopeskaros,Uliveo: Peskaros,mask1242,Maskelynes,klv,Papunesia,-16.51917,167.83139,Austronesian,Uliveo: Peskaros  (speaker 1),48743985509,False
+Uliveopeskaros2,Uliveo: Peskaros 2,mask1242,Maskelynes,klv,Papunesia,-16.52542,167.82515,Austronesian,Uliveo: Peskaros  (speaker 2),48743985609,False
+Batarxopulipitav,Batarxopu: Lipitav,,,,,-15.97922,167.22837,,,48744132309,False
+Batarxopugonwar,Batarxopu: Gonwar,,,,,-15.97988,167.23898,,,48744133309,False
+Batarxopulumsak,Batarxopu: Lumsak,,,,,-16.0025,167.30917,,,48744134409,False
+Batarxopulembilmbil,Batarxopu: Lembilmbil,,,,,-16.03911,167.30511,,,48744136709,False
+Batarxopubenut,Batarxopu: Benut,,,,,-16.03317,167.30046,,,48744137709,False
+Sivitinjavwomol,Siviti (Njav): Womol,,,,,-15.97389,167.23509,,,48744145409,False
+Sivitinjavgonwar,Siviti (Njav): Gonwar,,,,,-15.97988,167.2362,,,48744145509,False
+Sivitinjavjericho,Siviti (Njav): Jericho,,,,,-15.96543,167.27869,,,48744146609,False
+Sivitinjavtanmililib2,Siviti (Njav): Tanmililib 2,,,,,-15.96888,167.23593,,Siviti (Njav): Tanmililib  (speaker 2),48744147409,False
+Sivitinjavtanmililib,Siviti (Njav): Tanmililib,,,,,-15.973,167.234,,Siviti (Njav): Tanmililib  (speaker 1),48744147509,False
+Letemboinatingatlang,Letemboi: Natingatlang,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.40056,167.6178,Austronesian,,48744514409,False
+Letemboiaingelemolesa,Letemboi: Aingelemolesa,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.41806,167.5847,Austronesian,,48744514709,False
+Letemboinewotenyene,Letemboi: Newotenyene,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.2667,167.536,Austronesian,,48744515509,False
+Letemboinevatanyene,Letemboi: Nevatanyene,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.434,167.567,Austronesian,,48744516609,False
+Navwienmbonvor,Navwien: Mbonvor,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.4161,167.6535,Austronesian,,48744545509,False
+Nasvangbigisland,Nasvang: Big Island,navw1234,Navwien,,Papunesia,-16.44294,167.67644,Austronesian,,48744574609,False
+Nasvangfarun,Nasvang: Farun,nasv1234,Nasvang,,Papunesia,-16.51167,167.63944,Austronesian,,48744575509,False
+Natanganmbonvor,Natangan: Mbonvor,,,,,-16.53089,167.57531,,,48744585509,False
+Avavakhatbol,Avava: Khatbol,katb1237,Avava,tmb,Papunesia,-16.18473,167.46723,Austronesian,,48745012309,False
+Avavatisvel,Avava: Tisvel,katb1237,Avava,tmb,Papunesia,-16.27153,167.39939,Austronesian,,48745013109,False
+Salangdixonreef,Salang: DixonReef,katb1237,Avava,tmb,Papunesia,-16.26833,167.4339,Austronesian,,48745015109,False
+Bangaasaktaremb,Bangaasak: Taremb,katb1237,Avava,tmb,Papunesia,-16.21925,167.571,Austronesian,,48745017709,False
+Nombotkoteneioleian,Nombotkote: Neioleian,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.48428,167.54336,Austronesian,,48745023309,False
+Nombotkoteblacksands,Nombotkote: Blacksands,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.32063,167.44212,Austronesian,,48745025209,False
+Nombotkotemelkin,Nombotkote: Melkin,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.32806,167.59949,Austronesian,,48745025609,False
+Ragaloltongbay,Raga: Loltong Bay,,,,,-15.54889,168.14889,,Raga:  Loltong Bay,48762506009,False
+Ragalolkasai,Raga: Lolkasai,,,,,-15.58444,168.19111,,Raga:  Lolkasai,48762508809,False
+Safrangusuksu,Sa F.: Rangusuksu,,,,,-15.90056,168.18528,,Sa F.:  Rangusuksu,48768502009,False
+Safponof,Sa F.: Ponof,,,,,-15.89583,168.27028,,Sa F.:  Ponof,48768502809,False
+Sageneral,Sa: ‘General’,,,,,-15.90611,168.18694,,Sa:  ‘General’,48768503009,False
+Safyangtus,Sa F.: Yangtus,,,,,-15.90306,168.26944,,Sa F.:  Yantus,48768503809,False
+Sapaangi,Sa: Paangi,,,,,-15.94611,168.19444,,Sa:  Paangi,48768505109,False
+Sabunlap,Sa: Bunlap,,,,,-15.9575,168.26889,,Sa:  Bunlap,48768506709,False
+Saranwas,Sa: Ranwas,,,,,-15.96861,168.26556,,Sa:  Ranwas,48768507809,False
+Sahaa,Sa: Haa,,,,,-16.00111,168.21056,,Sa:  Haa,48768508509,False
