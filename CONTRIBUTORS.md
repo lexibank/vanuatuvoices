@@ -11,9 +11,9 @@ Marie-France Duhamel |  | Provided the recordings of the Raga and Lolkasai langu
 Lana Takau |  | Translated the Vanuatu study into Bislama, recorded languages of Malekula and Pentecost Island, edited and transcribed all languages of Pentecost Island and many languages of Malekula Island  | Author
 Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Directed fieldworkers to Maewo, Ambae, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
 Giovanni Abete |  | Provided detailed phonetic transcription for many Malekula languages  | Author
-Darja Dërmaku-Appelganz |  | Provided audio post-processing and mark-up from 2018-2020 | Author
+Daria Dërmaku |  | Provided audio post-processing and mark-up from 2018-2020 | Author
 Laura Wägerle |  | Provided audio post-processing and mark-up 2016-2018 | Author
 Kaitip W. Kami |  | Coordinated and assisted with recordings of many Malekula languages | Author
 Heidi Colleran |  | Co-directed the Vanuatu Languages and Lifeways project from 2016-2018 | Author
-Russell Gray |  | Co-Director of the Vanuatu Languages and Lifeways project (2016-2018)and Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Vanuatu study. | Author
+Russell Gray |  | Co-Director of the Vanuatu Languages and Lifeways project (2016-2018) and Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Vanuatu study. | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
