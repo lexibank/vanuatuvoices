@@ -2,7 +2,7 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Aviva Shimelman |  | Recorded and phonetically transcribed the majority of Malekula languages from 2016 to 2018 | Author
+Aviva Shimelman |  | Recorded and phonetically transcribed the majority of Malekula languages from 2015 to 2017 | Author
 Paul Heggarty |  | Founded and manages https://soundcomparisons.com where this data was initially published | Author
 Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
