@@ -39,6 +39,6 @@ Laura Wägerle |  | Provided audio post-processing and mark-up 2016-2018 | Autho
 Kaitip W. Kami |  | Coordinated and assisted with recordings of many Malekula languages | Author
 Heidi Colleran |  | Co-directed the Vanuatu Languages and Lifeways project from 2016-2018 | Author
 Russell Gray |  | Co-Director of the Vanuatu Languages and Lifeways project (2016-2018) and Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Vanuatu study. | Author
-Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Author
+Hans-Jörg Bibiko | @Bibiko | Programmer and maintainer of the data repository, assisted with data curation and data converting | Author
 
 
