@@ -3,14 +3,22 @@ import attr
 import itertools
 
 from pylexibank.providers.sndcmp import SNDCMP as BaseDataset
-from pylexibank.providers.sndcmp import SNDCMPConcept
+from pylexibank.providers.sndcmp import SNDCMPConcept, SNDCMPLanguage
 
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
+    'ContrbutorPhoneticTranscriptionBy': 'phonetic_transcriptions',
+    'ContrbutorRecordedBy': 'recording',
 	'ContributorRecordedBy1': 'recording',
-	'ContributorSoundEditingBy': 'sound_editing',
+    'ContributorSoundEditingBy': 'sound_editing',
+	'ContrbutorSoundEditingBy': 'sound_editing',
 	'ContributorRecordedBy2': 'recording',
 }
+
+
+@attr.s
+class CustomLanguage(SNDCMPLanguage):
+    Island = attr.ib(default=None)
 
 
 @attr.s
@@ -30,6 +38,7 @@ class Dataset(BaseDataset):
     form_placeholder = '►'
 
     concept_class = CustomConcept
+    language_class = CustomLanguage
 
     def cmd_makecldf(self, args):
         BaseDataset.cmd_makecldf(self, args)

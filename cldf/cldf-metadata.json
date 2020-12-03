@@ -13,13 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
-            "dc:created": "sndcmp-handover-6-g7232abc"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "sndcmp-handover-19-ga812cfb"
         },
         {
             "rdf:type": "prov:Entity",
@@ -32,6 +26,12 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.4.0"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -227,6 +227,10 @@
                     {
                         "datatype": "string",
                         "name": "IsProto"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Island"
                     }
                 ],
                 "primaryKey": [
@@ -338,7 +342,7 @@
             "url": "media.csv"
         },
         {
-            "dc:extent": 163,
+            "dc:extent": 173,
             "tableSchema": {
                 "columns": [
                     {
