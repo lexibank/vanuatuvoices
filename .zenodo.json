@@ -47,14 +47,12 @@
         },
         {
             "name": "Russell Gray"
-        }
-    ],
-    "contributors": [
+        },
         {
-            "name": "Hans-J\u00f6rg Bibiko",
-            "type": "Other"
+            "name": "Hans-J\u00f6rg Bibiko"
         }
     ],
+    "contributors": [],
     "communities": [
         {
             "identifier": "lexibank"
