@@ -13,13 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
-            "dc:created": "sndcmp-handover-26-g89ebf5b"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "sndcmp-handover-29-ga7fec3f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -32,6 +26,12 @@
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.3"
         }
     ],
     "prov:wasGeneratedBy": [
