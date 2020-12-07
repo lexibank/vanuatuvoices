@@ -1,6 +1,11 @@
 # Vanuatu Voices
 
+
+Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.
+
 This dataset is licensed under a CC-BY-NC-4.0 license
+
+Available online at https://vanuatuvoices.clld.org
 
 ## Statistics
 

@@ -1,8 +1,8 @@
 {
     "id": "vanuatuvoices",
     "title": "Vanuatu Voices",
-    "description": null,
-    "url": "",
+    "description": "Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.",
+    "url": "https://vanuatuvoices.clld.org",
     "license": "CC-BY-NC-4.0",
     "citation": ""
 }
