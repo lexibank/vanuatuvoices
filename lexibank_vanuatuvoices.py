@@ -4,6 +4,7 @@ import itertools
 
 from pylexibank.providers.sndcmp import SNDCMP as BaseDataset
 from pylexibank.providers.sndcmp import SNDCMPConcept, SNDCMPLanguage
+from pylexibank import FormSpec
 
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
@@ -29,6 +30,14 @@ class CustomConcept(SNDCMPConcept):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "vanuatuvoices"
+    form_spec = FormSpec(
+            replacements=[
+                ("\u0306", ""), # cannot be captured in orthoprofile 
+                ("\u033c", ""),
+                ("ɸ̆", "ɸ"),
+                ],
+            missing_data=["►", '..']
+            )
 
     study_name = "Vanuatu"
     second_gloss_lang = "Bislama"
@@ -41,6 +50,7 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
 
     def cmd_makecldf(self, args):
+        BaseDataset.form_spec = self.form_spec
         BaseDataset.cmd_makecldf(self, args)
         args.writer.cldf.add_table(
             'contributions.csv',
