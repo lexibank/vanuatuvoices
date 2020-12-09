@@ -1,8 +1,7 @@
 # CLDF/Lexibank stuff
 cldf/.transcription-report.json
-offline/
-audio
-*audio
+*offline/
+*audio/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
