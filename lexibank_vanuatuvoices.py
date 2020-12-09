@@ -9,10 +9,10 @@ ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
     'ContrbutorPhoneticTranscriptionBy': 'phonetic_transcriptions',
     'ContrbutorRecordedBy': 'recording',
-	'ContributorRecordedBy1': 'recording',
+    'ContributorRecordedBy1': 'recording',
     'ContributorSoundEditingBy': 'sound_editing',
-	'ContrbutorSoundEditingBy': 'sound_editing',
-	'ContributorRecordedBy2': 'recording',
+    'ContrbutorSoundEditingBy': 'sound_editing',
+    'ContributorRecordedBy2': 'recording',
 }
 
 
