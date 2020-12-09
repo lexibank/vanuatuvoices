@@ -1,6 +1,8 @@
 # CLDF/Lexibank stuff
 cldf/.transcription-report.json
 offline/
+audio
+*audio
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -133,3 +135,6 @@ dmypy.json
 .pyre/
 .idea/
 
+# macOS
+.DS_Store
+__MACOSX
