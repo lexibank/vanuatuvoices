@@ -68,6 +68,7 @@ DESCRIPTION = "Audio Files (WAV format) of the project <a href='https://doi.org/
 
 COMMUNITIES = sorted(set(['lexibank']))
 
+
 def register(parser):
     parser.add_argument(
         '--mimetype',
