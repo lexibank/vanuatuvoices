@@ -66,6 +66,7 @@ DESCRIPTION = "Audio Files (WAV format) of the project <a href='https://doi.org/
     + "<br /><br />Available online at: <a href='{2}'>{2}</a>"\
     + "<br />GitHub repository: <a href='{0}{1}'>{0}{1}/tree/v{3}</a>"
 
+COMMUNITIES = sorted(set(['lexibank']))
 
 def register(parser):
     parser.add_argument(
@@ -172,11 +173,10 @@ def run(args):
             if creators:
                 md['creators'] = [contrib(p) for p in creators]
             if contributors:
-                md["contributors"] = [contrib(p) for p in contributors]
-            communities = [r["identifier"] for r in md.get("communities", [])] + ['lexibank']
-            if communities:
+                md['contributors'] = [contrib(p) for p in contributors]
+            if COMMUNITIES:
                 md['communities'] = [
-                    {'id': community_id} for community_id in sorted(set(communities))]
+                    {'id': community_id} for community_id in COMMUNITIES]
             md.update(
                 {
                     'title': '{0} Audio Files'.format(Dataset().metadata.title),
@@ -192,7 +192,7 @@ def run(args):
                         },
                         {
                             'scheme': 'url',
-                            'identifier': 'https://github.com/lexibank/vanuatuvoices/tree/v{0}'.format(VERSION),
+                            'identifier': '{0}{1}/tree/v{2}'.format(GITHUB_PREFIX, Dataset().id, VERSION),
                             'relation': 'isSupplementTo'
                         },
                     ],
