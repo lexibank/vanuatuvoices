@@ -186,13 +186,13 @@ def run(args):
                     'version': VERSION,
                     'related_identifiers': [
                         {
-                            'scheme': 'doi', 
-                            'identifier': '10.5281/zenodo.4309141', 
+                            'scheme': 'doi',
+                            'identifier': '10.5281/zenodo.4309141',
                             'relation': 'isPartOf'
                         },
                         {
-                            'scheme': 'url', 
-                            'identifier': 'https://github.com/lexibank/vanuatuvoices/tree/v{0}'.format(VERSION), 
+                            'scheme': 'url',
+                            'identifier': 'https://github.com/lexibank/vanuatuvoices/tree/v{0}'.format(VERSION),
                             'relation': 'isSupplementTo'
                         },
                     ],
