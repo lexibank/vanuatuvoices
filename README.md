@@ -10,7 +10,7 @@ Available online at https://vanuatuvoices.clld.org
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoice/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoice/actions?query=workflows%3ACLDF-validation)
 ![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
