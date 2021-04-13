@@ -1,7 +1,7 @@
 ---
 name: Transcription Correction
 about: Report corrections of transcriptions
-title: ''
+title: Transcription Correction
 labels: ''
 assignees: maryewal
 
