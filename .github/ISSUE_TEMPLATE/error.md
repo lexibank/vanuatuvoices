@@ -7,5 +7,5 @@ assignees: maryewal
 
 ---
 
-**Error location *(page, section, item)*:**
-**Proposed correction:**
+Error location (page, section, item):
+Proposed correction:

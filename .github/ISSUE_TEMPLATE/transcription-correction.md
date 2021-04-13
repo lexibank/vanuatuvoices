@@ -7,7 +7,7 @@ assignees: maryewal
 
 ---
 
-**Doculect:**
-**Word *(as transcribed on Vanuatu Voices)*:**
-**English or Bislama translation *(as shown on Vanuatu Voices)*:** 
-**Proposed Correction:**
+Doculect:
+Word (as transcribed on Vanuatu Voices):
+English or Bislama translation (as shown on Vanuatu Voices):
+Proposed Correction:
