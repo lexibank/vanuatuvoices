@@ -36,7 +36,7 @@ class Dataset(BaseDataset):
                 ("\u033c", ""),
                 ("ɸ̆", "ɸ"),
                 ],
-            missing_data=["►", '..']
+            missing_data=['..']
             )
 
     study_name = "Vanuatu"
