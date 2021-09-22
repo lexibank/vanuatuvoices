@@ -1,5 +1,12 @@
 # Vanuatu Voices
 
+## How to cite
+
+If you use these data please cite
+this dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.
 
@@ -10,12 +17,12 @@ Available online at https://vanuatuvoices.clld.org
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoices/actions?query=workflows%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoices/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 62%](https://img.shields.io/badge/BIPA-62%25-orange.svg "BIPA: 62%")
-![CLTS SoundClass: 62%](https://img.shields.io/badge/CLTS%20SoundClass-62%25-orange.svg "CLTS SoundClass: 62%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 173
 - **Concepts:** 191
@@ -23,9 +30,9 @@ Available online at https://vanuatuvoices.clld.org
 - **Sources:** 1
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 165,504
-- **Segments:** 420 (160 BIPA errors, 160 CTLS sound class errors, 260 CLTS modified)
-- **Inventory size (avg):** 53.36
+- **Tokens:** 179,370
+- **Segments:** 219 (0 BIPA errors, 0 CTLS sound class errors, 218 CLTS modified)
+- **Inventory size (avg):** 43.08
 
 # Contributors
 
@@ -48,3 +55,10 @@ Hans-Jörg Bibiko | @Bibiko | Programmer and maintainer of the data repository, 
 Russell Gray |  | Co-Director of the Vanuatu Languages and Lifeways project (2016-2018) and Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Vanuatu study. | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
