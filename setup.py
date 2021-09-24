@@ -23,9 +23,9 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=2.8.1',
-        'cldfbench>=1.3',
-        'zenodoclient>=0.3',
+        'pylexibank>=3.3.0',
+        'cldfbench>=1.7.2',
+        'zenodoclient>=0.4.1',
     ],
     extras_require={
         'test': [
