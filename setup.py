@@ -23,6 +23,7 @@ setup(
         ]
     },
     install_requires=[
+        'pyconcepticon'
         'pylexibank>=3.3.0',
         'cldfbench>=1.7.2',
         'zenodoclient>=0.4.1',
