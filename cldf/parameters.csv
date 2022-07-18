@@ -286,10 +286,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 346_uncle_maternal_older,uncle maternal older,3249,MATERNAL UNCLE (MOTHER'S OLDER BROTHER),,,Kinship
 347_aunt_maternal_older,aunt maternal older,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),,,Kinship
 348_aunt_maternal,aunt maternal,2693,MATERNAL AUNT (MOTHER'S SISTER),,,Kinship
+349_first_cousin_female_maternal_aunt_older,first cousin female maternal aunt older,,,,,Kinship
 350_first_cousin_female_maternal_aunt,first cousin female maternal aunt,,,,,Kinship
 351_first_cousin_male_maternal_aunt,first cousin male maternal aunt,,,,,Kinship
 354_uncle_maternal_younger,uncle maternal younger,3250,MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER),,,Kinship
 355_aunt_maternal_younger,aunt maternal younger,3043,MATERNAL AUNT (MOTHER'S YOUNGER SISTER),,,Kinship
+356_first_cousin_male_maternal_aunt_younger,first cousin male maternal aunt younger,,,,,Kinship
 357_penis_sheath,penis sheath,,,,,
 360_piercing_nose,piercing nose,,,,,
 364_new_moon,new moon,3691,NEW MOON,niu mun,,The physical world

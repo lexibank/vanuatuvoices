@@ -5,68 +5,68 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 25159 | ✓ | ✓ |
-| + | 15646 | ✓ | ✓ |
-| n | 14860 | ✓ | ✓ |
-| i | 13879 | ✓ | ✓ |
-| u | 9618 | ✓ | ✓ |
-| l | 8671 | ✓ | ✓ |
-| m | 8557 | ✓ | ✓ |
-| o | 8486 | ✓ | ✓ |
-| r | 7797 | ✓ | ✓ |
-| t | 7767 | ✓ | ✓ |
-| ɛ | 6808 | ✓ | ✓ |
-| e | 6329 | ✓ | ✓ |
-| s | 6093 | ✓ | ✓ |
-| ɪ | 3668 | ✓ | ✓ |
-| k | 3450 | ✓ | ✓ |
-| v | 3347 | ✓ | ✓ |
-| ŋ | 3340 | ✓ | ✓ |
+| a | 25261 | ✓ | ✓ |
+| + | 15753 | ✓ | ✓ |
+| n | 14957 | ✓ | ✓ |
+| i | 13918 | ✓ | ✓ |
+| u | 9647 | ✓ | ✓ |
+| l | 8751 | ✓ | ✓ |
+| m | 8610 | ✓ | ✓ |
+| o | 8583 | ✓ | ✓ |
+| t | 7845 | ✓ | ✓ |
+| r | 7807 | ✓ | ✓ |
+| ɛ | 6809 | ✓ | ✓ |
+| e | 6490 | ✓ | ✓ |
+| s | 6136 | ✓ | ✓ |
+| ɪ | 3678 | ✓ | ✓ |
+| k | 3503 | ✓ | ✓ |
+| v | 3378 | ✓ | ✓ |
+| ŋ | 3363 | ✓ | ✓ |
 | ɣ | 2647 | ✓ | ✓ |
-| x | 2525 | ✓ | ✓ |
+| x | 2554 | ✓ | ✓ |
 | ⁿb | 2417 | ✓ | ✓ |
-| p | 1825 | ✓ | ✓ |
+| p | 1867 | ✓ | ✓ |
 | h | 1742 | ✓ | ✓ |
-| w | 1638 | ✓ | ✓ |
-| ⁿd | 1545 | ✓ | ✓ |
+| w | 1657 | ✓ | ✓ |
+| ⁿd | 1561 | ✓ | ✓ |
+| ə | 1193 | ✓ | ✓ |
 | ⁿg | 1192 | ✓ | ✓ |
-| ə | 1154 | ✓ | ✓ |
 | β | 948 | ✓ | ✓ |
-| f | 910 | ✓ | ✓ |
-| ɾ | 910 | ✓ | ✓ |
-| b | 839 | ✓ | ✓ |
-| mʷ | 805 | ✓ | ✓ |
+| ɾ | 943 | ✓ | ✓ |
+| f | 916 | ✓ | ✓ |
+| b | 852 | ✓ | ✓ |
+| mʷ | 806 | ✓ | ✓ |
 | tʃ | 701 | ✓ | ✓ |
 | ɔ | 687 | ✓ | ✓ |
-| ɸ | 662 | ✓ | ✓ |
+| ɸ | 663 | ✓ | ✓ |
 | ʊ | 574 | ✓ | ✓ |
-| g | 543 | ✓ | ✓ |
+| g | 547 | ✓ | ✓ |
 | ⁿdʳ | 476 | ✓ | ✓ |
 | ⁿbʷ | 430 | ✓ | ✓ |
 | æ | 407 | ✓ | ✓ |
 | ʉ | 346 | ✓ | ✓ |
-| d | 340 | ✓ | ✓ |
+| d | 341 | ✓ | ✓ |
 | ʔ | 299 | ✓ | ✓ |
 | ⁿʙ | 263 | ✓ | ✓ |
 | ts | 243 | ✓ | ✓ |
 | ð | 228 | ✓ | ✓ |
 | j | 206 | ✓ | ✓ |
-| vʷ | 172 | ✓ | ✓ |
+| vʷ | 173 | ✓ | ✓ |
 | z | 162 | ✓ | ✓ |
 | ʃ | 158 | ✓ | ✓ |
 | aː | 152 | ✓ | ✓ |
 | ⁿgʷ | 143 | ✓ | ✓ |
 | n̼ | 137 | ✓ | ✓ |
 | ŋʷ | 120 | ✓ | ✓ |
+| c | 108 | ✓ | ✓ |
 | kʷ | 108 | ✓ | ✓ |
-| c | 92 | ✓ | ✓ |
 | ⁿʒ | 92 | ✓ | ✓ |
 | ð̼ | 88 | ✓ | ✓ |
 | pʷ | 85 | ✓ | ✓ |
-| bʷ | 81 | ✓ | ✓ |
+| bʷ | 82 | ✓ | ✓ |
 | ʰ/h | 78 | ✓ | ✓ |
+| fʷ | 72 | ✓ | ✓ |
 | k̚ | 72 | ✓ | ✓ |
-| fʷ | 71 | ✓ | ✓ |
 | βʷ | 70 | ✓ | ✓ |
 | xʷ | 68 | ✓ | ✓ |
 | ɸʷ | 65 | ✓ | ✓ |
@@ -89,10 +89,10 @@
 | u̥ | 33 | ✓ | ✓ |
 | aˑ | 31 | ✓ | ✓ |
 | ʙ | 31 | ✓ | ✓ |
+| oː | 28 | ✓ | ✓ |
 | ĩ | 28 | ✓ | ✓ |
 | nʰ | 26 | ✓ | ✓ |
 | ɐ | 26 | ✓ | ✓ |
-| oː | 25 | ✓ | ✓ |
 | uː | 25 | ✓ | ✓ |
 | χ | 23 | ✓ | ✓ |
 | nʷ | 22 | ✓ | ✓ |
@@ -101,27 +101,27 @@
 | õ | 19 | ✓ | ✓ |
 | i̥ | 17 | ✓ | ✓ |
 | ẽ | 17 | ✓ | ✓ |
+| <<ʷ>> | 16 | ? | ? |
 | iː | 15 | ✓ | ✓ |
+| <<ʲ>> | 14 | ? | ? |
 | rʷ | 14 | ✓ | ✓ |
 | ũ | 14 | ✓ | ✓ |
-| <<ʷ>> | 13 | ? | ? |
+| ⁿ/n | 14 | ✓ | ✓ |
 | gʷ | 13 | ✓ | ✓ |
-| ⁿ/n | 13 | ✓ | ✓ |
 | ⁿp | 13 | ✓ | ✓ |
+| tʷ | 12 | ✓ | ✓ |
 | vʰ | 12 | ✓ | ✓ |
 | ĭ | 12 | ✓ | ✓ |
-| <<ʲ>> | 11 | ? | ? |
 | o̥ | 11 | ✓ | ✓ |
 | ɣʷ | 11 | ✓ | ✓ |
-| tʷ | 10 | ✓ | ✓ |
 | ɑ | 10 | ✓ | ✓ |
 | ɰʷ | 10 | ✓ | ✓ |
+| ʷ/w | 10 | ✓ | ✓ |
 | eː | 9 | ✓ | ✓ |
 | ˀ/ʔ | 9 | ✓ | ✓ |
 | dᵗ/d | 8 | ✓ | ✓ |
 | ə̆ | 8 | ✓ | ✓ |
 | ɺ | 8 | ✓ | ✓ |
-| ʷ/w | 8 | ✓ | ✓ |
 | e̥ | 7 | ✓ | ✓ |
 | y/j | 7 | ✓ | ✓ |
 | ŋʲ | 7 | ✓ | ✓ |
@@ -244,7 +244,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------------------------------|:--------------------------|:--------------------------------------|:------------------|:----------------------------------------------|
+|:-------------------------------------------------------|:--------------------------|:--------------------------------------|:--------------------|:---------------------------------------------------|
 | Atchinmainland-237_son_in_law-1 | Atchinmainland | 237_son_in_law | teuʷen | t e u <s> <<ʷ>> </s> e n |
 | Atchinmainland-247_traditional_dreamer-1 | Atchinmainland | 247_traditional_dreamer | mʷeɾep ci ɾomɪʲan | mʷ e ɾ e p + c i + ɾ o m ɪ <s> <<ʲ>> </s> a n |
 | Atchinmainland-253_east-1 | Atchinmainland | 253_east | nambʊʷe | n a m b ʊ <s> <<ʷ>> </s> e |
@@ -267,6 +267,12 @@
 | Batarxopubenut-453_taro_terrace-1 | Batarxopubenut | 453_taro_terrace | nɶut na taro | n <s> <<ɶ>> </s> u t + n a + t a r o |
 | Batarxopulembilmbil-450_sun-1 | Batarxopulembilmbil | 450_sun | niʲal | n i <s> <<ʲ>> </s> a l |
 | Batarxopulembilmbil-485_taro_wet-1 | Batarxopulembilmbil | 485_taro_wet | mbuʷak | m b u <s> <<ʷ>> </s> a k |
+| Maluabaycoast-197_amniotic_fluid-1 | Maluabaycoast | 197_amniotic_fluid | nuʷa ne ⁿdixpis | n u <s> <<ʷ>> </s> a + n e + ⁿd i x p i s |
+| Maluabaycoast-198_ancestor-1 | Maluabaycoast | 198_ancestor | nemeɾe tuʷe | n e m e ɾ e + t u <s> <<ʷ>> </s> e |
+| Maluabaycoast-251_earth_oven-1 | Maluabaycoast | 251_earth_oven | nuʷal ne nelok | n u <s> <<ʷ>> </s> a l + n e + n e l o k |
+| Maluabaycoast-341_mother_in_law-1 | Maluabaycoast | 341_mother_in_law | lextiʲe | l e x t i <s> <<ʲ>> </s> e |
+| Maluabaycoast-475_direction_inland-1 | Maluabaycoast | 475_direction_inland | xaviʲel mboɾo lames | x a v i <s> <<ʲ>> </s> e l + m b o ɾ o + l a m e s |
+| Maluabaycoast-476_direction_sea-1 | Maluabaycoast | 476_direction_sea | xaviʲel leltas | x a v i <s> <<ʲ>> </s> e l + l e l t a s |
 | Mandrifaru-113_roadpath-1 | Mandrifaru | 113_roadpath | nɪ--sal | n ɪ + + s a l |
 | Mandrifaru-129_dirty-1 | Mandrifaru | 129_dirty | naslo--mɛrmɛɾ | n a s l o + + m ɛ r m ɛ ɾ |
 | Mandrifaru-160_see-1 | Mandrifaru | 160_see | ᵑgaᵐʙu--rusi | ⁿg a ⁿʙ u + + r u s i |
@@ -294,6 +300,6 @@
 | Walaworprev-139_come-1 | Walaworprev | 139_come | usə--ᵐbʷɛl | u s ə + + ⁿbʷ ɛ l |
 | Wowolesarmalas-11_twenty-1 | Wowolesarmalas | 11_twenty | hovul -rue | h o v u l + + r u e |
 
-(48 rows)
+(54 rows)
 
 
