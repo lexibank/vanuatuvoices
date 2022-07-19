@@ -214,6 +214,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 232_cyclone,cyclone,,,,,The physical world
 234_daughter,daughter,1357,DAUGHTER,,gel,Kinship
 235_daughter_in_law,daughter in law,1057,DAUGHTER-IN-LAW,,,Kinship
+236_granddaughter_daughter,granddaughter daughter,,,,,Kinship
 237_son_in_law,son in law,1056,SON-IN-LAW,,,Kinship
 238_grandson_daughter,grandson daughter,,,,,Kinship
 239_grandchild_daughter,grandchild daughter,2703,GRANDCHILD (DAUGHTER'S OFFSPRING),,,Kinship
@@ -258,6 +259,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 298_grandfather_maternal,grandfather maternal,2178,MATERNAL GRANDFATHER,,,Kinship
 299_grandmother_maternal,grandmother maternal,2177,MATERNAL GRANDMOTHER,,,Kinship
 300_grandson_son,grandson son,,,,,Kinship
+301_young_coconut,young coconut,,,,,Agriculture and vegetation
 303_half_moon,half moon,,,haf mun,,The physical world
 304_heart,heart,1223,HEART,,hat,The body
 310_mother_in_law_of_woman,mother in law of woman,,,,,Kinship
@@ -294,7 +296,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 356_first_cousin_male_maternal_aunt_younger,first cousin male maternal aunt younger,,,,,Kinship
 357_penis_sheath,penis sheath,,,,,
 360_piercing_nose,piercing nose,,,,,
+363_nephew_sororal,nephew sororal,,,,,Kinship
 364_new_moon,new moon,3691,NEW MOON,niu mun,,The physical world
+365_niece_sororal,niece sororal,,,,,Kinship
 367_nineteen,nineteen,1714,NINETEEN,,naentin,Quantity
 368_ninety,ninety,1724,NINETY,,naen siro,Quantity
 370_north,north,1598,NORTH,not,,Spatial relations
@@ -345,6 +349,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 453_taro_terrace,taro terrace,,,,,
 459_thirteen,thirteen,1708,THIRTEEN,,tatin,Quantity
 460_thirty,thirty,1715,THIRTY,,tate,Quantity
+461_tsunami,tsunami,,,,,
 462_chief_ceremony,chief ceremony,,,,,
 467_deaden_ones_thoughts,deaden one's thoughts,,,,,
 474_wood_for_moving_stones,wood for moving stones,,,,,
