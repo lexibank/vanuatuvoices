@@ -5,106 +5,106 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 25513 | ✓ | ✓ |
-| + | 15818 | ✓ | ✓ |
-| n | 15070 | ✓ | ✓ |
-| i | 13992 | ✓ | ✓ |
-| u | 9694 | ✓ | ✓ |
-| l | 8857 | ✓ | ✓ |
-| m | 8718 | ✓ | ✓ |
-| o | 8618 | ✓ | ✓ |
-| t | 7921 | ✓ | ✓ |
-| r | 7818 | ✓ | ✓ |
-| ɛ | 6810 | ✓ | ✓ |
-| e | 6574 | ✓ | ✓ |
-| s | 6182 | ✓ | ✓ |
-| ɪ | 3680 | ✓ | ✓ |
-| k | 3519 | ✓ | ✓ |
-| ŋ | 3413 | ✓ | ✓ |
-| v | 3385 | ✓ | ✓ |
+| a | 25666 | ✓ | ✓ |
+| + | 15820 | ✓ | ✓ |
+| n | 15135 | ✓ | ✓ |
+| i | 14104 | ✓ | ✓ |
+| u | 9742 | ✓ | ✓ |
+| l | 8931 | ✓ | ✓ |
+| m | 8810 | ✓ | ✓ |
+| o | 8664 | ✓ | ✓ |
+| t | 7975 | ✓ | ✓ |
+| r | 7826 | ✓ | ✓ |
+| ɛ | 6816 | ✓ | ✓ |
+| e | 6631 | ✓ | ✓ |
+| s | 6222 | ✓ | ✓ |
+| ɪ | 3692 | ✓ | ✓ |
+| k | 3584 | ✓ | ✓ |
+| ŋ | 3448 | ✓ | ✓ |
+| v | 3388 | ✓ | ✓ |
 | ɣ | 2647 | ✓ | ✓ |
-| x | 2565 | ✓ | ✓ |
+| x | 2574 | ✓ | ✓ |
 | ⁿb | 2417 | ✓ | ✓ |
-| p | 1889 | ✓ | ✓ |
-| h | 1758 | ✓ | ✓ |
-| w | 1664 | ✓ | ✓ |
-| ⁿd | 1578 | ✓ | ✓ |
-| ə | 1254 | ✓ | ✓ |
+| p | 1909 | ✓ | ✓ |
+| h | 1764 | ✓ | ✓ |
+| w | 1674 | ✓ | ✓ |
+| ⁿd | 1590 | ✓ | ✓ |
+| ə | 1296 | ✓ | ✓ |
 | ⁿg | 1192 | ✓ | ✓ |
-| ɾ | 972 | ✓ | ✓ |
+| ɾ | 1025 | ✓ | ✓ |
 | β | 948 | ✓ | ✓ |
-| f | 921 | ✓ | ✓ |
-| b | 875 | ✓ | ✓ |
-| mʷ | 806 | ✓ | ✓ |
+| f | 927 | ✓ | ✓ |
+| b | 895 | ✓ | ✓ |
+| mʷ | 807 | ✓ | ✓ |
 | tʃ | 701 | ✓ | ✓ |
 | ɔ | 687 | ✓ | ✓ |
-| ɸ | 674 | ✓ | ✓ |
-| ʊ | 575 | ✓ | ✓ |
-| g | 568 | ✓ | ✓ |
-| ⁿdʳ | 487 | ✓ | ✓ |
+| ɸ | 685 | ✓ | ✓ |
+| g | 580 | ✓ | ✓ |
+| ʊ | 579 | ✓ | ✓ |
+| ⁿdʳ | 490 | ✓ | ✓ |
 | ⁿbʷ | 430 | ✓ | ✓ |
-| æ | 417 | ✓ | ✓ |
+| æ | 419 | ✓ | ✓ |
+| d | 348 | ✓ | ✓ |
 | ʉ | 348 | ✓ | ✓ |
-| d | 347 | ✓ | ✓ |
 | ʔ | 299 | ✓ | ✓ |
 | ⁿʙ | 263 | ✓ | ✓ |
-| ts | 245 | ✓ | ✓ |
+| ts | 246 | ✓ | ✓ |
 | ð | 228 | ✓ | ✓ |
-| j | 220 | ✓ | ✓ |
+| j | 223 | ✓ | ✓ |
 | vʷ | 173 | ✓ | ✓ |
+| aː | 164 | ✓ | ✓ |
 | z | 162 | ✓ | ✓ |
-| aː | 161 | ✓ | ✓ |
 | ʃ | 158 | ✓ | ✓ |
 | ⁿgʷ | 143 | ✓ | ✓ |
 | n̼ | 137 | ✓ | ✓ |
 | ŋʷ | 120 | ✓ | ✓ |
 | c | 108 | ✓ | ✓ |
 | kʷ | 108 | ✓ | ✓ |
+| bʷ | 92 | ✓ | ✓ |
 | ⁿʒ | 92 | ✓ | ✓ |
-| bʷ | 89 | ✓ | ✓ |
 | ð̼ | 88 | ✓ | ✓ |
 | pʷ | 87 | ✓ | ✓ |
-| ʰ/h | 78 | ✓ | ✓ |
-| fʷ | 72 | ✓ | ✓ |
+| ʰ/h | 79 | ✓ | ✓ |
+| fʷ | 73 | ✓ | ✓ |
 | k̚ | 72 | ✓ | ✓ |
 | βʷ | 70 | ✓ | ✓ |
+| p̚ | 69 | ✓ | ✓ |
+| ɸʷ | 69 | ✓ | ✓ |
 | xʷ | 68 | ✓ | ✓ |
-| ɸʷ | 66 | ✓ | ✓ |
-| p̚ | 65 | ✓ | ✓ |
 | ʒ | 61 | ✓ | ✓ |
 | ⁿtʃ | 59 | ✓ | ✓ |
 | œ | 57 | ✓ | ✓ |
 | kʰ | 53 | ✓ | ✓ |
+| ʙ | 53 | ✓ | ✓ |
 | ⁿk | 52 | ✓ | ✓ |
-| ʙ | 46 | ✓ | ✓ |
+| t̚ | 45 | ✓ | ✓ |
+| ⁿt | 45 | ✓ | ✓ |
 | ã | 44 | ✓ | ✓ |
-| t̚ | 43 | ✓ | ✓ |
-| ⁿt | 42 | ✓ | ✓ |
 | tʰ | 41 | ✓ | ✓ |
 | ɬ | 41 | ✓ | ✓ |
 | ɲ | 41 | ✓ | ✓ |
 | lʷ | 39 | ✓ | ✓ |
 | ⁿts | 38 | ✓ | ✓ |
+| <<ʲ>> | 37 | ? | ? |
 | ⁿz | 37 | ✓ | ✓ |
 | kpʷ | 34 | ✓ | ✓ |
 | u̥ | 33 | ✓ | ✓ |
 | aˑ | 31 | ✓ | ✓ |
+| uː | 31 | ✓ | ✓ |
 | oː | 29 | ✓ | ✓ |
 | ĩ | 28 | ✓ | ✓ |
-| uː | 27 | ✓ | ✓ |
 | nʰ | 26 | ✓ | ✓ |
 | ɐ | 26 | ✓ | ✓ |
-| <<ʷ>> | 23 | ? | ? |
+| <<ʷ>> | 24 | ? | ? |
 | χ | 23 | ✓ | ✓ |
 | nʷ | 22 | ✓ | ✓ |
 | sʷ | 22 | ✓ | ✓ |
 | ɘ | 20 | ✓ | ✓ |
 | õ | 19 | ✓ | ✓ |
-| <<ʲ>> | 17 | ? | ? |
 | i̥ | 17 | ✓ | ✓ |
 | ẽ | 17 | ✓ | ✓ |
+| ⁿ/n | 16 | ✓ | ✓ |
 | iː | 15 | ✓ | ✓ |
-| ⁿ/n | 15 | ✓ | ✓ |
 | rʷ | 14 | ✓ | ✓ |
 | ũ | 14 | ✓ | ✓ |
 | gʷ | 13 | ✓ | ✓ |
@@ -114,11 +114,13 @@
 | ĭ | 12 | ✓ | ✓ |
 | o̥ | 11 | ✓ | ✓ |
 | ɣʷ | 11 | ✓ | ✓ |
+| ʷ/w | 11 | ✓ | ✓ |
 | ɑ | 10 | ✓ | ✓ |
 | ɰʷ | 10 | ✓ | ✓ |
-| ʷ/w | 10 | ✓ | ✓ |
 | eː | 9 | ✓ | ✓ |
 | ˀ/ʔ | 9 | ✓ | ✓ |
+| <<:>> | 8 | ? | ? |
+| <<̚>> | 8 | ? | ? |
 | dᵗ/d | 8 | ✓ | ✓ |
 | ə̆ | 8 | ✓ | ✓ |
 | ɺ | 8 | ✓ | ✓ |
@@ -146,11 +148,11 @@
 | rː | 4 | ✓ | ✓ |
 | ə̥ | 4 | ✓ | ✓ |
 | ɞ | 4 | ✓ | ✓ |
+| ɯ | 4 | ✓ | ✓ |
 | ʁ | 4 | ✓ | ✓ |
 | ʊ̥ | 4 | ✓ | ✓ |
 | ʋ | 4 | ✓ | ✓ |
 | ⁿtɕ | 4 | ✓ | ✓ |
-| <<:>> | 3 | ? | ? |
 | <<ʳ>> | 3 | ? | ? |
 | au | 3 | ✓ | ✓ |
 | eʲ/ei̯ | 3 | ✓ | ✓ |
@@ -162,7 +164,6 @@
 | ɔ̃ | 3 | ✓ | ✓ |
 | ɛː | 3 | ✓ | ✓ |
 | ɛ̃ | 3 | ✓ | ✓ |
-| ɯ | 3 | ✓ | ✓ |
 | ɾʷ | 3 | ✓ | ✓ |
 | ʌ | 3 | ✓ | ✓ |
 | θ | 3 | ✓ | ✓ |
@@ -230,7 +231,7 @@
 | ⁿs | 1 | ✓ | ✓ |
 | ⁿð | 1 | ✓ | ✓ |
 
-(224 rows)
+(225 rows)
 
 
 
@@ -285,21 +286,52 @@
 | Mandrifaru-65_louse-1 | Mandrifaru | 65_louse | na--ɣur | n a + + ɣ u r |
 | Mandrifaru-6_six-1 | Mandrifaru | 6_six | alɪmɪro--ʧkai | a l ɪ m ɪ r o + + tʃ k a i |
 | Mandrifarun-6_six-1 | Mandrifarun | 6_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
+| Markam-108_grass-1 | Markam | 108_grass | soxolʲa | s o x o l <s> <<ʲ>> </s> a |
+| Markam-116_red-1 | Markam | 116_red | ləmɛʲal | l ə m ɛ <s> <<ʲ>> </s> a l |
+| Markam-124_old-1 | Markam | 124_old | i:tʲan | i <s> <<:>> </s> t <s> <<ʲ>> </s> a n |
+| Markam-129_dirty-1 | Markam | 129_dirty | i:met̚ | i <s> <<:>> </s> m e t̚ |
+| Markam-131_heavy-1 | Markam | 131_heavy | imaɸ̚ | i m a ɸ <s> <<̚>> </s> |
+| Markam-13_onehundred-1 | Markam | 13_onehundred | aŋatsapm̚ | a ŋ a ts a p m <s> <<̚>> </s> |
+| Markam-148_flyverb-1 | Markam | 148_flyverb | iʲal | i <s> <<ʲ>> </s> a l |
+| Markam-153_yawn-1 | Markam | 153_yawn | matuɾiʲan | m a t u ɾ i <s> <<ʲ>> </s> a n |
+| Markam-171_split-1 | Markam | 171_split | kaŋaɾuʷel | k a ŋ a ɾ u <s> <<ʷ>> </s> e l |
+| Markam-172_dig-1 | Markam | 172_dig | ki:l | k i <s> <<:>> </s> l |
+| Markam-177_breathe-1 | Markam | 177_breathe | ŋaliʲantoŋ | ŋ a l i <s> <<ʲ>> </s> a n t o ŋ |
+| Markam-178_vomit-1 | Markam | 178_vomit | kiʲok | k i <s> <<ʲ>> </s> o k |
 | Markam-192_traditional_doctor_female-1 | Markam | 192_traditional_doctor_female | momona nəɾoxət mʙʳaɾinŋgxa | m o m o n a + n ə ɾ o x ə t + m ʙ <s> <<ʳ>> </s> a ɾ i n ŋ g x a |
+| Markam-195_all-1 | Markam | 195_all | iʲeɾmahmɛ | i <s> <<ʲ>> </s> e ɾ m a h m ɛ |
 | Markam-197_amniotic_fluid-1 | Markam | 197_amniotic_fluid | atneⁿdaɪʲaŋ | a t n e ⁿd a ɪ <s> <<ʲ>> </s> a ŋ |
 | Markam-198_ancestor-1 | Markam | 198_ancestor | mʙumnanje tuʷaʲer | m ʙ u m n a n j e + t u <s> <<ʷ>> </s> a <s> <<ʲ>> </s> e r |
+| Markam-19_weallexcl-1 | Markam | 19_weallexcl | kopm̚ | k o p m <s> <<̚>> </s> |
+| Markam-1_one-1 | Markam | 1_one | sapm̚ | s a p m <s> <<̚>> </s> |
+| Markam-212_to_bite-1 | Markam | 212_to_bite | kɪʲan | k ɪ <s> <<ʲ>> </s> a n |
 | Markam-213_magic-1 | Markam | 213_magic | ambʙʳ | a m b ʙ <s> <<ʳ>> </s> |
+| Markam-21_webothexcl-1 | Markam | 21_webothexcl | ŋgit̚naniɾuki | ŋ g i t <s> <<̚>> </s> n a n i ɾ u k i |
 | Markam-225_cave-1 | Markam | 225_cave | uʷalnanaɸ | u <s> <<ʷ>> </s> a l n a n a ɸ |
 | Markam-268_grandfather_paternal-1 | Markam | 268_grandfather_paternal | mbʙmtuʷaŋ | m b ʙ m t u <s> <<ʷ>> </s> a ŋ |
 | Markam-269_grandmother_paternal-1 | Markam | 269_grandmother_paternal | mbʙʷa | m b ʙ <s> <<ʷ>> </s> a |
+| Markam-27_theyall-1 | Markam | 27_theyall | ŋgoɾanixiʲeɾ | ŋ g o ɾ a n i x i <s> <<ʲ>> </s> e ɾ |
+| Markam-306_person-2 | Markam | 306_person | mut̚sapmi | m u t <s> <<̚>> </s> s a p m i |
+| Markam-315_know_understand-2 | Markam | 315_know_understand | sisiʲenʲan | s i s i <s> <<ʲ>> </s> e n <s> <<ʲ>> </s> a n |
 | Markam-324_woman_who_married_brother_of_dead_husband-1 | Markam | 324_woman_who_married_brother_of_dead_husband | nambeɾeɸlehe mʊ:tə nambʷsapm | n a m b e ɾ e ɸ l e h e + m ʊ <s> <<:>> </s> t ə + n a m bʷ s a p m |
+| Markam-392_sick-1 | Markam | 392_sick | iɾəʲaɾ | i ɾ ə <s> <<ʲ>> </s> a ɾ |
 | Markam-410_rainbow-1 | Markam | 410_rainbow | əʲano | ə <s> <<ʲ>> </s> a n o |
+| Markam-426_short-1 | Markam | 426_short | imʊ:t | i m ʊ <s> <<:>> </s> t |
 | Markam-438_south-1 | Markam | 438_south | welⁿdʳʉ:n | w e l ⁿdʳ ʉ <s> <<:>> </s> n |
+| Markam-447_straight-1 | Markam | 447_straight | iʲaⁿdɾəʲaⁿdʳ | i <s> <<ʲ>> </s> a ⁿd ɾ ə <s> <<ʲ>> </s> a ⁿdʳ |
 | Markam-453_taro_terrace-1 | Markam | 453_taro_terrace | autnanambʷelamʙəʷaŋ | a u t n a n a m bʷ e l a m ʙ ə <s> <<ʷ>> </s> a ŋ |
+| Markam-457_thin-1 | Markam | 457_thin | imeɾiɸɾiɸ̚ | i m e ɾ i ɸ ɾ i ɸ <s> <<̚>> </s> |
+| Markam-458_to_think-1 | Markam | 458_to_think | kəsəʲentak | k ə s ə <s> <<ʲ>> </s> e n t a k |
+| Markam-464_to_chew-1 | Markam | 464_to_chew | kiʲan | k i <s> <<ʲ>> </s> a n |
 | Markam-475_direction_inland-1 | Markam | 475_direction_inland | aɾəsanan mbutəʷan | a ɾ ə s a n a n + m b u t ə <s> <<ʷ>> </s> a n |
 | Markam-476_direction_sea-1 | Markam | 476_direction_sea | ɾəsænan tatasuʷe | ɾ ə s æ n a n + t a t a s u <s> <<ʷ>> </s> e |
 | Markam-478_umbilical_cord-1 | Markam | 478_umbilical_cord | mʙʳətanoŋ | m ʙ <s> <<ʳ>> </s> ə t a n o ŋ |
+| Markam-55_skin-1 | Markam | 55_skin | i:pmin | i <s> <<:>> </s> p m i n |
+| Markam-62_fish-1 | Markam | 62_fish | winiʲek | w i n i <s> <<ʲ>> </s> e k |
+| Markam-71_wing-1 | Markam | 71_wing | mbʷiʲan | m bʷ i <s> <<ʲ>> </s> a n |
+| Markam-75_child-1 | Markam | 75_child | at̚niⁿda | a t <s> <<̚>> </s> n i ⁿd a |
 | Markam-79_husband-1 | Markam | 79_husband | i:tana | i <s> <<:>> </s> t a n a |
+| Markam-8_eight-1 | Markam | 8_eight | sʲetl | s <s> <<ʲ>> </s> e t l |
 | Nahaaimalfaxal-146_climb-1 | Nahaaimalfaxal | 146_climb | katon--hax | k a t o n + + h a x |
 | Nasvangfarun-6_six-1 | Nasvangfarun | 6_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
 | Nindelabo-67_spider-1 | Nindelabo | 67_spider | na- taðe | n a + + t a ð e |
@@ -317,6 +349,6 @@
 | Walaworprev-139_come-1 | Walaworprev | 139_come | usə--ᵐbʷɛl | u s ə + + ⁿbʷ ɛ l |
 | Wowolesarmalas-11_twenty-1 | Wowolesarmalas | 11_twenty | hovul -rue | h o v u l + + r u e |
 
-(69 rows)
+(100 rows)
 
 
