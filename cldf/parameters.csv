@@ -244,6 +244,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 264_first_cousin_male_paternal_uncle,first cousin male paternal uncle,,,,,Kinship
 265_first_cousin_male_paternal_uncle_older,first cousin male paternal uncle older,,,,,Kinship
 266_first_cousin_male_paternal_uncle_younger,first cousin male paternal uncle younger,,,,,Kinship
+267_first_cousin_paternal_uncle,first cousin paternal uncle,,,,,Kinship
 268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,,,Kinship
 269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,,,Kinship
 273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),,,Kinship
@@ -264,6 +265,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 290_full_moon,full moon,3690,FULL MOON,ful mun,,The physical world
 291_garden,garden,586,GARDEN,,karen,Agriculture and vegetation
 296_granddaughter_son,granddaughter son,,,,,Kinship
+297_grandfather,grandfather,1383,GRANDFATHER,,,Kinship
 298_grandfather_maternal,grandfather maternal,2178,MATERNAL GRANDFATHER,,,Kinship
 299_grandmother_maternal,grandmother maternal,2177,MATERNAL GRANDMOTHER,,,Kinship
 300_grandson_son,grandson son,,,,,Kinship
