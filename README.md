@@ -26,13 +26,13 @@ Available online at https://vanuatuvoices.clld.org
 
 - **Varieties:** 175
 - **Concepts:** 407
-- **Lexemes:** 31,516
+- **Lexemes:** 31,600
 - **Sources:** 2
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 191,470
+- **Tokens:** 192,031
 - **Segments:** 226 (7 BIPA errors, 7 CTLS sound class errors, 218 CLTS modified)
-- **Inventory size (avg):** 43.46
+- **Inventory size (avg):** 43.47
 
 # Contributors
 
