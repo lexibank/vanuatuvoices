@@ -193,6 +193,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 192_traditional_doctor_female,traditional doctor female,,,,,
 194_afterlife,afterlife,,,,,
 195_all,all,98,ALL,,,Quantity
+196_everyone,everyone,,,,,
 197_amniotic_fluid,amniotic fluid,,,,,
 198_ancestor,ancestor,,,,,
 199_and,and,1577,AND,,,Cognition
@@ -332,6 +333,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 384_niece_sororal_older,niece sororal older,,,,,Kinship
 385_nephew_sororal_older,nephew sororal older,,,,,Kinship
 389_owl,owl,735,OWL,,,Animals
+391_pain,pain,2561,HURT (SENSE PAIN),,,Sense perception
 392_sick,sick,1847,SICK,,,The body
 395_peace_ceremony,peace ceremony,,,,,
 396_pig,pig,1337,PIG,,pik,Animals
@@ -348,6 +350,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 411_rainy_season,rainy season,453,RAINY SEASON,taem blong ren,,Time
 413_restricted_place,restricted place,,,,,
 414_restriction_taboo,restriction taboo,,,,,
+415_river,river,666,RIVER,,,The physical world
 416_road,road,2457,PATH OR ROAD,,,Motion
 418_sailing_canoe,sailing canoe,,,,,
 419_salt,salt,1274,SALT,,,Food and drink
@@ -361,6 +364,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 429_sit_down,sit down,1649,SIT DOWN,,,Motion
 430_sixteen,sixteen,2454,SIXTEEN,,sikstin,Quantity
 431_sixty,sixty,1718,SIXTY,,siksti,Quantity
+434_sniff,sniff,375,SNIFF,,,Sense perception
 435_son,son,1620,SON,,boe,Kinship
 436_grandchild_son,grandchild son,,,,,Kinship
 437_grandchild,grandchild,1617,GRANDCHILD,,smolbubu,Kinship
@@ -388,15 +392,18 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 465_to_choose,to choose,1750,CHOOSE,,,Emotions and values
 466_to_close,to close,,,,,
 467_deaden_ones_thoughts,deaden one's thoughts,,,,,
+469_to_see,to see,1819,LOOK,,,Sense perception
 474_wood_for_moving_stones,wood for moving stones,,,,,
 475_direction_inland,direction inland,,,,,
 476_direction_sea,direction sea,,,,,
 477_twelve,twelve,1707,TWELVE,,twelef,Quantity
 478_umbilical_cord,umbilical cord,,,,,
 480_under,under,1485,BELOW OR UNDER,,,Spatial relations
+483_hot,hot,2272,HOT OR WARM,,,Sense perception
 485_taro_wet,taro wet,,,,wota taro,Agriculture and vegetation
 487_wedding,wedding,1259,WEDDING,,mared,Kinship
 488_west,west,1817,WEST,,wes,Spatial relations
+489_wide,wide,1243,WIDE,,,Spatial relations
 492_taro_wild,taro wild,,,,wael taro,Agriculture and vegetation
 493_yam_wild,yam wild,,,,wael yam,Agriculture and vegetation
 495_female_chief,female chief,,,,,Social and political relations

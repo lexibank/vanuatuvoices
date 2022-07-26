@@ -5,38 +5,38 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 26891 | ✓ | ✓ |
-| + | 16588 | ✓ | ✓ |
-| n | 16084 | ✓ | ✓ |
-| i | 14643 | ✓ | ✓ |
-| u | 10139 | ✓ | ✓ |
-| l | 9562 | ✓ | ✓ |
-| m | 9350 | ✓ | ✓ |
-| o | 9251 | ✓ | ✓ |
-| t | 8481 | ✓ | ✓ |
-| r | 8123 | ✓ | ✓ |
-| e | 7697 | ✓ | ✓ |
+| a | 27051 | ✓ | ✓ |
+| + | 16627 | ✓ | ✓ |
+| n | 16226 | ✓ | ✓ |
+| i | 14692 | ✓ | ✓ |
+| u | 10196 | ✓ | ✓ |
+| l | 9618 | ✓ | ✓ |
+| m | 9421 | ✓ | ✓ |
+| o | 9350 | ✓ | ✓ |
+| t | 8520 | ✓ | ✓ |
+| r | 8137 | ✓ | ✓ |
+| e | 7811 | ✓ | ✓ |
 | ɛ | 6821 | ✓ | ✓ |
-| s | 6571 | ✓ | ✓ |
-| k | 3909 | ✓ | ✓ |
+| s | 6633 | ✓ | ✓ |
+| k | 3930 | ✓ | ✓ |
+| ŋ | 3710 | ✓ | ✓ |
 | ɪ | 3706 | ✓ | ✓ |
-| v | 3685 | ✓ | ✓ |
-| ŋ | 3684 | ✓ | ✓ |
-| x | 2794 | ✓ | ✓ |
+| v | 3704 | ✓ | ✓ |
+| x | 2859 | ✓ | ✓ |
 | ɣ | 2647 | ✓ | ✓ |
 | ⁿb | 2417 | ✓ | ✓ |
-| p | 2065 | ✓ | ✓ |
-| w | 1798 | ✓ | ✓ |
+| p | 2066 | ✓ | ✓ |
+| w | 1807 | ✓ | ✓ |
 | h | 1790 | ✓ | ✓ |
-| ⁿd | 1631 | ✓ | ✓ |
-| ə | 1437 | ✓ | ✓ |
+| ⁿd | 1634 | ✓ | ✓ |
+| ə | 1444 | ✓ | ✓ |
+| ɾ | 1241 | ✓ | ✓ |
 | ⁿg | 1192 | ✓ | ✓ |
-| ɾ | 1183 | ✓ | ✓ |
-| b | 1089 | ✓ | ✓ |
-| f | 980 | ✓ | ✓ |
+| b | 1117 | ✓ | ✓ |
+| f | 989 | ✓ | ✓ |
 | β | 948 | ✓ | ✓ |
-| mʷ | 823 | ✓ | ✓ |
-| ɸ | 729 | ✓ | ✓ |
+| mʷ | 824 | ✓ | ✓ |
+| ɸ | 736 | ✓ | ✓ |
 | tʃ | 701 | ✓ | ✓ |
 | ɔ | 687 | ✓ | ✓ |
 | g | 600 | ✓ | ✓ |
@@ -44,15 +44,15 @@
 | ⁿdʳ | 490 | ✓ | ✓ |
 | ⁿbʷ | 430 | ✓ | ✓ |
 | æ | 422 | ✓ | ✓ |
-| d | 390 | ✓ | ✓ |
+| d | 392 | ✓ | ✓ |
 | ʉ | 361 | ✓ | ✓ |
 | ʔ | 299 | ✓ | ✓ |
 | ⁿʙ | 263 | ✓ | ✓ |
-| j | 257 | ✓ | ✓ |
+| j | 258 | ✓ | ✓ |
+| c | 252 | ✓ | ✓ |
 | ts | 246 | ✓ | ✓ |
-| c | 232 | ✓ | ✓ |
-| ð | 230 | ✓ | ✓ |
-| vʷ | 174 | ✓ | ✓ |
+| ð | 236 | ✓ | ✓ |
+| vʷ | 177 | ✓ | ✓ |
 | aː | 165 | ✓ | ✓ |
 | z | 162 | ✓ | ✓ |
 | ʃ | 158 | ✓ | ✓ |
@@ -62,10 +62,10 @@
 | kʷ | 108 | ✓ | ✓ |
 | bʷ | 107 | ✓ | ✓ |
 | pʷ | 102 | ✓ | ✓ |
+| ð̼ | 94 | ✓ | ✓ |
 | ⁿʒ | 92 | ✓ | ✓ |
-| ð̼ | 88 | ✓ | ✓ |
+| fʷ | 79 | ✓ | ✓ |
 | ʰ/h | 79 | ✓ | ✓ |
-| fʷ | 74 | ✓ | ✓ |
 | xʷ | 74 | ✓ | ✓ |
 | k̚ | 72 | ✓ | ✓ |
 | ɸʷ | 71 | ✓ | ✓ |
@@ -75,13 +75,13 @@
 | lʷ | 60 | ✓ | ✓ |
 | ⁿtʃ | 59 | ✓ | ✓ |
 | œ | 57 | ✓ | ✓ |
+| <<ʷ>> | 55 | ? | ? |
+| <<ʲ>> | 54 | ? | ? |
 | kʰ | 53 | ✓ | ✓ |
 | ʙ | 53 | ✓ | ✓ |
-| <<ʷ>> | 52 | ? | ? |
 | ⁿk | 52 | ✓ | ✓ |
 | ⁿt | 47 | ✓ | ✓ |
 | t̚ | 45 | ✓ | ✓ |
-| <<ʲ>> | 44 | ? | ? |
 | ã | 44 | ✓ | ✓ |
 | tʰ | 41 | ✓ | ✓ |
 | ɬ | 41 | ✓ | ✓ |
@@ -100,20 +100,21 @@
 | χ | 23 | ✓ | ✓ |
 | nʷ | 22 | ✓ | ✓ |
 | ɘ | 22 | ✓ | ✓ |
+| <<̼>> | 20 | ? | ? |
 | tʷ | 19 | ✓ | ✓ |
 | õ | 19 | ✓ | ✓ |
 | ⁿ/n | 19 | ✓ | ✓ |
 | rʷ | 18 | ✓ | ✓ |
 | i̥ | 17 | ✓ | ✓ |
 | ẽ | 17 | ✓ | ✓ |
+| ʷ/w | 16 | ✓ | ✓ |
 | iː | 15 | ✓ | ✓ |
-| ʷ/w | 15 | ✓ | ✓ |
 | ũ | 14 | ✓ | ✓ |
+| <<̚>> | 13 | ? | ? |
 | gʷ | 13 | ✓ | ✓ |
 | ⁿp | 13 | ✓ | ✓ |
 | vʰ | 12 | ✓ | ✓ |
 | ĭ | 12 | ✓ | ✓ |
-| <<̚>> | 11 | ? | ? |
 | eː | 11 | ✓ | ✓ |
 | o̥ | 11 | ✓ | ✓ |
 | ɣʷ | 11 | ✓ | ✓ |
@@ -124,11 +125,11 @@
 | dᵗ/d | 8 | ✓ | ✓ |
 | ə̆ | 8 | ✓ | ✓ |
 | ɺ | 8 | ✓ | ✓ |
+| ɾʷ | 8 | ✓ | ✓ |
 | e̥ | 7 | ✓ | ✓ |
 | lʰ | 7 | ✓ | ✓ |
 | y/j | 7 | ✓ | ✓ |
 | ŋʲ | 7 | ✓ | ✓ |
-| ɾʷ | 7 | ✓ | ✓ |
 | dʳ | 6 | ✓ | ✓ |
 | eʲ/ei̯ | 6 | ✓ | ✓ |
 | pʰ | 6 | ✓ | ✓ |
@@ -232,7 +233,7 @@
 | ⁿs | 1 | ✓ | ✓ |
 | ⁿð | 1 | ✓ | ✓ |
 
-(226 rows)
+(227 rows)
 
 
 
@@ -335,15 +336,15 @@
 | Markam-8_eight-1 | Markam | 8_eight | sʲetl | s <s> <<ʲ>> </s> e t l |
 | Nahaaimalfaxal-146_climb-1 | Nahaaimalfaxal | 146_climb | katon--hax | k a t o n + + h a x |
 | Nasvangfarun-6_six-1 | Nasvangfarun | 6_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
+| Nese-140_walk-1 | Nese | 140_walk | vʷiʲal | vʷ i <s> <<ʲ>> </s> a l |
+| Nese-163_laugh-1 | Nese | 163_laugh | neŋeɾsiʲan | n e ŋ e ɾ s i <s> <<ʲ>> </s> a n |
+| Nese-188_cook-1 | Nese | 188_cook | notutuniʲan | n o t u t u n i <s> <<ʲ>> </s> a n |
+| Nese-322_leaves_for_house-1 | Nese | 322_leaves_for_house | noɾoʲat | n o ɾ o <s> <<ʲ>> </s> a t |
+| Nese-429_sit_down-1 | Nese | 429_sit_down | iʲat | i <s> <<ʲ>> </s> a t |
+| Nese-448_suck-1 | Nese | 448_suck | cum nuʷa | c u m + n u <s> <<ʷ>> </s> a |
+| Nese-46_tongue-1 | Nese | 46_tongue | nem̼em̼em | n e m <s> <<̼>> </s> e m <s> <<̼>> </s> e m |
 | Nindelabo-67_spider-1 | Nindelabo | 67_spider | na- taðe | n a + + t a ð e |
 | Sivitinjavgonwar-116_red-1 | Sivitinjavgonwar | 116_red | i -mial | i + + m i a l |
-| Sivitinjavjericho-197_amniotic_fluid-1 | Sivitinjavjericho | 197_amniotic_fluid | nuʷa na lele ciblax | n u <s> <<ʷ>> </s> a + n a + l e l e + c i b l a x |
-| Sivitinjavjericho-198_ancestor-1 | Sivitinjavjericho | 198_ancestor | meɾetuʷe | m e ɾ e t u <s> <<ʷ>> </s> e |
-| Sivitinjavjericho-223_canoe-1 | Sivitinjavjericho | 223_canoe | nuʷak | n u <s> <<ʷ>> </s> a k |
-| Sivitinjavjericho-251_earth_oven-1 | Sivitinjavjericho | 251_earth_oven | nuʷel natop | n u <s> <<ʷ>> </s> e l + n a t o p |
-| Sivitinjavjericho-325_sun_shower-1 | Sivitinjavjericho | 325_sun_shower | ⁿdemas ilɜx | ⁿd e m a s + i l <s> <<ɜ>> </s> x |
-| Sivitinjavjericho-410_rainbow-1 | Sivitinjavjericho | 410_rainbow | nevijal sɜɾɜx | n e v i j a l + s <s> <<ɜ>> </s> ɾ <s> <<ɜ>> </s> x |
-| Sivitinjavjericho-418_sailing_canoe-1 | Sivitinjavjericho | 418_sailing_canoe | nuʷak naxpan | n u <s> <<ʷ>> </s> a k + n a x p a n |
 | Sivitinjavtanmililib-116_red-1 | Sivitinjavtanmililib | 116_red | i -mial | i + + m i a l |
 | Sivitinjavtanmililib2-11_twenty-1 | Sivitinjavtanmililib2 | 11_twenty | movil -ɾu | m o v i l + + ɾ u |
 | Tiraxolamb-11_twenty-1 | Tiraxolamb | 11_twenty | ŋovil -ru | ŋ o v i l + + r u |

@@ -21,18 +21,18 @@ Available online at https://vanuatuvoices.clld.org
 ![Glottolog: 84%](https://img.shields.io/badge/Glottolog-84%25-yellowgreen.svg "Glottolog: 84%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
-![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
+![BIPA: 96%](https://img.shields.io/badge/BIPA-96%25-green.svg "BIPA: 96%")
+![CLTS SoundClass: 96%](https://img.shields.io/badge/CLTS%20SoundClass-96%25-green.svg "CLTS SoundClass: 96%")
 
-- **Varieties:** 175
-- **Concepts:** 409
-- **Lexemes:** 32,205
+- **Varieties:** 176
+- **Concepts:** 416
+- **Lexemes:** 32,401
 - **Sources:** 2
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 198,721
-- **Segments:** 226 (7 BIPA errors, 7 CTLS sound class errors, 218 CLTS modified)
-- **Inventory size (avg):** 43.83
+- **Tokens:** 199,957
+- **Segments:** 227 (8 BIPA errors, 8 CTLS sound class errors, 218 CLTS modified)
+- **Inventory size (avg):** 43.80
 
 # Contributors
 
