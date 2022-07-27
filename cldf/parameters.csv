@@ -190,228 +190,228 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 189_shoot,shoot,1172,SHOOT,940-0,shutum,Warfare and hunting
 190_work,work,1086,WORK (ACTIVITY),950-0,wok,Basic actions and technology
 191_open,open,1156,OPEN,962-0,openem,Spatial relations
-192_traditional_doctor_female,traditional doctor female,,,,,
-194_afterlife,afterlife,,,,,
-195_all,all,98,ALL,,,Quantity
-196_everyone,everyone,,,,,
-197_amniotic_fluid,amniotic fluid,,,,,
-198_ancestor,ancestor,,,,,
-199_and,and,1577,AND,,,Cognition
-200_armband,armband,,,,,
-202_at,at,1461,AT,,,Spatial relations
+192_traditional_doctor_female,traditional doctor female,,,,woman we i stap mekem lif,
+194_afterlife,afterlife,,,,laef afta we man i ded,Religion and belief
+195_all,all,98,ALL,,evriwan,Quantity
+196_everyone,everyone,,,,evriwan,
+197_amniotic_fluid,amniotic fluid,,,,wota blong bebe,The body
+198_ancestor,ancestor,,,,bubu blong bifo,
+199_and,and,1577,AND,,mo,Cognition
+200_armband,armband,,,,tut blong pik we oli putum raonem han,
+202_at,at,1461,AT,,long,Spatial relations
 207_banana,banana,868,BANANA,,banana,Agriculture and vegetation
 208_banyan_tree,banyan tree,,,,nabanga,Agriculture and vegetation
-211_belly_button,belly button,3715,BELLYBUTTON,,,The body
-212_to_bite,to bite,1403,BITE,,,The body
-213_magic,magic,392,MAGIC,,,Religion and belief
-214_niece_fraternal,niece fraternal,,,,,Kinship
-216_breadfruit,breadfruit,2371,BREADFRUIT,,,Food and drink
-217_bride_price,bride price,,,,,
-220_nephew_fraternal,nephew fraternal,,,,,Kinship
+211_belly_button,belly button,3715,BELLYBUTTON,,nambiton,The body
+212_to_bite,to bite,1403,BITE,,kakae,The body
+213_magic,magic,392,MAGIC,,majik,Religion and belief
+214_niece_fraternal,niece fraternal,,,,anti,Kinship
+216_breadfruit,breadfruit,2371,BREADFRUIT,,bredfrut,Food and drink
+217_bride_price,bride price,3024,BRIDE PRICE,,braed praes/pem woman,Social and political relations
+220_nephew_fraternal,nephew fraternal,,,,boe blong mi (yu etc),Kinship
 223_canoe,canoe,1970,CANOE,,kenu,Motion
-224_casava,casava,,,,,Agriculture and vegetation
-225_cave,cave,1155,CAVE,,,The physical world
-226_ceremony_of_the_first_harvest,ceremony of the first harvest,,,,fes haves,
+224_casava,casava,,,,maniok,Agriculture and vegetation
+225_cave,cave,1155,CAVE,,keiv,The physical world
+226_ceremony_of_the_first_harvest,ceremony of the first harvest,,,,fes haves,Religion and belief
 227_chief,chief,301,CHIEFTAIN,,jif,Social and political relations
-228_clearing_in_front_of_chiefs_house,clearing in front of chief's house,,,,,
+228_clearing_in_front_of_chiefs_house,clearing in front of chief's house,,,,emti spes long fored blong haos blong jif,
 229_coconut,coconut,970,COCONUT,,kokonat,Agriculture and vegetation
-230_coconut_sprout,coconut sprout,,,,,Agriculture and vegetation
-232_cyclone,cyclone,,,,,The physical world
-234_daughter,daughter,1357,DAUGHTER,,gel,Kinship
-235_daughter_in_law,daughter in law,1057,DAUGHTER-IN-LAW,,,Kinship
-236_granddaughter_daughter,granddaughter daughter,,,,,Kinship
-237_son_in_law,son in law,1056,SON-IN-LAW,,,Kinship
-238_grandson_daughter,grandson daughter,,,,,Kinship
-239_grandchild_daughter,grandchild daughter,2703,GRANDCHILD (DAUGHTER'S OFFSPRING),,,Kinship
-242_spirit,spirit,53,SPIRIT,,,Religion and belief
-243_deep_ocean,deep ocean,,,,,The physical world
-247_traditional_dreamer,traditional dreamer,,,,,
-248_dry_season,dry season,452,DRY SEASON,,,Time
+230_coconut_sprout,coconut sprout,,,,kro blong kokonat,Agriculture and vegetation
+232_cyclone,cyclone,,,,saeklon,The physical world
+234_daughter,daughter,1357,DAUGHTER,,gel blong mi (yu etc),Kinship
+235_daughter_in_law,daughter in law,1057,DAUGHTER-IN-LAW,,tambu,Kinship
+236_granddaughter_daughter,granddaughter daughter,,,,apu gel,Kinship
+237_son_in_law,son in law,1056,SON-IN-LAW,,tambu,Kinship
+238_grandson_daughter,grandson daughter,,,,apu boe,Kinship
+239_grandchild_daughter,grandchild daughter,2703,GRANDCHILD (DAUGHTER'S OFFSPRING),,smol bubu gel/smol apu gel/,Kinship
+242_spirit,spirit,53,SPIRIT,,spirit,Religion and belief
+243_deep_ocean,deep ocean,,,,dip solwota,The physical world
+247_traditional_dreamer,traditional dreamer,,,,man blong lukluk rod,
+248_dry_season,dry season,452,DRY SEASON,,drae sisen/taem ples i drae,Time
 249_taro_dry,taro dry,,,,drae taro,Agriculture and vegetation
-250_ear_piercing,ear piercing,,,,,
-251_earth_oven,earth oven,,,,,Food and drink
-252_earthquake,earthquake,6,EARTHQUAKE,,etwek,The physical world
-253_east,east,1877,EAST,is,,Spatial relations
+250_ear_piercing,ear piercing,,,,stikim sorae,
+251_earth_oven,earth oven,,,,hol blong laplap,Food and drink
+252_earthquake,earthquake,6,EARTHQUAKE,,etkwek,The physical world
+253_east,east,1877,EAST,,is,Spatial relations
 254_eel,eel,1013,FRESHWATER EEL,,namarae,Animals
 255_eighteen,eighteen,1713,EIGHTEEN,,eitin,Quantity
 256_eighty,eighty,1722,EIGHTY,,eiti,Quantity
 257_eleven,eleven,1706,ELEVEN,,leven,Quantity
-258_fat,fat,1282,FAT (FROM ANIMALS),,,Food and drink
-259_uncle_paternal,uncle paternal,,,,,Kinship
-260_father_in_law,father in law,1055,FATHER-IN-LAW,,,Kinship
-261_father_in_law_of_woman,father in law of woman,2254,FATHER-IN-LAW (OF WOMAN),,,Kinship
-262_uncle_paternal_older,uncle paternal older,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER),,,Kinship
-263_first_cousin_female_paternal_uncle,first cousin female paternal uncle,,,,,Kinship
-264_first_cousin_male_paternal_uncle,first cousin male paternal uncle,,,,,Kinship
-265_first_cousin_male_paternal_uncle_older,first cousin male paternal uncle older,,,,,Kinship
-266_first_cousin_male_paternal_uncle_younger,first cousin male paternal uncle younger,,,,,Kinship
-267_first_cousin_paternal_uncle,first cousin paternal uncle,,,,,Kinship
-268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,,,Kinship
-269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,,,Kinship
-273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),,,Kinship
-274_aunt_paternal,aunt paternal,2175,PATERNAL AUNT,,,Kinship
-275_first_cousin_female_paternal_aunt,first cousin female paternal aunt,,,,,Kinship
-276_first_cousin_female_opposite_sex_sibling_to_parent,first cousin female opposite sex sibling to parent,,,,,Kinship
-277_first_cousin_male_paternal_aunt,first cousin male paternal aunt,,,,,Kinship
-279_first_cousin_male_opposite_sex_sibling_to_parent,first cousin male opposite sex sibling to parent,,,,,Kinship
-280_uncle_paternal_younger,uncle paternal younger,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),,,Kinship
-281_aunt_paternal_younger,aunt paternal younger,2171,PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER),,,Kinship
-283_female,female,2262,FEMALE (OF ANIMAL),,,Animals
-284_fifteen,fifteen,1709,FIFTEEN,,,Quantity
-285_fight,fight,2902,BRAWL (FIGHT),,,Basic actions and technology
-286_flow,flow,2003,FLOW,,,Motion
+258_fat,fat,1282,FAT (FROM ANIMALS),,kris,Food and drink
+259_uncle_paternal,uncle paternal,,,,papa,Kinship
+260_father_in_law,father in law,1055,FATHER-IN-LAW,,palika,Kinship
+261_father_in_law_of_woman,father in law of woman,2254,FATHER-IN-LAW (OF WOMAN),,palika,Kinship
+262_uncle_paternal_older,uncle paternal older,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER),,bigfala papa,Kinship
+263_first_cousin_female_paternal_uncle,first cousin female paternal uncle,,,,kasen sista/sista,Kinship
+264_first_cousin_male_paternal_uncle,first cousin male paternal uncle,,,,kasen brata/brata,Kinship
+265_first_cousin_male_paternal_uncle_older,first cousin male paternal uncle older,,,,bigfala kasen brata/bigfala brata,Kinship
+266_first_cousin_male_paternal_uncle_younger,first cousin male paternal uncle younger,,,,smol kasen brata/smol brata,Kinship
+267_first_cousin_paternal_uncle,first cousin paternal uncle,,,,kasen,Kinship
+268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,,bubu man/apu man,Kinship
+269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,,bubu woman/apu woman,Kinship
+273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),,bigfala anti,Kinship
+274_aunt_paternal,aunt paternal,2175,PATERNAL AUNT,,anti,Kinship
+275_first_cousin_female_paternal_aunt,first cousin female paternal aunt,,,,tawi,Kinship
+276_first_cousin_female_opposite_sex_sibling_to_parent,first cousin female opposite sex sibling to parent,,,,tawi/sister,Kinship
+277_first_cousin_male_paternal_aunt,first cousin male paternal aunt,,,,tawi,Kinship
+279_first_cousin_male_opposite_sex_sibling_to_parent,first cousin male opposite sex sibling to parent,,,,tawi/brata,Kinship
+280_uncle_paternal_younger,uncle paternal younger,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),,smol papa,Kinship
+281_aunt_paternal_younger,aunt paternal younger,2171,PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER),,smol anti,Kinship
+283_female,female,2262,FEMALE (OF ANIMAL),,woman,Animals
+284_fifteen,fifteen,1709,FIFTEEN,,fiftin,Quantity
+285_fight,fight,2902,BRAWL (FIGHT),,faet,Basic actions and technology
+286_flow,flow,2003,FLOW,,ron,Motion
 287_flying_fox,flying fox,,,,flaing foks,Animals
 288_fourteen,fourteen,2451,FOURTEEN,,fotin,Quantity
-289_forty,forty,1716,FORTY,,,Quantity
-290_full_moon,full moon,3690,FULL MOON,ful mun,,The physical world
+289_forty,forty,1716,FORTY,,foti,Quantity
+290_full_moon,full moon,3690,FULL MOON,,ful mun,The physical world
 291_garden,garden,586,GARDEN,,karen,Agriculture and vegetation
-296_granddaughter_son,granddaughter son,,,,,Kinship
-297_grandfather,grandfather,1383,GRANDFATHER,,,Kinship
-298_grandfather_maternal,grandfather maternal,2178,MATERNAL GRANDFATHER,,,Kinship
-299_grandmother_maternal,grandmother maternal,2177,MATERNAL GRANDMOTHER,,,Kinship
-300_grandson_son,grandson son,,,,,Kinship
-301_young_coconut,young coconut,,,,,Agriculture and vegetation
-302_to_grow,to grow,479,GROW,,,Spatial relations
-303_half_moon,half moon,,,haf mun,,The physical world
+296_granddaughter_son,granddaughter son,,,,apu gel,Kinship
+297_grandfather,grandfather,1383,GRANDFATHER,,bubu man/apu man,Kinship
+298_grandfather_maternal,grandfather maternal,2178,MATERNAL GRANDFATHER,,bubu man/apu man,Kinship
+299_grandmother_maternal,grandmother maternal,2177,MATERNAL GRANDMOTHER,,bubu woman/apu woman,Kinship
+300_grandson_son,grandson son,,,,apu boe,Kinship
+301_young_coconut,young coconut,,,,smol kokonat,Agriculture and vegetation
+302_to_grow,to grow,479,GROW,,kro,Spatial relations
+303_half_moon,half moon,,,,haf mun,The physical world
 304_heart,heart,1223,HEART,,hat,The body
-306_person,person,683,PERSON,,,Kinship
-310_mother_in_law_of_woman,mother in law of woman,,,,,Kinship
-311_if,if,1459,IF,,,Cognition
-312_initiation_male,initiation male,,,,,
-315_know_understand,know understand,1536,UNDERSTAND,,,Cognition
-316_sweet_potato,sweet potato,159,SWEET POTATO,,,Agriculture and vegetation
-317_traditional_medicine,traditional medicine,,,,,The body
-318_traditional_doctor_male,traditional doctor male,,,,,
-319_leaves_for_clothes,leaves for clothes,,,,,
-320_leaves_for_dance,leaves for dance,,,,,
-321_leaves_for_covering_oven,leaves for covering oven,,,,,
-322_leaves_for_house,leaves for house,,,,,
-323_leaves_for_making_mats,leaves for making mats,,,,,
-324_woman_who_married_brother_of_dead_husband,woman who married brother of dead husband,,,,,
-325_sun_shower,sun shower,,,,,
-326_lobster,lobster,2397,LOBSTER,,,Animals
-328_long,long,1203,LONG,,,Spatial relations
-329_magic_for_love,magic for love,,,,,Religion and belief
-332_gathering_house_for_men,gathering house for men,,,,,
-333_manioc,manioc,925,CASSAVA,,,Agriculture and vegetation
-334_mask,mask,2005,MASK,,,Clothing and grooming
-336_meat,meat,2615,FLESH OR MEAT,,,The body
-337_coconut_sprout_meat,coconut sprout meat,,,,,
-338_menstruation,menstruation,766,MENSTRUATION,,sik mun,The body
-340_fog,fog,249,FOG,,,The physical world
-341_mother_in_law,mother in law,1050,MOTHER-IN-LAW,,,Kinship
-342_uncle_maternal,uncle maternal,2694,MATERNAL UNCLE (HUSBAND OF ONE'S MATERNAL AUNT),,,Kinship
-343_first_cousin_male_maternal_uncle,first cousin male maternal uncle,,,,,Kinship
-344_first_cousin_female_maternal_uncle,first cousin female maternal uncle,,,,,Kinship
-346_uncle_maternal_older,uncle maternal older,3249,MATERNAL UNCLE (MOTHER'S OLDER BROTHER),,,Kinship
-347_aunt_maternal_older,aunt maternal older,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),,,Kinship
-348_aunt_maternal,aunt maternal,2693,MATERNAL AUNT (MOTHER'S SISTER),,,Kinship
-349_first_cousin_female_maternal_aunt_older,first cousin female maternal aunt older,,,,,Kinship
-350_first_cousin_female_maternal_aunt,first cousin female maternal aunt,,,,,Kinship
-351_first_cousin_male_maternal_aunt,first cousin male maternal aunt,,,,,Kinship
-354_uncle_maternal_younger,uncle maternal younger,3250,MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER),,,Kinship
-355_aunt_maternal_younger,aunt maternal younger,3043,MATERNAL AUNT (MOTHER'S YOUNGER SISTER),,,Kinship
-356_first_cousin_male_maternal_aunt_younger,first cousin male maternal aunt younger,,,,,Kinship
-357_penis_sheath,penis sheath,,,,,
-359_narrow,narrow,1267,NARROW,,,Spatial relations
-360_piercing_nose,piercing nose,,,,,
-362_needle,needle,1382,NEEDLE (FOR SEWING),,,Clothing and grooming
-363_nephew_sororal,nephew sororal,,,,,Kinship
-364_new_moon,new moon,3691,NEW MOON,niu mun,,The physical world
-365_niece_sororal,niece sororal,,,,,Kinship
+306_person,person,683,PERSON,,man,Kinship
+310_mother_in_law_of_woman,mother in law of woman,,,,palika,Kinship
+311_if,if,1459,IF,,sipos/sapos,Cognition
+312_initiation_male,initiation male,,,,sekomsaes,
+315_know_understand,know understand,1536,UNDERSTAND,,save/andastanem/andastan,Cognition
+316_sweet_potato,sweet potato,159,SWEET POTATO,,kumala/swit poteto,Agriculture and vegetation
+317_traditional_medicine,traditional medicine,,,,lif meresin,The body
+318_traditional_doctor_male,traditional doctor male,,,,man blong kivim lif/kleva,
+319_leaves_for_clothes,leaves for clothes,,,,lif blong ol klos/gras sket,
+320_leaves_for_dance,leaves for dance,,,,lif blong danis,
+321_leaves_for_covering_oven,leaves for covering oven,,,,lif blong kavremap hol blong laplap,
+322_leaves_for_house,leaves for house,,,,natangura,
+323_leaves_for_making_mats,leaves for making mats,,,,lif mat,
+324_woman_who_married_brother_of_dead_husband,woman who married brother of dead husband,,,,woman we i maredem brata blong man blong hem we i ded,
+325_sun_shower,sun shower,,,,san,
+326_lobster,lobster,2397,LOBSTER,,naura blong solwota,Animals
+328_long,long,1203,LONG,,longwan/longfala,Spatial relations
+329_magic_for_love,magic for love,,,,masing/swit maot/mekem lif long woman,Religion and belief
+332_gathering_house_for_men,gathering house for men,,,,nakamal,
+333_manioc,manioc,925,CASSAVA,,maniok,Agriculture and vegetation
+334_mask,mask,2005,MASK,,kiaman fes,Clothing and grooming
+336_meat,meat,2615,FLESH OR MEAT,,mit,The body
+337_coconut_sprout_meat,coconut sprout meat,,,,navara,Agriculture and vegetation
+338_menstruation,menstruation,766,MENSTRUATION,,sik mun/piried,The body
+340_fog,fog,249,FOG,,mist,The physical world
+341_mother_in_law,mother in law,1050,MOTHER-IN-LAW,,palika,Kinship
+342_uncle_maternal,uncle maternal,2694,MATERNAL UNCLE (HUSBAND OF ONE'S MATERNAL AUNT),,angkel,Kinship
+343_first_cousin_male_maternal_uncle,first cousin male maternal uncle,,,,tawi,Kinship
+344_first_cousin_female_maternal_uncle,first cousin female maternal uncle,,,,tawi,Kinship
+346_uncle_maternal_older,uncle maternal older,3249,MATERNAL UNCLE (MOTHER'S OLDER BROTHER),,bigfala angkel,Kinship
+347_aunt_maternal_older,aunt maternal older,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),,bigfala mami/mama,Kinship
+348_aunt_maternal,aunt maternal,2693,MATERNAL AUNT (MOTHER'S SISTER),,mami/mama,Kinship
+349_first_cousin_female_maternal_aunt_older,first cousin female maternal aunt older,,,,bigfala sista,Kinship
+350_first_cousin_female_maternal_aunt,first cousin female maternal aunt,,,,kasen sista/sista,Kinship
+351_first_cousin_male_maternal_aunt,first cousin male maternal aunt,,,,kasen brata/brata,Kinship
+354_uncle_maternal_younger,uncle maternal younger,3250,MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER),,smol angkel,Kinship
+355_aunt_maternal_younger,aunt maternal younger,3043,MATERNAL AUNT (MOTHER'S YOUNGER SISTER),,smol mami/mama,Kinship
+356_first_cousin_male_maternal_aunt_younger,first cousin male maternal aunt younger,,,,smol kasen brata/smol brata,Kinship
+357_penis_sheath,penis sheath,,,,nambas,
+359_narrow,narrow,1267,NARROW,,smol/naro,Spatial relations
+360_piercing_nose,piercing nose,,,,stikim nos,
+362_needle,needle,1382,NEEDLE (FOR SEWING),,nidil,Clothing and grooming
+363_nephew_sororal,nephew sororal,,,,boe blong mi (yu etc),Kinship
+364_new_moon,new moon,3691,NEW MOON,,niu mun,The physical world
+365_niece_sororal,niece sororal,,,,drim,Kinship
 367_nineteen,nineteen,1714,NINETEEN,,naentin,Quantity
-368_ninety,ninety,1724,NINETY,,naen siro,Quantity
-370_north,north,1598,NORTH,not,,Spatial relations
-371_octopus,octopus,2581,OCTOPUS,,,Animals
-372_offerings_to_ancestors,offerings to ancestors,,,,,
-373_brother_older,brother older,1759,OLDER BROTHER,,,Kinship
-374_brother,brother,1262,BROTHER,,,Kinship
-375_niece_fraternal_older,niece fraternal older,,,,,Kinship
-376_nephew_fraternal_older,nephew fraternal older,,,,,Kinship
-381_sister_older,sister older,1758,OLDER SISTER,,,Kinship
-383_sibling_older,sibling older,,,,,Kinship
-384_niece_sororal_older,niece sororal older,,,,,Kinship
-385_nephew_sororal_older,nephew sororal older,,,,,Kinship
-389_owl,owl,735,OWL,,,Animals
-391_pain,pain,2561,HURT (SENSE PAIN),,,Sense perception
-392_sick,sick,1847,SICK,,,The body
-395_peace_ceremony,peace ceremony,,,,,
+368_ninety,ninety,1724,NINETY,,naenti,Quantity
+370_north,north,1598,NORTH,,not,Spatial relations
+371_octopus,octopus,2581,OCTOPUS,,oktopas,Animals
+372_offerings_to_ancestors,offerings to ancestors,,,,ofring blong ol pupu blong bifo,
+373_brother_older,brother older,1759,OLDER BROTHER,,bigfala brata,Kinship
+374_brother,brother,1262,BROTHER,,brata,Kinship
+375_niece_fraternal_older,niece fraternal older,,,,gel blong mi (yu etc),Kinship
+376_nephew_fraternal_older,nephew fraternal older,,,,boe blong mi (yu etc),Kinship
+381_sister_older,sister older,1758,OLDER SISTER,,bigfala sista,Kinship
+383_sibling_older,sibling older,,,,bigfala brata/sista,Kinship
+384_niece_sororal_older,niece sororal older,,,,gel blong mi (yu etc),Kinship
+385_nephew_sororal_older,nephew sororal older,,,,boe blong mi (yu etc),Kinship
+389_owl,owl,735,OWL,,oknaet,Animals
+391_pain,pain,2561,HURT (SENSE PAIN),,harem…i so,Sense perception
+392_sick,sick,1847,SICK,,sik,The body
+395_peace_ceremony,peace ceremony,,,,pis seremoni,
 396_pig,pig,1337,PIG,,pik,Animals
 398_pig_female,pig female,2488,FEMALE PIG,,woman pik,Animals
-399_pig_hermaphrodite,pig hermaphrodite,,,,,Animals
-400_pig_killing_ceremony,pig killing ceremony,,,,,
+399_pig_hermaphrodite,pig hermaphrodite,,,,narave,Animals
+400_pig_killing_ceremony,pig killing ceremony,,,,seremoni blong kilim pik,Religion and belief
 401_pig_male,pig male,2487,MALE PIG,,man pik,Animals
 403_placenta,placenta,3388,PLACENTA,,basket blong pikinini,The body
-405_man_who_makes_poison,man who makes poison,,,,,
-406_polygamy,polygamy,,,,,
+405_man_who_makes_poison,man who makes poison,,,,posen man/man we i mekem nakaemas,
+406_polygamy,polygamy,,,,man i tekem fulap woman,Kinship
 408_pregnant,pregnant,1123,PREGNANT,,woman i gat bel,The body
-409_prepare_taboo,prepare taboo,,,,,
-410_rainbow,rainbow,1733,RAINBOW,,,The physical world
-411_rainy_season,rainy season,453,RAINY SEASON,taem blong ren,,Time
-413_restricted_place,restricted place,,,,,
-414_restriction_taboo,restriction taboo,,,,,
-415_river,river,666,RIVER,,,The physical world
-416_road,road,2457,PATH OR ROAD,,,Motion
-418_sailing_canoe,sailing canoe,,,,,
-419_salt,salt,1274,SALT,,,Food and drink
-421_sea_worm,sea worm,,,,wom blong solwota,
+409_prepare_taboo,prepare taboo,,,,priperem tabu,Religion and belief
+410_rainbow,rainbow,1733,RAINBOW,,renbo,The physical world
+411_rainy_season,rainy season,453,RAINY SEASON,,taem/sisen blong ren,Time
+413_restricted_place,restricted place,,,,ples we i tabu,Religion and belief
+414_restriction_taboo,restriction taboo,,,,tabu,Religion and belief
+415_river,river,666,RIVER,,riva,The physical world
+416_road,road,2457,PATH OR ROAD,,rod,Motion
+418_sailing_canoe,sailing canoe,,,,seling kenu,Motion
+419_salt,salt,1274,SALT,,sol,Food and drink
+421_sea_worm,sea worm,,,,wom blong solwota,Animals
 422_secret,secret,1121,SECRET,,sikret,Cognition
 423_seventeen,seventeen,2453,SEVENTEEN,,seventin,Quantity
-424_seventy,seventy,1721,SEVENTY,,seven siro,Quantity
+424_seventy,seventy,1721,SEVENTY,,seventi,Quantity
 425_shark,shark,1110,SHARK,,shak,Animals
-426_short,short,1645,SHORT,,,Spatial relations
+426_short,short,1645,SHORT,,shot,Spatial relations
 428_sister_exchange,sister exchange,,,,jensem sista,Kinship
-429_sit_down,sit down,1649,SIT DOWN,,,Motion
+429_sit_down,sit down,1649,SIT DOWN,,staon/sitdaon/sitaon,Motion
 430_sixteen,sixteen,2454,SIXTEEN,,sikstin,Quantity
 431_sixty,sixty,1718,SIXTY,,siksti,Quantity
-434_sniff,sniff,375,SNIFF,,,Sense perception
+434_sniff,sniff,375,SNIFF,,"pulum win long nos (blong smelem samting, stopem nos i ron)",Sense perception
 435_son,son,1620,SON,,boe,Kinship
-436_grandchild_son,grandchild son,,,,,Kinship
+436_grandchild_son,grandchild son,,,,smol apu boe/smol bubu boe/apu boe,Kinship
 437_grandchild,grandchild,1617,GRANDCHILD,,smolbubu,Kinship
-438_south,south,1595,SOUTH,saot,,Spatial relations
-440_space_for_dancing_ceremony,space for dancing ceremony,,,,,
-442_spirit_human,spirit human,,,,,
-444_stomach,stomach,1251,BELLY,,,The body
-445_oven_stones,oven stones,,,,,
+438_south,south,1595,SOUTH,,saot,Spatial relations
+440_space_for_dancing_ceremony,space for dancing ceremony,,,,spes blong danis seremoni/nasara,Religion and belief
+442_spirit_human,spirit human,,,,spirit,Religion and belief
+444_stomach,stomach,1251,BELLY,,beli,The body
+445_oven_stones,oven stones,,,,ston blong laplap,Food and drink
 446_storm,storm,858,STORM,,strong win,The physical world
-447_straight,straight,1404,STRAIGHT,,,Spatial relations
-448_suck,suck,1421,SUCK,,,Food and drink
+447_straight,straight,1404,STRAIGHT,,stret,Spatial relations
+448_suck,suck,1421,SUCK,,pulum (straw)/titi (breast),Food and drink
 450_sun,sun,1343,SUN,,san,The physical world
-451_tall,tall,1265,HIGH,,,Spatial relations
-453_taro_terrace,taro terrace,,,,,
-455_thatch,thatch,279,THATCH,,,The house
-456_thick,thick,1244,THICK,,,Spatial relations
-457_thin,thin,2249,THIN (OF SHAPE OF OBJECT),,,Spatial relations
-458_to_think,to think,2271,THINK,,,Cognition
-459_thirteen,thirteen,1708,THIRTEEN,,tatin,Quantity
-460_thirty,thirty,1715,THIRTY,,tate,Quantity
-461_tsunami,tsunami,,,,,
-462_chief_ceremony,chief ceremony,,,,,
-463_to_beat,to beat,1665,BEAT,,,Basic actions and technology
-464_to_chew,to chew,321,CHEW,,,Food and drink
-465_to_choose,to choose,1750,CHOOSE,,,Emotions and values
-466_to_close,to close,,,,,
-467_deaden_ones_thoughts,deaden one's thoughts,,,,,
-469_to_see,to see,1819,LOOK,,,Sense perception
-474_wood_for_moving_stones,wood for moving stones,,,,,
-475_direction_inland,direction inland,,,,,
-476_direction_sea,direction sea,,,,,
+451_tall,tall,1265,HIGH,,hae,Spatial relations
+453_taro_terrace,taro terrace,,,,taro paj,Agriculture and vegetation
+455_thatch,thatch,279,THATCH,,natangura,The house
+456_thick,thick,1244,THICK,,tik,Spatial relations
+457_thin,thin,2249,THIN (OF SHAPE OF OBJECT),,tintin,Spatial relations
+458_to_think,to think,2271,THINK,,tingting,Cognition
+459_thirteen,thirteen,1708,THIRTEEN,,tetin,Quantity
+460_thirty,thirty,1715,THIRTY,,teti,Quantity
+461_tsunami,tsunami,,,,sunami,The physical world
+462_chief_ceremony,chief ceremony,,,,seremoni blong jif,Religion and belief
+463_to_beat,to beat,1665,BEAT,,faetem/kilim,Basic actions and technology
+464_to_chew,to chew,321,CHEW,,kakae,Food and drink
+465_to_choose,to choose,1750,CHOOSE,,jusum,Emotions and values
+466_to_close,to close,,,,sarem,Basic actions and technology
+467_deaden_ones_thoughts,deaden one's thoughts,,,,kilim tingting,
+469_to_see,to see,1819,LOOK,,lukluk,Sense perception
+474_wood_for_moving_stones,wood for moving stones,,,,wud blong tekemaot ston blong laplap,
+475_direction_inland,direction inland,,,,daereksen i ko antap,Spatial relations
+476_direction_sea,direction sea,,,,daereksen i ko daon long solwota,Spatial relations
 477_twelve,twelve,1707,TWELVE,,twelef,Quantity
-478_umbilical_cord,umbilical cord,,,,,
-480_under,under,1485,BELOW OR UNDER,,,Spatial relations
-483_hot,hot,2272,HOT OR WARM,,,Sense perception
+478_umbilical_cord,umbilical cord,,,,nambiton,The body
+480_under,under,1485,BELOW OR UNDER,,andanit,Spatial relations
+483_hot,hot,2272,HOT OR WARM,,hot,Sense perception
 485_taro_wet,taro wet,,,,wota taro,Agriculture and vegetation
 487_wedding,wedding,1259,WEDDING,,mared,Kinship
 488_west,west,1817,WEST,,wes,Spatial relations
-489_wide,wide,1243,WIDE,,,Spatial relations
+489_wide,wide,1243,WIDE,,bigwan,Spatial relations
 492_taro_wild,taro wild,,,,wael taro,Agriculture and vegetation
 493_yam_wild,yam wild,,,,wael yam,Agriculture and vegetation
-495_female_chief,female chief,,,,,Social and political relations
+495_female_chief,female chief,,,,woman jif,Social and political relations
 496_yam,yam,410,YAM,,yam,Agriculture and vegetation
 497_yam_garden,yam garden,,,,karen blong yam,Agriculture and vegetation
 498_younger_sister,younger sister,1761,YOUNGER SISTER,,smol sista,Kinship
 499_younger_brother,younger brother,1760,YOUNGER BROTHER,,smol brata,Kinship
-500_niece_fraternal_younger,niece fraternal younger,,,,,Kinship
-501_nephew_fraternal_younger,nephew fraternal younger,,,,,Kinship
-505_niece_sororal_younger,niece sororal younger,,,,,Kinship
-506_nephew_sororal_younger,nephew sororal younger,,,,,Kinship
+500_niece_fraternal_younger,niece fraternal younger,,,,gel blong mi (yu etc),Kinship
+501_nephew_fraternal_younger,nephew fraternal younger,,,,boe blong mi (yu etc),Kinship
+505_niece_sororal_younger,niece sororal younger,,,,gel blong mi (yu etc),Kinship
+506_nephew_sororal_younger,nephew sororal younger,,,,boe blong mi (yu etc),Kinship

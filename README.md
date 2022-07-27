@@ -41,6 +41,7 @@ Name               | GitHub user     | Description                          | Ro
 Aviva Shimelman |  | Recorded and phonetically transcribed all of the Malekula languages from 2015 to 2017 | Author
 Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Directed fieldworkers to Maewo, Ambae, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
 Lana Takau |  | Translated the Vanuatu study into Bislama, edited and transcribed all languages of Pentecost Island  | Author
+Sandrine Bessis |  | Edited and transcribed all languages of Epi Island  | Author
 Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Tom Fitzpatrick |  | Provided the recordings of 6 dialects of the Sa language on Pentecost island | Author
