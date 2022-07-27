@@ -22,8 +22,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,IndexInSource,Concepticon
 21_webothexcl,"we  (both, EXcl.)",2636,WE TWO (EXCLUSIVE),mitufala,102-2,Kinship
 22_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),yumi,102-3,Kinship
 23_thou,thou,1215,THOU,yu,104-0,Kinship
-24_youboth,you  (both),1213,YOU,yutufala,105-0,Kinship
-25_youall,you  (all),2111,YOU TWO,yufala,105-2,Kinship
+24_youboth,you  (both),2111,YOU TWO,yutufala,105-0,Kinship
+25_youall,you  (all),1213,YOU,yufala,105-2,Kinship
 26_heshe,he/she,2642,HE OR SHE,hem,106-0,Kinship
 27_theyall,they  (all),817,THEY,olgeta,107-0,Kinship
 28_theyboth,they  (both),2635,THEY TWO,tufala,107-2,Kinship
