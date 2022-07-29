@@ -7,7 +7,7 @@ cffi==1.15.0
 chardet==4.0.0
 cldfbench==1.11.0
 cldfcatalog==1.5.1
--e git+https://github.com/cldf/cldfofflinebrowser.git@5f48f3d1446e0df554b758b9889f88ed25fe39bb#egg=cldfofflinebrowser
+cldfofflinebrowser==0.1.1
 cldfviz==0.8.0
 cldfzenodo==0.2.0
 clldutils==3.12.0
