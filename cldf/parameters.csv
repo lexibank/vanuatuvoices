@@ -208,6 +208,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 216_breadfruit,breadfruit,2371,BREADFRUIT,,bredfrut,Food and drink
 217_bride_price,bride price,3024,BRIDE PRICE,,braed praes/pem woman,Social and political relations
 220_nephew_fraternal,nephew fraternal,,,,boe blong mi (yu etc),Kinship
+221_nibling_fraternal,nibling fraternal,,,,"pikinini blong mi (yu, etc)",Kinship
 223_canoe,canoe,1970,CANOE,,kenu,Motion
 224_casava,casava,,,,maniok,Agriculture and vegetation
 225_cave,cave,1155,CAVE,,keiv,The physical world
@@ -253,6 +254,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 275_first_cousin_female_paternal_aunt,first cousin female paternal aunt,,,,tawi,Kinship
 276_first_cousin_female_opposite_sex_sibling_to_parent,first cousin female opposite sex sibling to parent,,,,tawi/sister,Kinship
 277_first_cousin_male_paternal_aunt,first cousin male paternal aunt,,,,tawi,Kinship
+278_first_cousin_paternal_aunt,first cousin paternal aunt,,,,tawi,Kinship
 279_first_cousin_male_opposite_sex_sibling_to_parent,first cousin male opposite sex sibling to parent,,,,tawi/brata,Kinship
 280_uncle_paternal_younger,uncle paternal younger,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),,smol papa,Kinship
 281_aunt_paternal_younger,aunt paternal younger,2171,PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER),,smol anti,Kinship

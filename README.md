@@ -25,14 +25,14 @@ Available online at https://vanuatuvoices.clld.org
 ![CLTS SoundClass: 92%](https://img.shields.io/badge/CLTS%20SoundClass-92%25-green.svg "CLTS SoundClass: 92%")
 
 - **Varieties:** 188
-- **Concepts:** 417
-- **Lexemes:** 34,638
+- **Concepts:** 419
+- **Lexemes:** 34,696
 - **Sources:** 4
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 214,187
+- **Tokens:** 214,593
 - **Segments:** 238 (19 BIPA errors, 19 CTLS sound class errors, 218 CLTS modified)
-- **Inventory size (avg):** 43.52
+- **Inventory size (avg):** 43.55
 
 # Contributors
 
