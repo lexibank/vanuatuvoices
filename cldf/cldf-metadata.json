@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-73-ge6532c2",
+            "dc:created": "v1.0-74-gdf8c06d",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 34848,
+            "dc:extent": 34927,
             "tableSchema": {
                 "columns": [
                     {
@@ -167,7 +167,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 189,
+            "dc:extent": 190,
             "tableSchema": {
                 "columns": [
                     {
@@ -292,7 +292,7 @@
             "url": "parameters.csv"
         },
         {
-            "dc:extent": 100336,
+            "dc:extent": 100573,
             "tableSchema": {
                 "columns": [
                     {
@@ -354,7 +354,7 @@
             "url": "media.csv"
         },
         {
-            "dc:extent": 189,
+            "dc:extent": 190,
             "tableSchema": {
                 "columns": [
                     {
