@@ -339,6 +339,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 384_niece_sororal_older,niece sororal older,,,,gel blong mi (yu etc),Kinship
 385_nephew_sororal_older,nephew sororal older,,,,boe blong mi (yu etc),Kinship
 386_nibling_sororal_older,nibling sororal older,,,,pikinini blong mi (yu etc),Kinship
+387_nibling_sororal,nibling sororal,,,,pikinini blong mi (yu etc),Kinship
 389_owl,owl,735,OWL,,oknaet,Animals
 391_pain,pain,2561,HURT (SENSE PAIN),,harem…i so,Sense perception
 392_sick,sick,1847,SICK,,sik,The body
