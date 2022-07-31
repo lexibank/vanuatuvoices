@@ -249,6 +249,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 267_first_cousin_paternal_uncle,first cousin paternal uncle,,,,kasen,Kinship
 268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,,bubu man/apu man,Kinship
 269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,,bubu woman/apu woman,Kinship
+270_grandparent_opposite_sex_of_parent,grandparent opposite sex of parent,,,,bubu/apu,Kinship
 272_first_cousin_female_paternal_uncle_older,first cousin female paternal uncle older,,,,bigfala sista,Kinship
 273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),,bigfala anti,Kinship
 274_aunt_paternal,aunt paternal,2175,PATERNAL AUNT,,anti,Kinship
