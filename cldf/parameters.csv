@@ -249,6 +249,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 267_first_cousin_paternal_uncle,first cousin paternal uncle,,,,kasen,Kinship
 268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,,bubu man/apu man,Kinship
 269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,,bubu woman/apu woman,Kinship
+272_first_cousin_female_paternal_uncle_older,first cousin female paternal uncle older,,,,bigfala sista,Kinship
 273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),,bigfala anti,Kinship
 274_aunt_paternal,aunt paternal,2175,PATERNAL AUNT,,anti,Kinship
 275_first_cousin_female_paternal_aunt,first cousin female paternal aunt,,,,tawi,Kinship
@@ -332,6 +333,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon
 375_niece_fraternal_older,niece fraternal older,,,,gel blong mi (yu etc),Kinship
 376_nephew_fraternal_older,nephew fraternal older,,,,boe blong mi (yu etc),Kinship
 381_sister_older,sister older,1758,OLDER SISTER,,bigfala sista,Kinship
+382_sister,sister,1263,SISTER,,sista,Kinship
 383_sibling_older,sibling older,,,,bigfala brata/sista,Kinship
 384_niece_sororal_older,niece sororal older,,,,gel blong mi (yu etc),Kinship
 385_nephew_sororal_older,nephew sororal older,,,,boe blong mi (yu etc),Kinship
