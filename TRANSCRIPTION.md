@@ -5,47 +5,47 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 31068 | ✓ | ✓ |
-| n | 18025 | ✓ | ✓ |
-| + | 17406 | ✓ | ✓ |
-| i | 16727 | ✓ | ✓ |
-| u | 12122 | ✓ | ✓ |
-| l | 11481 | ✓ | ✓ |
-| m | 10693 | ✓ | ✓ |
-| o | 10508 | ✓ | ✓ |
-| t | 9569 | ✓ | ✓ |
-| e | 9048 | ✓ | ✓ |
-| r | 8830 | ✓ | ✓ |
-| s | 7411 | ✓ | ✓ |
-| ɛ | 7041 | ✓ | ✓ |
-| k | 5142 | ✓ | ✓ |
-| ŋ | 4201 | ✓ | ✓ |
+| a | 31292 | ✓ | ✓ |
+| n | 18087 | ✓ | ✓ |
+| + | 17413 | ✓ | ✓ |
+| i | 16830 | ✓ | ✓ |
+| u | 12205 | ✓ | ✓ |
+| l | 11574 | ✓ | ✓ |
+| m | 10767 | ✓ | ✓ |
+| o | 10595 | ✓ | ✓ |
+| t | 9592 | ✓ | ✓ |
+| e | 9099 | ✓ | ✓ |
+| r | 8886 | ✓ | ✓ |
+| s | 7441 | ✓ | ✓ |
+| ɛ | 7054 | ✓ | ✓ |
+| k | 5197 | ✓ | ✓ |
+| ŋ | 4221 | ✓ | ✓ |
 | ɪ | 3863 | ✓ | ✓ |
-| v | 3791 | ✓ | ✓ |
+| v | 3794 | ✓ | ✓ |
 | x | 2949 | ✓ | ✓ |
-| p | 2800 | ✓ | ✓ |
+| p | 2841 | ✓ | ✓ |
 | ɣ | 2647 | ✓ | ✓ |
 | ⁿb | 2430 | ✓ | ✓ |
-| w | 2214 | ✓ | ✓ |
-| h | 1907 | ✓ | ✓ |
-| ⁿd | 1673 | ✓ | ✓ |
-| ə | 1565 | ✓ | ✓ |
+| w | 2235 | ✓ | ✓ |
+| h | 1915 | ✓ | ✓ |
+| ⁿd | 1675 | ✓ | ✓ |
+| ə | 1566 | ✓ | ✓ |
 | b | 1424 | ✓ | ✓ |
 | ɾ | 1403 | ✓ | ✓ |
 | f | 1207 | ✓ | ✓ |
 | ⁿg | 1205 | ✓ | ✓ |
 | β | 948 | ✓ | ✓ |
-| mʷ | 893 | ✓ | ✓ |
-| g | 883 | ✓ | ✓ |
-| j | 819 | ✓ | ✓ |
+| g | 899 | ✓ | ✓ |
+| mʷ | 895 | ✓ | ✓ |
+| j | 873 | ✓ | ✓ |
 | ɸ | 814 | ✓ | ✓ |
 | æ | 747 | ✓ | ✓ |
-| ɔ | 724 | ✓ | ✓ |
+| ɔ | 733 | ✓ | ✓ |
 | tʃ | 701 | ✓ | ✓ |
 | ʊ | 600 | ✓ | ✓ |
-| d | 500 | ✓ | ✓ |
+| d | 504 | ✓ | ✓ |
 | ⁿdʳ | 490 | ✓ | ✓ |
-| aː | 453 | ✓ | ✓ |
+| aː | 471 | ✓ | ✓ |
 | c | 451 | ✓ | ✓ |
 | ⁿbʷ | 430 | ✓ | ✓ |
 | ʉ | 368 | ✓ | ✓ |
@@ -56,28 +56,28 @@
 | vʷ | 177 | ✓ | ✓ |
 | z | 162 | ✓ | ✓ |
 | ʃ | 159 | ✓ | ✓ |
+| ʰ/h | 159 | ✓ | ✓ |
 | ŋʷ | 158 | ✓ | ✓ |
-| ʰ/h | 150 | ✓ | ✓ |
 | ⁿgʷ | 143 | ✓ | ✓ |
 | n̼ | 137 | ✓ | ✓ |
 | bʷ | 134 | ✓ | ✓ |
-| uː | 132 | ✓ | ✓ |
+| uː | 133 | ✓ | ✓ |
 | pʷ | 127 | ✓ | ✓ |
 | kʷ | 124 | ✓ | ✓ |
 | eː | 94 | ✓ | ✓ |
 | ð̼ | 94 | ✓ | ✓ |
 | ⁿʒ | 92 | ✓ | ✓ |
+| <<ʷ>> | 89 | ? | ? |
 | ɸʷ | 87 | ✓ | ✓ |
 | <<:>> | 86 | ? | ? |
 | fʷ | 85 | ✓ | ✓ |
-| <<ʷ>> | 84 | ? | ? |
-| oː | 81 | ✓ | ✓ |
+| oː | 82 | ✓ | ✓ |
 | p̚ | 80 | ✓ | ✓ |
 | <<ʲ>> | 79 | ? | ? |
 | xʷ | 74 | ✓ | ✓ |
 | k̚ | 72 | ✓ | ✓ |
 | βʷ | 70 | ✓ | ✓ |
-| ĭ | 64 | ✓ | ✓ |
+| ĭ | 67 | ✓ | ✓ |
 | ʒ | 61 | ✓ | ✓ |
 | lʷ | 60 | ✓ | ✓ |
 | ⁿtʃ | 59 | ✓ | ✓ |
@@ -93,18 +93,18 @@
 | tʰ | 41 | ✓ | ✓ |
 | ɬ | 41 | ✓ | ✓ |
 | ɲ | 41 | ✓ | ✓ |
+| ʋ | 40 | ✓ | ✓ |
 | ⁿts | 38 | ✓ | ✓ |
 | ⁿz | 37 | ✓ | ✓ |
-| ʋ | 35 | ✓ | ✓ |
 | ⁿ/n | 35 | ✓ | ✓ |
 | <<̚>> | 34 | ? | ? |
 | kpʷ | 34 | ✓ | ✓ |
 | u̥ | 33 | ✓ | ✓ |
 | aˑ | 31 | ✓ | ✓ |
 | ɐ | 29 | ✓ | ✓ |
+| ɑ | 29 | ✓ | ✓ |
 | ĩ | 28 | ✓ | ✓ |
 | nʰ | 27 | ✓ | ✓ |
-| ɑ | 27 | ✓ | ✓ |
 | sʷ | 25 | ✓ | ✓ |
 | χ | 23 | ✓ | ✓ |
 | nʷ | 22 | ✓ | ✓ |
@@ -113,9 +113,9 @@
 | ʷ/w | 21 | ✓ | ✓ |
 | <<̼>> | 20 | ? | ? |
 | <<͡>> | 20 | ? | ? |
+| ŭ | 20 | ✓ | ✓ |
 | õ | 19 | ✓ | ✓ |
 | rʷ | 18 | ✓ | ✓ |
-| ŭ | 18 | ✓ | ✓ |
 | i̥ | 17 | ✓ | ✓ |
 | ẽ | 17 | ✓ | ✓ |
 | lʰ | 16 | ✓ | ✓ |
@@ -123,21 +123,21 @@
 | ũ | 14 | ✓ | ✓ |
 | gʷ | 13 | ✓ | ✓ |
 | <<ɨ>> | 12 | ? | ? |
+| <<ᵐ>> | 12 | ? | ? |
 | vʰ | 12 | ✓ | ✓ |
 | o̥ | 11 | ✓ | ✓ |
 | ɣʷ | 11 | ✓ | ✓ |
+| <<ñ>> | 10 | ? | ? |
 | ɰʷ | 10 | ✓ | ✓ |
+| <<ⁱ>> | 9 | ? | ? |
 | y/j | 9 | ✓ | ✓ |
 | ˀ/ʔ | 9 | ✓ | ✓ |
-| <<ᵐ>> | 8 | ? | ? |
-| <<ⁱ>> | 8 | ? | ? |
 | dᵗ/d | 8 | ✓ | ✓ |
 | eʲ/ei̯ | 8 | ✓ | ✓ |
 | ə̆ | 8 | ✓ | ✓ |
 | ɳ | 8 | ✓ | ✓ |
 | ɺ | 8 | ✓ | ✓ |
 | ɾʷ | 8 | ✓ | ✓ |
-| <<ñ>> | 7 | ? | ? |
 | e̥ | 7 | ✓ | ✓ |
 | pʰ | 7 | ✓ | ✓ |
 | æː | 7 | ✓ | ✓ |
@@ -332,24 +332,24 @@
 | Lamanbay-90_smoke-1 | Lamanbay | 90_smoke | juᵐbɥɨ | j u ⁿb <s> <<ɥ>> </s> <s> <<ɨ>> </s> |
 | Lamanbay-92_stone-1 | Lamanbay | 92_stone | klaʷer | k l a <s> <<ʷ>> </s> e r |
 | Lamanbay-9_nine-1 | Lamanbay | 9_nine | aʷɛr | a <s> <<ʷ>> </s> ɛ r |
-| Lopalis-122_bluntdull-1 | Lopalis | 122_bluntdull | maʷa | m a <s> <<ʷ>> </s> a |
-| Lopalis-143_fall-1 | Lopalis | 143_fall | oᵐleru | o <s> <<ᵐ>> </s> l e r u |
-| Lopalis-149_throw-1 | Lopalis | 149_throw | okoen᷈a | o k o e n <s> <<᷈>> </s> a |
-| Lopalis-150_hide-1 | Lopalis | 150_hide | kuanlon᷈a | k u a n l o n <s> <<᷈>> </s> a |
+| Lepa-133_near-1 | Lepa | 133_near | laʷisa | l a <s> <<ʷ>> </s> i s a |
+| Lepa-146_climb-1 | Lepa | 146_climb | opuña | o p u <s> <<ñ>> </s> a |
+| Lepa-152_drink-1 | Lepa | 152_drink | muña | m u <s> <<ñ>> </s> a |
+| Lepa-157_live-1 | Lepa | 157_live | ᵐlaʰal | <s> <<ᵐ>> </s> l a ʰ/h a l |
+| Lepa-158_die-1 | Lepa | 158_die | ᵐlare | <s> <<ᵐ>> </s> l a r e |
+| Lepa-189_shoot-1 | Lepa | 189_shoot | ʷɛnja | <s> <<ʷ>> </s> ɛ n j a |
+| Lepa-34_how-1 | Lepa | 34_how | koᵐseʋe | k o <s> <<ᵐ>> </s> s e ʋ e |
+| Lepa-434_sniff-1 | Lepa | 434_sniff | lopoña | l o p o <s> <<ñ>> </s> a |
+| Lepa-77_mother-1 | Lepa | 77_mother | aʷija | a <s> <<ʷ>> </s> i j a |
+| Lepa-84_star-1 | Lepa | 84_star | ʷeruʷe | <s> <<ʷ>> </s> e r u <s> <<ʷ>> </s> e |
+| Lepa-87_lake-1 | Lepa | 87_lake | ᵐlapa | <s> <<ᵐ>> </s> l a p a |
+| Lepa-98_wind-1 | Lepa | 98_wind | laŋgⁱ | l a ŋ g <s> <<ⁱ>> </s> |
 | Lopalis-152_drink-1 | Lopalis | 152_drink | omun᷈a | o m u n <s> <<᷈>> </s> a |
 | Lopalis-161_hear-1 | Lopalis | 161_hear | oᵐloŋgea | o <s> <<ᵐ>> </s> l o ŋ g e a |
 | Lopalis-186_steal-1 | Lopalis | 186_steal | ojnaʰun᷈a | o j n a ʰ/h u n <s> <<᷈>> </s> a |
 | Lopalis-434_sniff-1 | Lopalis | 434_sniff | oᵐlopon᷈a | o <s> <<ᵐ>> </s> l o p o n <s> <<᷈>> </s> a |
 | Lopalis-448_suck-1 | Lopalis | 448_suck | omun᷈a | o m u n <s> <<᷈>> </s> a |
-| Lopalis-465_to_choose-1 | Lopalis | 465_to_choose | sneʰun᷈a | s n e ʰ/h u n <s> <<᷈>> </s> a |
 | Lopalis-76_name-1 | Lopalis | 76_name | soᵐki | s o <s> <<ᵐ>> </s> k i |
-| Lopika-104_root-1 | Lopika | 104_root | puliŋasi:a | p u l i ŋ a s i <s> <<:>> </s> a |
-| Lopika-116_red-1 | Lopika | 116_red | pili:li | p i l i <s> <<:>> </s> l i |
-| Lopika-149_throw-1 | Lopika | 149_throw | okᵚanlua | o k <s> <<ᵚ>> </s> a n l u a |
-| Lopika-180_squeeze-1 | Lopika | 180_squeeze | opilo:n᷈a | o p i l oː n <s> <<᷈>> </s> a |
-| Lopika-434_sniff-1 | Lopika | 434_sniff | lopon᷈a | l o p o n <s> <<᷈>> </s> a |
-| Lopika-448_suck-1 | Lopika | 448_suck | munmun᷈a | m u n m u n <s> <<᷈>> </s> a |
-| Lopika-74_woman-1 | Lopika | 74_woman | si:ra | s i <s> <<:>> </s> r a |
 | Mandrifaru-113_roadpath-1 | Mandrifaru | 113_roadpath | nɪ--sal | n ɪ + + s a l |
 | Mandrifaru-129_dirty-1 | Mandrifaru | 129_dirty | naslo--mɛrmɛɾ | n a s l o + + m ɛ r m ɛ ɾ |
 | Mandrifaru-160_see-1 | Mandrifaru | 160_see | ᵑgaᵐʙu--rusi | ⁿg a ⁿʙ u + + r u s i |
