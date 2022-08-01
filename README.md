@@ -24,13 +24,13 @@ Available online at https://vanuatuvoices.clld.org
 ![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
 ![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
 
-- **Varieties:** 205
+- **Varieties:** 206
 - **Concepts:** 426
-- **Lexemes:** 37,142
+- **Lexemes:** 37,350
 - **Sources:** 4
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 232,091
+- **Tokens:** 233,273
 - **Segments:** 248 (29 BIPA errors, 29 CTLS sound class errors, 218 CLTS modified)
 - **Inventory size (avg):** 43.17
 
