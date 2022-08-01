@@ -70,7 +70,7 @@ class Dataset(BaseDataset):
 
         for lang_dir in sorted(data_path.iterdir(), key=lambda f: f.name):
 
-            if lang_dir.name.startswith('.'):
+            if lang_dir.name.startswith('.') or not (lang_dir / 'languages.csv').exists():
                 continue
 
             lang_id = lang_dir.name

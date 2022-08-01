@@ -18,20 +18,20 @@ Available online at https://vanuatuvoices.clld.org
 
 
 [![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoices/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
+![Glottolog: 81%](https://img.shields.io/badge/Glottolog-81%25-yellowgreen.svg "Glottolog: 81%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 92%](https://img.shields.io/badge/BIPA-92%25-green.svg "BIPA: 92%")
-![CLTS SoundClass: 92%](https://img.shields.io/badge/CLTS%20SoundClass-92%25-green.svg "CLTS SoundClass: 92%")
+![BIPA: 91%](https://img.shields.io/badge/BIPA-91%25-green.svg "BIPA: 91%")
+![CLTS SoundClass: 91%](https://img.shields.io/badge/CLTS%20SoundClass-91%25-green.svg "CLTS SoundClass: 91%")
 
-- **Varieties:** 198
+- **Varieties:** 199
 - **Concepts:** 426
-- **Lexemes:** 35,671
+- **Lexemes:** 35,884
 - **Sources:** 4
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 223,370
-- **Segments:** 239 (20 BIPA errors, 20 CTLS sound class errors, 218 CLTS modified)
+- **Tokens:** 224,645
+- **Segments:** 241 (22 BIPA errors, 22 CTLS sound class errors, 218 CLTS modified)
 - **Inventory size (avg):** 43.09
 
 # Contributors
