@@ -114,7 +114,8 @@ korowas,105_branch
 mak,106_leaf
 penas,104_root
 mewe,109_flower
-prasa / pralaki,102_fruit
+prasa,102_fruit
+pralaki,102_fruit
 memeni,108_grass
 porotano,93_earthsoil
 klawar,92_stone
@@ -123,7 +124,8 @@ wi:,86_water
 wi:mⁱlao,286_flow
 siwe,88_sea
 la:pa,87_lake
-sinen/jumaruwa,103_woodsforest
+sinen,103_woodsforest
+jumaruwa,103_woodsforest
 sinapa,85_sky
 kupario,83_moon
 werue,84_star
