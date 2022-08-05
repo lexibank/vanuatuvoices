@@ -1,192 +1,427 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss
-1_one,one,1493,ONE,1-0,wan
-2_two,two,1498,TWO,2-0,tu
-3_three,three,492,THREE,3-0,tri
-4_four,four,1500,FOUR,4-0,fo
-5_five,five,493,FIVE,5-0,faiv
-6_six,six,1703,SIX,6-0,sikis
-7_seven,seven,1704,SEVEN,7-0,seven
-8_eight,eight,1705,EIGHT,8-0,eit
-9_nine,nine,1483,NINE,9-0,naen
-10_ten,ten,1515,TEN,10-0,ten
-11_twenty,twenty,1710,TWENTY,11-0,twenti
-12_fifty,fifty,1717,FIFTY,15-0,fifti
-13_onehundred,one hundred,1634,HUNDRED,20-0,wan hundred
-14_onethousand,one thousand,1843,THOUSAND,21-0,wan taosan
-15_year,year,1226,YEAR,51-0,yia
-16_right,right,1019,RIGHT,81-0,raet
-17_left,left,244,LEFT,82-0,lef
-18_i,I,1209,I,101-0,mi
-19_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),102-0,mifala
-20_webothincl,"we  (both, INcl.)",2637,WE TWO (INCLUSIVE),102-1,yumitu
-21_webothexcl,"we  (both, EXcl.)",2636,WE TWO (EXCLUSIVE),102-2,mitufala
-22_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),102-3,yumi
-23_thou,thou,1215,THOU,104-0,yu
-24_youboth,you  (both),1213,YOU,105-0,yutufala
-25_youall,you  (all),2111,YOU TWO,105-2,yufala
-26_heshe,he/she,2642,HE OR SHE,106-0,hem
-27_theyall,they  (all),817,THEY,107-0,olgeta
-28_theyboth,they  (both),2635,THEY TWO,107-2,tufala
-29_nonot,"no, not",2279,NO OR NOT,112-0,no
-30_what,what,1236,WHAT,121-0,wanem
-31_who,who,1235,WHO,122-0,hu
-32_where,where,1237,WHERE,123-0,wea
-33_when,when,1238,WHEN,124-0,wanem
-34_how,how,1239,HOW,125-0,hao
-35_this,this,1214,THIS,131-0,hemia ia
-36_that,that,78,THAT,132-0,hemia longwei
-37_above,above,1741,ABOVE,138-0,antap
-38_below,below,1485,BELOW OR UNDER,139-0,andanit
-39_ininside,"in, inside",1460,IN,141-0,insaed
-40_head,head,1256,HEAD,201-0,hed
-41_hair,hair,1040,HAIR,205-0,hea
-42_eye,eye,1248,EYE,211-0,ae
-43_nose,nose,1221,NOSE,212-0,nus
-44_ear,ear,1247,EAR,213-0,sora
-45_mouth,mouth,674,MOUTH,221-0,maot
-46_tongue,tongue,1205,TONGUE,223-0,tang
-47_tooth,tooth,1380,TOOTH,224-0,tut
-48_hand,hand,1277,HAND,231-0,han
-49_shoulder,shoulder,1482,SHOULDER,233-0,solda
-50_neck,neck,1333,NECK,241-0,nek
-51_back,back,1291,BACK,242-0,baksaed
-52_leg,leg,2098,FOOT OR LEG,252-0,lek
-53_blood,blood,946,BLOOD,261-0,blad
-54_bone,bone,1394,BONE,262-0,bun
-55_skin,skin,763,SKIN,263-0,sikin
-56_belly,belly,1251,BELLY,271-0,bel
-57_intestines,intestines,1991,INTESTINES,272-0,kat
-58_breast,breast,1402,BREAST,274-0,titi
-59_liver,liver,1224,LIVER,284-0,leva
-60_dog,dog,2009,DOG,312-0,dog
-61_bird,bird,937,BIRD,321-0,pijin
-62_fish,fish,227,FISH,324-0,fis
-63_snake,snake,730,SNAKE,341-0,snek
-64_worm,worm,1219,WORM,342-0,wom
-65_louse,louse,1392,LOUSE,343-0,laus
-66_rat,rat,1490,RAT,345-0,rat
-67_spider,spider,843,SPIDER,349-0,spida
-68_mosquito,mosquito,1509,MOSQUITO,352-0,moskito
-69_egg,egg,744,EGG,381-0,ek
-70_tail,tail,1220,TAIL,383-0,tel
-71_wing,wing,1257,WING,384-0,win
-72_feather,feather,1201,FEATHER,385-0,feta
-73_man,man,2106,MALE PERSON,402-0,man
-74_woman,woman,2105,FEMALE PERSON,403-0,woman
-75_child,child,2099,CHILD,405-0,pikinini
-76_name,name,1405,NAME,410-0,nem
-77_mother,mother,1216,MOTHER,431-0,mama
-78_father,father,1217,FATHER,432-0,papa
-79_husband,husband,1200,HUSBAND,435-0,man blong mi
-80_wife,wife,1199,WIFE,436-0,woman blong mi
-81_day,day,1225,DAY (NOT NIGHT),501-0,dei
-82_night,night,1233,NIGHT,502-0,naet
-83_moon,moon,1313,MOON,512-0,mun
-84_star,star,1430,STAR,513-0,sta
-85_sky,sky,1732,SKY,515-0,skae
-86_water,water,948,WATER,521-0,wota
-87_lake,lake,624,LAKE,523-0,"lek, lagun"
-88_sea,sea,1474,SEA,524-0,solwota
-89_fire,fire,221,FIRE,541-0,faea
-90_smoke,smoke,778,SMOKE (EXHAUST),542-0,smok
-91_ash,ash,646,ASH,543-0,asis
-92_stone,stone,857,STONE,551-0,ston
-93_earthsoil,"earth, soil",1228,EARTH (SOIL),552-0,kraon
-94_dust,dust,2,DUST,553-0,tas
-95_sand,sand,671,SAND,554-0,sanbij
-96_rain,rain,658,RAIN (PRECIPITATION),581-0,ren
-97_cloud,cloud,1489,CLOUD,584-0,klaud
-98_wind,wind,960,WIND,585-0,win
-99_thunder,thunder,1150,THUNDER,592-0,tanda
-100_lightning,lightning,1654,LIGHTNING,593-0,laetning
-101_meatflesh,"meat, flesh",2615,FLESH OR MEAT,603-0,mit
-102_fruit,fruit,1507,FRUIT,609-0,frut
-103_woodsforest,"woods, forest",420,FOREST,622-0,dak bus
-104_root,root,670,ROOT,624-0,rus
-105_branch,branch,1531,BRANCH,625-0,branj
-106_leaf,leaf,628,LEAF,626-0,lif
-107_wood,wood,1295,STICK,628-0,wud
-108_grass,grass,606,GRASS,631-0,kras
-109_flower,flower,239,FLOWER,632-0,flowa
-110_thatchroof,"thatch, roof",2100,THATCH OR ROOF,633-0,"tatj, ruf"
-111_house,house,1252,HOUSE,651-0,haos
-112_rope,rope,1218,ROPE,662-0,rop
-113_roadpath,"road, path",2457,PATH OR ROAD,681-0,rod
-114_black,black,163,BLACK,701-0,blak
-115_white,white,1335,WHITE,702-0,waet
-116_red,red,156,RED,703-0,red
-117_green,green,1425,GREEN,704-0,grin
-118_yellow,yellow,1424,YELLOW,705-0,yalo
-119_big,big,1202,BIG,711-0,big
-120_small,small,1246,SMALL,717-0,smol
-121_sharp,sharp,1396,SHARP,741-0,shap
-122_bluntdull,"blunt, dull",379,BLUNT,742-0,no shap
-123_shyashamed,"shy, ashamed",487,SHY,749-0,"shem, kwaet"
-124_old,old,1229,OLD,752-0,olfala
-125_painfulsick,"painful, sick",2103,PAINFUL OR SICK,763-0,"sik, soa"
-126_good,good,1035,GOOD,771-0,gud
-127_bad,bad,1292,BAD,772-0,"bad, rabis"
-128_correcttrue,"correct, true",1725,CORRECT (RIGHT),773-0,"strait, tru"
-129_dirty,dirty,1230,DIRTY,777-0,toti
-130_rotten,rotten,1728,ROTTEN,780-0,roten
-131_heavy,heavy,1210,HEAVY,786-0,hevi
-132_far,far,1406,FAR,788-0,longwei
-133_near,near,1942,NEAR,789-0,kolosap
-134_cold,cold,1287,COLD,792-0,kolkol
-135_dry,dry,1398,DRY,793-0,drae
-136_wet,wet,1726,WET,794-0,wetwet
-137_new,new,1231,NEW,798-0,niu
-138_other,other,197,OTHER,799-0,narafala
-139_come,come,1446,COME,802-0,kam
-140_walk,walk,1443,WALK,803-0,wokabaot
-141_stand,stand,1442,STAND,811-0,stanap
-142_sit,sit,1416,SIT,812-0,sidaon
-143_fall,fall,1280,FALL,813-0,foldaon
-144_liedown,lie down,215,LIE DOWN,814-0,ledaon
-145_turn,turn,1588,TURN,815-0,tanem
-146_climb,climb,1102,CLIMB,818-0,klaem
-147_swim,swim,1439,SWIM,821-0,swim
-148_flyverb,fly (verb),1441,FLY (MOVE THROUGH AIR),822-0,flae
-149_throw,throw,1456,THROW,826-0,sakemaot
-150_hide,hide,602,HIDE (CONCEAL),827-0,haetem
-151_eat,eat,1336,EAT,831-0,kakae
-152_drink,drink,1401,DRINK,832-0,drink
-153_yawn,yawn,1028,YAWN,836-0,wantem silip
-154_spit,spit,1440,SPIT,837-0,spet
-155_dream,dream,1920,DREAM (SOMETHING),840-0,drim
-156_sleep,sleep,1585,SLEEP,841-0,silip
-157_live,live,1422,BE ALIVE,842-0,laev
-158_die,die,2101,BE DEAD OR DIE,843-0,ded
-159_kill,kill,1417,KILL,844-0,kilimded
-160_see,see,1409,SEE,851-0,luk
-161_hear,hear,1408,HEAR,852-0,harem
-162_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE),854-0,smel
-163_laugh,laugh,1355,LAUGH,858-0,laf
-164_cry,cry,1839,CRY,859-0,krae
-165_blow,blow,175,BLOW (OF WIND),867-0,blo
-166_burn,burn,2102,BURN,868-0,bon
-167_sew,sew,1457,SEW,874-0,somap
-168_pound,pound,354,POUND,880-0,kilkilim
-169_hit,hit,1433,HIT,881-0,kilim
-170_cut,cut,1432,CUT,887-0,katem
-171_split,split,1437,SPLIT,888-0,spletem
-172_dig,dig,1418,DIG,889-0,digim
-173_hunt,hunt,1435,HUNT,892-0,kasem
-174_hold,hold,1448,HOLD,893-0,holem
-175_fear,fear,1419,FEAR (BE AFRAID),895-0,fraet
-176_count,count,1420,COUNT,896-0,kaontem
-177_breathe,breathe,1407,BREATHE,897-0,pulum win
-178_vomit,vomit,1278,VOMIT,900-0,traot
-179_tieup,tie (up),1094,FASTEN,901-0,fasem taet
-180_squeeze,squeeze,1414,SQUEEZE,902-0,skwisim
-181_swell,swell,1573,SWELL,903-0,solap
-182_say,say,1458,SAY,904-0,talem
-183_scratch,scratch,1436,SCRATCH,905-0,sikrasem
-184_stab,stab,1434,STAB,906-0,stikim
-185_buy,buy,1869,BUY,912-0,pem
-186_steal,steal,713,STEAL,913-0,stilim
-187_plant,plant,1486,PLANT (SOMETHING),918-0,planem
-188_cook,cook,1100,COOK (SOMETHING),922-0,kuk
-189_shoot,shoot,1172,SHOOT,940-0,shutum
-190_work,work,1086,WORK (ACTIVITY),950-0,wok
-191_open,open,1156,OPEN,962-0,openem
+ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource,Bislama_Gloss,Concepticon_SemanticField
+1_one,one,1493,ONE,1-0,wan,Quantity
+2_two,two,1498,TWO,2-0,tu,Quantity
+3_three,three,492,THREE,3-0,tri,Quantity
+4_four,four,1500,FOUR,4-0,fo,Quantity
+5_five,five,493,FIVE,5-0,faiv,Quantity
+6_six,six,1703,SIX,6-0,sikis,Quantity
+7_seven,seven,1704,SEVEN,7-0,seven,Quantity
+8_eight,eight,1705,EIGHT,8-0,eit,Quantity
+9_nine,nine,1483,NINE,9-0,naen,Quantity
+10_ten,ten,1515,TEN,10-0,ten,Quantity
+11_twenty,twenty,1710,TWENTY,11-0,twenti,Quantity
+12_fifty,fifty,1717,FIFTY,15-0,fifti,Quantity
+13_onehundred,one hundred,1634,HUNDRED,20-0,wan hundred,Quantity
+14_onethousand,one thousand,1843,THOUSAND,21-0,wan taosan,Quantity
+15_year,year,1226,YEAR,51-0,yia,Time
+16_right,right,1019,RIGHT,81-0,raet,Spatial relations
+17_left,left,244,LEFT,82-0,lef,Spatial relations
+18_i,I,1209,I,101-0,mi,Kinship
+19_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),102-0,mifala,Kinship
+20_webothincl,"we  (both, INcl.)",2637,WE TWO (INCLUSIVE),102-1,yumitu,Kinship
+21_webothexcl,"we  (both, EXcl.)",2636,WE TWO (EXCLUSIVE),102-2,mitufala,Kinship
+22_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),102-3,yumi,Kinship
+23_thou,thou,1215,THOU,104-0,yu,Kinship
+24_youboth,you  (both),2111,YOU TWO,105-0,yutufala,Kinship
+25_youall,you  (all),1213,YOU,105-2,yufala,Kinship
+26_heshe,he/she,2642,HE OR SHE,106-0,hem,Kinship
+27_theyall,they  (all),817,THEY,107-0,olgeta,Kinship
+28_theyboth,they  (both),2635,THEY TWO,107-2,tufala,Kinship
+29_nonot,"no, not",2279,NO OR NOT,112-0,no,Cognition
+30_what,what,1236,WHAT,121-0,wanem,Cognition
+31_who,who,1235,WHO,122-0,hu,Cognition
+32_where,where,1237,WHERE,123-0,wea,Cognition
+33_when,when,1238,WHEN,124-0,wanem,Cognition
+34_how,how,1239,HOW,125-0,hao,Cognition
+35_this,this,1214,THIS,131-0,hemia ia,Miscellaneous function words
+36_that,that,78,THAT,132-0,hemia longwei,Miscellaneous function words
+37_above,above,1741,ABOVE,138-0,antap,Spatial relations
+38_below,below,1485,BELOW OR UNDER,139-0,andanit,Spatial relations
+39_ininside,"in, inside",1460,IN,141-0,insaed,Spatial relations
+40_head,head,1256,HEAD,201-0,hed,The body
+41_hair,hair,1040,HAIR,205-0,hea,The body
+42_eye,eye,1248,EYE,211-0,ae,The body
+43_nose,nose,1221,NOSE,212-0,nus,The body
+44_ear,ear,1247,EAR,213-0,sora,The body
+45_mouth,mouth,674,MOUTH,221-0,maot,The body
+46_tongue,tongue,1205,TONGUE,223-0,tang,The body
+47_tooth,tooth,1380,TOOTH,224-0,tut,The body
+48_hand,hand,1277,HAND,231-0,han,The body
+49_shoulder,shoulder,1482,SHOULDER,233-0,solda,The body
+50_neck,neck,1333,NECK,241-0,nek,The body
+51_back,back,1291,BACK,242-0,baksaed,The body
+52_leg,leg,2098,FOOT OR LEG,252-0,lek,The body
+53_blood,blood,946,BLOOD,261-0,blad,The body
+54_bone,bone,1394,BONE,262-0,bun,The body
+55_skin,skin,763,SKIN,263-0,sikin,The body
+56_belly,belly,1251,BELLY,271-0,bel,The body
+57_intestines,intestines,1991,INTESTINES,272-0,kat,The body
+58_breast,breast,1402,BREAST,274-0,titi,The body
+59_liver,liver,1224,LIVER,284-0,leva,The body
+60_dog,dog,2009,DOG,312-0,dog,Animals
+61_bird,bird,937,BIRD,321-0,pijin,Animals
+62_fish,fish,227,FISH,324-0,fis,Animals
+63_snake,snake,730,SNAKE,341-0,snek,Animals
+64_worm,worm,1219,WORM,342-0,wom,Animals
+65_louse,louse,1392,LOUSE,343-0,laus,Animals
+66_rat,rat,1490,RAT,345-0,rat,Animals
+67_spider,spider,843,SPIDER,349-0,spida,Animals
+68_mosquito,mosquito,1509,MOSQUITO,352-0,moskito,Animals
+69_egg,egg,744,EGG,381-0,ek,Food and drink
+70_tail,tail,1220,TAIL,383-0,tel,The body
+71_wing,wing,1257,WING,384-0,win,The body
+72_feather,feather,1201,FEATHER,385-0,feta,The body
+73_man,man,2106,MALE PERSON,402-0,man,Kinship
+74_woman,woman,2105,FEMALE PERSON,403-0,woman,Kinship
+75_child,child,2099,CHILD,405-0,pikinini,Kinship
+76_name,name,1405,NAME,410-0,nem,Speech and language
+77_mother,mother,1216,MOTHER,431-0,mama,Kinship
+78_father,father,1217,FATHER,432-0,papa,Kinship
+79_husband,husband,1200,HUSBAND,435-0,man blong mi,Kinship
+80_wife,wife,1199,WIFE,436-0,woman blong mi,Kinship
+81_day,day,1225,DAY (NOT NIGHT),501-0,dei,Time
+82_night,night,1233,NIGHT,502-0,naet,Time
+83_moon,moon,1313,MOON,512-0,mun,The physical world
+84_star,star,1430,STAR,513-0,sta,The physical world
+85_sky,sky,1732,SKY,515-0,skae,The physical world
+86_water,water,948,WATER,521-0,wota,The physical world
+87_lake,lake,624,LAKE,523-0,"lek, lagun",The physical world
+88_sea,sea,1474,SEA,524-0,solwota,The physical world
+89_fire,fire,221,FIRE,541-0,faea,The physical world
+90_smoke,smoke,778,SMOKE (EXHAUST),542-0,smok,The physical world
+91_ash,ash,646,ASH,543-0,asis,The physical world
+92_stone,stone,857,STONE,551-0,ston,The physical world
+93_earthsoil,"earth, soil",1228,EARTH (SOIL),552-0,kraon,The physical world
+94_dust,dust,2,DUST,553-0,tas,The physical world
+95_sand,sand,671,SAND,554-0,sanbij,The physical world
+96_rain,rain,658,RAIN (PRECIPITATION),581-0,ren,The physical world
+97_cloud,cloud,1489,CLOUD,584-0,klaud,The physical world
+98_wind,wind,960,WIND,585-0,win,The physical world
+99_thunder,thunder,1150,THUNDER,592-0,tanda,The physical world
+100_lightning,lightning,1654,LIGHTNING,593-0,laetning,The physical world
+101_meatflesh,"meat, flesh",2615,FLESH OR MEAT,603-0,mit,The body
+102_fruit,fruit,1507,FRUIT,609-0,frut,Food and drink
+103_woodsforest,"woods, forest",420,FOREST,622-0,dak bus,The physical world
+104_root,root,670,ROOT,624-0,rus,Agriculture and vegetation
+105_branch,branch,1531,BRANCH,625-0,branj,Agriculture and vegetation
+106_leaf,leaf,628,LEAF,626-0,lif,Agriculture and vegetation
+107_wood,wood,1295,STICK,628-0,wud,The physical world
+108_grass,grass,606,GRASS,631-0,kras,Agriculture and vegetation
+109_flower,flower,239,FLOWER,632-0,flowa,Agriculture and vegetation
+110_thatchroof,"thatch, roof",2100,THATCH OR ROOF,633-0,"tatj, ruf",The house
+111_house,house,1252,HOUSE,651-0,haos,The house
+112_rope,rope,1218,ROPE,662-0,rop,Basic actions and technology
+113_roadpath,"road, path",2457,PATH OR ROAD,681-0,rod,Motion
+114_black,black,163,BLACK,701-0,blak,Sense perception
+115_white,white,1335,WHITE,702-0,waet,Sense perception
+116_red,red,156,RED,703-0,red,Sense perception
+117_green,green,1425,GREEN,704-0,grin,Sense perception
+118_yellow,yellow,1424,YELLOW,705-0,yalo,Sense perception
+119_big,big,1202,BIG,711-0,big,Spatial relations
+120_small,small,1246,SMALL,717-0,smol,Spatial relations
+121_sharp,sharp,1396,SHARP,741-0,shap,Sense perception
+122_bluntdull,"blunt, dull",379,BLUNT,742-0,no shap,Sense perception
+123_shyashamed,"shy, ashamed",487,SHY,749-0,"shem, kwaet",Emotions and values
+124_old,old,1229,OLD,752-0,olfala,Time
+125_painfulsick,"painful, sick",2103,PAINFUL OR SICK,763-0,"sik, soa",Emotions and values
+126_good,good,1035,GOOD,771-0,gud,Emotions and values
+127_bad,bad,1292,BAD,772-0,"bad, rabis",Emotions and values
+128_correcttrue,"correct, true",1725,CORRECT (RIGHT),773-0,"strait, tru",Emotions and values
+129_dirty,dirty,1230,DIRTY,777-0,toti,Sense perception
+130_rotten,rotten,1728,ROTTEN,780-0,roten,Food and drink
+131_heavy,heavy,1210,HEAVY,786-0,hevi,Sense perception
+132_far,far,1406,FAR,788-0,longwei,Spatial relations
+133_near,near,1942,NEAR,789-0,kolosap,Spatial relations
+134_cold,cold,1287,COLD,792-0,kolkol,Sense perception
+135_dry,dry,1398,DRY,793-0,drae,Sense perception
+136_wet,wet,1726,WET,794-0,wetwet,Sense perception
+137_new,new,1231,NEW,798-0,niu,Time
+138_other,other,197,OTHER,799-0,narafala,Miscellaneous function words
+139_come,come,1446,COME,802-0,kam,Motion
+140_walk,walk,1443,WALK,803-0,wokabaot,Motion
+141_stand,stand,1442,STAND,811-0,stanap,Spatial relations
+142_sit,sit,1416,SIT,812-0,sidaon,Spatial relations
+143_fall,fall,1280,FALL,813-0,foldaon,Motion
+144_liedown,lie down,215,LIE DOWN,814-0,ledaon,Spatial relations
+145_turn,turn,1588,TURN,815-0,tanem,Motion
+146_climb,climb,1102,CLIMB,818-0,klaem,Motion
+147_swim,swim,1439,SWIM,821-0,swim,Motion
+148_flyverb,fly (verb),1441,FLY (MOVE THROUGH AIR),822-0,flae,Motion
+149_throw,throw,1456,THROW,826-0,sakemaot,Motion
+150_hide,hide,602,HIDE (CONCEAL),827-0,haetem,Spatial relations
+151_eat,eat,1336,EAT,831-0,kakae,Food and drink
+152_drink,drink,1401,DRINK,832-0,drink,Food and drink
+153_yawn,yawn,1028,YAWN,836-0,wantem silip,The body
+154_spit,spit,1440,SPIT,837-0,spet,The body
+155_dream,dream,1920,DREAM (SOMETHING),840-0,drim,The body
+156_sleep,sleep,1585,SLEEP,841-0,silip,The body
+157_live,live,1422,BE ALIVE,842-0,laev,The body
+158_die,die,2101,BE DEAD OR DIE,843-0,ded,Time
+159_kill,kill,1417,KILL,844-0,kilimded,The body
+160_see,see,1409,SEE,851-0,luk,Sense perception
+161_hear,hear,1408,HEAR,852-0,harem,Sense perception
+162_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE),854-0,smel,Sense perception
+163_laugh,laugh,1355,LAUGH,858-0,laf,Emotions and values
+164_cry,cry,1839,CRY,859-0,krae,Emotions and values
+165_blow,blow,175,BLOW (OF WIND),867-0,blo,Motion
+166_burn,burn,2102,BURN,868-0,bon,Basic actions and technology
+167_sew,sew,1457,SEW,874-0,somap,Clothing and grooming
+168_pound,pound,354,POUND,880-0,kilkilim,Basic actions and technology
+169_hit,hit,1433,HIT,881-0,kilim,Basic actions and technology
+170_cut,cut,1432,CUT,887-0,katem,Basic actions and technology
+171_split,split,1437,SPLIT,888-0,spletem,Basic actions and technology
+172_dig,dig,1418,DIG,889-0,digim,Agriculture and vegetation
+173_hunt,hunt,1435,HUNT,892-0,kasem,Warfare and hunting
+174_hold,hold,1448,HOLD,893-0,holem,Possession
+175_fear,fear,1419,FEAR (BE AFRAID),895-0,fraet,Emotions and values
+176_count,count,1420,COUNT,896-0,kaontem,Quantity
+177_breathe,breathe,1407,BREATHE,897-0,pulum win,The body
+178_vomit,vomit,1278,VOMIT,900-0,traot,The body
+179_tieup,tie (up),1094,FASTEN,901-0,fasem taet,Basic actions and technology
+180_squeeze,squeeze,1414,SQUEEZE,902-0,skwisim,Basic actions and technology
+181_swell,swell,1573,SWELL,903-0,solap,Basic actions and technology
+182_say,say,1458,SAY,904-0,talem,Speech and language
+183_scratch,scratch,1436,SCRATCH,905-0,sikrasem,The body
+184_stab,stab,1434,STAB,906-0,stikim,Basic actions and technology
+185_buy,buy,1869,BUY,912-0,pem,Possession
+186_steal,steal,713,STEAL,913-0,stilim,Law
+187_plant,plant,1486,PLANT (SOMETHING),918-0,planem,Agriculture and vegetation
+188_cook,cook,1100,COOK (SOMETHING),922-0,kuk,Food and drink
+189_shoot,shoot,1172,SHOOT,940-0,shutum,Warfare and hunting
+190_work,work,1086,WORK (ACTIVITY),950-0,wok,Basic actions and technology
+191_open,open,1156,OPEN,962-0,openem,Spatial relations
+192_traditional_doctor_female,traditional doctor female,,,,woman we i stap mekem lif,
+194_afterlife,afterlife,,,,laef afta we man i ded,Religion and belief
+195_all,all,98,ALL,,evriwan,Quantity
+196_everyone,everyone,,,,evriwan,
+197_amniotic_fluid,amniotic fluid,,,,wota blong bebe,The body
+198_ancestor,ancestor,,,,bubu blong bifo,
+199_and,and,1577,AND,,mo,Cognition
+200_armband,armband,,,,tut blong pik we oli putum raonem han,
+202_at,at,1461,AT,,long,Spatial relations
+207_banana,banana,868,BANANA,,banana,Agriculture and vegetation
+208_banyan_tree,banyan tree,,,,nabanga,Agriculture and vegetation
+211_belly_button,belly button,3715,BELLYBUTTON,,nambiton,The body
+212_to_bite,to bite,1403,BITE,,kakae,The body
+213_magic,magic,392,MAGIC,,majik,Religion and belief
+214_niece_fraternal,niece fraternal,,,,anti,Kinship
+216_breadfruit,breadfruit,2371,BREADFRUIT,,bredfrut,Food and drink
+217_bride_price,bride price,3024,BRIDE PRICE,,braed praes/pem woman,Social and political relations
+220_nephew_fraternal,nephew fraternal,,,,boe blong mi (yu etc),Kinship
+221_nibling_fraternal,nibling fraternal,,,,"pikinini blong mi (yu, etc)",Kinship
+223_canoe,canoe,1970,CANOE,,kenu,Motion
+224_casava,casava,,,,maniok,Agriculture and vegetation
+225_cave,cave,1155,CAVE,,keiv,The physical world
+226_ceremony_of_the_first_harvest,ceremony of the first harvest,,,,fes haves,Religion and belief
+227_chief,chief,301,CHIEFTAIN,,jif,Social and political relations
+228_clearing_in_front_of_chiefs_house,clearing in front of chief's house,,,,emti spes long fored blong haos blong jif,
+229_coconut,coconut,970,COCONUT,,kokonat,Agriculture and vegetation
+230_coconut_sprout,coconut sprout,,,,kro blong kokonat,Agriculture and vegetation
+232_cyclone,cyclone,,,,saeklon,The physical world
+234_daughter,daughter,1357,DAUGHTER,,gel blong mi (yu etc),Kinship
+235_daughter_in_law,daughter in law,1057,DAUGHTER-IN-LAW,,tambu,Kinship
+236_granddaughter_daughter,granddaughter daughter,,,,apu gel,Kinship
+237_son_in_law,son in law,1056,SON-IN-LAW,,tambu,Kinship
+238_grandson_daughter,grandson daughter,,,,apu boe,Kinship
+239_grandchild_daughter,grandchild daughter,2703,GRANDCHILD (DAUGHTER'S OFFSPRING),,smol bubu gel/smol apu gel/,Kinship
+242_spirit,spirit,53,SPIRIT,,spirit,Religion and belief
+243_deep_ocean,deep ocean,,,,dip solwota,The physical world
+247_traditional_dreamer,traditional dreamer,,,,man blong lukluk rod,
+248_dry_season,dry season,452,DRY SEASON,,drae sisen/taem ples i drae,Time
+249_taro_dry,taro dry,,,,drae taro,Agriculture and vegetation
+250_ear_piercing,ear piercing,,,,stikim sorae,
+251_earth_oven,earth oven,,,,hol blong laplap,Food and drink
+252_earthquake,earthquake,6,EARTHQUAKE,,etkwek,The physical world
+253_east,east,1877,EAST,,is,Spatial relations
+254_eel,eel,1013,FRESHWATER EEL,,namarae,Animals
+255_eighteen,eighteen,1713,EIGHTEEN,,eitin,Quantity
+256_eighty,eighty,1722,EIGHTY,,eiti,Quantity
+257_eleven,eleven,1706,ELEVEN,,leven,Quantity
+258_fat,fat,1282,FAT (FROM ANIMALS),,kris,Food and drink
+259_uncle_paternal,uncle paternal,,,,papa,Kinship
+260_father_in_law,father in law,1055,FATHER-IN-LAW,,palika,Kinship
+261_father_in_law_of_woman,father in law of woman,2254,FATHER-IN-LAW (OF WOMAN),,palika,Kinship
+262_uncle_paternal_older,uncle paternal older,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER),,bigfala papa,Kinship
+263_first_cousin_female_paternal_uncle,first cousin female paternal uncle,,,,kasen sista/sista,Kinship
+264_first_cousin_male_paternal_uncle,first cousin male paternal uncle,,,,kasen brata/brata,Kinship
+265_first_cousin_male_paternal_uncle_older,first cousin male paternal uncle older,,,,bigfala kasen brata/bigfala brata,Kinship
+266_first_cousin_male_paternal_uncle_younger,first cousin male paternal uncle younger,,,,smol kasen brata/smol brata,Kinship
+267_first_cousin_paternal_uncle,first cousin paternal uncle,,,,kasen,Kinship
+268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,,bubu man/apu man,Kinship
+269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,,bubu woman/apu woman,Kinship
+270_grandparent_opposite_sex_of_parent,grandparent opposite sex of parent,,,,bubu/apu,Kinship
+272_first_cousin_female_paternal_uncle_older,first cousin female paternal uncle older,,,,bigfala sista,Kinship
+273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),,bigfala anti,Kinship
+274_aunt_paternal,aunt paternal,2175,PATERNAL AUNT,,anti,Kinship
+275_first_cousin_female_paternal_aunt,first cousin female paternal aunt,,,,tawi,Kinship
+276_first_cousin_female_opposite_sex_sibling_to_parent,first cousin female opposite sex sibling to parent,,,,tawi/sister,Kinship
+277_first_cousin_male_paternal_aunt,first cousin male paternal aunt,,,,tawi,Kinship
+278_first_cousin_paternal_aunt,first cousin paternal aunt,,,,tawi,Kinship
+279_first_cousin_male_opposite_sex_sibling_to_parent,first cousin male opposite sex sibling to parent,,,,tawi/brata,Kinship
+280_uncle_paternal_younger,uncle paternal younger,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),,smol papa,Kinship
+281_aunt_paternal_younger,aunt paternal younger,2171,PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER),,smol anti,Kinship
+283_female,female,2262,FEMALE (OF ANIMAL),,woman,Animals
+284_fifteen,fifteen,1709,FIFTEEN,,fiftin,Quantity
+285_fight,fight,2902,BRAWL (FIGHT),,faet,Basic actions and technology
+286_flow,flow,2003,FLOW,,ron,Motion
+287_flying_fox,flying fox,,,,flaing foks,Animals
+288_fourteen,fourteen,2451,FOURTEEN,,fotin,Quantity
+289_forty,forty,1716,FORTY,,foti,Quantity
+290_full_moon,full moon,3690,FULL MOON,,ful mun,The physical world
+291_garden,garden,586,GARDEN,,karen,Agriculture and vegetation
+296_granddaughter_son,granddaughter son,,,,apu gel,Kinship
+297_grandfather,grandfather,1383,GRANDFATHER,,bubu man/apu man,Kinship
+298_grandfather_maternal,grandfather maternal,2178,MATERNAL GRANDFATHER,,bubu man/apu man,Kinship
+299_grandmother_maternal,grandmother maternal,2177,MATERNAL GRANDMOTHER,,bubu woman/apu woman,Kinship
+300_grandson_son,grandson son,,,,apu boe,Kinship
+301_young_coconut,young coconut,,,,smol kokonat,Agriculture and vegetation
+302_to_grow,to grow,479,GROW,,kro,Spatial relations
+303_half_moon,half moon,,,,haf mun,The physical world
+304_heart,heart,1223,HEART,,hat,The body
+306_person,person,683,PERSON,,man,Kinship
+310_mother_in_law_of_woman,mother in law of woman,,,,palika,Kinship
+311_if,if,1459,IF,,sipos/sapos,Cognition
+312_initiation_male,initiation male,,,,sekomsaes,
+315_know_understand,know understand,1536,UNDERSTAND,,save/andastanem/andastan,Cognition
+316_sweet_potato,sweet potato,159,SWEET POTATO,,kumala/swit poteto,Agriculture and vegetation
+317_traditional_medicine,traditional medicine,,,,lif meresin,The body
+318_traditional_doctor_male,traditional doctor male,,,,man blong kivim lif/kleva,
+319_leaves_for_clothes,leaves for clothes,,,,lif blong ol klos/gras sket,
+320_leaves_for_dance,leaves for dance,,,,lif blong danis,
+321_leaves_for_covering_oven,leaves for covering oven,,,,lif blong kavremap hol blong laplap,
+322_leaves_for_house,leaves for house,,,,natangura,
+323_leaves_for_making_mats,leaves for making mats,,,,lif mat,
+324_woman_who_married_brother_of_dead_husband,woman who married brother of dead husband,,,,woman we i maredem brata blong man blong hem we i ded,
+325_sun_shower,sun shower,,,,san,
+326_lobster,lobster,2397,LOBSTER,,naura blong solwota,Animals
+328_long,long,1203,LONG,,longwan/longfala,Spatial relations
+329_magic_for_love,magic for love,,,,masing/swit maot/mekem lif long woman,Religion and belief
+332_gathering_house_for_men,gathering house for men,,,,nakamal,
+333_manioc,manioc,925,CASSAVA,,maniok,Agriculture and vegetation
+334_mask,mask,2005,MASK,,kiaman fes,Clothing and grooming
+336_meat,meat,2615,FLESH OR MEAT,,mit,The body
+337_coconut_sprout_meat,coconut sprout meat,,,,navara,Agriculture and vegetation
+338_menstruation,menstruation,766,MENSTRUATION,,sik mun/piried,The body
+340_fog,fog,249,FOG,,mist,The physical world
+341_mother_in_law,mother in law,1050,MOTHER-IN-LAW,,palika,Kinship
+342_uncle_maternal,uncle maternal,2694,MATERNAL UNCLE (HUSBAND OF ONE'S MATERNAL AUNT),,angkel,Kinship
+343_first_cousin_male_maternal_uncle,first cousin male maternal uncle,,,,tawi,Kinship
+344_first_cousin_female_maternal_uncle,first cousin female maternal uncle,,,,tawi,Kinship
+345_first_cousin_maternal_uncle,first cousin maternal uncle,,,,tawi,Kinship
+346_uncle_maternal_older,uncle maternal older,3249,MATERNAL UNCLE (MOTHER'S OLDER BROTHER),,bigfala angkel,Kinship
+347_aunt_maternal_older,aunt maternal older,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),,bigfala mami/mama,Kinship
+348_aunt_maternal,aunt maternal,2693,MATERNAL AUNT (MOTHER'S SISTER),,mami/mama,Kinship
+349_first_cousin_female_maternal_aunt_older,first cousin female maternal aunt older,,,,bigfala sista,Kinship
+350_first_cousin_female_maternal_aunt,first cousin female maternal aunt,,,,kasen sista/sista,Kinship
+351_first_cousin_male_maternal_aunt,first cousin male maternal aunt,,,,kasen brata/brata,Kinship
+354_uncle_maternal_younger,uncle maternal younger,3250,MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER),,smol angkel,Kinship
+355_aunt_maternal_younger,aunt maternal younger,3043,MATERNAL AUNT (MOTHER'S YOUNGER SISTER),,smol mami/mama,Kinship
+356_first_cousin_male_maternal_aunt_younger,first cousin male maternal aunt younger,,,,smol kasen brata/smol brata,Kinship
+357_penis_sheath,penis sheath,,,,nambas,
+359_narrow,narrow,1267,NARROW,,smol/naro,Spatial relations
+360_piercing_nose,piercing nose,,,,stikim nos,
+362_needle,needle,1382,NEEDLE (FOR SEWING),,nidil,Clothing and grooming
+363_nephew_sororal,nephew sororal,,,,boe blong mi (yu etc),Kinship
+364_new_moon,new moon,3691,NEW MOON,,niu mun,The physical world
+365_niece_sororal,niece sororal,,,,drim,Kinship
+367_nineteen,nineteen,1714,NINETEEN,,naentin,Quantity
+368_ninety,ninety,1724,NINETY,,naenti,Quantity
+370_north,north,1598,NORTH,,not,Spatial relations
+371_octopus,octopus,2581,OCTOPUS,,oktopas,Animals
+372_offerings_to_ancestors,offerings to ancestors,,,,ofring blong ol pupu blong bifo,
+373_brother_older,brother older,1759,OLDER BROTHER,,bigfala brata,Kinship
+374_brother,brother,1262,BROTHER,,brata,Kinship
+375_niece_fraternal_older,niece fraternal older,,,,gel blong mi (yu etc),Kinship
+376_nephew_fraternal_older,nephew fraternal older,,,,boe blong mi (yu etc),Kinship
+381_sister_older,sister older,1758,OLDER SISTER,,bigfala sista,Kinship
+382_sister,sister,1263,SISTER,,sista,Kinship
+383_sibling_older,sibling older,,,,bigfala brata/sista,Kinship
+384_niece_sororal_older,niece sororal older,,,,gel blong mi (yu etc),Kinship
+385_nephew_sororal_older,nephew sororal older,,,,boe blong mi (yu etc),Kinship
+386_nibling_sororal_older,nibling sororal older,,,,pikinini blong mi (yu etc),Kinship
+387_nibling_sororal,nibling sororal,,,,pikinini blong mi (yu etc),Kinship
+389_owl,owl,735,OWL,,oknaet,Animals
+391_pain,pain,2561,HURT (SENSE PAIN),,harem…i so,Sense perception
+392_sick,sick,1847,SICK,,sik,The body
+395_peace_ceremony,peace ceremony,,,,pis seremoni,
+396_pig,pig,1337,PIG,,pik,Animals
+398_pig_female,pig female,2488,FEMALE PIG,,woman pik,Animals
+399_pig_hermaphrodite,pig hermaphrodite,,,,narave,Animals
+400_pig_killing_ceremony,pig killing ceremony,,,,seremoni blong kilim pik,Religion and belief
+401_pig_male,pig male,2487,MALE PIG,,man pik,Animals
+403_placenta,placenta,3388,PLACENTA,,basket blong pikinini,The body
+405_man_who_makes_poison,man who makes poison,,,,posen man/man we i mekem nakaemas,
+406_polygamy,polygamy,,,,man i tekem fulap woman,Kinship
+408_pregnant,pregnant,1123,PREGNANT,,woman i gat bel,The body
+409_prepare_taboo,prepare taboo,,,,priperem tabu,Religion and belief
+410_rainbow,rainbow,1733,RAINBOW,,renbo,The physical world
+411_rainy_season,rainy season,453,RAINY SEASON,,taem/sisen blong ren,Time
+413_restricted_place,restricted place,,,,ples we i tabu,Religion and belief
+414_restriction_taboo,restriction taboo,,,,tabu,Religion and belief
+415_river,river,666,RIVER,,riva,The physical world
+416_road,road,2457,PATH OR ROAD,,rod,Motion
+418_sailing_canoe,sailing canoe,,,,seling kenu,Motion
+419_salt,salt,1274,SALT,,sol,Food and drink
+421_sea_worm,sea worm,,,,wom blong solwota,Animals
+422_secret,secret,1121,SECRET,,sikret,Cognition
+423_seventeen,seventeen,2453,SEVENTEEN,,seventin,Quantity
+424_seventy,seventy,1721,SEVENTY,,seventi,Quantity
+425_shark,shark,1110,SHARK,,shak,Animals
+426_short,short,1645,SHORT,,shot,Spatial relations
+428_sister_exchange,sister exchange,,,,jensem sista,Kinship
+429_sit_down,sit down,1649,SIT DOWN,,staon/sitdaon/sitaon,Motion
+430_sixteen,sixteen,2454,SIXTEEN,,sikstin,Quantity
+431_sixty,sixty,1718,SIXTY,,siksti,Quantity
+434_sniff,sniff,375,SNIFF,,"pulum win long nos (blong smelem samting, stopem nos i ron)",Sense perception
+435_son,son,1620,SON,,boe,Kinship
+436_grandchild_son,grandchild son,,,,smol apu boe/smol bubu boe/apu boe,Kinship
+437_grandchild,grandchild,1617,GRANDCHILD,,smolbubu,Kinship
+438_south,south,1595,SOUTH,,saot,Spatial relations
+440_space_for_dancing_ceremony,space for dancing ceremony,,,,spes blong danis seremoni/nasara,Religion and belief
+442_spirit_human,spirit human,,,,spirit,Religion and belief
+444_stomach,stomach,1251,BELLY,,beli,The body
+445_oven_stones,oven stones,,,,ston blong laplap,Food and drink
+446_storm,storm,858,STORM,,strong win,The physical world
+447_straight,straight,1404,STRAIGHT,,stret,Spatial relations
+448_suck,suck,1421,SUCK,,pulum (straw)/titi (breast),Food and drink
+450_sun,sun,1343,SUN,,san,The physical world
+451_tall,tall,1265,HIGH,,hae,Spatial relations
+453_taro_terrace,taro terrace,,,,taro paj,Agriculture and vegetation
+455_thatch,thatch,279,THATCH,,natangura,The house
+456_thick,thick,1244,THICK,,tik,Spatial relations
+457_thin,thin,2249,THIN (OF SHAPE OF OBJECT),,tintin,Spatial relations
+458_to_think,to think,2271,THINK,,tingting,Cognition
+459_thirteen,thirteen,1708,THIRTEEN,,tetin,Quantity
+460_thirty,thirty,1715,THIRTY,,teti,Quantity
+461_tsunami,tsunami,,,,sunami,The physical world
+462_chief_ceremony,chief ceremony,,,,seremoni blong jif,Religion and belief
+463_to_beat,to beat,1665,BEAT,,faetem/kilim,Basic actions and technology
+464_to_chew,to chew,321,CHEW,,kakae,Food and drink
+465_to_choose,to choose,1750,CHOOSE,,jusum,Emotions and values
+466_to_close,to close,,,,sarem,Basic actions and technology
+467_deaden_ones_thoughts,deaden one's thoughts,,,,kilim tingting,
+469_to_see,to see,1819,LOOK,,lukluk,Sense perception
+474_wood_for_moving_stones,wood for moving stones,,,,wud blong tekemaot ston blong laplap,
+475_direction_inland,direction inland,,,,daereksen i ko antap,Spatial relations
+476_direction_sea,direction sea,,,,daereksen i ko daon long solwota,Spatial relations
+477_twelve,twelve,1707,TWELVE,,twelef,Quantity
+478_umbilical_cord,umbilical cord,,,,nambiton,The body
+480_under,under,1485,BELOW OR UNDER,,andanit,Spatial relations
+483_hot,hot,2272,HOT OR WARM,,hot,Sense perception
+485_taro_wet,taro wet,,,,wota taro,Agriculture and vegetation
+487_wedding,wedding,1259,WEDDING,,mared,Kinship
+488_west,west,1817,WEST,,wes,Spatial relations
+489_wide,wide,1243,WIDE,,bigwan,Spatial relations
+490_parents_in_law,parents in law,306,PARENTS-IN-LAW,,palika,Kinship
+492_taro_wild,taro wild,,,,wael taro,Agriculture and vegetation
+493_yam_wild,yam wild,,,,wael yam,Agriculture and vegetation
+495_female_chief,female chief,,,,woman jif,Social and political relations
+496_yam,yam,410,YAM,,yam,Agriculture and vegetation
+497_yam_garden,yam garden,,,,karen blong yam,Agriculture and vegetation
+498_younger_sister,younger sister,1761,YOUNGER SISTER,,smol sista,Kinship
+499_younger_brother,younger brother,1760,YOUNGER BROTHER,,smol brata,Kinship
+500_niece_fraternal_younger,niece fraternal younger,,,,gel blong mi (yu etc),Kinship
+501_nephew_fraternal_younger,nephew fraternal younger,,,,boe blong mi (yu etc),Kinship
+505_niece_sororal_younger,niece sororal younger,,,,gel blong mi (yu etc),Kinship
+506_nephew_sororal_younger,nephew sororal younger,,,,boe blong mi (yu etc),Kinship
+507_nibling_sororal_younger,nibling sororal younger,,,,pikinini blong mi (yu etc),Kinship

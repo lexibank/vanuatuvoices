@@ -2,6 +2,7 @@ ID,phonetic_transcriptions,recording,sound_editing,Language_ID
 Alavasalavas,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Alavasalavas
 Alavaswowo,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Alavaswowo
 Angavaedixonreef,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Angavaedixonreef
+Atchinmainland,Lana Takau,Lana Takau,Lana Takau,Atchinmainland
 Atchinorap,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Atchinorap
 Atchinsmallisland,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Atchinsmallisland
 Aulualoxseasolokh,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Aulualoxseasolokh
@@ -14,9 +15,9 @@ Avoksmallisland,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Avoksmallisland
 Axambsmallisland,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Axambsmallisland
 Axambsmallislandmaliambor,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Axambsmallislandmaliambor
 Bangaasaktaremb,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Bangaasaktaremb
-Batarxopubenut,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Batarxopubenut
+Batarxopubenut,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Batarxopubenut
 Batarxopugonwar,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Batarxopugonwar
-Batarxopulembilmbil,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Batarxopulembilmbil
+Batarxopulembilmbil,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Batarxopulembilmbil
 Batarxopulipitav,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Batarxopulipitav
 Batarxopulumsak,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Batarxopulumsak
 Bislama1,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Bislama1
@@ -41,19 +42,31 @@ Espiegelsbayunspecified,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Espiegels
 Evuindondo,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Evuindondo
 Fiftikhatbol,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Fiftikhatbol
 Fiftimalmbor,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Fiftimalmbor
+Hano,Lana Takau,Lana Takau,Lana Takau,Hano
+Jakena,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Jakena
+Lamanbay,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Lamanbay
 Larevatfwishile,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Larevatfwishile
 Larevatlarevat,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Larevatlarevat
 Larevatmosox,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Larevatmosox
+Lepa,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Lepa
 Letemboiaingelemolesa,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Letemboiaingelemolesa
 Letemboinatingatlang,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Letemboinatingatlang
 Letemboinevatanyene,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Letemboinevatanyene
 Letemboinewotenyene,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Letemboinewotenyene
-Maluabaycoast,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Maluabaycoast
+Lopalis,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Lopalis
+Lopika,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Lopika
+Maluabaycoast,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Maluabaycoast
 Maluabaymarasup,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Maluabaymarasup
 Maluabaypetarmul,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Maluabaypetarmul
 Maluabaytiptir,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Maluabaytiptir
 Mandrifaru,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Mandrifaru
 Mandrifarun,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Mandrifarun
+Mangalava,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Mangalava
+Marapahu,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Marapahu
+Markam,Lana Takau,Lana Takau,Lana Takau,Markam
+Matewan,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Matewan
+Moriu,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Moriu
+Moso,Mary Walworth,Mary Walworth,Mary Walworth,Moso
 Naahaimbatvanui,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Naahaimbatvanui
 Naahaitoman,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Naahaitoman
 Naatiwindua,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Naatiwindua
@@ -64,6 +77,7 @@ Nahavaqcarolinebay,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nahavaqcarolin
 Nahavaqlembinwin,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nahavaqlembinwin
 Nahavaqloorndavo,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nahavaqloorndavo
 Najittanmial,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Najittanmial
+Nalema,Lana Takau,Lana Takau,Lana Takau,Nalema
 Namanlitzlitz,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Namanlitzlitz
 Nasarianngava,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nasarianngava
 Nasarianwileven,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nasarianwileven
@@ -71,6 +85,7 @@ Nasvangbigisland,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nasvangbigisland
 Nasvangfarun,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nasvangfarun
 Natanganmbonvor,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Natanganmbonvor
 Navwienmbonvor,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Navwienmbonvor
+Nese,Lana Takau,Lana Takau,Lana Takau,Nese
 Nesesanboise,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nesesanboise
 Nesetanmial,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nesetanmial
 Netimbbangir,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Netimbbangir
@@ -81,7 +96,9 @@ Neververlimap,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Neververlimap
 Neververmindu,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Neververmindu
 Neverversakan,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Neverversakan
 Ngatataremb,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Ngatataremb
+Ngevin,Lana Takau,Lana Takau,Lana Takau,Ngevin
 Nhavailombaha,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nhavailombaha
+Niku,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Niku
 Nindelabo,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nindelabo
 Nindelawa,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nindelawa
 Nindeopmobamba,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nindeopmobamba
@@ -90,12 +107,14 @@ Nindewindua,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nindewindua
 Nisvaiblacksands,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nisvaiblacksands
 Nisvaironevie,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nisvaironevie
 Nititakhatbol,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nititakhatbol
+Nivenuhe,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Nivenuhe
 Nleonda,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nleonda
 Nleovandue,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nleovandue
 Nmwerlap,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nmwerlap
 Nombotkoteblacksands,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nombotkoteblacksands
 Nombotkotemelkin,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nombotkotemelkin
 Nombotkoteneioleian,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Nombotkoteneioleian
+Nouvi,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Nouvi
 Novolbangir,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Novolbangir
 Novoldixonreef,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Novoldixonreef
 Novoltavendrua,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Novoltavendrua
@@ -103,29 +122,39 @@ Nsungwadianaone,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nsun
 Nsungwadianaumumu,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nsungwadianaumumu
 Nsungwadiatasmaor,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nsungwadiatasmaor
 Nsungwadiauta,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Nsungwadiauta
+Nulnesa,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Nulnesa
+Oreao,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Oreao
 Pangkumudatisman,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Pangkumudatisman
 Pangkumundarmif,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Pangkumundarmif
 Portsandwichlamap,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Portsandwichlamap
 Portsandwichmerivar,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Portsandwichmerivar
 Ragalolkasai,Lana Takau,Marie-France Duhamel,Lana Takau and Daria Dermaku,Ragalolkasai
-Ragaloltongbay,Lana Takau,Marie-France Duhamel,Lana Takau and Daria Dermaku	,Ragaloltongbay
+Ragaloltongbay,Lana Takau,Marie-France Duhamel,Lana Takau and Daria Dermaku,Ragaloltongbay
+Ragawansa,Lana Takau,Lana Takau,Lana Takau,Ragawansa
 Ranochinambong,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Ranochinambong
 Ranopotora,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Ranopotora
 Ranotwalung,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Ranotwalung
-Sabunlap,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Sabunlap
-Safponof,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku	,Safponof
+Redstone,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Redstone
+Saabaiebarrier,Lana Takau,Lana Takau,Lana Takau,Saabaiebarrier
+Sabunlap,Lana Takau,Tom Fitzpatrick and Lana Takau,Lana Takau and Daria Dermaku,Sabunlap
+Safponof,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Safponof
 Safrangusuksu,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Safrangusuksu
 Safyangtus,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Safyangtus
 Sageneral,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Sageneral
 Sahaa,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Sahaa
 Salangdixonreef,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Salangdixonreef
-Sapaangi,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Sapaangi
-Saranwas,Lana Takau,Tom Fitzpatrick,Lana Takau and Daria Dermaku,Saranwas
+Salondar,Lana Takau,Lana Takau,Lana Takau,Salondar
+Sapaangi,Lana Takau,Tom Fitzpatrick and Lana Takau,Lana Takau and Daria Dermaku and Lana Takau,Sapaangi
+Sapointcross,Lana Takau,Lana Takau,Lana Takau,Sapointcross
+Sara,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Sara
+Saranwas,Lana Takau,Tom Fitzpatrick and Lana Takau,Lana Takau and Daria Dermaku and Lana Takau,Saranwas
+Sasthenri,Lana Takau,Lana Takau,Lana Takau,Sasthenri
+Sawanur,Lana Takau,Lana Takau,Lana Takau,Sawanur
 Sbiribiri,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Sbiribiri
 Sivitinjavgonwar,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Sivitinjavgonwar
-Sivitinjavjericho,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Sivitinjavjericho
+Sivitinjavjericho,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Sivitinjavjericho
 Sivitinjavtanmililib,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Sivitinjavtanmililib
-Sivitinjavtanmililib2,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Sivitinjavtanmililib2
+Sivitinjavtanmililib2,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Sivitinjavtanmililib2
 Sivitinjavwomol,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Sivitinjavwomol
 Slolovele,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Slolovele
 Sragaavavanvae,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Sragaavavanvae
@@ -133,17 +162,23 @@ Ssakao,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Ssakao
 Ssungagageasanvari,Tom Ennever,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Ssungagageasanvari
 Ssungagageavanbatai,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Ssungagageavanbatai
 Ssungagageavavanvae,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Ssungagageavavanvae
+Surubonamaram,Lana Takau,Lana Takau,Lana Takau,Surubonamaram
+Surumweraninaruwa,Lana Takau,Lana Takau,Lana Takau,Surumweraninaruwa
+Surumweranivanransini,Lana Takau,Lana Takau,Lana Takau,Surumweranivanransini
+Sururabwangaenaa,Lana Takau,Lana Takau,Lana Takau,Sururabwangaenaa
 Sxalangibaetora,Iveth Rodriguez,Tom Ennever and Iveth Rodriguez,Iveth Rodriguez,Sxalangibaetora
+Taolia,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Taolia
 Tapemaraxusmae,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tapemaraxusmae
 Tapetautu1,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tapetautu1
+Tekelele,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Tekelele
 Tesmbolmelaklak,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tesmbolmelaklak
 Tesmbolusus,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tesmbolusus
-Tiraxbakru,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tiraxbakru
-Tiraxbethel,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tiraxbethel
+Tiraxbakru,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Tiraxbakru
+Tiraxbethel,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Tiraxbethel
 Tiraxbotmelesnial,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tiraxbotmelesnial
-Tiraxmae,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tiraxmae
-Tiraxolamb,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tiraxolamb
-Tiraxorap,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Tiraxorap
+Tiraxmae,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Tiraxmae
+Tiraxolamb,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Tiraxolamb
+Tiraxorap,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Tiraxorap
 Uliveolurtes,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uliveolurtes
 Uliveopelongk,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uliveopelongk
 Uliveopeskaros,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uliveopeskaros
@@ -153,7 +188,7 @@ Unuambatumbo,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Unuambatumbo
 Unuanoferai,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Unuanoferai
 Uripivdurpif,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uripivdurpif
 Uripivpotnambe,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uripivpotnambe
-Uripivtautu,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uripivtautu
+Uripivtautu,Aviva Shimelman and Lana Takau,Aviva Shimelman and Lana Takau,Laura Wägerle and Lana Takau,Uripivtautu
 Uripivtautuvillage,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Uripivtautuvillage
 Vaobeetehul,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Vaobeetehul
 Vaocanada,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Vaocanada
@@ -164,6 +199,8 @@ Venentautebenenavet,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Venentauteben
 Venentautebenmara,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Venentautebenmara
 Venentautehamax,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Venentautehamax
 Venentauteunmet,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Venentauteunmet
+Vilakara,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Vilakara
+Votlo,Sandrine Bessis,Sandrine Bessis,Sandrine Bessis,Votlo
 Walabotku,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Walabotku
 Walapetreros,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Walapetreros
 Walapreng,Aviva Shimelman,Aviva Shimelman,Laura Wägerle,Walapreng

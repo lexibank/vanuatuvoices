@@ -18,21 +18,21 @@ Available online at https://vanuatuvoices.clld.org
 
 
 [![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoices/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Glottolog: 80%](https://img.shields.io/badge/Glottolog-80%25-yellow.svg "Glottolog: 80%")
+![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 87%](https://img.shields.io/badge/BIPA-87%25-yellowgreen.svg "BIPA: 87%")
+![CLTS SoundClass: 87%](https://img.shields.io/badge/CLTS%20SoundClass-87%25-yellowgreen.svg "CLTS SoundClass: 87%")
 
-- **Varieties:** 173
-- **Concepts:** 191
-- **Lexemes:** 30,188
-- **Sources:** 1
+- **Varieties:** 211
+- **Concepts:** 426
+- **Lexemes:** 38,414
+- **Sources:** 4
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 179,370
-- **Segments:** 219 (0 BIPA errors, 0 CTLS sound class errors, 218 CLTS modified)
-- **Inventory size (avg):** 43.08
+- **Tokens:** 239,705
+- **Segments:** 251 (32 BIPA errors, 32 CTLS sound class errors, 218 CLTS modified)
+- **Inventory size (avg):** 43.10
 
 # Contributors
 
@@ -41,6 +41,7 @@ Name               | GitHub user     | Description                          | Ro
 Aviva Shimelman |  | Recorded and phonetically transcribed all of the Malekula languages from 2015 to 2017 | Author
 Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Directed fieldworkers to Maewo, Ambae, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
 Lana Takau |  | Translated the Vanuatu study into Bislama, edited and transcribed all languages of Pentecost Island  | Author
+Sandrine Bessis |  | Edited and transcribed all languages of Epi Island  | Author
 Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
 Tom Fitzpatrick |  | Provided the recordings of 6 dialects of the Sa language on Pentecost island | Author
