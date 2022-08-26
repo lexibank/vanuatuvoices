@@ -10,6 +10,9 @@ N$	ŋ	-hʊt͡sɣət͡ʃɛN	Espiegelsbayunspecified	1	U+004e U+0024
 R	ʀ	laRan	Maluabaymarasup	1	U+0052
 ^	NULL				
 ^-	NULL
+__	+
+-_	+
+naᵐ_b	n a ⁿb
 ^-mᵐẽ	m ẽ
 ^a	a	aβi, asa	Sragaavavanvae, Wwalaha, Nsungwadianaone, Bislama1, Evuindondo, Ssakao, Elolovoli, Ctlsungwadangota, Ctlsungwadagalalaundi, Nsungwadianaumumu, Nsungwadiauta, Nleonda, Nleovandue, Nhavailombaha, Bislama2, Slolovele, Ctlsungwadagarongnawo, Nsungwadiatasmaor, Sxalangibaetora, Ssungagageavavanvae, Ctletawetnaviso, Nmwerlap, Sbiribiri, Ctlsungwadolagwaranuta, Esanasolokave, Ctlsungwadogarata	100	U+005e U+0061
 ^a:	aː	a:t, a:li	Saranwas, Sabunlap	2	U+005e U+0061 U+003a
@@ -176,6 +179,7 @@ R	ʀ	laRan	Maluabaymarasup	1	U+0052
 _	+	nok taiŋʷa, wantɛm slip	Nsungwadiatasmaor, Nmwerlap, Bislama2, Nsungwadiauta, Evuindondo, Bislama1, Nsungwadianaumumu, Elolovoli, Wwalaha, Nhavailombaha, Nleovandue, Ssakao, Nleonda, Esanasolokave, Slolovele, Sbiribiri	100	U+005f
 _ᵏpʷ	+ kpʷ	ᵏpʷat ᵏpʷato, saβmas ᵏpʷala	Nsungwadianaone, Nsungwadiauta	3	U+005f U+1d4f
 _ⁿd	+ ⁿd	aɣɪn ⁿdʳu, no-oi ⁿdalⁿdal	Avavatisvel, Novoldixonreef, Nsungwadiauta, Nahaaimbatmbang, Naahaitoman, Fiftimalmbor, Naahaimbatvanui, Navwienmbonvor, Neveeicoast, Nombotkotemelkin, Ctlsungwadolagwaranuta, Walaworprev, Larevatmosox, Letemboinatingatlang, Nahavaqbanour, Ssungagageavavanvae, Tapemaraxusmae, Nahavaqloorndavo, Nombotkoteneioleian, Ctlsungwadagarongnawo, Venentautebenmara, Sragaavavanvae, Tiraxbakru, Tiraxmae, Wowolesarmalas, Nindelawa, Tiraxorap, Larevatfwishile, Axambsmallislandmaliambor, Ctltawetnarovorovo, Novoltavendrua, Angavaedixonreef, Novolbangir, Nombotkoteblacksands, Nahaaimalfaxal, Neveeivinmavis1, Letemboinewotenyene, Sivitinjavgonwar, Avavakhatbol, Xolimbwenelang, Ctlnalembanarovorovo, Tiraxolamb, Nasarianngava	62	U+005f U+207f
+_ⁿdʳ	+ ⁿdʳ
 a	a	narawan, wan andrɛt	Bislama2, Bislama1	100	U+0061
 a$	a	jutufala, olfala	Nleonda, Bislama1, Bislama2, Nhavailombaha	100	U+0061 U+0024
 a:	aː	ra:ni, ta:no	Ctlsungwadangota, Ctletawetnaviso, Sapaangi, Sageneral, Ssakao, Letemboinevatanyene, Ctlnalembanasawa, Saranwas, Sabunlap, Safyangtus, Ctlnalembanarovorovo, Sxalangibaetora	35	U+0061 U+003a
@@ -657,6 +661,10 @@ aʷi	a w i
 aʷə	a w ə
 byl	b y l
 t_̚_	t
+______	+
+____	+
+^naᵐ_batina	n a ⁿb a t i n a
+^ne-βulʉ-	n e + β u l ʉ
 d̚	d̚
 eʰu	e h u
 eʰy	e h y
