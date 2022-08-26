@@ -34,6 +34,9 @@ class Dataset(BaseDataset):
     id = "vanuatuvoices"
     form_spec = FormSpec(
             replacements=[
+                (" -", "-"), # space and dash
+                ("\u031at", "t\u031a"), # inverted diacritic
+                ("--", "-"), # double dash
                 ("\u0306", ""), # cannot be captured in orthoprofile
                 ("\u033c", ""),
                 ("ɸ̆", "ɸ"),
@@ -89,7 +92,7 @@ class Dataset(BaseDataset):
             with open(lang_dir / 'data.csv') as f:
                 reader = csv.reader(f)
                 for i, row in enumerate(reader):
-                    if i > 0:
+                    if i > 0 and row[0].strip() != "►":
                         p = row[1].strip()
                         if p in seen_values:
                             seen_values[p] += 1
@@ -97,13 +100,28 @@ class Dataset(BaseDataset):
                         else:
                             seen_values[p] = 1
                             idx = ''
-                        if p in known_param_ids:
+                        if p in known_param_ids and row[0].strip() != "►":
+                            frm = self.lexemes.get(row[0].strip(), row[0].strip())
+                            for s, t in [
+                                    (" -", "-"), # space and dash
+                                    ("- ", "-"),
+                                    ("\u031at", "t\u031a"), # inverted diacritic
+                                    ("--", "-"), # double dash
+                                    ("\u0306", ""), # cannot be captured in orthoprofile
+                                    ("\u033c", ""),
+                                    ("ɸ̆", "ɸ"),
+                                    (" ", "_")
+                                    ]:
+                                frm = frm.replace(s, t)
+                            if frm != row[0].strip():
+                                args.log.info("Form {0} -> {1}".format(
+                                    row[0], frm))
                             new = args.writer.add_form(
                                 Language_ID=lang_id,
                                 Local_ID='',
                                 Parameter_ID=p,
                                 Value=row[0].strip(),
-                                Form=row[0].strip(),
+                                Form=frm,
                                 Loan=False,
                                 Source=source,
                                 Variant_Of=None,
