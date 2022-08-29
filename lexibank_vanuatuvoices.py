@@ -6,6 +6,7 @@ import csv
 from pylexibank.providers.sndcmp import SNDCMP as BaseDataset
 from pylexibank.providers.sndcmp import SNDCMPConcept, SNDCMPLanguage
 from pylexibank import FormSpec
+from pylexibank import progressbar
 
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
@@ -34,11 +35,16 @@ class Dataset(BaseDataset):
     id = "vanuatuvoices"
     form_spec = FormSpec(
             replacements=[
+                (" -", "-"), # space and dash
+                ("- ", "-"),
+                ("\u031at", "t\u031a"), # inverted diacritic
+                ("--", "-"), # double dash
                 ("\u0306", ""), # cannot be captured in orthoprofile
                 ("\u033c", ""),
                 ("ɸ̆", "ɸ"),
+                (" ", "_"),
                 ],
-            missing_data=['..']
+            missing_data=['..', '►']
             )
 
     study_name = "Vanuatu"
@@ -54,6 +60,11 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         BaseDataset.form_spec = self.form_spec
         BaseDataset.cmd_makecldf(self, args)
+        # TODO: discuss if this modification should not better be made at the
+        # level of the provider script in lexibank!
+        for row in progressbar(args.writer.objects["FormTable"], desc="refine"):
+            row["Form"] = self.form_spec.clean(row["Form"])
+            row["Segments"] = self.tokenizer(row, row["Form"])
 
         data_path = self.raw_dir / 'data'
         known_lang_ids = set([d['ID'] for d in args.writer.objects['LanguageTable']])
@@ -68,7 +79,9 @@ class Dataset(BaseDataset):
         for k, v in sound_cat.items():
             sound_map[v['metadata']['name']] = k
 
-        for lang_dir in sorted(data_path.iterdir(), key=lambda f: f.name):
+        for lang_dir in progressbar(
+                sorted(data_path.iterdir(), key=lambda f: f.name),
+                desc="adding new data"):
 
             if lang_dir.name.startswith('.') or not (lang_dir / 'languages.csv').exists():
                 continue
@@ -89,7 +102,7 @@ class Dataset(BaseDataset):
             with open(lang_dir / 'data.csv') as f:
                 reader = csv.reader(f)
                 for i, row in enumerate(reader):
-                    if i > 0:
+                    if i > 0 and row[0].strip() != "►":
                         p = row[1].strip()
                         if p in seen_values:
                             seen_values[p] += 1
@@ -97,13 +110,15 @@ class Dataset(BaseDataset):
                         else:
                             seen_values[p] = 1
                             idx = ''
-                        if p in known_param_ids:
+                        if p in known_param_ids and row[0].strip() != "►":
+                            frm = self.form_spec.clean(self.lexemes.get(row[0].strip(),
+                                row[0].strip()))
                             new = args.writer.add_form(
                                 Language_ID=lang_id,
                                 Local_ID='',
                                 Parameter_ID=p,
                                 Value=row[0].strip(),
-                                Form=row[0].strip(),
+                                Form=frm,
                                 Loan=False,
                                 Source=source,
                                 Variant_Of=None,
