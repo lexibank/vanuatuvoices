@@ -18,7 +18,7 @@ Available online at https://vanuatuvoices.clld.org
 
 
 [![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoices/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 80%](https://img.shields.io/badge/Glottolog-80%25-yellow.svg "Glottolog: 80%")
+![Glottolog: 80%](https://img.shields.io/badge/Glottolog-80%25-yellowgreen.svg "Glottolog: 80%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 87%](https://img.shields.io/badge/BIPA-87%25-yellowgreen.svg "BIPA: 87%")
@@ -31,7 +31,7 @@ Available online at https://vanuatuvoices.clld.org
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
 - **Tokens:** 239,705
-- **Segments:** 251 (32 BIPA errors, 32 CTLS sound class errors, 218 CLTS modified)
+- **Segments:** 251 (32 BIPA errors, 32 CLTS sound class errors, 218 CLTS modified)
 - **Inventory size (avg):** 43.10
 
 # Contributors
