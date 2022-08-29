@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-28-g417f447",
+            "dc:created": "v1.0-29-g563f58c",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.13"
+            "dc:description": "3.10.6"
         },
         {
             "dc:title": "python-packages",
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 38414,
+            "dc:extent": 38627,
             "tableSchema": {
                 "columns": [
                     {
@@ -164,7 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 211,
+            "dc:extent": 212,
             "tableSchema": {
                 "columns": [
                     {
