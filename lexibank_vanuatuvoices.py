@@ -145,7 +145,6 @@ class Dataset(BaseDataset):
             {
                 'name': 'ID',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
-                'valueUrl': 'https://cdstar.eva.mpg.de/bitstreams/{objid}/{fname}',
             },
             'phonetic_transcriptions',
             'recording',
