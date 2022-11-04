@@ -2,12 +2,12 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Aviva Shimelman |  | Recorded and phonetically transcribed all of the Malekula languages from 2015 to 2017 | Author
-Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Directed fieldworkers to Maewo, Ambae, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
-Lana Takau |  | Translated the Vanuatu study into Bislama, edited and transcribed all languages of Pentecost Island  | Author
-Sandrine Bessis |  | Edited and transcribed all languages of Epi Island  | Author
-Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
-Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed phonetically 28 languages from Ambae and Maewo Islands | Author
+Aviva Shimelman |  | Recorded and transcribed Malekula languages from 2015 to 2017 | Author
+Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Recorded and transcribed data from Emae, Epi, and Efate. Directed fieldworkers to Malekula, Maewo, Ambae, Epi, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
+Lana Takau |  | Translated the Vanuatu study into Bislama, edited and transcribed all legacy recordings for Pentecost Island, recorded and transcribed languages from Pentecost and Malekula, assisted with editing and transcription of all languages    | Author
+Sandrine Bessis |  | Edited and transcribed anguages of Epi Island  | Author
+Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed languages from Ambae and Maewo Islands | Author
+Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed languages from Ambae and Maewo Islands | Author
 Tom Fitzpatrick |  | Provided the recordings of 6 dialects of the Sa language on Pentecost island | Author
 Marie-France Duhamel |  | Provided the recordings of the Raga and Lolkasai languages on Pentecost island | Author
 Giovanni Abete |  | Provided detailed phonetic transcription for many Malekula languages  | Author
