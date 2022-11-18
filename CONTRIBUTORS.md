@@ -15,7 +15,7 @@ Marie-France Duhamel |  | Provided the recordings of the Raga and Lolkasai langu
 Giovanni Abete |  | Provided detailed phonetic transcription for many Malekula languages  | Author
 Laura Wägerle |  | Provided audio post-processing and mark-up 2016-2018 | Author
 Kaitip W. Kami |  | Coordinated and assisted with recordings of many Malekula languages | Author
-Russell Gray |  | Co-Director of the Vanuatu Languages and Lifeways project (2016-2018) and Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Vanuatu study. | 
-Mattis List |  |  | Contributor
-Robert Forkel |  |  | Contributor
-Tihomir Rangelov |  | Provided intellectual support for version 1.2 | Contributor
+Russell Gray |  | Co-Director of the Vanuatu Languages and Lifeways project (2016-2018) and Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Vanuatu study. | Author
+Robert Forkel | @xrotwang | CLDF data conversion | DataCurator
+Johann-Mattis List |  | CLDF data conversion and orthography profile creation | Other
+Tihomir Rangelov |  | Provided intellectual support for version 1.2 | Other
