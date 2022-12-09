@@ -5,33 +5,33 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 34550 | ✓ | ✓ |
-| n | 19331 | ✓ | ✓ |
-| i | 18225 | ✓ | ✓ |
-| + | 17669 | ✓ | ✓ |
-| u | 13443 | ✓ | ✓ |
+| a | 34553 | ✓ | ✓ |
+| n | 19468 | ✓ | ✓ |
+| i | 18237 | ✓ | ✓ |
+| + | 17643 | ✓ | ✓ |
+| u | 13449 | ✓ | ✓ |
 | l | 12694 | ✓ | ✓ |
 | m | 11850 | ✓ | ✓ |
-| o | 11636 | ✓ | ✓ |
+| o | 11638 | ✓ | ✓ |
 | t | 10190 | ✓ | ✓ |
-| e | 10121 | ✓ | ✓ |
+| e | 10123 | ✓ | ✓ |
 | r | 9542 | ✓ | ✓ |
 | s | 7956 | ✓ | ✓ |
 | ɛ | 7287 | ✓ | ✓ |
 | k | 6037 | ✓ | ✓ |
 | ŋ | 4582 | ✓ | ✓ |
 | v | 3917 | ✓ | ✓ |
-| ɪ | 3879 | ✓ | ✓ |
+| ɪ | 3880 | ✓ | ✓ |
 | p | 3335 | ✓ | ✓ |
 | x | 2949 | ✓ | ✓ |
 | ɣ | 2647 | ✓ | ✓ |
 | w | 2636 | ✓ | ✓ |
 | ⁿb | 2468 | ✓ | ✓ |
-| h | 2232 | ✓ | ✓ |
-| ⁿd | 1725 | ✓ | ✓ |
-| ə | 1581 | ✓ | ✓ |
+| h | 2231 | ✓ | ✓ |
+| ⁿd | 1726 | ✓ | ✓ |
+| ə | 1589 | ✓ | ✓ |
 | b | 1518 | ✓ | ✓ |
-| j | 1433 | ✓ | ✓ |
+| j | 1434 | ✓ | ✓ |
 | ɾ | 1410 | ✓ | ✓ |
 | f | 1248 | ✓ | ✓ |
 | ⁿg | 1212 | ✓ | ✓ |
@@ -49,25 +49,23 @@
 | c | 451 | ✓ | ✓ |
 | ⁿbʷ | 430 | ✓ | ✓ |
 | ʉ | 367 | ✓ | ✓ |
+| ð | 330 | ✓ | ✓ |
 | ʔ | 328 | ✓ | ✓ |
 | ts | 286 | ✓ | ✓ |
 | ⁿʙ | 263 | ✓ | ✓ |
-| ð | 242 | ✓ | ✓ |
 | vʷ | 177 | ✓ | ✓ |
 | uː | 166 | ✓ | ✓ |
 | z | 163 | ✓ | ✓ |
-| ʃ | 160 | ✓ | ✓ |
+| ʃ | 159 | ✓ | ✓ |
 | ŋʷ | 158 | ✓ | ✓ |
 | iː | 144 | ✓ | ✓ |
 | ⁿgʷ | 143 | ✓ | ✓ |
 | bʷ | 139 | ✓ | ✓ |
-| n̼ | 137 | ✓ | ✓ |
 | kʷ | 136 | ✓ | ✓ |
 | pʷ | 134 | ✓ | ✓ |
 | eː | 121 | ✓ | ✓ |
 | oː | 106 | ✓ | ✓ |
 | ⁿʒ | 92 | ✓ | ✓ |
-| ð̼ | 88 | ✓ | ✓ |
 | ɸʷ | 87 | ✓ | ✓ |
 | fʷ | 85 | ✓ | ✓ |
 | p̚ | 80 | ✓ | ✓ |
@@ -120,7 +118,6 @@
 | pʰ | 13 | ✓ | ✓ |
 | vʰ | 12 | ✓ | ✓ |
 | æː | 12 | ✓ | ✓ |
-| ĭ | 12 | ✓ | ✓ |
 | ɨ | 12 | ✓ | ✓ |
 | o̥ | 11 | ✓ | ✓ |
 | ɣʷ | 11 | ✓ | ✓ |
@@ -133,7 +130,6 @@
 | eʲ/ei̯ | 8 | ✓ | ✓ |
 | lː | 8 | ✓ | ✓ |
 | y | 8 | ✓ | ✓ |
-| ə̆ | 8 | ✓ | ✓ |
 | ɺ | 8 | ✓ | ✓ |
 | ɾʷ | 8 | ✓ | ✓ |
 | e̥ | 7 | ✓ | ✓ |
@@ -143,7 +139,6 @@
 | rⁿ | 6 | ✓ | ✓ |
 | sː | 6 | ✓ | ✓ |
 | zʷ | 6 | ✓ | ✓ |
-| ŭ | 6 | ✓ | ✓ |
 | ɑːi̯ | 6 | ✓ | ✓ |
 | ʍ | 6 | ✓ | ✓ |
 | ⁿm | 6 | ✓ | ✓ |
@@ -178,7 +173,6 @@
 | tsʰ | 3 | ✓ | ✓ |
 | t̪ʰ | 3 | ✓ | ✓ |
 | ø | 3 | ✓ | ✓ |
-| ă | 3 | ✓ | ✓ |
 | ɑː | 3 | ✓ | ✓ |
 | ɛ̃ | 3 | ✓ | ✓ |
 | ʙʳ | 3 | ✓ | ✓ |
@@ -189,8 +183,6 @@
 | fʲ | 2 | ✓ | ✓ |
 | nᵗ/ⁿt | 2 | ✓ | ✓ |
 | tk | 2 | ✓ | ✓ |
-| ĕ | 2 | ✓ | ✓ |
-| ŏ | 2 | ✓ | ✓ |
 | ɛ̃ː | 2 | ✓ | ✓ |
 | ɣ̞ | 2 | ✓ | ✓ |
 | ɤ | 2 | ✓ | ✓ |
@@ -232,13 +224,13 @@
 | ɛˑ | 1 | ✓ | ✓ |
 | ɣʲ | 1 | ✓ | ✓ |
 | ɥ | 1 | ✓ | ✓ |
-| ɪ̆ | 1 | ✓ | ✓ |
 | ɶ | 1 | ✓ | ✓ |
 | ɸʲ | 1 | ✓ | ✓ |
 | ɹ | 1 | ✓ | ✓ |
 | ɺʷ | 1 | ✓ | ✓ |
 | ɾʰ | 1 | ✓ | ✓ |
 | ʀ | 1 | ✓ | ✓ |
+| ʃʰ | 1 | ✓ | ✓ |
 | ʉː | 1 | ✓ | ✓ |
 | ʕ | 1 | ✓ | ✓ |
 | ʷl | 1 | ✓ | ✓ |
@@ -249,12 +241,11 @@
 | ẽː | 1 | ✓ | ✓ |
 | ⁿbʳ | 1 | ✓ | ✓ |
 | ⁿdʒ | 1 | ✓ | ✓ |
-| ⁿdʲ | 1 | ✓ | ✓ |
 | ⁿpʰ | 1 | ✓ | ✓ |
 | ⁿr | 1 | ✓ | ✓ |
 | ⁿð | 1 | ✓ | ✓ |
 
-(248 rows)
+(239 rows)
 
 
 
@@ -270,31 +261,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-------------------------------------|:--------------------------|:--------------|:---------------|:----------------------------|
-| Avoksmallisland-124_old-1 | Avoksmallisland | 124_old | roviɛ -xaiavʊr | r o v i ɛ + + x a i a v ʊ r |
-| Avoksmallisland-165_blow-1 | Avoksmallisland | 165_blow | ŋo--vuv | ŋ o + + v u v |
-| Avoksmallisland-37_above-1 | Avoksmallisland | 37_above | ha--miɛx | h a + + m i ɛ x |
-| Axambsmallislandmaliambor-140_walk-1 | Axambsmallislandmaliambor | 140_walk | na--ðan | n a + + ð a n |
-| Mandrifaru-113_roadpath-1 | Mandrifaru | 113_roadpath | nɪ--sal | n ɪ + + s a l |
-| Mandrifaru-129_dirty-1 | Mandrifaru | 129_dirty | naslo--mɛrmɛɾ | n a s l o + + m ɛ r m ɛ ɾ |
-| Mandrifaru-160_see-1 | Mandrifaru | 160_see | ᵑgaᵐʙu--rusi | ⁿg a ⁿʙ u + + r u s i |
-| Mandrifaru-187_plant-1 | Mandrifaru | 187_plant | ⁿdara--lumʷi | ⁿd a r a + + l u mʷ i |
-| Mandrifaru-51_back-1 | Mandrifaru | 51_back | nɪ--maⁿdrɪ-m | n ɪ + + m a ⁿd r ɪ + m |
-| Mandrifaru-57_intestines-1 | Mandrifaru | 57_intestines | ni--ʧɪnɪ-m | n i + + tʃ ɪ n ɪ + m |
-| Mandrifaru-62_fish-1 | Mandrifaru | 62_fish | na--jɪx | n a + + j ɪ x |
-| Mandrifaru-65_louse-1 | Mandrifaru | 65_louse | na--ɣur | n a + + ɣ u r |
-| Mandrifaru-6_six-1 | Mandrifaru | 6_six | alɪmɪro--ʧkai | a l ɪ m ɪ r o + + tʃ k a i |
-| Mandrifarun-6_six-1 | Mandrifarun | 6_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
-| Nahaaimalfaxal-146_climb-1 | Nahaaimalfaxal | 146_climb | katon--hax | k a t o n + + h a x |
-| Nasvangfarun-6_six-1 | Nasvangfarun | 6_six | lɪmɪru--ʧkai | l ɪ m ɪ r u + + tʃ k a i |
-| Nindelabo-67_spider-1 | Nindelabo | 67_spider | na- taðe | n a + + t a ð e |
-| Sivitinjavgonwar-116_red-1 | Sivitinjavgonwar | 116_red | i -mial | i + + m i a l |
-| Sivitinjavtanmililib-116_red-1 | Sivitinjavtanmililib | 116_red | i -mial | i + + m i a l |
-| Sivitinjavtanmililib2-11_twenty-1 | Sivitinjavtanmililib2 | 11_twenty | movil -ɾu | m o v i l + + ɾ u |
-| Tiraxolamb-11_twenty-1 | Tiraxolamb | 11_twenty | ŋovil -ru | ŋ o v i l + + r u |
-| Walaworprev-139_come-1 | Walaworprev | 139_come | usə--ᵐbʷɛl | u s ə + + ⁿbʷ ɛ l |
-| Wowolesarmalas-11_twenty-1 | Wowolesarmalas | 11_twenty | hovul -rue | h o v u l + + r u e |
+|------|------------|-----------|--------|------------|
 
-(23 rows)
+(0 rows)
 
 

@@ -14,13 +14,22 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://vanuatuvoices.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/vanuatuvoices
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/vanuatuvoices/tree/b0367db">lexibank/vanuatuvoices v1.0-35-gb0367db</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.6.0">Concepticon v2.6.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/vanuatuvoices/tree/b937249">lexibank/vanuatuvoices v1.0-39-gb937249</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.6">Glottolog v4.6</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.0.0">Concepticon v3.0.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.8</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | vanuatuvoices
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
 
 ## <a name="table-formscsv"></a>Table [forms.csv](./forms.csv)
+
+
+Raw lexical data item as it can be pulled out of the original datasets.
+
+This is the basis for creating rows in CLDF representations of the data by
+- splitting the lexical item into forms
+- cleaning the forms
+- potentially tokenizing the form
+
 
 property | value
  --- | ---
@@ -36,8 +45,8 @@ Name/Property | Datatype | Description
 [Local_ID](http://purl.org/dc/terms/identifier) | `string` | 
 [Language_ID](http://cldf.clld.org/v1.0/terms.rdf#languageReference) | `string` | References [languages.csv::ID](#table-languagescsv)
 [Parameter_ID](http://cldf.clld.org/v1.0/terms.rdf#parameterReference) | `string` | References [parameters.csv::ID](#table-parameterscsv)
-[Value](http://cldf.clld.org/v1.0/terms.rdf#value) | `string` | ► := no value, but audio
-[Form](http://cldf.clld.org/v1.0/terms.rdf#form) | `string` | ► := no form, but audio
+[Value](http://cldf.clld.org/v1.0/terms.rdf#value) | `string` | 
+[Form](http://cldf.clld.org/v1.0/terms.rdf#form) | `string` | 
 [Segments](http://cldf.clld.org/v1.0/terms.rdf#segments) | list of `string` (separated by ` `) | 
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
@@ -45,7 +54,6 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
-`Variant_Of` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -69,7 +77,6 @@ Name/Property | Datatype | Description
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
 `Family` | `string` | 
 `LongName` | `string` | 
-`IndexInSource` | `string` | 
 `IsProto` | `string` | 
 `Island` | `string` | 
 
@@ -89,7 +96,6 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
-`IndexInSource` | `string` | 
 `Bislama_Gloss` | `string` | 
 `Concepticon_SemanticField` | `string` | 
 
@@ -97,7 +103,8 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 105784
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 105853
 
 
 ### Columns
@@ -105,16 +112,17 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 `objid` | `string` | 
-`fname` | `string` | 
-`mimetype` | `string` | 
 `size` | `integer` | 
 [Form_ID](http://cldf.clld.org/v1.0/terms.rdf#formReference) | `string` | References [forms.csv::ID](#table-formscsv)
+[mimetype](http://cldf.clld.org/v1.0/terms.rdf#mediaType) | `string` | 
 
 ## <a name="table-contributionscsv"></a>Table [contributions.csv](./contributions.csv)
 
 property | value
  --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
 [dc:extent](http://purl.org/dc/terms/extent) | 210
 
 

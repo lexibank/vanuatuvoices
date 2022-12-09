@@ -7,13 +7,13 @@
     ],
     "creators": [
         {
-            "name": "Aviva Shimelman"
+            "name": "Lana Takau"
         },
         {
             "name": "Mary Walworth"
         },
         {
-            "name": "Lana Takau"
+            "name": "Aviva Shimelman"
         },
         {
             "name": "Sandrine Bessis"
@@ -25,7 +25,13 @@
             "name": "Iveth Rodriguez"
         },
         {
-            "name": "Tom Fitzpatrick"
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Daria D\u00ebrmaku"
+        },
+        {
+            "name": "Murray Garde"
         },
         {
             "name": "Marie-France Duhamel"
@@ -34,28 +40,29 @@
             "name": "Giovanni Abete"
         },
         {
-            "name": "Daria D\u00ebrmaku"
-        },
-        {
             "name": "Laura W\u00e4gerle"
-        },
-        {
-            "name": "Heidi Colleran"
-        },
-        {
-            "name": "Paul Heggarty"
         },
         {
             "name": "Kaitip W. Kami"
         },
         {
-            "name": "Hans-J\u00f6rg Bibiko"
-        },
-        {
             "name": "Russell Gray"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Tihomir Rangelov",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"

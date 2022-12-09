@@ -1,29 +1,214 @@
-Njav Siviti Tanmililiv 2 Words,English Translation
-navʉl mʷel lalamb,290_full_moon
-navʉl bəlak lepo lowomboxos,303_half_moon
-nevil merax,364_new_moon
-nəvanu meɾaŋ,248_dry_season
-nəvanu rom te naus us,411_rainy_season
-laxwantes mermer,243_deep_ocean
-ⁿdas mʷe lalam te lalam,461_tsunami
+Sivitinjavtanmililib2,English Translation
+-soɣal,1_one
+i-ru,2_two
+i-dil,3_three
+i-vat,4_four
+i-lim,5_five
+-ɣon,6_six
+-ɣɛᵐbʉt,7_seven
+-xoɛl,8_eight
+-ɣɛsiɸ,9_nine
+-sɪŋavʉl,10_ten
+movil-ɾu,11_twenty
+mov_i-lim,12_fifty
+mov_sɪŋavʉl,13_onehundred
+vɪn_vasiŋavʉl_vasɪɣal,14_onethousand
+ᵑgaka,15_year
+matu,16_right
+mʷɪrin,17_left
+ne,18_i
+kɪmam,19_weallexcl
+nɛgir_iru,20_webothincl
+kɪnambo_iru,21_webothexcl
+nɛgir,22_weallincl
+nox,23_thou
+kɛmibo_iru,24_youboth
+kemi,25_youall
+xain,26_heshe
+xair,27_theyall
+xair_bo_iru,28_theyboth
+ⁿʒaɸ,30_what
+sena,31_who
+ambe,32_where
+sɪveliŋ,33_when
+-pɪlaxnʒaɸ,34_how
+anaɣi,35_this
+hainoɣan,36_that
+-limsax,37_above
+-mɛlvɛn,38_below
+-lalon,39_ininside
+ᵐbati-n,40_head
+vɪlʊ-n,41_hair
+mɛta-n,42_eye
+ᵑguʒu-n,43_nose
+moro-n,44_ear
+ⁿzoŋo-n,45_mouth
+mimɛ-n,46_tongue
+lowo-n,47_tooth
+wara-n,48_hand
+ᵐbʷilin,49_shoulder
+ⁿzalɣa-n,50_neck
+ⁿdawu-n,51_back
+mʷalɛ-n,52_leg
+na-re,53_blood
+ⁿʒi-n,54_bone
+vɪvɪlʊ-n,55_skin
+lawa-n,56_belly
+danoran,57_intestines
+na-sus,58_breast
+na-re-na-n,59_liver
+no-wuli,60_dog
+mænuɸ,61_bird
+nɪ-mæt͡ʃ,62_fish
+nɪ-mat,63_snake
+wulɪt͡slɪt͡s,64_worm
+na-ɣut,65_louse
+na-xariv,66_rat
+ne-la,67_spider
+na-muɸ,68_mosquito
+rulu-n,69_egg
+wɪlɣao-n,70_tail
+na-ɣpa-n,71_wing
+vɛlo-n,72_feather
+nɪ-mɪɾmɪɾ,73_man
+nɛ-vɪnar,74_woman
+lelet͡sɪpiləx,75_child
+nɛ-ŋsa-n,76_name
+mɛra-n,77_mother
+tate,78_father
+lilɛχ-sa-n,79_husband
+nɛ-vɪnar-sa-n,80_wife
+laran,81_day
+lapun,82_night
+na-vʉɬ,83_moon
+wuwor,84_star
+ramʉt,85_sky
+nu-a,86_water
+malɛn,87_lake
+tas,88_sea
+na-ɣamp,89_fire
+es,90_smoke
+ᵐbʷɪtnaɣaɸ,91_ash
+nɪ-vat,92_stone
+ⁿdan,93_earthsoil
+na-on,95_sand
+na-us,96_rain
+ᵐbaklanə,97_cloud
+laŋ,98_wind
+ᵐbʷɛtokur,99_thunder
+nɛ-vɪlax,100_lightning
+mɛzovin,101_meatflesh
+woan-a,102_fruit
+lamʉš,103_woodsforest
+lapʷɛ-n,104_root
+nɪ-rao-na,105_branch
+a-roɣʊ-n,106_leaf
+na-ɣa,107_wood
+na-mʉs,108_grass
+towa-na,109_flower
+ni-at,110_thatchroof
+na-im,111_house
+marit,112_rope
+ⁿʒal,113_roadpath
+-loŋ,114_black
+-wus,115_white
+-mial,116_red
+-ɣɛt͡sɣet͡san,117_green
+-moɣɛl,118_yellow
+-lalamp,119_big
+-wɪlwɪle,120_small
+-mʷon,121_sharp
+-pomʷonde,122_bluntdull
+-mɛɣan,123_shyashamed
+-tɛrtɛɾa,124_old
+-rɪrax,125_painfulsick
+-nam,126_good
+-sat,127_bad
+-wuratin,128_correcttrue
+-lalo,129_dirty
+-mɪrɪvrɪv,130_rotten
+-roɸ,131_heavy
+-luze,132_far
+-xəriɸ,133_near
+-malɣas,134_cold
+-mimas,135_dry
+-mimim,136_wet
+-mɛrax,137_new
+-mʷẽ,139_come
+-vial,140_walk
+-tur_mavos,141_stand
+-at,142_sit
+-t͡so,143_fall
+metu-an_ledan,144_liedown
+-ror,145_turn
+-sax,146_climb
+-suɸ,147_swim
+-xiɣamp,148_flyverb
+-wɛrɛn,149_throw
+-vɪtesuwun,150_hide
+-or,151_eat
+-min,152_drink
+-tipis,154_spit
+metur-an_porpor,155_dream
+-metur,156_sleep
+-mɛruɸ,157_live
+-mes,158_die
+-rup-ɛ-mes,159_kill
+-ri,160_see
+-roŋɔ,161_hear
+roa-nɛdvin,162_sniffsmell
+-ɲir-an,163_laugh
+-ɲar-an,164_cry
+-sɛɾɛ,165_blow
+teɣan,166_burn
+-ruprup,168_pound
+-rup,169_hit
+tet͡s,170_cut
+-tɪvuɣis,171_split
+-ɣil,172_dig
+woɾan,173_hunt
+-wus,174_hold
+-mɛtaɣut,175_fear
+-ʧɪpʷɪn,176_count
+-evɪn-laŋ,177_breathe
+-lulu,178_vomit
+-ke,179_tieup
+-wɪlɪɣis,180_squeeze
+-wowun,181_swell
+-wiɾ,182_say
+-kot͡sxot͡s,183_scratch
+-siɾ,184_stab
+-wul,185_buy
+-vɪnaɣe,186_steal
+-ruv,187_plant
+-soro,189_shoot
+-ᵐbas-an,190_work
+-rɛɣɛs,191_open
+navʉl_mʷel_lalamb,290_full_moon
+navʉl_bəlak_lepo_lowomboxos,303_half_moon
+nevil_merax,364_new_moon
+nəvanu_meɾaŋ,248_dry_season
+nəvanu_rom_te_naus_us,411_rainy_season
+laxwantes_mermer,243_deep_ocean
+ⁿdas_mʷe_lalam_te_lalam,461_tsunami
 namʷi,252_earthquake
-laŋ ɾup,232_cyclone
-ⁿdemas lexe,325_sun_shower
-laŋ teɾteɾ te teɾteɾ,446_storm
-neval səɾix,410_rainbow
-mbəɾaŋ nəvat,225_cave
+laŋ_ɾup,232_cyclone
+ⁿdemas_lexe,325_sun_shower
+laŋ_teɾteɾ_te_teɾteɾ,446_storm
+neval_səɾix,410_rainbow
+mbəɾaŋ_nəvat,225_cave
 nəʲal,450_sun
 nəmbak,208_banyan_tree
 naut,291_garden
 nani,229_coconut
 nawop,337_coconut_sprout_meat
-ⁿdepi nawop,230_coconut_sprout
+ⁿdepi_nawop,230_coconut_sprout
 mbuak,485_taro_wet
-mbuak nandemimas,249_taro_dry
+mbuak_nandemimas,249_taro_dry
 ŋgaka,496_yam
 navic,207_banana
-naut te məɾən səɾuf taro ɾaŋan,453_taro_terrace
-nɘut naŋgaka,497_yam_garden
+naut_te_məɾən_səɾuf_taro_ɾaŋan,453_taro_terrace
+nɘut_naŋgaka,497_yam_garden
 mbetaɸ,216_breadfruit
 kumala,316_sweet_potato
 wonvi,492_taro_wild
@@ -31,35 +216,35 @@ nambuc,493_yam_wild
 veɾep,396_pig
 mboxos,401_pig_male
 veɾep,398_pig_female
-mboxostevinevnar vənmeɾmeɾ,399_pig_hermaphrodite
+mboxostevinevnar_vənmeɾmeɾ,399_pig_hermaphrodite
 naol,421_sea_worm
 naxit,371_octopus
 nalul,389_owl
 ŋgera,287_flying_fox
 meɾe,254_eel
 mbaxe,425_shark
-ⁿdeŋe sesat,213_magic
+ⁿdeŋe_sesat,213_magic
 nɘlul,467_deaden_ones_thoughts
 mbetxevit,247_traditional_dreamer
-moɾotin sesat,405_man_who_makes_poison
-sərur lalo məɾətin,329_magic_for_love
-noɾoxo namnam,317_traditional_medicine
-moɾotin naɾoxo,318_traditional_doctor_male
-venevnar te bate kisxɾoxo,192_traditional_doctor_female
-ⁿdeŋe vai,395_peace_ceremony
+moɾotin_sesat,405_man_who_makes_poison
+sərur_lalo_məɾətin,329_magic_for_love
+noɾoxo_namnam,317_traditional_medicine
+moɾotin_naɾoxo,318_traditional_doctor_male
+venevnar_te_bate_kisxɾoxo,192_traditional_doctor_female
+ⁿdeŋe_vai,395_peace_ceremony
 nasup,227_chief
 leʲat,495_female_chief
 maki,400_pig_killing_ceremony
 reveu,226_ceremony_of_the_first_harvest
-vite mbetrem,372_offerings_to_ancestors
-vite maloxna,372_offerings_to_ancestors
+vite_mbetrem,372_offerings_to_ancestors
+vite_maloxna,372_offerings_to_ancestors
 lexan,487_wedding
-cowol nevnar,217_bride_price
+cowol_nevnar,217_bride_price
 kelkel,428_sister_exchange
 tamtam,324_woman_who_married_brother_of_dead_husband
-vaven nevnar lamb,406_polygamy
-neŋve nevnar soxalef,198_ancestor
-namum namnam,442_spirit_human
+vaven_nevnar_lamb,406_polygamy
+neŋve_nevnar_soxalef,198_ancestor
+namum_namnam,442_spirit_human
 ⁿdemas,242_spirit
 ambʷealo,194_afterlife
 aɾmaɾo,475_direction_inland
@@ -68,99 +253,99 @@ vanaɾasuɸ,370_north
 vanaɸsax,438_south
 vanaɾmaɾo,253_east
 vanaɾwa,488_west
-ⁿdeŋe te xoxə,422_secret
-nevenu sesat,413_restricted_place
+ⁿdeŋe_te_xoxə,422_secret
+nevenu_sesat,413_restricted_place
 sat,414_restriction_taboo
-xoɾxoɾ te məɾetin oɾo cəpweɾte,414_restriction_taboo
-asive xoɾxoɾo,409_prepare_taboo
-lalo moɾotin,304_heart
-mbiti moɾotin,478_umbilical_cord
-nuʷe malxaɾu,197_amniotic_fluid
-ⁿdaŋ na leleciblax,403_placenta
+xoɾxoɾ_te_məɾetin_oɾo_cəpweɾte,414_restriction_taboo
+asive_xoɾxoɾo,409_prepare_taboo
+lalo_moɾotin,304_heart
+mbiti_moɾotin,478_umbilical_cord
+nuʷe_malxaɾu,197_amniotic_fluid
+ⁿdaŋ_na_leleciblax,403_placenta
 lowomboxos,200_armband
-seɾkɾes gusun,360_piercing_nose
-ɾuɾkeɾes mboro moɾotin,250_ear_piercing
+seɾkɾes_gusun,360_piercing_nose
+ɾuɾkeɾes_mboro_moɾotin,250_ear_piercing
 nəmbas,357_penis_sheath
-ŋgaɾŋgaɾas naxo moɾotin,334_mask
+ŋgaɾŋgaɾas_naxo_moɾotin,334_mask
 ⁿcakoɾo,320_leaves_for_dance
 nembas,319_leaves_for_clothes
 mbəmbʷet,323_leaves_for_making_mats
 neʲat,322_leaves_for_house
 nemvelvel,332_gathering_house_for_men
 naxmal,332_gathering_house_for_men
-nem velvele se nasup,228_clearing_in_front_of_chiefs_house
+nem_velvele_se_nasup,228_clearing_in_front_of_chiefs_house
 necaɾa,440_space_for_dancing_ceremony
 nuʷak,223_canoe
-nuʷak te ɾesel ɾaŋan,418_sailing_canoe
+nuʷak_te_ɾesel_ɾaŋan,418_sailing_canoe
 mbaxo,312_initiation_male
-nevnar laxwan tox,408_pregnant
-nevanr les navil,338_menstruation
-saŋavil romana soxal,257_eleven
-saŋavil romana iru,477_twelve
-saŋavil romana itil,459_thirteen
-saŋavil romana ivat,288_fourteen
-saŋavil romana ilim,284_fifteen
-saŋavil romana xembut,430_sixteen
-saŋavil romana xon,423_seventeen
-saŋavil romana xoel,255_eighteen
-saŋavil romana xesiv,367_nineteen
-ŋovil til,460_thirty
-ŋovil vat,289_forty
-ŋovil xon,431_sixty
-ŋovil xembut,424_seventy
-ŋovil xoʷel,256_eighty
-ŋovil xesif,368_ninety
-nuʷel natop,251_earth_oven
-nevet natop,445_oven_stones
-ɾoxa na nalok,321_leaves_for_covering_oven
+nevnar_laxwan_tox,408_pregnant
+nevanr_les_navil,338_menstruation
+saŋavil_romana_soxal,257_eleven
+saŋavil_romana_iru,477_twelve
+saŋavil_romana_itil,459_thirteen
+saŋavil_romana_ivat,288_fourteen
+saŋavil_romana_ilim,284_fifteen
+saŋavil_romana_xembut,430_sixteen
+saŋavil_romana_xon,423_seventeen
+saŋavil_romana_xoel,255_eighteen
+saŋavil_romana_xesiv,367_nineteen
+ŋovil_til,460_thirty
+ŋovil_vat,289_forty
+ŋovil_xon,431_sixty
+ŋovil_xembut,424_seventy
+ŋovil_xoʷel,256_eighty
+ŋovil_xesif,368_ninety
+nuʷel_natop,251_earth_oven
+nevet_natop,445_oven_stones
+ɾoxa_na_nalok,321_leaves_for_covering_oven
 ŋgalwat,474_wood_for_moving_stones
-nemetex te xaɾe xin naxamb,474_wood_for_moving_stones
-tate lalamb,262_uncle_paternal_older
-tesi tate,280_uncle_paternal_younger
+nemetex_te_xaɾe_xin_naxamb,474_wood_for_moving_stones
+tate_lalamb,262_uncle_paternal_older
+tesi_tate,280_uncle_paternal_younger
 wawe,274_aunt_paternal
-wawe lalamb,273_aunt_paternal_older
-wawe rorowo,281_aunt_paternal_younger
-tate welwele,280_uncle_paternal_younger
+wawe_lalamb,273_aunt_paternal_older
+wawe_rorowo,281_aunt_paternal_younger
+tate_welwele,280_uncle_paternal_younger
 lele,342_uncle_maternal
-lele lalamb,346_uncle_maternal_older
-lele welwele,354_uncle_maternal_younger
-mama rorowo,348_aunt_maternal
-mama lalamb,347_aunt_maternal_older
-mama rorowo,355_aunt_maternal_younger
+lele_lalamb,346_uncle_maternal_older
+lele_welwele,354_uncle_maternal_younger
+mama_rorowo,348_aunt_maternal
+mama_lalamb,347_aunt_maternal_older
+mama_rorowo,355_aunt_maternal_younger
 tate,259_uncle_paternal
-pupu nasup,268_grandfather_paternal
+pupu_nasup,268_grandfather_paternal
 mama,77_mother
 pepe,77_mother
-pepe se tate,269_grandmother_paternal
-pepe se mama,298_grandfather_maternal
-tutu sok,373_brother_older
+pepe_se_tate,269_grandmother_paternal
+pepe_se_mama,298_grandfather_maternal
+tutu_sok,373_brother_older
 tesuk,499_younger_brother
-soxosik neŋe lalamb,381_sister_older
-soxosik neŋe lalamb va saxal,381_sister_older
-soxosik neŋe kena welwele,498_younger_sister
+soxosik_neŋe_lalamb,381_sister_older
+soxosik_neŋe_lalamb_va_saxal,381_sister_older
+soxosik_neŋe_kena_welwele,498_younger_sister
 netuk,264_first_cousin_male_paternal_uncle
-netuk vaven,264_first_cousin_male_paternal_uncle
-tet lalo,277_first_cousin_male_paternal_aunt
+netuk_vaven,264_first_cousin_male_paternal_uncle
+tet_lalo,277_first_cousin_male_paternal_aunt
 wawe,275_first_cousin_female_paternal_aunt
-netuk run pne,343_first_cousin_male_maternal_uncle
-netuk vaven run pəne,344_first_cousin_female_maternal_uncle
-netuk vaven run lele,344_first_cousin_female_maternal_uncle
+netuk_run_pne,343_first_cousin_male_maternal_uncle
+netuk_vaven_run_pəne,344_first_cousin_female_maternal_uncle
+netuk_vaven_run_lele,344_first_cousin_female_maternal_uncle
 tuʷak,351_first_cousin_male_maternal_aunt
 soxosik,350_first_cousin_female_maternal_aunt
 pelxak,260_father_in_law
-lexteɾ pelxak,341_mother_in_law
-nevnar sok,80_wife
-vəlelex sok,235_daughter_in_law
+lexteɾ_pelxak,341_mother_in_law
+nevnar_sok,80_wife
+vəlelex_sok,235_daughter_in_law
 noxopuk,300_grandson_son
-noxopuk nevnar,296_granddaughter_son
+noxopuk_nevnar,296_granddaughter_son
 netuk,435_son
-netuk vaven,234_daughter
+netuk_vaven,234_daughter
 noxopuk,300_grandson_son
 lilax,237_son_in_law
-neti tate neŋe lalam,376_nephew_fraternal_older
-netuk run tesuk,501_nephew_fraternal_younger
-netuk vaven run tutu sok,375_niece_fraternal_older
-netuk vaven run tesuk,500_niece_fraternal_younger
+neti_tate_neŋe_lalam,376_nephew_fraternal_older
+netuk_run_tesuk,501_nephew_fraternal_younger
+netuk_vaven_run_tutu_sok,375_niece_fraternal_older
+netuk_vaven_run_tesuk,500_niece_fraternal_younger
 alak,384_niece_sororal_older
 alak,506_nephew_sororal_younger
 alak,384_niece_sororal_older

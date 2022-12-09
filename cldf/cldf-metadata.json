@@ -14,19 +14,19 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-35-gb0367db",
+            "dc:created": "v1.0-39-gb937249",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v3.0.0",
             "dc:title": "Concepticon"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.6"
+            "dc:description": "3.10.8"
         },
         {
             "dc:title": "python-packages",
@@ -55,6 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 39002,
             "tableSchema": {
                 "columns": [
@@ -81,14 +82,12 @@
                         "titles": "Concept_ID"
                     },
                     {
-                        "dc:description": "\u25ba := no value, but audio",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
                     {
-                        "dc:description": "\u25ba := no form, but audio",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": true,
@@ -126,10 +125,6 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Variant_Of"
                     }
                 ],
                 "foreignKeys": [
@@ -227,10 +222,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "IndexInSource"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "IsProto"
                     },
                     {
@@ -271,10 +262,6 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "IndexInSource"
-                    },
-                    {
-                        "datatype": "string",
                         "name": "Bislama_Gloss"
                     },
                     {
@@ -289,25 +276,29 @@
             "url": "parameters.csv"
         },
         {
-            "dc:extent": 105784,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:extent": 105853,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "valueUrl": "https://cdstar.eva.mpg.de/bitstreams/{objid}/{fname}",
+                        "required": true,
+                        "valueUrl": "https://cdstar.eva.mpg.de/bitstreams/{objid}/{Name}",
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "objid"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "fname"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "mimetype"
                     },
                     {
                         "datatype": "integer",
@@ -318,20 +309,18 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
                         "required": true,
                         "name": "Form_ID"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "mimetype"
                     }
                 ],
                 "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Form_ID"
-                        ],
-                        "reference": {
-                            "resource": "forms.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
                     {
                         "columnReference": [
                             "Form_ID"
@@ -351,11 +340,17 @@
             "url": "media.csv"
         },
         {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:extent": 210,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
                         "name": "ID"
                     },
                     {
@@ -378,17 +373,6 @@
                     }
                 ],
                 "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Language_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
                     {
                         "columnReference": [
                             "Language_ID"
