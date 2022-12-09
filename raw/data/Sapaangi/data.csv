@@ -1,21 +1,167 @@
-Saa_Paangi,English Translation
-sælæ cjat,259_uncle_paternal
-itnik etlap,273_aunt_paternal_older
-selaxcjat etlap,262_uncle_paternal_older
-sela cjat entekan,280_uncle_paternal_younger
-itnik entekan,281_aunt_paternal_younger
+Sapaangi,English Translation
+su,1_one
+mbeɾu,2_two
+til,3_three
+mbe:it,4_four
+mbelim,5_five
+lica,6_six
+leɾu,7_seven
+beletil,8_eight
+liapat,9_nine
+saŋul,10_ten
+dam,15_year
+ŋanmwiɾ,17_left
+ni,18_i
+ɡama,19_weallexcl
+kaku,20_webothincl
+maɾaku,21_webothexcl
+kit,22_weallincl
+ik,23_thou
+ku,24_youboth
+ɡimi,25_youall
+i,26_heshe
+ɾaku,28_theyboth
+ehe,29_nonot
+sa,30_what
+si,31_who
+naŋis,33_when
+mbapon,37_above
+pan,38_below
+lon,39_ininside
+mbutuk,40_head
+wa:luk,41_hair
+kilintak,42_eye
+mbusum,43_nose
+ɡalŋik,44_ear
+ɾoŋpak,45_mouth
+mik,46_tongue
+luk,47_tooth
+ɾak,48_hand
+mbwak,49_shoulder
+mitnak,50_neck
+ahaluk,51_back
+lik,52_leg
+danak,53_blood
+bwaɾsuk,54_bone
+mbwalak,55_skin
+wantewak,56_belly
+itnik,57_intestines
+sun,58_breast
+ɾaptakla,59_liver
+kuli,60_dog
+mbwisil,61_bird
+mahalo,62_fish
+taltil,63_snake
+ut,65_louse
+əcuɾma,66_rat
+tamla,67_spider
+bwaŋkin,68_mosquito
+asuwin,69_egg
+ɡeɾen,70_tail
+alɸin,71_wing
+antun,73_man
+isin,74_woman
+waloti,75_child
+sik,76_name
+asi,77_mother
+cɪt,78_father
+utmaɾan,81_day
+utpas,82_night
+ul,83_moon
+cupuwuɾ,84_star
+taɾan,85_sky
+wa,86_water
+tas,88_sea
+ap,89_fire
+suap,90_smoke
+tasip,91_ash
+at,92_stone
+tan,93_earthsoil
+on,95_sand
+us,96_rain
+laŋ,98_wind
+bwaduduɾ,99_thunder
+ɸilɸil,100_lightning
+isnak,101_meatflesh
+mbaibutua,102_fruit
+lombuwut,103_woodsforest
+ɾoti,104_root
+aɾsebutua,105_branch
+ɾa,106_leaf
+woɾa,108_grass
+waŋibutua,109_flower
+im,111_house
+aula,112_rope
+mamlik,114_black
+palpal,115_white
+ŋiŋi,116_red
+masan,117_green
+mlit,118_yellow
+mbetlap,119_big
+mberkan,120_small
+maŋkan,121_sharp
+mbetu,126_good
+mwaxonon,128_correcttrue
+mamndat,130_rotten
+mɛa,131_heavy
+tiɾiut,132_far
+mbwilak,133_near
+malas,134_cold
+mwaɾokol,135_dry
+mames,136_wet
+oɾma,139_come
+oman,140_walk
+ma:lu,142_sit
+mamut,143_fall
+pwat,144_liedown
+bwala,146_climb
+los,147_swim
+tuni,149_throw
+exne,151_eat
+anin,151_eat
+maxne,151_eat
+minan,152_drink
+paɾmwele,155_dream
+mamcuɾ,156_sleep
+miɾan,157_live
+matan,158_die
+mwalsi,160_see
+ɾoŋo,161_hear
+bon,162_sniffsmell
+man,163_laugh
+mawi,165_blow
+ma:lo,167_sew
+ɾici,169_hit
+madi,170_cut
+maxli,172_dig
+taŋɡiti,174_hold
+mamta,175_fear
+mbwili,176_count
+mlu,178_vomit
+mboɾketi,179_tieup
+mbusni,180_squeeze
+maklo,181_swell
+pe,182_say
+kɾumsi,183_scratch
+mla,190_work
+mwaseani,191_open
+sælæ_cjat,259_uncle_paternal
+itnik_etlap,273_aunt_paternal_older
+selaxcjat_etlap,262_uncle_paternal_older
+sela_cjat_entekan,280_uncle_paternal_younger
+itnik_entekan,281_aunt_paternal_younger
 cjɪat,78_father
 æsi,77_mother
 cjɪak,342_uncle_maternal
-cjɪak etlæp,346_uncle_maternal_older
-cjɪak entekan,354_uncle_maternal_younger
+cjɪak_etlæp,346_uncle_maternal_older
+cjɪak_entekan,354_uncle_maternal_younger
 æsintekan,355_aunt_maternal_younger
 æsitlap,347_aunt_maternal_older
-æsintekan ɛmbekɾeta,355_aunt_maternal_younger
-selax etlap,373_brother_older
+æsintekan_ɛmbekɾeta,355_aunt_maternal_younger
+selax_etlap,373_brother_older
 wa:tok,499_younger_brother
 wæinik,381_sister_older
-wæinik entekan,498_younger_sister
+wæinik_entekan,498_younger_sister
 wa:tok,264_first_cousin_male_paternal_uncle
 wæinik,263_first_cousin_female_paternal_uncle
 mæɸik,277_first_cousin_male_paternal_aunt
@@ -39,16 +185,16 @@ tæɾit,237_son_in_law
 mæɸik,236_granddaughter_daughter
 mæɸik,220_nephew_fraternal
 wæinik,214_niece_fraternal
-mæɸik etlap,376_nephew_fraternal_older
-mæɸik entekan,501_nephew_fraternal_younger
-wæinik etlap,375_niece_fraternal_older
-wæinik entekan,500_niece_fraternal_younger
-a:lak etlap,363_nephew_sororal
-a:lak entekan,365_niece_sororal
-ahlak etlap,385_nephew_sororal_older
-ahlak entekan,384_niece_sororal_older
-ahlak entekan,506_nephew_sororal_younger
-ahlak entekan,505_niece_sororal_younger
+mæɸik_etlap,376_nephew_fraternal_older
+mæɸik_entekan,501_nephew_fraternal_younger
+wæinik_etlap,375_niece_fraternal_older
+wæinik_entekan,500_niece_fraternal_younger
+a:lak_etlap,363_nephew_sororal
+a:lak_entekan,365_niece_sororal
+ahlak_etlap,385_nephew_sororal_older
+ahlak_entekan,384_niece_sororal_older
+ahlak_entekan,506_nephew_sororal_younger
+ahlak_entekan,505_niece_sororal_younger
 su,1_one
 beɾu,2_two
 betil,3_three
@@ -60,14 +206,14 @@ beletil,8_eight
 beliʲapat,9_nine
 saŋul,10_ten
 nulsuæɪsuf,257_eleven
-nulsu æɪmbeɾu,477_twelve
-nulsu æɪmbetil,459_thirteen
-nulsu æɪmbe:ɪt,288_fourteen
-nulsu æɪmbe:lim,284_fifteen
-nulsu æɪmbe:lesu,430_sixteen
-nulsu æɪmbeleʉɾu,423_seventeen
-nulsə mbele:til,255_eighteen
-nulsə mbeliʲapat,367_nineteen
+nulsu_æɪmbeɾu,477_twelve
+nulsu_æɪmbetil,459_thirteen
+nulsu_æɪmbe:ɪt,288_fourteen
+nulsu_æɪmbe:lim,284_fifteen
+nulsu_æɪmbe:lesu,430_sixteen
+nulsu_æɪmbeleʉɾu,423_seventeen
+nulsə_mbele:til,255_eighteen
+nulsə_mbeliʲapat,367_nineteen
 nulmbeɾu,11_twenty
 nulbetil,460_thirty
 nulbe:ɪt,289_forty

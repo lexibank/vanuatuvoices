@@ -1,2 +1,2 @@
-ORG_LG_NAME,ID,Name,Name2,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Island,IndexInSource,IsProto,Source
-Saa_Pangi,Sapaangi,Sa: Paangi,Sa: Paangi,saaa1241,,,,-15.94611,168.19444,Austronesian,Pentecost,,False,Takau2020
+ORG_LG_NAME,ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Island,IndexInSource,IsProto,Source
+Saa_Pangi,Sapaangi,Sa: Paangi,saaa1241,,,,-15.94611,168.19444,Austronesian,Pentecost,,False,Shimelman2019;Takau2020

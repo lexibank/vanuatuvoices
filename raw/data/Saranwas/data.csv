@@ -1,11 +1,157 @@
-Saa_Ranwas,English Translation
+Saranwas,English Translation
+ʃu,1_one
+ru,2_two
+til,3_three
+it,4_four
+mbelim,5_five
+licija,6_six
+luɾu,7_seven
+litil,8_eight
+lijapat,9_nine
+nulsu,10_ten
+dam,15_year
+mbweɾemantu,16_right
+mbweɾemanmwiɾi,17_left
+ni,18_i
+kema,19_weallexcl
+kaku,20_webothincl
+mako,21_webothexcl
+kit,22_weallincl
+ik,23_thou
+ku,24_youboth
+ɡimi,25_youall
+i,26_heshe
+eɾpat,27_theyall
+ɾaku,28_theyboth
+ehe,29_nonot
+sa,30_what
+si,31_who
+mpi,32_where
+naŋis,33_when
+wapon,37_above
+pan,38_below
+lon,39_ininside
+mbutuk,40_head
+walɯn,41_hair
+kilintam,42_eye
+ɡusuk,43_nose
+talŋin,44_ear
+blamboŋom,45_mouth
+mik,46_tongue
+lijok,47_tooth
+ɾak,48_hand
+mbak,49_shoulder
+mbitnap,50_neck
+ahalun,51_back
+lim,52_leg
+danak,53_blood
+bwaɾsun,54_bone
+mbwelam,55_skin
+tewak,56_belly
+itnik,57_intestines
+sun,58_breast
+melan,59_liver
+kuli,60_dog
+mahalo,62_fish
+taltil,63_snake
+ut,65_louse
+wancuɾmwa,66_rat
+mbwaŋkin,68_mosquito
+asuwin,69_egg
+ɡeren,70_tail
+alɸin,71_wing
+aɾman,73_man
+isin,74_woman
+wotletci,75_child
+sik,76_name
+asi,77_mother
+cɛjat,78_father
+ŋaɾanŋa,81_day
+lopwas,82_night
+ul,83_moon
+cuwuwuɾ,84_star
+ɾenteɾam,85_sky
+wa,86_water
+tas,88_sea
+ap,89_fire
+suap,90_smoke
+biŋ,91_ash
+at,92_stone
+tan,93_earthsoil
+on,95_sand
+us,96_rain
+laŋ,98_wind
+mbwaɾuɾut,99_thunder
+bilbil,100_lightning
+isinam,101_meatflesh
+mbwaiti,102_fruit
+ɾoti,104_root
+aɾsete,105_branch
+waɾa,106_leaf
+oɾaculus,108_grass
+waŋiti,109_flower
+im,111_house
+a:li,112_rope
+mamlik,114_black
+palpal,115_white
+ɾiɾi,116_red
+maxsan,117_green
+mlitlit,118_yellow
+mbetlap,119_big
+mbetkan,120_small
+mwaŋkan,121_sharp
+taɸwi,125_painfulsick
+mbetu,126_good
+mwaknon,128_correcttrue
+mamla:las,130_rotten
+ma,131_heavy
+ɾeutiti,132_far
+wilan,133_near
+malas,134_cold
+mwaɾoxol,135_dry
+mɪs,136_wet
+oɾma,139_come
+tehelu,142_sit
+omu:t,143_fall
+oɾpat,144_liedown
+tepla,146_climb
+los,147_swim
+tuni,149_throw
+anijan,151_eat
+min,152_drink
+paɾmwele,155_dream
+mamcuɾ,156_sleep
+mamuɾ,157_live
+mɛjat,158_die
+mwalsi,160_see
+mwaɾoŋo,161_hear
+mbon,162_sniffsmell
+man,163_laugh
+mau,165_blow
+mwahalo,167_sew
+pinʃi,169_hit
+teɾi,170_cut
+mwaxali,172_dig
+taŋɡiti,174_hold
+mamta,175_fear
+oɾbwili,176_count
+mlu,178_vomit
+oɾboti,179_tieup
+puhuni,180_squeeze
+mwaklo,181_swell
+pe,182_say
+teku,183_scratch
+teɾui,187_plant
+otla,190_work
+eɯm,190_work
+tisiani,191_open
 temæk,78_father
 itnik,274_aunt_paternal
 mɪtɪk,342_uncle_maternal
 æsi,348_aunt_maternal
-æsi ætlap,347_aunt_maternal_older
-æsi æntekan,355_aunt_maternal_younger
-wəmwinik ætlap,374_brother
+æsi_ætlap,347_aunt_maternal_older
+æsi_æntekan,355_aunt_maternal_younger
+wəmwinik_ætlap,374_brother
 bibi,277_first_cousin_male_paternal_aunt
 bibi,263_first_cousin_female_paternal_uncle
 bibi,343_first_cousin_male_maternal_uncle
@@ -13,17 +159,17 @@ bibi,344_first_cousin_female_maternal_uncle
 wəmwinik,351_first_cousin_male_maternal_aunt
 selak,350_first_cousin_female_maternal_aunt
 wancuk,261_father_in_law_of_woman
-waiŋok ,310_mother_in_law_of_woman
+waiŋok,310_mother_in_law_of_woman
 taɾit,260_father_in_law
 naxaɾmwan,79_husband
 nanisin,80_wife
 wæiŋok,235_daughter_in_law
-wancuk arman,435_son
-wancuk isin,234_daughter
+wancuk_arman,435_son
+wancuk_isin,234_daughter
 taɾit,237_son_in_law
-mæbik aɾman,300_grandson_son
-mæbik isin,296_granddaughter_son
-mæbik arman,238_grandson_daughter
+mæbik_aɾman,300_grandson_son
+mæbik_isin,296_granddaughter_son
+mæbik_arman,238_grandson_daughter
 temak,220_nephew_fraternal
 temak,376_nephew_fraternal_older
 temak,501_nephew_fraternal_younger
@@ -31,8 +177,8 @@ itnik,214_niece_fraternal
 itnik,375_niece_fraternal_older
 itnik,500_niece_fraternal_younger
 wancuk,363_nephew_sororal
-wancuk isin,365_niece_sororal
-wancuk arman,363_nephew_sororal
+wancuk_isin,365_niece_sororal
+wancuk_arman,363_nephew_sororal
 su,1_one
 ɾu,2_two
 til,3_three
@@ -43,21 +189,21 @@ luɾu,7_seven
 le:təl,8_eight
 ljapat,9_nine
 suŋul,10_ten
-nulsu æɪsu,257_eleven
-nulsu æɾu,477_twelve
-nulsu ætɪl,459_thirteen
-nulsu æɪt,288_fourteen
-nulsu æɪlim,284_fifteen
-nulsu æɪlicja,430_sixteen
-nulsu æɪluɾu,423_seventeen
-nulsu æle:tɪl,255_eighteen
-nulsu ælijapat,367_nineteen
-nul ɸeɾu,11_twenty
-nul betɪl,460_thirty
-nul ɸe:t,289_forty
-nul ɸelim,12_fifty
-nul belicja,431_sixty
-nul beluɾu,424_seventy
-nul bele:tɪl,256_eighty
-nul belijapat,368_ninety
-nul soŋulsu,13_onehundred
+nulsu_æɪsu,257_eleven
+nulsu_æɾu,477_twelve
+nulsu_ætɪl,459_thirteen
+nulsu_æɪt,288_fourteen
+nulsu_æɪlim,284_fifteen
+nulsu_æɪlicja,430_sixteen
+nulsu_æɪluɾu,423_seventeen
+nulsu_æle:tɪl,255_eighteen
+nulsu_ælijapat,367_nineteen
+nul_ɸeɾu,11_twenty
+nul_betɪl,460_thirty
+nul_ɸe:t,289_forty
+nul_ɸelim,12_fifty
+nul_belicja,431_sixty
+nul_beluɾu,424_seventy
+nul_bele:tɪl,256_eighty
+nul_belijapat,368_ninety
+nul_soŋulsu,13_onehundred

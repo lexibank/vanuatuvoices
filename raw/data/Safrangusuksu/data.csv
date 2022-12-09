@@ -1,20 +1,73 @@
-Saa_Rangusuksu,English Translation
+Safrangusuksu,English Translation
+mbefijet,4_four
+mbelin,5_five
+mbelifcel,8_eight
+i,26_heshe
+selo,31_who
+se:,31_who
+ɾemɾe,37_above
+litja,38_below
+lon,39_ininside
+butuk,40_head
+ful,41_hair
+fanta-k,42_eye
+ɡalnik,44_ear
+ferak,48_hand
+dana-k,53_blood
+bwafsuk,54_bone
+tep̚ak,56_belly
+cinen,57_intestines
+kuli,60_dog
+mahalo,62_fish
+aspun,69_egg
+lofeɾeɾan,81_day
+buŋ,81_day
+ap̚,89_fire
+bisep̚,91_ash
+tan,93_earthsoil
+fafitje,102_fruit
+bubu:t,103_woodsforest
+ferabutua,105_branch
+ferace,105_branch
+suflis,108_grass
+fiŋebutua,109_flower
+im,111_house
+mamlimlik,114_black
+maxsaxsan,117_green
+mbetlap̚,119_big
+imbefo,126_good
+nembetkaɾufe,129_dirty
+mamumu,129_dirty
+mahmaf,131_heavy
+markas,135_dry
+impjes,143_fall
+ŋɡa,148_flyverb
+nemin,152_drink
+welse,155_dream
+mat,158_die
+nimaɾoŋo,161_hear
+omafi,165_blow
+omcumbaɾe,166_burn
+miltil,172_dig
+taŋɡetje,174_hold
+mamta,175_fear
+episketije,179_tieup
 biɸi,268_grandfather_paternal
-paɸwa mbetlap,262_uncle_paternal_older
+paɸwa_mbetlap,262_uncle_paternal_older
 paɸwantekan,280_uncle_paternal_younger
-bibi isfin,269_grandmother_paternal
-itnik embetlap,273_aunt_paternal_older
-nak papa,78_father
-itnik entekan,281_aunt_paternal_younger
+bibi_isfin,269_grandmother_paternal
+itnik_embetlap,273_aunt_paternal_older
+nak_papa,78_father
+itnik_entekan,281_aunt_paternal_younger
 micaxambetlap,346_uncle_maternal_older
 cucu,77_mother
 laxenkenken,354_uncle_maternal_younger
 biɸi,299_grandmother_maternal
-biɸi mbetlæp,347_aunt_maternal_older
+biɸi_mbetlæp,347_aunt_maternal_older
 intekan,355_aunt_maternal_younger
-tahlak æmbetlap,373_brother_older
-tahlak antekan,499_younger_brother
-fifnik æmbetlap,381_sister_older
+tahlak_æmbetlap,373_brother_older
+tahlak_antekan,499_younger_brother
+fifnik_æmbetlap,381_sister_older
 tahəlak,264_first_cousin_male_paternal_uncle
 icak,277_first_cousin_male_paternal_aunt
 itnik,275_first_cousin_female_paternal_aunt
@@ -25,15 +78,15 @@ taɾɪt,260_father_in_law
 taɾɪt,341_mother_in_law
 biɸi,261_father_in_law_of_woman
 biɸi,310_mother_in_law_of_woman
-nak isfin,80_wife
-nak arman,79_husband
-nak cucu,235_daughter_in_law
+nak_isfin,80_wife
+nak_arman,79_husband
+nak_cucu,235_daughter_in_law
 mʊbuk,437_grandchild
 nucuk,435_son
 nucuk,234_daughter
 taɾɪt,237_son_in_law
-tahəlak æmbetlap,376_nephew_fraternal_older
-tahəlak æmbetlap,375_niece_fraternal_older
+tahəlak_æmbetlap,376_nephew_fraternal_older
+tahəlak_æmbetlap,375_niece_fraternal_older
 nucuk,501_nephew_fraternal_younger
 nucuk,500_niece_fraternal_younger
 alak,385_nephew_sororal_older
@@ -52,20 +105,20 @@ lifcil,8_eight
 ilʲapat,9_nine
 saŋful,10_ten
 ɪsuf,257_eleven
-nəfulsuf æmbɛɾu,477_twelve
-nəfulsuf æmbɛcɪl,459_thirteen
-nəfulsuf æmbefet,288_fourteen
-nəfulsuf æmbelim,284_fifteen
-nəfulsuf æmbelefsuf,430_sixteen
-nəfulsuf æmbelefɾu,423_seventeen
-nəfulsuf æmbelɪfcil,255_eighteen
-nəfulsuf æmbeɪllʲapat,367_nineteen
+nəfulsuf_æmbɛɾu,477_twelve
+nəfulsuf_æmbɛcɪl,459_thirteen
+nəfulsuf_æmbefet,288_fourteen
+nəfulsuf_æmbelim,284_fifteen
+nəfulsuf_æmbelefsuf,430_sixteen
+nəfulsuf_æmbelefɾu,423_seventeen
+nəfulsuf_æmbelɪfcil,255_eighteen
+nəfulsuf_æmbeɪllʲapat,367_nineteen
 nɪfulbɛɾu,11_twenty
 nɪfulbɛcil,460_thirty
 nɪfulbefet,289_forty
-nɪfulsuf æmbelim,12_fifty
-nɪfulsuf æmbelef suf,431_sixty
-nɪfulsuf æmbelefɾu,424_seventy
-nɪfulsuf æmbelefcil,256_eighty
-nɪfulsuf æmbelilʲapat,368_ninety
+nɪfulsuf_æmbelim,12_fifty
+nɪfulsuf_æmbelef_suf,431_sixty
+nɪfulsuf_æmbelefɾu,424_seventy
+nɪfulsuf_æmbelefcil,256_eighty
+nɪfulsuf_æmbelilʲapat,368_ninety
 mæmrəp,13_onehundred
