@@ -41,7 +41,7 @@ Name               | GitHub user     | Description                          | Ro
 Lana Takau |  | Translated the Vanuatu study into Bislama, edited and transcribed all legacy recordings for Pentecost Island, recorded and transcribed languages from Pentecost and Malekula, assisted with editing and transcription of all languages    | Author
 Mary Walworth |  | Coordinator (since 2017) of the Vanuatu study and its expansion from Malekula island to other islands of Vanuatu. Recorded and transcribed data from Emae, Epi, and Efate. Directed fieldworkers to Malekula, Maewo, Ambae, Epi, and Pentecost and obtained legacy recordings for Pentecost Island. | Author
 Aviva Shimelman |  | Recorded and transcribed Malekula languages from 2015 to 2017 | Author
-Sandrine Bessis |  | Edited and transcribed languages of Epi Island  | Author
+Sandrine Bessis |  | Recorded and transcribed languages of Epi Island in 2019 | Author
 Tom Ennever |  | Together with Iveth Rodriguez, recorded and transcribed languages from Ambae and Maewo Islands | Author
 Iveth Rodriguez |  | Together with Tom Ennever, recorded and transcribed languages from Ambae and Maewo Islands | Author
 Hans-Jörg Bibiko | @Bibiko | Programmer and maintainer of the data repository, assisted with data curation and data converting | Author
