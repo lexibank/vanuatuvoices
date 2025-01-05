@@ -191,6 +191,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 190_work,work,1086,WORK (ACTIVITY),wok,Basic actions and technology
 191_open,open,1156,OPEN,openem,Spatial relations
 192_traditional_doctor_female,traditional doctor female,,,woman we i stap mekem lif,
+193_adopted_child,adopted child,,,pikinini we oli adoptem,Kinship
 194_afterlife,afterlife,,,laef afta we man i ded,Religion and belief
 195_all,all,98,ALL,evriwan,Quantity
 196_everyone,everyone,,,evriwan,
@@ -198,17 +199,28 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 198_ancestor,ancestor,,,bubu blong bifo,
 199_and,and,1577,AND,mo,Cognition
 200_armband,armband,,,tut blong pik we oli putum raonem han,
+201_arrow,arrow,977,ARROW,aro,Warfare and hunting
 202_at,at,1461,AT,long,Spatial relations
+203_aunt_father,aunt father,2175,PATERNAL AUNT,anti,Kinship
+204_aunt_mother,aunt mother,2176,MATERNAL AUNT,mami/mama,Kinship
+205_aunt,aunt,1272,AUNT,anti,Kinship
+206_axe_handle,axe handle,,,handel blong aks,Basic actions and technology
 207_banana,banana,868,BANANA,banana,Agriculture and vegetation
 208_banyan_tree,banyan tree,,,nabanga,Agriculture and vegetation
+209_barter,barter,370,BARTER,eksjensem samting,Possession
+210_basket,basket,1539,BASKET,basket,Basic actions and technology
 211_belly_button,belly button,3715,BELLYBUTTON,nambiton,The body
 212_to_bite,to bite,1403,BITE,kakae,The body
 213_magic,magic,392,MAGIC,majik,Religion and belief
 214_niece_fraternal,niece fraternal,,,anti,Kinship
+215_firstborn_son,firstborn son,,,fesbon,Kinship
 216_breadfruit,breadfruit,2371,BREADFRUIT,bredfrut,Food and drink
 217_bride_price,bride price,3024,BRIDE PRICE,braed praes/pem woman,Social and political relations
+218_younger_brother_of_male,younger brother of male,2416,YOUNGER BROTHER (OF MAN),yangfala/smol brata,Kinship
+219_older_brother_of_female,older brother of female,2415,OLDER BROTHER (OF WOMAN),bigfala brata,Kinship
 220_nephew_fraternal,nephew fraternal,,,boe blong mi (yu etc),Kinship
 221_nibling_fraternal,nibling fraternal,,,"pikinini blong mi (yu, etc)",Kinship
+222_butterfly,butterfly,1791,BUTTERFLY,bataflae,Animals
 223_canoe,canoe,1970,CANOE,kenu,Motion
 224_casava,casava,,,maniok,Agriculture and vegetation
 225_cave,cave,1155,CAVE,keiv,The physical world
@@ -217,15 +229,22 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 228_clearing_in_front_of_chiefs_house,clearing in front of chief's house,,,emti spes long fored blong haos blong jif,
 229_coconut,coconut,970,COCONUT,kokonat,Agriculture and vegetation
 230_coconut_sprout,coconut sprout,,,kro blong kokonat,Agriculture and vegetation
+231_conch,conch,,,bubu shel,Animals
 232_cyclone,cyclone,,,saeklon,The physical world
+233_dance_ground,dance ground,,,ples blong danis,
 234_daughter,daughter,1357,DAUGHTER,gel blong mi (yu etc),Kinship
 235_daughter_in_law,daughter in law,1057,DAUGHTER-IN-LAW,tambu,Kinship
 236_granddaughter_daughter,granddaughter daughter,,,apu gel,Kinship
 237_son_in_law,son in law,1056,SON-IN-LAW,tambu,Kinship
 238_grandson_daughter,grandson daughter,,,apu boe,Kinship
 239_grandchild_daughter,grandchild daughter,2703,GRANDCHILD (DAUGHTER'S OFFSPRING),smol bubu gel/smol apu gel/,Kinship
+240_day_after_tomorrow,day after tomorrow,1179,DAY AFTER TOMORROW,afta tumoro,Time
+241_dead_ceremony,dead ceremony,,,det seremoni,Religion and belief
 242_spirit,spirit,53,SPIRIT,spirit,Religion and belief
 243_deep_ocean,deep ocean,,,dip solwota,The physical world
+244_defecate,defecate,676,SHIT (DEFECATE),sisit,The body
+245_doctor,doctor,597,PHYSICIAN,dokta,The body
+246_dolphin,dolphin,1479,DOLPHIN,dolfin,Animals
 247_traditional_dreamer,traditional dreamer,,,man blong lukluk rod,
 248_dry_season,dry season,452,DRY SEASON,drae sisen/taem ples i drae,Time
 249_taro_dry,taro dry,,,drae taro,Agriculture and vegetation
@@ -250,6 +269,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 268_grandfather_paternal,grandfather paternal,2560,PATERNAL GRANDFATHER,bubu man/apu man,Kinship
 269_grandmother_paternal,grandmother paternal,3015,PATERNAL GRANDMOTHER,bubu woman/apu woman,Kinship
 270_grandparent_opposite_sex_of_parent,grandparent opposite sex of parent,,,bubu/apu,Kinship
+271_grandparent_paternal,grandparent paternal,,,bubu/apu,Kinship
 272_first_cousin_female_paternal_uncle_older,first cousin female paternal uncle older,,,bigfala sista,Kinship
 273_aunt_paternal_older,aunt paternal older,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),bigfala anti,Kinship
 274_aunt_paternal,aunt paternal,2175,PATERNAL AUNT,anti,Kinship
@@ -260,6 +280,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 279_first_cousin_male_opposite_sex_sibling_to_parent,first cousin male opposite sex sibling to parent,,,tawi/brata,Kinship
 280_uncle_paternal_younger,uncle paternal younger,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),smol papa,Kinship
 281_aunt_paternal_younger,aunt paternal younger,2171,PATERNAL AUNT (WIFE OF FATHER'S YOUNGER BROTHER),smol anti,Kinship
+282_aunt_paternal_mother_in_law,aunt paternal mother in law,2383,AUNT OR MOTHER-IN-LAW,anti,Kinship
 283_female,female,2262,FEMALE (OF ANIMAL),woman,Animals
 284_fifteen,fifteen,1709,FIFTEEN,fiftin,Quantity
 285_fight,fight,2902,BRAWL (FIGHT),faet,Basic actions and technology
@@ -269,6 +290,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 289_forty,forty,1716,FORTY,foti,Quantity
 290_full_moon,full moon,3690,FULL MOON,ful mun,The physical world
 291_garden,garden,586,GARDEN,karen,Agriculture and vegetation
+292_garden_old,garden old,,,olfala karen,Agriculture and vegetation
+293_gift,gift,2982,GIFT,presen,Basic actions and technology
+294_give_birth,give birth,1195,GIVE BIRTH,bonem,Kinship
+295_god,god,3231,DEITY,god,Religion and belief
 296_granddaughter_son,granddaughter son,,,apu gel,Kinship
 297_grandfather,grandfather,1383,GRANDFATHER,bubu man/apu man,Kinship
 298_grandfather_maternal,grandfather maternal,2178,MATERNAL GRANDFATHER,bubu man/apu man,Kinship
@@ -278,10 +303,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 302_to_grow,to grow,479,GROW,kro,Spatial relations
 303_half_moon,half moon,,,haf mun,The physical world
 304_heart,heart,1223,HEART,hat,The body
+305_him_her,him her,,,hem,
 306_person,person,683,PERSON,man,Kinship
+307_father_in_law_of_man,father in law of man,,,palika,Kinship
+308_mother_in_law_of_man,mother in law of man,,,palika,Kinship
+309_parent_in_law_of_woman,parent in law of woman,,,palika,Kinship
 310_mother_in_law_of_woman,mother in law of woman,,,palika,Kinship
 311_if,if,1459,IF,sipos/sapos,Cognition
 312_initiation_male,initiation male,,,sekomsaes,
+313_initiation_female,initiation female,,,kastom blong ol woman,
+314_kava,kava,,,kava,
 315_know_understand,know understand,1536,UNDERSTAND,save/andastanem/andastan,Cognition
 316_sweet_potato,sweet potato,159,SWEET POTATO,kumala/swit poteto,Agriculture and vegetation
 317_traditional_medicine,traditional medicine,,,lif meresin,The body
@@ -294,14 +325,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 324_woman_who_married_brother_of_dead_husband,woman who married brother of dead husband,,,woman we i maredem brata blong man blong hem we i ded,
 325_sun_shower,sun shower,,,san,
 326_lobster,lobster,2397,LOBSTER,naura blong solwota,Animals
+327_head_elongation,head elongation,,,fasin blong fasem hed blong i longwan,The body
 328_long,long,1203,LONG,longwan/longfala,Spatial relations
 329_magic_for_love,magic for love,,,masing/swit maot/mekem lif long woman,Religion and belief
+330_low_chiefly_grade,low chiefly grade,,,lo rank blong jif,Social and political relations
+331_maggot,maggot,2640,LARVA,maket,Animals
 332_gathering_house_for_men,gathering house for men,,,nakamal,
 333_manioc,manioc,925,CASSAVA,maniok,Agriculture and vegetation
 334_mask,mask,2005,MASK,kiaman fes,Clothing and grooming
+335_mat,mat,195,MAT,mat,Basic actions and technology
 336_meat,meat,2615,FLESH OR MEAT,mit,The body
 337_coconut_sprout_meat,coconut sprout meat,,,navara,Agriculture and vegetation
 338_menstruation,menstruation,766,MENSTRUATION,sik mun/piried,The body
+339_midwife,midwife,3859,MIDWIFE,midwaef,Social and political relations
 340_fog,fog,249,FOG,mist,The physical world
 341_mother_in_law,mother in law,1050,MOTHER-IN-LAW,palika,Kinship
 342_uncle_maternal,uncle maternal,2694,MATERNAL UNCLE (HUSBAND OF ONE'S MATERNAL AUNT),angkel,Kinship
@@ -314,18 +350,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 349_first_cousin_female_maternal_aunt_older,first cousin female maternal aunt older,,,bigfala sista,Kinship
 350_first_cousin_female_maternal_aunt,first cousin female maternal aunt,,,kasen sista/sista,Kinship
 351_first_cousin_male_maternal_aunt,first cousin male maternal aunt,,,kasen brata/brata,Kinship
+352_first_cousin_male_maternal,first cousin male maternal,,,kasen brata/brata,Kinship
+353_first_cousin_maternal_aunt,first cousin maternal aunt,,,brata/sista,Kinship
 354_uncle_maternal_younger,uncle maternal younger,3250,MATERNAL UNCLE (MOTHER'S YOUNGER BROTHER),smol angkel,Kinship
 355_aunt_maternal_younger,aunt maternal younger,3043,MATERNAL AUNT (MOTHER'S YOUNGER SISTER),smol mami/mama,Kinship
 356_first_cousin_male_maternal_aunt_younger,first cousin male maternal aunt younger,,,smol kasen brata/smol brata,Kinship
 357_penis_sheath,penis sheath,,,nambas,
+358_stinging_nettle,stinging nettle,,,nanggalat,
 359_narrow,narrow,1267,NARROW,smol/naro,Spatial relations
 360_piercing_nose,piercing nose,,,stikim nos,
+361_palm_bark,palm bark,,,skin blong pam tri,Agriculture and vegetation
 362_needle,needle,1382,NEEDLE (FOR SEWING),nidil,Clothing and grooming
 363_nephew_sororal,nephew sororal,,,boe blong mi (yu etc),Kinship
 364_new_moon,new moon,3691,NEW MOON,niu mun,The physical world
 365_niece_sororal,niece sororal,,,drim,Kinship
+366_nightmare,nightmare,,,rabis drim,
 367_nineteen,nineteen,1714,NINETEEN,naentin,Quantity
 368_ninety,ninety,1724,NINETY,naenti,Quantity
+369_nipple,nipple,796,NIPPLE,ae blong titi,The body
 370_north,north,1598,NORTH,not,Spatial relations
 371_octopus,octopus,2581,OCTOPUS,oktopas,Animals
 372_offerings_to_ancestors,offerings to ancestors,,,ofring blong ol pupu blong bifo,
@@ -333,6 +375,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 374_brother,brother,1262,BROTHER,brata,Kinship
 375_niece_fraternal_older,niece fraternal older,,,gel blong mi (yu etc),Kinship
 376_nephew_fraternal_older,nephew fraternal older,,,boe blong mi (yu etc),Kinship
+377_nibling_fraternal_older,nibling fraternal older,,,pikinini blong mi,Kinship
+379_cousin_female_older,cousin female older,,,bigfala sista/tawi,Kinship
+380_cousin_male_older,cousin male older,,,bigfala brata/tawi,Kinship
 381_sister_older,sister older,1758,OLDER SISTER,bigfala sista,Kinship
 382_sister,sister,1263,SISTER,sista,Kinship
 383_sibling_older,sibling older,,,bigfala brata/sista,Kinship
@@ -340,53 +385,73 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 385_nephew_sororal_older,nephew sororal older,,,boe blong mi (yu etc),Kinship
 386_nibling_sororal_older,nibling sororal older,,,pikinini blong mi (yu etc),Kinship
 387_nibling_sororal,nibling sororal,,,pikinini blong mi (yu etc),Kinship
+388_outrigger,outrigger,416,OUTRIGGER,nasama/pikinini blong kenu,Motion
 389_owl,owl,735,OWL,oknaet,Animals
+390_paddle,paddle,3137,OAR,padel,Basic actions and technology
 391_pain,pain,2561,HURT (SENSE PAIN),harem…i so,Sense perception
 392_sick,sick,1847,SICK,sik,The body
+393_pandanus,pandanus,,,lif mat,
+394_peace,peace,1338,PEACE,pis,Warfare and hunting
 395_peace_ceremony,peace ceremony,,,pis seremoni,
 396_pig,pig,1337,PIG,pik,Animals
+397_pig_castrated,pig castrated,,,pik we oli katem,Animals
 398_pig_female,pig female,2488,FEMALE PIG,woman pik,Animals
 399_pig_hermaphrodite,pig hermaphrodite,,,narave,Animals
 400_pig_killing_ceremony,pig killing ceremony,,,seremoni blong kilim pik,Religion and belief
 401_pig_male,pig male,2487,MALE PIG,man pik,Animals
+402_pig_tusk,pig tusk,,,tut blong pik,Animals
 403_placenta,placenta,3388,PLACENTA,basket blong pikinini,The body
+404_poison,poison,655,POISON,posen,The body
 405_man_who_makes_poison,man who makes poison,,,posen man/man we i mekem nakaemas,
 406_polygamy,polygamy,,,man i tekem fulap woman,Kinship
+407_polygyny,polygyny,,,tu o moa woman oli sherem wan man,Kinship
 408_pregnant,pregnant,1123,PREGNANT,woman i gat bel,The body
 409_prepare_taboo,prepare taboo,,,priperem tabu,Religion and belief
 410_rainbow,rainbow,1733,RAINBOW,renbo,The physical world
 411_rainy_season,rainy season,453,RAINY SEASON,taem/sisen blong ren,Time
+412_reef,reef,660,REEF,rif,The physical world
 413_restricted_place,restricted place,,,ples we i tabu,Religion and belief
 414_restriction_taboo,restriction taboo,,,tabu,Religion and belief
 415_river,river,666,RIVER,riva,The physical world
 416_road,road,2457,PATH OR ROAD,rod,Motion
+417_sail,sail,787,SAIL,sel,Motion
 418_sailing_canoe,sailing canoe,,,seling kenu,Motion
 419_salt,salt,1274,SALT,sol,Food and drink
+420_sanddrawing,sanddrawing,,,sandroing,Basic actions and technology
 421_sea_worm,sea worm,,,wom blong solwota,Animals
 422_secret,secret,1121,SECRET,sikret,Cognition
 423_seventeen,seventeen,2453,SEVENTEEN,seventin,Quantity
 424_seventy,seventy,1721,SEVENTY,seventi,Quantity
 425_shark,shark,1110,SHARK,shak,Animals
 426_short,short,1645,SHORT,shot,Spatial relations
+427_older_sister_of_male,older sister of male,,,bigfala sista,Kinship
 428_sister_exchange,sister exchange,,,jensem sista,Kinship
 429_sit_down,sit down,1649,SIT DOWN,staon/sitdaon/sitaon,Motion
 430_sixteen,sixteen,2454,SIXTEEN,sikstin,Quantity
 431_sixty,sixty,1718,SIXTY,siksti,Quantity
+432_skull,skull,1605,SKULL,skal,The body
+433_slave,slave,812,SLAVE,slaf,Social and political relations
 434_sniff,sniff,375,SNIFF,"pulum win long nos (blong smelem samting, stopem nos i ron)",Sense perception
 435_son,son,1620,SON,boe,Kinship
 436_grandchild_son,grandchild son,,,smol apu boe/smol bubu boe/apu boe,Kinship
 437_grandchild,grandchild,1617,GRANDCHILD,smolbubu,Kinship
 438_south,south,1595,SOUTH,saot,Spatial relations
+439_sow,sow,1351,SOW (FEMALE PIG),planem,Animals
 440_space_for_dancing_ceremony,space for dancing ceremony,,,spes blong danis seremoni/nasara,Religion and belief
+441_spider_web,spider web,1065,SPIDER WEB,bed blong spaeda,Animals
 442_spirit_human,spirit human,,,spirit,Religion and belief
+443_spirit_non-human,spirit non-human,,,"devel, spirit",Religion and belief
 444_stomach,stomach,1251,BELLY,beli,The body
 445_oven_stones,oven stones,,,ston blong laplap,Food and drink
 446_storm,storm,858,STORM,strong win,The physical world
 447_straight,straight,1404,STRAIGHT,stret,Spatial relations
 448_suck,suck,1421,SUCK,pulum (straw)/titi (breast),Food and drink
+449_sugar_cane,sugar cane,146,SUGAR CANE,sukaken,Agriculture and vegetation
 450_sun,sun,1343,SUN,san,The physical world
 451_tall,tall,1265,HIGH,hae,Spatial relations
+452_taro_swamp,taro swamp,,,sofmad we taro kro long hem,Agriculture and vegetation
 453_taro_terrace,taro terrace,,,taro paj,Agriculture and vegetation
+454_tattoo,tattoo,68,TATTOO,tatu,Clothing and grooming
 455_thatch,thatch,279,THATCH,natangura,The house
 456_thick,thick,1244,THICK,tik,Spatial relations
 457_thin,thin,2249,THIN (OF SHAPE OF OBJECT),tintin,Spatial relations
@@ -400,21 +465,33 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 465_to_choose,to choose,1750,CHOOSE,jusum,Emotions and values
 466_to_close,to close,,,sarem,Basic actions and technology
 467_deaden_ones_thoughts,deaden one's thoughts,,,kilim tingting,
+468_to_forget,to forget,1523,FORGET,foketem,Cognition
 469_to_see,to see,1819,LOOK,lukluk,Sense perception
+470_to_love,to love,923,LOVE,lavem,Emotions and values
+471_to_teach,to teach,709,TEACH,tijim,Cognition
+472_toilet_for_male,toilet for male,,,toelet/smol rum blong ol man,
+473_toilet_for_female,toilet for female,,,toelet/smol rum blong ol woman,
 474_wood_for_moving_stones,wood for moving stones,,,wud blong tekemaot ston blong laplap,
 475_direction_inland,direction inland,,,daereksen i ko antap,Spatial relations
 476_direction_sea,direction sea,,,daereksen i ko daon long solwota,Spatial relations
 477_twelve,twelve,1707,TWELVE,twelef,Quantity
 478_umbilical_cord,umbilical cord,,,nambiton,The body
+479_uncle,uncle,1327,UNCLE,angkel,Kinship
 480_under,under,1485,BELOW OR UNDER,andanit,Spatial relations
+481_village,village,930,VILLAGE,vilij,Social and political relations
+482_war,war,935,WAR,faet,Warfare and hunting
 483_hot,hot,2272,HOT OR WARM,hot,Sense perception
+484_warrior,warrior,3608,WARRIOR,soldia/man blong faet,Social and political relations
 485_taro_wet,taro wet,,,wota taro,Agriculture and vegetation
+486_weave,weave,133,WEAVE,wivim,Clothing and grooming
 487_wedding,wedding,1259,WEDDING,mared,Kinship
 488_west,west,1817,WEST,wes,Spatial relations
 489_wide,wide,1243,WIDE,bigwan,Spatial relations
 490_parents_in_law,parents in law,306,PARENTS-IN-LAW,palika,Kinship
+491_pig_wild,pig wild,,,wael pik,Animals
 492_taro_wild,taro wild,,,wael taro,Agriculture and vegetation
 493_yam_wild,yam wild,,,wael yam,Agriculture and vegetation
+494_womb,womb,804,WOMB,basket blong pikinini,The body
 495_female_chief,female chief,,,woman jif,Social and political relations
 496_yam,yam,410,YAM,yam,Agriculture and vegetation
 497_yam_garden,yam garden,,,karen blong yam,Agriculture and vegetation
@@ -422,6 +499,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Bislama_Gloss,Concepticon_SemanticField
 499_younger_brother,younger brother,1760,YOUNGER BROTHER,smol brata,Kinship
 500_niece_fraternal_younger,niece fraternal younger,,,gel blong mi (yu etc),Kinship
 501_nephew_fraternal_younger,nephew fraternal younger,,,boe blong mi (yu etc),Kinship
+502_nibling_fraternal_younger,nibling fraternal younger,,,pikinini blong mi (yu etc),Kinship
+503_cousin_female_younger,cousin female younger,,,smol kasen sista/smol sista,Kinship
+504_cousin_male_younger,cousin male younger,,,smol kasen brata/smol brata,Kinship
 505_niece_sororal_younger,niece sororal younger,,,gel blong mi (yu etc),Kinship
 506_nephew_sororal_younger,nephew sororal younger,,,boe blong mi (yu etc),Kinship
 507_nibling_sororal_younger,nibling sororal younger,,,pikinini blong mi (yu etc),Kinship
