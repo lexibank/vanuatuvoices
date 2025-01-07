@@ -1,6 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Lana Takau, Mary Walworth, Aviva Shimelman, Sandrine Bessis, Tom Ennever, Iveth Rodriguez, Hans-J\u00f6rg Bibiko, Daria D\u00ebrmaku, Murray Garde, Marie-France Duhamel, Giovanni Abete, Laura W\u00e4gerle, Kaitip W. Kami, Russell Gray. 2024. Vanuatu Voices.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.",
     "dc:identifier": "https://vanuatuvoices.clld.org",
@@ -9,16 +10,16 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Vanuatu Voices",
-    "dcat:accessURL": "git@github.com:lexibank/vanuatuvoices",
+    "dcat:accessURL": "https://github.com/lexibank/vanuatuvoices",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:lexibank/vanuatuvoices",
+            "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-1-g85a4ebe",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
             "dc:created": "v5.1",
             "dc:title": "Glottolog"
@@ -30,7 +31,7 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.3.0",
             "dc:title": "CLTS"
@@ -43,7 +44,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.12.8"
         },
         {
             "dc:title": "python-packages",
