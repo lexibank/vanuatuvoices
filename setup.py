@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 
@@ -11,6 +11,7 @@ setup(
     description=metadata["title"],
     license=metadata.get("license", ""),
     url=metadata.get("url", ""),
+    packages=find_packages(where='.'),
     py_modules=['lexibank_vanuatuvoices'],
     include_package_data=True,
     zip_safe=False,
