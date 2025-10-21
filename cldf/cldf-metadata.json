@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.3-5-g5d482bc",
+            "dc:created": "v1.3-6-gee821ba",
             "dc:title": "Repository"
         },
         {
