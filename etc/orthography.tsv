@@ -10,6 +10,7 @@ N$	ŋ	-hʊt͡sɣət͡ʃɛN	Espiegelsbayunspecified	1	U+004e U+0024
 R	ʀ	laRan	Maluabaymarasup	1	U+0052
 ^	NULL				
 ^-	NULL
+.	NULL
 __	+
 -_	+
 ^ŋ͡ma	ŋ m a
@@ -45,6 +46,7 @@ naᵐ_b	n a ⁿb
 ^iː	iː	iːm	Avavakhatbol	1	U+005e U+0069 U+02d0
 ^iˑ	iˑ	iˑtɺ	Novoltavendrua	1	U+005e U+0069 U+02d1
 ^j	j	-jaŋjaŋ, jas	Bislama2, Ctlnalembanasawa, Bislama1, Ctlnalembanarovorovo, Venentautebenmara, Ctltawetnarovorovo, Ctlsungwadogarata, Uliveolurtes, Sxalangibaetora, Avokhokai, Espiegelsbayunspecified, Uliveopeskaros2, Sbiribiri, Natanganmbonvor, Ssungagageavavanvae, Uliveopelongk, Ssungagageasanvari, Nindeopmobamba, Maluabaycoast, Pangkumundarmif, Nindelabo, Safyangtus, Ctlsungwadolagwaranuta, Nindewindua, Nasvangbigisland, Ssungagageavanbatai, Batarxopubenut, Nasarianngava	58	U+005e U+006a
+ɟ	ɟ
 ^k	k	kat, kariβi	Wwalaha, Nhavailombaha, Nleovandue, Bislama2, Bislama1, Nleonda	100	U+005e U+006b
 ^kh	kʰ	khaᵐbɪla-n, khaᵐbɪlæ-n	Uliveolurtes, Uliveopeskaros2	2	U+005e U+006b U+0068
 ^kw	kʷ	kwɔ-ʔom	Nahavaqbanour	1	U+005e U+006b U+0077
@@ -273,6 +275,7 @@ k˺$	k̚	ku-ᵐbuluk˺, tawak˺	Elolovoli, Nindewindua	3	U+006b U+02fa U+0024
 k̚	k̚	rak̚ro	Slolovele	1	U+006b U+031a
 k̚$	k̚	sʷok̚, namæk̚	Esanasolokave, Ctletawetnaviso, Slolovele, Sbiribiri, Ctlnalembanasawa, Ctltawetnarovorovo, Ssungagageavavanvae, Ctlnalembanarovorovo	66	U+006b U+031a U+0024
 l	l	olfala, jutufala	Bislama1, Bislama2, Nleonda, Nhavailombaha	100	U+006c
+lː	lː
 l$	l	fol, saŋaβul	Elolovoli, Esanasolokave, Nmwerlap, Sbiribiri, Ctlsungwadolagwaranuta, Slolovele, Evuindondo, Ctlsungwadogarata, Bislama2, Bislama1, Ctlsungwadagalalaundi, Nsungwadianaumumu, Nsungwadiauta	100	U+006c U+0024
 lh	lʰ	elholo, ⁿʒalhaɣa-k	Sahaa, Batarxopubenut, Batarxopulembilmbil	3	U+006c U+0068
 ll	lː	illisaɣan, ni-ᵑgallɛ-n	Neververlimap, Ragaloltongbay	4	U+006c U+006c
@@ -299,6 +302,7 @@ mᵖ$	ⁿp	-somᵖ	Novoldixonreef	1	U+006d U+1d56 U+0024
 mᵗs	m ᵗ/t s	-ramᵗsaf	Pangkumudatisman	1	U+006d U+1d57 U+0073
 m’ⁿd	m ⁿd	-m’ⁿdax	Venentautealpalak	1	U+2019 U+207f
 n	n	pɪkinini, hena	Nhavailombaha, Bislama1, Bislama2, Nleonda, Nleovandue	100	U+006e
+nː	nː
 n$	n	tutun, lolon	Bislama2, Bislama1, Elolovoli, Nmwerlap, Evuindondo, Slolovele, Sbiribiri, Wwalaha, Esanasolokave, Nleonda	100	U+006e U+0024
 nD	ⁿð	namaritin ilim nooron ilaŋavul nDuman ilim	Naahaitoman	1	U+0044
 nh	nʰ	-linha, ᵑginhu-n	Nahavaqbanour, Nahavaqcarolinebay, Ctltawetnarovorovo, Tiraxbethel, Nahavaqloorndavo, Naahaitoman, Naahaimbatvanui, Nahaaimbatmbang, Sragaavavanvae, Tiraxbakru, Tiraxbotmelesnial, Nahavaqlembinwin, Evuindondo, Naatiwindua, Nahaaimalfaxal, Ssakao, Elolovoli, Ctlnalembanarovorovo, Tiraxolamb, Tiraxorap	23	U+006e U+0068
@@ -330,6 +334,7 @@ o̥$	o̥	ᵑɡalo̥, kitoro̥	Esanasolokave, Sbiribiri, Slolovele	11	U+006f U+03
 o͂$	õ	-ʧəro͂	Espiegelsbaylitebral	1	U+006f U+0342 U+0024
 o͡i	oi	ro͡in	Ranotwalung	1	U+006f U+0361 U+0069
 p	p	lipax, -xapr	Venentauteunmet, Venentautebenmara, Venentautealpalak, Venentautehamax, Espiegelsbaysolwota, Venentautebenenavet, Bislama2, Bislama1, Espiegelsbaylitebral, Ctlnalembanarovorovo	100	U+0070
+pː	pː
 p$	p	-ruprup, -rup	Bislama2, Bislama1, Najittanmial, Espiegelsbayunspecified, Venentauteunmet, Maluabaymarasup, Espiegelsbaysolwota, Espiegelsbaylitebral, Maluabaytiptir, Maluabaypetarmul, Maluabaycoast, Walaworprev, Atchinsmallisland, Ranopotora, Venentautebenmara, Uripivdurpif, Tiraxbakru, Walabotku, Ranotwalung, Tiraxbethel, Atchinorap, Uripivtautu, Nesesanboise, Walapetreros, Ranochinambong, Elolovoli, Venentautealpalak, Ctlnalembanarovorovo, Tiraxolamb, Walapreng	100	U+0070 U+0024
 ph	pʰ	-huphup, na-taphɛ-n	Nahaaimbatmbang, Naatiwindua	3	U+0070 U+0068
 pp$	pː	ne-ampp	Letemboinatingatlang	1	U+0070 U+0070 U+0024
@@ -348,6 +353,7 @@ pⁿ$	pⁿ/p	kopⁿ	Salangdixonreef	1	U+0070 U+207f U+0024
 q	q	-saqa	Neververmindu	1	U+0071
 q$	q	-brɛvninoq, momoq	Neverversakan, Avavatisvel, Neververmindu	4	U+0071 U+0024
 r	r	tureɣi, kras	Nleonda, Bislama1, Nhavailombaha, Bislama2	100	U+0072
+rː	rː
 r$	r	matur, ⁿdar	Nmwerlap, Esanasolokave, Ctlnalembanasawa, Ctlnalembanarovorovo, Ctltawetnarovorovo, Ctletawetnaviso, Venentautealpalak, Venentautebenenavet, Ctlsungwadogarata, Venentautebenmara, Evuindondo, Sbiribiri, Ctlsungwadolagwaranuta, Elolovoli, Slolovele, Ctlsungwadagalalaundi	100	U+0072 U+0024
 rh	rʰ	horhor, om-narhini	Vaotorono, Vaocanada, Batarxopulipitav, Evuindondo	5	U+0072 U+0068
 rr	rː 	xarrue	Wowolesarmalas	1	U+0072 U+0072
@@ -360,12 +366,15 @@ rʒ	r ʒ	xorʒi-n	Pangkumundarmif	1	U+0072 U+0292
 rʲ	rʲ	karʲæk	Esanasolokave	1	U+0072 U+02b2
 rᵑ	rⁿ	na-rorᵑgɛtɛnamp, maturu ᵑɡʷorᵑɡʷore	Pangkumundarmif, Neveeicoast, Slolovele, Ctlsungwadagalalaundi, Ctlsungwadolagwaranuta, Fiftimalmbor	6	U+0072 U+1d51
 s	s	maresu, ɸisiu	Slolovele, Nleonda, Nhavailombaha, Esanasolokave, Evuindondo, Ssakao, Bislama2, Bislama1, Nleovandue, Elolovoli, Sbiribiri, Wwalaha	100	U+0073
+sː	sː
 s$	s	tas, mas	Nmwerlap, Ctletawetnaviso, Sbiribiri, Bislama2, Ctlsungwadogarata, Bislama1, Ctlsungwadolagwaranuta, Ctlnalembanarovorovo, Elolovoli, Esanasolokave, Slolovele, Evuindondo, Ctlsungwadagarongnawo, Nsungwadianaone, Ctlsungwadagalalaundi	100	U+0073 U+0024
 s:$	sː	tis:	Sbiribiri	1	U+0073 U+003a U+0024
 sh	sʰ	nɪ-vɪshaɣn	Larevatfwishile	1	U+0073 U+0068
 ss	sː	ᵐbissap, arissehina	Neververlimap, Unuabenuamor	4	U+0073 U+0073
 sw	sʷ	waswasia, waswasi	Ctletawetnaviso, Naahaimbatvanui, Ctlsungwadagarongnawo, Batarxopulembilmbil, Nombotkotemelkin, Letemboiaingelemolesa, Ctltawetnarovorovo, Novoltavendrua, Nsungwadianaone, Novolbangir, Nombotkoteblacksands, Ctlsungwadolagwaranuta, Novoldixonreef, Nsungwadiatasmaor, Ctlsungwadangota, Ctlsungwadagalalaundi, Ctlnalembanarovorovo, Nasarianngava, Ctlsungwadogarata	19	U+0073 U+0077
 t	t	jutufala, laitniŋ	Bislama2, Nleonda, Bislama1, Nhavailombaha	100	U+0074
+tː	tː
+t̠	t̠
 t$	t	ɸat, liβat	Bislama2, Bislama1, Nmwerlap, Sbiribiri, Elolovoli, Slolovele, Ctlsungwadogarata, Esanasolokave, Evuindondo, Nsungwadianaumumu, Ctlsungwadolagwaranuta, Ctletawetnaviso, Ctlnalembanarovorovo, Nsungwadianaone, Nsungwadiauta, Ctlsungwadagalalaundi, Nsungwadiatasmaor	100	U+0074 U+0024
 t-͡sɪplen	t + s ɪ p l e n
 th	tʰ	na-athubuŋ	Walapetreros	1	U+0074 U+0068
@@ -385,6 +394,11 @@ t̪ʰ$	t̪ʰ	lelet̪ʰ, liβat̪ʰ	Ctlsungwadolagwaranuta	3	U+0074 U+032a U+02b0
 t̻	t̻	sat̻e	Ctlsungwadolagwaranuta	1	U+0074 U+033b
 t͡s	ts	mi-at͡sat͡sɛn, mi-t͡sige	Nisvaiblacksands, Nisvaironevie, Ranotwalung, Atchinsmallisland, Maluabaymarasup, Atchinorap, Walapetreros, Namanlitzlitz, Neveeivinmavis1, Walabotku, Espiegelsbayunspecified, Ranochinambong, Ranopotora, Tapetautu1, Neverversakan, Uripivpotnambe, Maluabaytiptir, Maluabaypetarmul, Neververlimap, Netimbbangir, Neververmindu, Tapemaraxusmae, Nesetanmial, Neveeivinmavis2, Neveeicoast, Pangkumudatisman, Maluabaycoast, Angavaedixonreef, Espiegelsbaylitebral, Tesmbolmelaklak, Walaworprev, Unuabenuamor, Larevatmosox, Walapreng	100	U+0074 U+0361 U+0073
 t͡s$	ts	nɪ-mat͡s, -kʊt͡skʊt͡s	Maluabaymarasup, Nisvaiblacksands, Nisvaironevie, Espiegelsbayunspecified, Sivitinjavjericho, Batarxopulumsak, Sivitinjavwomol, Atchinorap, Sivitinjavtanmililib2, Batarxopulipitav, Batarxopugonwar, Maluabaytiptir, Sivitinjavgonwar, Xolimbwenelang, Larevatmosox, Atchinsmallisland, Tapemaraxusmae, Tapetautu1, Najittanmial, Neverversakan, Batarxopulembilmbil, Walapetreros, Espiegelsbaysolwota, Espiegelsbaylitebral, Walabotku, Ranotwalung, Ranopotora, Nititakhatbol, Avoksmallisland, Uripivtautuvillage, Nesetanmial, Uripivtautu, Nesesanboise, Namanlitzlitz, Larevatlarevat, Ranochinambong, Maluabaycoast, Burmbarfartavo, Burmbarburmbar, Sivitinjavtanmililib, Aulualoxseasolokh, Maluabaypetarmul, Unuabenuamor, Walapreng	100	U+0074 U+0361 U+0073 U+0024
+t̠͡s̠	ts̠
+^t̠͡s̠	ts̠
+t͡s̠	ts̠̠
+^t͡s̠	ts̠̠
+^ⁿt͡s̠	ⁿts̠̠
 t͡sʰ	tsʰ	nat͡sʰɪt	Najittanmial	1	U+0074 U+0361 U+0073 U+02b0
 t͡sʰ$	tsʰ	e-vat͡sʰ	Atchinorap	1	U+0074 U+0361 U+0073 U+02b0 U+0024
 t͡ʃ	tʃ	mat͡ʃo, ᵐʙut͡ʃi-n	Neveeivinmavis2, Pangkumudatisman, Unuanoferai, Pangkumundarmif, Unuambatumbo, Neveeicoast, Tapetautu1, Neveeivinmavis1, Unuabenuamor, Avokhokai2, Maluabaycoast, Namanlitzlitz, Espiegelsbayunspecified, Nesetanmial, Portsandwichmerivar, Neververlimap	55	U+0074 U+0361 U+0283
@@ -397,6 +411,7 @@ u:	uː	bubu:t, omu:t	Sabunlap, Sageneral, Sahaa, Saranwas, Safponof, Safyangtus,
 u:$	uː	tu:	Sbiribiri, Slolovele, Esanasolokave	3	U+0075 U+003a U+0024
 uu	uː	nu-uh, ku-ul	Bangaasaktaremb, Nahaaimbatmbang, Neveeivinmavis2, Burmbarfartavo, Sivitinjavgonwar, Naahaitoman, Nahavaqcarolinebay, Vaopeteri, Naahaimbatvanui, Nahaaimalfaxal, Sivitinjavtanmililib	13	U+0075 U+0075
 uʰ$	u ʰ/h	ᵑga-vuʰ, ᵐbɛtkuʰ	Nisvaiblacksands, Burmbarburmbar, Tiraxmae, Nisvaironevie, Nasvangfarun, Tesmbolusus, Ctltawetnarovorovo, Atchinorap, Mandrifarun, Nombotkoteblacksands, Alavasalavas, Avavakhatbol, Naahaitoman, Uliveopelongk, Tiraxorap	19	U+0075 U+02b0 U+0024
+^uː	uː	muːt, muːt-tanai	Avavakhatbol, Bangaasaktaremb, Salangdixonreef	5	U+0075 U+02d0
 uː	uː	muːt, muːt-tanai	Avavakhatbol, Bangaasaktaremb, Salangdixonreef	5	U+0075 U+02d0
 uˑ$	uˑ	ni-tuzuˑ	Fiftikhatbol	1	U+0075 U+02d1 U+0024
 u̥$	u̥	maresu̥, rifu̥	Esanasolokave, Sbiribiri, Evuindondo, Slolovele, Elolovoli, Ssungagageavanbatai, Ctlsungwadolagwaranuta	33	U+0075 U+0325 U+0024
@@ -421,6 +436,7 @@ xʃ	x ʃ	na-xʃɪ-n	Nasvangbigisland	1	U+0078 U+0283
 xʷ	xʷ	oxʷoxʷo, uta xʷono	Ctlsungwadangota, Ctlsungwadolagwaranuta, Ctlsungwadagarongnawo, Ctlsungwadagalalaundi, Esanasolokave, Nindelabo	22	U+0078 U+02b7
 xᵐb	x ⁿb	-faxᵐbɔx, saxᵐbuɣut	Larevatfwishile, Larevatmosox, Nititakhatbol	3	U+0078 U+1d50
 xⁱ	xʲ	laxⁱaβano	Ssungagageavavanvae	1	U+0078 U+2071
+y	y
 ly	l y	iyan, ni-vily-n	Neverversakan, Nititakhatbol, Sahaa, Uliveopeskaros2, Nsungwadiatasmaor	6	U+0079
 iya	i j a
 z	z	i-plakɛnzɛɣa, -plakɛnzaβ	Novolbangir, Uliveolurtes, Angavaedixonreef, Maluabaymarasup, Batarxopulembilmbil, Novoldixonreef, Sivitinjavgonwar, Uliveopelongk, Sivitinjavtanmililib2, Batarxopulipitav, Fiftikhatbol, Walapetreros, Nahavaqcarolinebay, Larevatfwishile, Espiegelsbaylitebral, Uliveopeskaros2, Sivitinjavwomol, Atchinsmallisland, Nititakhatbol, Unuambatumbo, Bislama2, Batarxopulumsak, Fiftimalmbor, Najittanmial, Tiraxbakru, Avokhokai, Wowolesarmalas, Neveeicoast, Espiegelsbayunspecified, Axambsmallisland, Sivitinjavjericho, Axambsmallislandmaliambor, Batarxopugonwar, Nisvaiblacksands, Maluabaycoast, Novoltavendrua, Pangkumundarmif, Alavasalavas, Vaopeteri, Sivitinjavtanmililib, Nasarianwileven, Neveeivinmavis1, Nisvaironevie, Walaworprev, Maluabaytiptir, Avokhokai2, Maluabaypetarmul, Xolimbwenelang, Batarxopubenut, Nasarianngava, Larevatmosox, Walapreng	100	U+007a
@@ -437,6 +453,7 @@ zw	zʷ	i-wazwasi, -wəzwasi	Novolbangir, Letemboinatingatlang, Portsandwichlamap
 æˑ	æˑ	-mɛlæˑsɛ	Letemboinewotenyene	1	U+00e6 U+02d1
 æ̃$	æ̃	kolæ̃	Esanasolokave	1	U+00e6 U+0303 U+0024
 ð	ð	na-ðaðɛn, na-ðat	Alavasalavas, Nindelawa, Wowowowo, Alavaswowo, Wowolesarmalas, Angavaedixonreef, Nesesanboise, Novoltavendrua, Nesetanmial	100	U+00f0
+ðː	ðː
 ð$	ð	tu-soð, na-rið	Wowowowo, Alavaswowo, Wowolesarmalas, Alavasalavas, Neveeivinmavis2, Uliveolurtes, Walapetreros, Angavaedixonreef, Avavakhatbol, Fiftimalmbor	29	U+00f0 U+0024
 ð̼	ð̼	i-ð̼a, nuku ð̼að̼inɛ	Vaocanada, Venentautebenmara, Venentautebenenavet, Venentautealpalak, Venentautehamax, Nesesanboise, Vaopeteri	20	U+00f0 U+033c
 ð̼̼	ð̼
@@ -450,6 +467,7 @@ zw	zʷ	i-wazwasi, -wəzwasi	Novolbangir, Letemboinatingatlang, Portsandwichlamap
 ĩ$	ĩ	reĩ, ŋeβahĩ	Nleonda, Nleovandue, Esanasolokave, Nhavailombaha, Novolbangir, Ngatataremb, Slolovele, Sbiribiri	21	U+0129 U+0024
 ĭ	ĭ	saɰʷul taβalĭma, ɸaβĭne	Ctlsungwadagalalaundi, Ctltawetnarovorovo, Nleovandue	4	U+012d
 ĭ$	ĭ	tulĭ, mambusi-ɣĭ	Slolovele, Sbiribiri, Esanasolokave, Ctlsungwadagarongnawo	8	U+012d U+0024
+ʏ	ʏ
 ŋ	ŋ	raŋa, ᵑɡʷaŋo	Nsungwadianaumumu, Ssakao, Slolovele, Nhavailombaha, Elolovoli, Evuindondo, Wwalaha, Nleovandue, Esanasolokave, Nleonda, Sbiribiri	100	U+014b
 ŋ$	ŋ	taelaŋ, ᵐbʷoŋ	Nmwerlap, Sbiribiri, Esanasolokave, Ctlnalembanasawa, Ctlnalembanarovorovo, Evuindondo, Slolovele, Bislama2, Ctltawetnarovorovo, Wwalaha, Ctlsungwadagalalaundi, Ctletawetnaviso, Bislama1, Elolovoli, Ctlsungwadolagwaranuta, Ctlsungwadogarata, Nleonda, Ssakao	100	U+014b U+0024
 ŋs	ŋ s	rɛŋsi-n, -masaŋsaŋ	Netimbbangir, Uripivtautuvillage, Uripivtautu, Uripivdurpif, Uripivpotnambe, Aulualoxseasolokh, Aulualoxselanfitfit, Xolimbwenelang, Ranopotora, Batarxopulumsak, Naahaimbatvanui, Nahaaimbatmbang, Sivitinjavtanmililib2, Tesmbolusus, Neverversakan, Walapetreros, Batarxopugonwar, Burmbartengan, Ranochinambong, Maluabaycoast, Burmbarfartavo, Burmbarburmbar, Mandrifaru, Pangkumundarmif, Safyangtus, Naatiwindua, Nahaaimalfaxal, Tesmbolmelaklak, Walabotku, Ranotwalung, Esanasolokave, Sivitinjavgonwar, Sivitinjavwomol, Larevatmosox, Walapreng	43	U+014b U+0073
@@ -461,6 +479,7 @@ zw	zʷ	i-wazwasi, -wəzwasi	Novolbangir, Letemboinatingatlang, Portsandwichlamap
 ŋ̆$	ŋ	jũŋ̆	Sbiribiri	1	U+014b U+0306 U+0024
 ŏ$	ŏ	namŏ, niekŏ	Slolovele	2	U+014f U+0024
 œ	œ	-sœt, nɛ-βœl	Nahavaqloorndavo, Nahavaqbanour, Nahavaqlembinwin, Larevatmosox, Burmbarburmbar, Nahavaqcarolinebay, Novoldixonreef, Larevatlarevat, Novolbangir, Tiraxbethel, Novoltavendrua, Uliveopeskaros2, Fiftimalmbor, Axambsmallisland, Nasvangbigisland, Larevatfwishile, Salangdixonreef	46	U+0153
+œː	œː
 œ$	œ	maɛmaœ, tœ	Sbiribiri, Nmwerlap	2	U+0153 U+0024
 š	ʃ	ni-šušu-n, -miši	Naahaitoman, Naahaimbatvanui, Letemboinewotenyene, Nasvangfarun, Tiraxbethel, Mandrifarun, Angavaedixonreef, Novoldixonreef, Nahaaimbatmbang, Neveeivinmavis2, Nahavaqbanour, Novoltavendrua, Tiraxmae, Axambsmallislandmaliambor, Novolbangir, Nombotkoteneioleian, Nahavaqcarolinebay, Nombotkotemelkin	30	U+0161
 š$	ʃ	ha-wiviniš, i-mʉʃɪmʉš	Nombotkoteneioleian, Tiraxbethel, Nahavaqloorndavo, Angavaedixonreef, Nindelawa, Uliveopeskaros, Sivitinjavgonwar, Nahavaqcarolinebay, Sivitinjavtanmililib, Letemboinewotenyene, Sivitinjavtanmililib2	12	U+0161 U+0024
@@ -519,6 +538,7 @@ zw	zʷ	i-wazwasi, -wəzwasi	Novolbangir, Letemboinatingatlang, Portsandwichlamap
 ɪ̆	ɪ̆
 ɪ̥	ɪ̥
 ɪ̥$	ɪ̥	terɪ̥	Sbiribiri	1	U+026a U+0325 U+0024
+ɦ	ɦ
 ɫ$	lˠ	saŋɡʊɫ	Nsungwadianaone	1	U+026b U+0024
 ɬ	ɬ	-nɛɬnalɪvamk, i-nɛɬnalivamk	Venentauteunmet, Venentautebenmara, Venentautealpalak	3	U+026c
 ɬ$	ɬ	i-tɬ, na-vʉɬ	Maluabaymarasup, Letemboinatingatlang, Neververmindu, Neverversakan, Alavaswowo, Neververlimap, Venentauteunmet, Nititakhatbol, Batarxopulumsak, Nombotkoteneioleian, Venentautebenmara, Sivitinjavtanmililib2, Neveeivinmavis2, Tiraxbakru, Bangaasaktaremb, Wowolesarmalas, Namanlitzlitz, Nombotkotemelkin, Espiegelsbaysolwota, Letemboiaingelemolesa, Maluabaycoast, Angavaedixonreef, Novoldixonreef, Neveeivinmavis1, Salangdixonreef, Aulualoxselanfitfit, Maluabaypetarmul, Venentautealpalak, Nasarianwileven, Aulualoxseasolokh	37	U+026c U+0024
@@ -537,6 +557,7 @@ zw	zʷ	i-wazwasi, -wəzwasi	Novolbangir, Letemboinatingatlang, Portsandwichlamap
 ɸʷ	ɸʷ	liɸʷo, ɸʷaɸʷak	Ssungagageavanbatai, Ctlsungwadogarata, Nleonda, Ctltawetnarovorovo, Ctlsungwadangota, Ssungagageasanvari, Ctlnalembanasawa, Ctlnalembanarovorovo, Sxalangibaetora	18	U+0278 U+02b7
 ɸ̆	ɸ
 ɹ	ɹ	-kʰəɹigəriβ	Sivitinjavwomol	1	U+0279
+ɹː	ɹː
 ɺ	ɺ	no-vulaiɺleɪleɪ	Angavaedixonreef	1	U+027a
 ɺ$	ɺ	ɛ-lawutɺ, na-wuɺwuɺ	Letemboinewotenyene, Novolbangir, Novoltavendrua	7	U+027a U+0024
 ɺw	ɺʷ	na-wuɺwuɺ	Letemboinewotenyene	1	U+027a U+0077
@@ -571,6 +592,7 @@ vy	v y
 ʧ	tʃ	-rɛʧarɛʧi, -ʧuʧi	Walapreng, Ranopotora, Walapetreros, Atchinorap, Walabotku, Atchinsmallisland, Uripivtautuvillage, Ranochinambong, Nesesanboise, Ranotwalung, Nesetanmial, Najittanmial, Maluabaypetarmul, Bislama2, Tiraxbotmelesnial, Bislama1, Espiegelsbayunspecified, Maluabaycoast, Espiegelsbaylitebral, Walaworprev, Maluabaytiptir	100	U+02a7
 ʧ$	tʃ	-paʧ, nɪ-mɛʧ	Avoksmallisland, Tapemaraxusmae, Larevatfwishile, Mandrifaru, Mandrifarun, Portsandwichlamap, Axambsmallisland, Axambsmallislandmaliambor, Uripivdurpif, Bislama1, Uripivpotnambe, Maluabaycoast, Portsandwichmerivar, Maluabaypetarmul, Larevatmosox, Ranopotora, Unuambatumbo, Bislama2, Uripivtautuvillage, Nesetanmial, Uripivtautu, Ranochinambong, Unuabenuamor, Walapreng, Najittanmial, Avokhokai, Nesesanboise, Walapetreros, Espiegelsbaysolwota, Burmbartengan, Larevatlarevat, Pangkumundarmif, Espiegelsbaylitebral, Walabotku, Ranotwalung, Aulualoxselanfitfit	100	U+02a7 U+0024
 β	β	riβu, aβi	Nleovandue, Nhavailombaha, Evuindondo, Nleonda, Esanasolokave, Wwalaha, Ssakao, Bislama1, Elolovoli	100	U+03b2
+βː	βː
 β$	β	taniaβ, mʷaβ	Ctlnalembanasawa, Ctlnalembanarovorovo, Ctletawetnaviso, Ctltawetnarovorovo, Portsandwichmerivar, Atchinsmallisland, Slolovele, Sbiribiri, Sivitinjavgonwar, Sivitinjavwomol, Vaobeetehul, Namanlitzlitz, Sivitinjavjericho, Sivitinjavtanmililib, Walabotku, Esanasolokave, Ranopotora, Unuambatumbo, Tapemaraxusmae, Neveeivinmavis2, Uripivdurpif, Nmwerlap, Axambsmallislandmaliambor, Ranotwalung, Natanganmbonvor, Aulualoxselanfitfit, Portsandwichlamap, Walapreng, Ctlsungwadogarata	68	U+03b2 U+0024
 βh	βʰ	ni-tiβhʉn	Nahavaqlembinwin	1	U+03b2 U+0068
 βs	β s	ɛ-loβsua, ilaβsua	Namanlitzlitz, Tesmbolusus, Natanganmbonvor, Nombotkoteblacksands, Pangkumudatisman, Letemboinewotenyene, Nasarianwileven	8	U+03b2 U+0073

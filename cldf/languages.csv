@@ -34,6 +34,7 @@ Ctlsungwadangota,Ctl: Sungwada: Ngota,cent2058,Central Maewo,mwo,Papunesia,-15.1
 Ctlsungwadogarata,Ctl: Sungwadoga: Rata,tali1260,Talise (Vanuatu),btr,Papunesia,-15.11413,168.14195,Austronesian,Maewo:  Central:  Sungwaloge:  Sungwadola/Rata:  Navenvene,False,Maewo
 Ctlsungwadolagwaranuta,Ctl: Sungwadola: Gwaran Uta,tali1260,Talise (Vanuatu),btr,Papunesia,-15.12506,168.091146,Austronesian,Maewo:  Central:  Sungwaloge:  Sungwadola/Gwaran Uta:  Navenvene,False,Maewo
 Ctltawetnarovorovo,Ctl: Tawet: Narovorovo,naro1250,Narovorovo,btr,Papunesia,-15.18528,168.109444,Austronesian,Maewo:  Central:  Sungwaloge/Tawet:  Narovorovo,False,Maewo
+Elia,Elia,,,,,-15.266628,166.673808,Austronesian,,False,Santo
 Elolovoli,E: Lolovoli,east2443,East Ambae,omb,Papunesia,-15.36437,167.927911,Austronesian,Ambae:  East:  Lolovoli,False,Ambae
 Esanasolokave,E: Sana: Solokave,east2443,East Ambae,nnd,Papunesia,-15.45831,167.856408,Austronesian,Ambae:  East:  Sana:  Solokave,False,Ambae
 Espiegelsbaylitebral,Espiegel’s Bay: Litebral,malu1245,Malua Bay,mll,Papunesia,-15.974,167.193,Austronesian,,False,Malekula
@@ -44,6 +45,9 @@ Fiftikhatbol,Fifti: Khatbol,vivt1234,Vivti,,Papunesia,-16.18053,167.5316,Austron
 Fiftimalmbor,Fifti: Malmbor,vivt1234,Vivti,,Papunesia,-16.2813,167.51228,Austronesian,,False,Malekula
 Hano,Hano,hano1246,Hano,lml,Papunesia,-15.612233,168.183567,Austronesian,,False,Pentecost
 Jakena,Jakena,,,,Papunesia,-16.677200,168.240933,Austronesian,,False,Epi
+Jarailan,Jarailan,,,,,-15.531899,166.990561,Austronesian,,False,Santo
+Kerepua,Kerepua,wusi1237,Kula (Vanuatu),wsi,Papunesia,-15.301631,166.665183,Austronesian,,False,Santo
+Kitano,Kitano,,,,,-15.424489,166.691497,Austronesian,,False,Santo
 Lamanbay,Laman Bay,lewo1242,,,Papunesia,-16.677200,168.240933,Austronesian,,False,Epi
 Larevatfwishile,Larevat: Fwishile,lare1249,Larevat,lrv,Papunesia,-16.17351,167.37147,Austronesian,,False,Malekula
 Larevatlarevat,Larevat: Larevat,lare1249,Larevat,lrv,Papunesia,-16.17464,167.37145,Austronesian,,False,Malekula
@@ -53,6 +57,7 @@ Letemboiaingelemolesa,Letemboi: Aingelemolesa,lete1241,Letemboi-Repanbitip,nms,P
 Letemboinatingatlang,Letemboi: Natingatlang,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.40056,167.6178,Austronesian,,False,Malekula
 Letemboinevatanyene,Letemboi: Nevatanyene,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.434,167.567,Austronesian,,False,Malekula
 Letemboinewotenyene,Letemboi: Newotenyene,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.2667,167.536,Austronesian,,False,Malekula
+Linduri,Linduri,navu1237,Navut,nsw,Papunesia,-15.389627,166.648496,Austronesian,,False,Santo
 Lopalis,Lopalis,,,,Papunesia,-16.77688526609511,168.3658916504161,Austronesian,,False,Epi
 Lopika,Lopika,,,,Papunesia,-16.790367,168.400217,Austronesian,,False,Epi
 Maluabaycoast,Malua Bay: Coast,malu1245,Malua Bay,mll,,-15.98334,167.18798,Austronesian,,False,Malekula
@@ -81,6 +86,7 @@ Nakanamangasesake,Nakanamanga: Sesake,sesa1243,,,papunesia,-17.04250452667725,16
 Nalema,Nalema,,,,Papunesia,-16.835467,168.464150,Austronesian,,False,Epi
 Namakirsangava,Namakir: Sangava,nama1268,,,papunesia,-17.070778072932043,168.38403852307852,Austronesian,,False,Emae
 Namanlitzlitz,Naman (Litzlitz),litz1237,Naman,lzl,Papunesia,-16.10139,167.3847,Austronesian,,False,Malekula
+Narango,Narango,nara1263,Narango,nrg,Papunesia,-15.549431,166.997278,Austronesian,,False,Santo
 Nasarianngava,Nasarian: Ngava,nasa1240,Nasarian,nvh,Papunesia,-16.25313,167.51643,Austronesian,,False,Malekula
 Nasarianwileven,Nasarian: Wileven,nasa1240,Nasarian,nvh,Papunesia,-16.38333,167.4681,Austronesian,,False,Malekula
 Nasvangbigisland,Nasvang: Big Island,navw1234,Navwien,,Papunesia,-16.44294,167.67644,Austronesian,,False,Malekula
@@ -110,9 +116,11 @@ Nisvaiblacksands,Nisvai: Blacksands,nisv1234,Nisvai,,Papunesia,-16.38847,167.783
 Nisvaironevie,Nisvai: Ronevie,nisv1234,Nisvai,,Papunesia,-16.41306,167.78556,Austronesian,,False,Malekula
 Nititakhatbol,Nitita: Khatbol,niti1249,Nitita,,Papunesia,-16.18053,167.5316,Austronesian,,False,Malekula
 Nivenuhe,Nivenuhe,lewo1242,,,Papunesia,-16.620650,168.223583,Austronesian,,False,Epi
+Nkep,Nkep,hogh1234,Nkep,,Papunesia,-15.143113,167.10477,Austronesian,,False,Santo
 Nleonda,N: Leonda,amba1270,Ambae,omb,,-15.314,167.852877,Austronesian,Ambae:  North:  Leonda:  Ngwetangwele,False,Ambae
 Nleovandue,N: Leõ: Vandue,amba1270,Ambae,omb,,-15.31851,167.820332,Austronesian,Ambae:  North:  Leõ:  Vandue,False,Ambae
 Nmwerlap,N: Mwerlap,mari1426,Sunwadia,mrb,Papunesia,-14.96984,168.058964,Austronesian,Maewo:  North:  Sungwadia/Mwerlap:  Marino,False,Maewo
+Nokuku,Nokuku,noku1237,Nokuku,nkk,Papunesia,-14.9,166.6,Austronesian,,False,Santo
 Nombotkoteblacksands,Nombotkote: Blacksands,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.32063,167.44212,Austronesian,,False,Malekula
 Nombotkotemelkin,Nombotkote: Melkin,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.32806,167.59949,Austronesian,,False,Malekula
 Nombotkoteneioleian,Nombotkote: Neioleian,lete1241,Letemboi-Repanbitip,nms,Papunesia,-16.48428,167.54336,Austronesian,,False,Malekula
@@ -126,8 +134,13 @@ Nsungwadiatasmaor,N: Sungwadia: Tasmaor,mari1426,Sunwadia,mrb,Papunesia,-14.9363
 Nsungwadiauta,N: Sungwadia: Uta,mari1426,Sunwadia,mrb,Papunesia,-14.97184,168.0573,Austronesian,Maewo:  North:  Sungwadia/Uta:  Marino,False,Maewo
 Nulnesa,Nulnesa,tasi1237,,,Papunesia,-16.76085,168.35,Austronesian,,False,Epi
 Oreao,Oreao,tasi1237,,,Papunesia,-16.7948799,168.3804409,Austronesian,,False,Epi
+Panas,Panas,,,,,-15.268652,166.807076,Austronesian,,False,Santo
 Pangkumudatisman,Pangkumu: Datisman,rere1240,Rerep,pgk,Papunesia,-16.28244,167.6626,Austronesian,,False,Malekula
 Pangkumundarmif,Pangkumu: Ndarmif,rere1240,Rerep,pgk,Papunesia,-16.28389,167.6669,Austronesian,,False,Malekula
+Penour,Penour,,,,,-14.99,166.607474,Austronesian,,False,Santo
+Petawata,Petawata,,,,,-15.013104,166.61194,Austronesian,,False,Santo
+Petel,Petel,,,,,-15.040825,166.786985,Austronesian,,False,Santo
+Piamatsina,Piamatsina,piam1242,Piamatsina,ptr,Papunesia,-14.925565,166.780513,Austronesian,,False,Santo
 Portsandwichlamap,Port Sandwich: Lamap,port1285,Port Sandwich,psw,Papunesia,-16.425,167.805,Austronesian,,False,Malekula
 Portsandwichmerivar,Port Sandwich: Merivar,port1285,Port Sandwich,psw,Papunesia,-16.428,167.808,Austronesian,,False,Malekula
 Ragalolkasai,Raga: Lolkasai,,,,,-15.58444,168.19111,,Raga:  Lolkasai,False,Pentecost
@@ -144,6 +157,7 @@ Safrangusuksu,Sa F.: Rangusuksu,saaa1241,,,Papunesia,-15.900750,168.185000,Austr
 Safyangtus,Sa F.: Yangtus,,,,,-15.90306,168.26944,,Sa F.:  Yantus,False,Pentecost
 Sageneral,Sa: ‘General’,,,,,-15.90611,168.18694,,Sa:  ‘General’,False,Pentecost
 Sahaa,Sa: Haa,,,,,-16.00111,168.21056,,Sa:  Haa,False,Pentecost
+Sakao,Sakao,port1296,Sakao,,Papunesia,-15.041602,167.068592,Austronesian,,False,Santo
 Salangdixonreef,Salang: DixonReef,katb1237,Avava,tmb,Papunesia,-16.26833,167.4339,Austronesian,,False,Malekula
 Salondar,Sa: Londar,saaa1241,,,Papunesia,-15.995167,168.198483,Austronesian,,False,Pentecost
 Sapaangi,Sa: Paangi,saaa1241,,,,-15.94611,168.19444,Austronesian,,False,Pentecost
@@ -174,15 +188,19 @@ Taolia,Taolia,tasi1237,,,Papunesia,-16.812167,168.406783,Austronesian,,False,Epi
 Tapemaraxusmae,Tape (Maraxus): Mae,mara1399,Maragus,mrs,Papunesia,-16.10139,167.26806,Austronesian,,False,Malekula
 Tapetautu1,Tape: Tautu 1,mara1399,Maragus,mrs,Papunesia,-16.08389,167.2833,Austronesian,Tape: Tautu  (speaker 1),False,Malekula
 Tasikojowomiapika,Tasiko: Jowo Miapika,tasi1237,,,Papunesia,-16.794,168.374150,Austronesian,,,Epi
+Tasmate,Tasmate,tasm1246,Tasmate,tmt,Papunesia,-15.211738,166.660412,Austronesian,,False,Santo
 Tekelele,Tekelele,tasi1237,,,Papunesia,-16.780967,168.420067,Austronesian,,False,Epi
 Tesmbolmelaklak,Tesmbol: Melaklak,,,,,-16.28444,167.6666,,,False,Malekula
 Tesmbolusus,Tesmbol: Usus,,,,,-16.28644,167.6646,,,False,Malekula
+TialeSauriki,Tiale: Sauriki,tial1239,Tiale,mnl,Papunesia,-15.435493,166.704161,Austronesian,,False,Santo
 Tiraxbakru,Tirax: Bakru,maee1241,Tirax,mme,Papunesia,-16.00354,167.29696,Austronesian,,False,Malekula
 Tiraxbethel,Tirax: Bethel,maee1241,Tirax,mme,Papunesia,-16.03923,167.40186,Austronesian,,False,Malekula
 Tiraxbotmelesnial,Tirax: Botmelesnial,maee1241,Tirax,mme,Papunesia,-16.0583,167.369,Austronesian,,False,Malekula
 Tiraxmae,Tirax: Mae,maee1241,Tirax,mme,Papunesia,-16.05839,167.36953,Austronesian,,False,Malekula
 Tiraxolamb,Tirax: Olamb,maee1241,Tirax,mme,Papunesia,-15.98701,167.26154,Austronesian,,False,Malekula
 Tiraxorap,Tirax: Orap,maee1241,Tirax,mme,Papunesia,-15.97,167.34464,Austronesian,,False,Malekula
+TolomakoPortOlry,Tolomako: Port Olry,tolo1255,Tolomako,tlm,Papunesia,-15.046862,167.072817,Austronesian,,False,Santo
+Tutuba,Tutuba,tutu1241,Tutuba,tmi,Papunesia,-15.58,167.27,Austronesian,,False,Santo
 Uliveolurtes,Uliveo: Lurtes,mask1242,Maskelynes,klv,Papunesia,-16.53072,167.83389,Austronesian,,False,Malekula
 Uliveopelongk,Uliveo: Pelongk,mask1242,Maskelynes,klv,Papunesia,-16.51917,167.83139,Austronesian,,False,Malekula
 Uliveopeskaros,Uliveo: Peskaros,mask1242,Maskelynes,klv,Papunesia,-16.51917,167.83139,Austronesian,Uliveo: Peskaros  (speaker 1),False,Malekula
@@ -209,7 +227,11 @@ Walabotku,Wala: Botku,wala1267,Wala-Rano,upv,Papunesia,-15.96841,167.29246,Austr
 Walapetreros,Wala: Petreros,wala1267,Wala-Rano,upv,Papunesia,-15.97544,167.37627,Austronesian,,False,Malekula
 Walapreng,Wala: Preng,wala1267,Wala-Rano,upv,Papunesia,-15.97342,167.37627,Austronesian,,False,Malekula
 Walaworprev,Wala: Worprev,wala1267,Wala-Rano,upv,Papunesia,-15.97775,167.37656,Austronesian,,False,Malekula
+Winsao,Winsao,navu1237,Navut,nsw,Papunesia,-15.237018,166.837332,Austronesian,,False,Santo
 Wowolesarmalas,Wowo: Lesarmalas,vovo1238,Vovo,upv,Papunesia,-15.90733,167.17927,Austronesian,,False,Malekula
 Wowowowo,Wowo: Wowo,vovo1238,Vovo,upv,Papunesia,-15.90224,167.18459,Austronesian,,False,Malekula
+Wunaruu,Wunaruu,,,,,-15.245542,166.674275,Austronesian,,False,Santo
+Wunawai,Wunawai,,,,,-15.082729,166.626724,Austronesian,,False,Santo
+Wusi,Wusi,wusi1237,Kula (Vanuatu),wsi,Papunesia,-15.364736,166.657216,Austronesian,,False,Santo
 Wwalaha,W: Walaha,wala1268,Walaha,nnd,Papunesia,-15.40071,167.701737,Austronesian,Ambae:  West:  Walaha,False,Ambae
 Xolimbwenelang,Xoli (Mbwenelang),boin1237,Boinelang,,Papunesia,-16.34139,167.7425,Austronesian,,False,Malekula

@@ -10,6 +10,9 @@
             "name": "Lana Takau"
         },
         {
+            "name": "Tom Fitzpatrick"
+        },
+        {
             "name": "Mary Walworth"
         },
         {
@@ -46,6 +49,9 @@
             "name": "Kaitip W. Kami"
         },
         {
+            "name": "Tihomir Rangelov"
+        },
+        {
             "name": "Russell Gray"
         }
     ],
@@ -56,10 +62,6 @@
         },
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
-        },
-        {
-            "name": "Tihomir Rangelov",
             "type": "Other"
         }
     ],

@@ -104,6 +104,7 @@ class Dataset(BaseDataset):
             ds.cldf['MediaTable', 'mimetype'].propertyUrl = URITemplate('http://cldf.clld.org/v1.0/terms.rdf#mediaType')
 
             sound_cat = self.raw_dir.read_json('catalog_vv.json')
+            sound_cat.update(self.raw_dir.read_json('catalog-santo.json'))
             sound_map = dict()
             for k, v in sound_cat.items():
                 sound_map[v['metadata']['name']] = k
@@ -113,6 +114,11 @@ class Dataset(BaseDataset):
             for k, v in sound_cat_old.items():
                 sound_map[v['metadata']['name']] = v['id']
                 sound_cat[v['id']] = v
+
+            # load santo catalog
+            sound_cat_old = self.raw_dir.read_json('catalog-santo.json')
+            for k, v in sound_cat_old.items():
+                sound_map[v['metadata']['name']] = k
 
             for lang_dir in progressbar(
                     sorted((self.raw_dir / 'data').iterdir(), key=lambda f: f.name),

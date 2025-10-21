@@ -1,4 +1,5 @@
 # CLDF/Lexibank stuff
+raw/data/*/chunks
 cldf/.transcription-report.json
 *offline/
 *audio/
