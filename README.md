@@ -3,9 +3,7 @@
 ## How to cite
 
 If you use these data please cite
-- the original source
-  > Lana Takau, Mary Walworth, Aviva Shimelman, Sandrine Bessis, Tom Ennever, Iveth Rodriguez, Hans-Jörg Bibiko, Daria Dërmaku, Murray Garde, Marie-France Duhamel, Giovanni Abete, Laura Wägerle, Kaitip W. Kami, Russell Gray. 2024. Vanuatu Voices.
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+this dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 

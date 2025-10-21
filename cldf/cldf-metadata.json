@@ -1,7 +1,6 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Lana Takau, Mary Walworth, Aviva Shimelman, Sandrine Bessis, Tom Ennever, Iveth Rodriguez, Hans-J\u00f6rg Bibiko, Daria D\u00ebrmaku, Murray Garde, Marie-France Duhamel, Giovanni Abete, Laura W\u00e4gerle, Kaitip W. Kami, Russell Gray. 2024. Vanuatu Voices.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.",
     "dc:identifier": "https://vanuatuvoices.clld.org",
@@ -15,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.3-4-g17ea444",
+            "dc:created": "v1.3-5-g5d482bc",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +26,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.4.0-1-gf5f8627a",
+            "dc:created": "v3.4.0",
             "dc:title": "Concepticon"
         },
         {
