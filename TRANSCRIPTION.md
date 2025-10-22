@@ -120,6 +120,7 @@
 | i̥ | 17 | ✓ | ✓ |
 | ẽ | 17 | ✓ | ✓ |
 | ɸ̚ | 16 | ✓ | ✓ |
+| ? | 15 | ? | ? |
 | ɛː | 15 | ✓ | ✓ |
 | lː | 14 | ✓ | ✓ |
 | ts̠ | 14 | ✓ | ✓ |
@@ -195,12 +196,6 @@
 | ʙʳ | 3 | ✓ | ✓ |
 | ⁿs | 3 | ✓ | ✓ |
 | ⁿv | 3 | ✓ | ✓ |
-| <<ɻ>> | 2 | ? | ? |
-| <<̠>> | 2 | ? | ? |
-| <<̥>> | 2 | ? | ? |
-| <<̹>> | 2 | ? | ? |
-| <<ᵑ>> | 2 | ? | ? |
-| <<ᶮ>> | 2 | ? | ? |
 | d̚ | 2 | ✓ | ✓ |
 | eˑ | 2 | ✓ | ✓ |
 | fʲ | 2 | ✓ | ✓ |
@@ -216,9 +211,6 @@
 | ʊː | 2 | ✓ | ✓ |
 | ʝ | 2 | ✓ | ✓ |
 | ᵗ/t | 2 | ✓ | ✓ |
-| <<ˈ>> | 1 | ? | ? |
-| <<̝>> | 1 | ? | ? |
-| <<̮>> | 1 | ? | ? |
 | b̚/b | 1 | ✓ | ✓ |
 | ei | 1 | ✓ | ✓ |
 | fᵗ/f | 1 | ✓ | ✓ |
@@ -270,7 +262,7 @@
 | ⁿr | 1 | ✓ | ✓ |
 | ⁿð | 1 | ✓ | ✓ |
 
-(264 rows)
+(256 rows)
 
 
 
@@ -286,19 +278,19 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------|:-----------|:--------------|:----------|:-------------------------------------------|
-| Kitano-120_small-1 | Kitano | 120_small | taβaβaˈri | t a β a β a <s> <<ˈ>> </s> r i |
-| Linduri-145_turn-1 | Linduri | 145_turn | r̥ir̥pur | r <s> <<̥>> </s> i r <s> <<̥>> </s> p u r |
-| Linduri-20_webothincl-1 | Linduri | 20_webothincl | iᵑɟerua | i <s> <<ᵑ>> </s> ɟ e r u a |
-| Linduri-22_weallincl-1 | Linduri | 22_weallincl | iᵑɟe | i <s> <<ᵑ>> </s> ɟ e |
-| Penour-69_egg-1 | Penour | 69_egg | otolu̮ | o t o l u <s> <<̮>> </s> |
-| Petawata-189_shoot-1 | Petawata | 189_shoot | s̠ulia | s <s> <<̠>> </s> u l i a |
-| Petawata-483_hot-2 | Petawata | 483_hot | tu̹tu̹n | t u <s> <<̹>> </s> t u <s> <<̹>> </s> n |
-| Petawata-82_night-1 | Petawata | 82_night | nᵈɻoːnᵈɻo | n d <s> <<ɻ>> </s> oː n d <s> <<ɻ>> </s> o |
-| Winsao-20_webothincl-1 | Winsao | 20_webothincl | iᶮɟerua | i <s> <<ᶮ>> </s> ɟ e r u a |
-| Winsao-22_weallincl-1 | Winsao | 22_weallincl | iᶮɟe | i <s> <<ᶮ>> </s> ɟ e |
-| Wunawai-37_above-1 | Wunawai | 37_above | alo̝n | a l o <s> <<̝>> </s> n |
-| Wusi-458_to_think-1 | Wusi | 458_to_think | t̠omt̠om | t <s> <<̠>> </s> o m t̠ o m |
+|:------------------------|:-----------|:--------------|:----------|:-----------------------------------|
+| Kitano-120_small-1 | Kitano | 120_small | taβaβaˈri | t a β a β a <s> ? </s> r i |
+| Linduri-145_turn-1 | Linduri | 145_turn | r̥ir̥pur | r <s> ? </s> i r <s> ? </s> p u r |
+| Linduri-20_webothincl-1 | Linduri | 20_webothincl | iᵑɟerua | i <s> ? </s> ɟ e r u a |
+| Linduri-22_weallincl-1 | Linduri | 22_weallincl | iᵑɟe | i <s> ? </s> ɟ e |
+| Penour-69_egg-1 | Penour | 69_egg | otolu̮ | o t o l u <s> ? </s> |
+| Petawata-189_shoot-1 | Petawata | 189_shoot | s̠ulia | s <s> ? </s> u l i a |
+| Petawata-483_hot-2 | Petawata | 483_hot | tu̹tu̹n | t u <s> ? </s> t u <s> ? </s> n |
+| Petawata-82_night-1 | Petawata | 82_night | nᵈɻoːnᵈɻo | n d <s> ? </s> oː n d <s> ? </s> o |
+| Winsao-20_webothincl-1 | Winsao | 20_webothincl | iᶮɟerua | i <s> ? </s> ɟ e r u a |
+| Winsao-22_weallincl-1 | Winsao | 22_weallincl | iᶮɟe | i <s> ? </s> ɟ e |
+| Wunawai-37_above-1 | Wunawai | 37_above | alo̝n | a l o <s> ? </s> n |
+| Wusi-458_to_think-1 | Wusi | 458_to_think | t̠omt̠om | t <s> ? </s> o m t̠ o m |
 
 (12 rows)
 

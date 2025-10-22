@@ -21,8 +21,8 @@ Available online at https://vanuatuvoices.clld.org
 ![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
-![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 236 (linked to 69 different Glottocodes)
 - **Concepts:** 432 (linked to 319 different Concepticon concept sets)
@@ -31,8 +31,8 @@ Available online at https://vanuatuvoices.clld.org
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
 - **Tokens:** 283,273
-- **Segments:** 264 (9 BIPA errors, 9 CLTS sound class errors, 254 CLTS modified)
-- **Inventory size (avg):** 41.68
+- **Segments:** 256 (1 BIPA errors, 1 CLTS sound class errors, 254 CLTS modified)
+- **Inventory size (avg):** 41.67
 
 # Contributors
 
