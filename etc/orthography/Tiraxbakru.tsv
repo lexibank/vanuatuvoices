@@ -1,0 +1,105 @@
+Grapheme	IPA	Frequency
+a	a	296
+n	n	219
+_	+	215
+e	e	205
+i	i	133
+o	o	109
+-	+	106
+l	l	98
+^n	n	97
+t	t	88
+u	u	87
+v	v	81
+r	r	74
+m	m	65
+h	h	63
+ŋ	ŋ	53
+^i	i	50
+k	k	44
+ə	ə	44
+ɛ	ɛ	40
+b	b	35
+k$	k	34
+ɾ	ɾ	33
+n$	n	31
+r$	r	31
+t$	t	30
+x	x	30
+i$	i	29
+a$	a	27
+s	s	25
+^-	NULL	24
+^t	t	24
+ɣ	ɣ	23
+ɪ	ɪ	22
+d	d	22
+l$	l	21
+^m	m	19
+e$	e	17
+^l	l	17
+ⁿd	ⁿd	13
+^x	x	13
+ᵐb	ⁿb	13
+u$	u	10
+w	w	10
+^f	f	9
+^ⁿd	ⁿd	9
+^k	k	8
+o$	o	8
+s$	s	8
+ɸ$	ɸ	7
+^v	v	7
+f	f	7
+x$	x	6
+ŋ$	ŋ	5
+ⁿdʳ	ⁿdʳ	5
+m$	m	5
+ʊ	ʊ	5
+d$	d	5
+h$	h	5
+ɾ$	ɾ	5
+fʷ	fʷ	5
+^h	h	4
+^ᵐb	ⁿb	4
+^s	s	4
+^r	r	4
+ⁿd$	ⁿd	4
+g	g	4
+_ⁿd	+ ⁿd	3
+nh	nʰ	3
+^ⁿdʳ	ⁿdʳ	3
+p$	p	3
+^ⁿt	ⁿt	3
+b$	b	3
+iʲa	i j a	3
+f$	f	3
+^b	b	2
+ⁿdʳ$	ⁿdʳ	2
+iʰ$	i ʰ/h	2
+^a	a	2
+ɛʰ$	ɛ ʰ/h	2
+ə$	ə	2
+uʷe	u w e	2
+th	tʰ	2
+tʰ	tʰ	1
+^tᵐb	t ⁿb	1
+ʉ	ʉ	1
+ɬ$	ɬ	1
+ã$	ã	1
+mʷ	mʷ	1
+ɛ$	ɛ	1
+ⁿt	ⁿt	1
+ʃ	ʃ	1
+z	z	1
+uʷa	u w a	1
+^o	o	1
+$	NULL	1
+^ə	ə	1
+ɾw	ɾʷ	1
+œ	œ	1
+p	p	1
+^əʲa	ə j a	1
+oʷ	o ʷ/w	1
+^ɾ	ɾ	1
+^fʷ	fʷ	1
