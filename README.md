@@ -30,9 +30,9 @@ Available online at https://vanuatuvoices.clld.org
 - **Sources:** 7
 - **Synonymy:** 1.02
 - **Invalid lexemes:** 0
-- **Tokens:** 283,070
+- **Tokens:** 283,100
 - **Segments:** 256 (1 BIPA errors, 1 CLTS sound class errors, 254 CLTS modified)
-- **Inventory size (avg):** 41.64
+- **Inventory size (avg):** 41.53
 
 # Contributors
 
