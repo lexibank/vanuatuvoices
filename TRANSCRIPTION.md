@@ -6,7 +6,7 @@
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
 | a | 41842 | ✓ | ✓ |
-| n | 21971 | ✓ | ✓ |
+| n | 21967 | ✓ | ✓ |
 | i | 20547 | ✓ | ✓ |
 | + | 18813 | ✓ | ✓ |
 | u | 16200 | ✓ | ✓ |
@@ -15,7 +15,7 @@
 | m | 13608 | ✓ | ✓ |
 | e | 12295 | ✓ | ✓ |
 | t | 12190 | ✓ | ✓ |
-| r | 11642 | ✓ | ✓ |
+| r | 11638 | ✓ | ✓ |
 | s | 9197 | ✓ | ✓ |
 | ɛ | 7331 | ✓ | ✓ |
 | k | 6874 | ✓ | ✓ |
@@ -45,8 +45,8 @@
 | æ | 793 | ✓ | ✓ |
 | ʔ | 754 | ✓ | ✓ |
 | ʊ | 600 | ✓ | ✓ |
-| d | 599 | ✓ | ✓ |
-| ⁿdʳ | 594 | ✓ | ✓ |
+| ⁿdʳ | 598 | ✓ | ✓ |
+| d | 591 | ✓ | ✓ |
 | c | 579 | ✓ | ✓ |
 | ð | 443 | ✓ | ✓ |
 | ⁿbʷ | 430 | ✓ | ✓ |
@@ -119,12 +119,12 @@
 | lʰ | 17 | ✓ | ✓ |
 | ẽ | 17 | ✓ | ✓ |
 | ɸ̚ | 16 | ✓ | ✓ |
-| ? | 15 | ? | ? |
 | ɛː | 15 | ✓ | ✓ |
 | ɹ | 15 | ✓ | ✓ |
 | lː | 14 | ✓ | ✓ |
 | ts̠ | 14 | ✓ | ✓ |
 | ũ | 14 | ✓ | ✓ |
+| ? | 13 | ? | ? |
 | gʷ | 13 | ✓ | ✓ |
 | pʰ | 13 | ✓ | ✓ |
 | ɨ | 13 | ✓ | ✓ |
@@ -201,6 +201,7 @@
 | nᵗ/ⁿt | 2 | ✓ | ✓ |
 | tk | 2 | ✓ | ✓ |
 | œː | 2 | ✓ | ✓ |
+| ɖ | 2 | ✓ | ✓ |
 | ɛ̃ː | 2 | ✓ | ✓ |
 | ɣ̞ | 2 | ✓ | ✓ |
 | ɤ | 2 | ✓ | ✓ |
@@ -262,7 +263,7 @@
 | ⁿr | 1 | ✓ | ✓ |
 | ⁿð | 1 | ✓ | ✓ |
 
-(256 rows)
+(257 rows)
 
 
 
@@ -278,7 +279,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------|:-----------|:--------------|:----------|:-----------------------------------|
+|:------------------------|:-----------|:--------------|:----------|:----------------------------------|
 | Kitano-120_small-1 | Kitano | 120_small | taβaβaˈri | t a β a β a <s> ? </s> r i |
 | Linduri-145_turn-1 | Linduri | 145_turn | r̥ir̥pur | r <s> ? </s> i r <s> ? </s> p u r |
 | Linduri-20_webothincl-1 | Linduri | 20_webothincl | iᵑɟerua | i <s> ? </s> ɟ e r u a |
@@ -286,12 +287,11 @@
 | Penour-69_egg-1 | Penour | 69_egg | otolu̮ | o t o l u <s> ? </s> |
 | Petawata-189_shoot-1 | Petawata | 189_shoot | s̠ulia | s <s> ? </s> u l i a |
 | Petawata-483_hot-2 | Petawata | 483_hot | tu̹tu̹n | t u <s> ? </s> t u <s> ? </s> n |
-| Petawata-82_night-1 | Petawata | 82_night | nᵈɻoːnᵈɻo | n d <s> ? </s> oː n d <s> ? </s> o |
 | Winsao-20_webothincl-1 | Winsao | 20_webothincl | iᶮɟerua | i <s> ? </s> ɟ e r u a |
 | Winsao-22_weallincl-1 | Winsao | 22_weallincl | iᶮɟe | i <s> ? </s> ɟ e |
 | Wunawai-37_above-1 | Wunawai | 37_above | alo̝n | a l o <s> ? </s> n |
 | Wusi-458_to_think-1 | Wusi | 458_to_think | t̠omt̠om | t <s> ? </s> o m t̠ o m |
 
-(12 rows)
+(11 rows)
 
 
