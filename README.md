@@ -3,7 +3,9 @@
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Lana Takau, Tom Fitzpatrick, Mary Walworth, Aviva Shimelman, Sandrine Bessis, Tom Ennever, Iveth Rodriguez, Hans-Jörg Bibiko, Daria Dërmaku, Murray Garde, Marie-France Duhamel, Giovanni Abete, Laura Wägerle, Kaitip W. Kami, Tihomir Rangelov, & Russell Gray. (2025). Vanuatu Voices (v1.4.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4309140
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 

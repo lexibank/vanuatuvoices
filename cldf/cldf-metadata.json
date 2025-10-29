@@ -1,6 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Lana Takau, Tom Fitzpatrick, Mary Walworth, Aviva Shimelman, Sandrine Bessis, Tom Ennever, Iveth Rodriguez, Hans-J\u00f6rg Bibiko, Daria D\u00ebrmaku, Murray Garde, Marie-France Duhamel, Giovanni Abete, Laura W\u00e4gerle, Kaitip W. Kami, Tihomir Rangelov, & Russell Gray. (2025). Vanuatu Voices (v1.4.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4309140",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.",
     "dc:identifier": "https://vanuatuvoices.clld.org",
@@ -14,7 +15,7 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.3-5-g5d482bc",
+            "dc:created": "v1.3-6-gee821ba",
             "dc:title": "Repository"
         },
         {
