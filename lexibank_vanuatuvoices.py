@@ -1,7 +1,7 @@
-import pathlib
-import attr
-import itertools
 import csv
+import dataclasses
+import itertools
+import pathlib
 
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Concept
@@ -21,17 +21,17 @@ ROLE_MAP = {
 }
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLanguage(Language):
-    LongName = attr.ib(default=None)
-    IsProto = attr.ib(default=None)
-    Island = attr.ib(default=None)
+    LongName: str | None = None
+    IsProto: str | None = None
+    Island: str | None = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomConcept(Concept):
-    Bislama_Gloss = attr.ib(default=None)
-    Concepticon_SemanticField = attr.ib(default=None)
+    Bislama_Gloss: str | None = None
+    Concepticon_SemanticField: str | None = None
 
 
 class Dataset(BaseDataset):
