@@ -1,14 +1,17 @@
+import collections
 import csv
 import dataclasses
 import itertools
 import pathlib
+import re
+import sys
 
 from pylexibank import Dataset as BaseDataset
-from pylexibank import Language, Concept
+from pylexibank import Language, Concept, Lexeme
 from pylexibank import FormSpec
 from pylexibank import progressbar
 from csvw.metadata import URITemplate
-import collections
+
 
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
@@ -19,6 +22,84 @@ ROLE_MAP = {
     'ContrbutorSoundEditingBy': 'sound_editing',
     'ContributorRecordedBy2': 'recording',
 }
+
+
+Rule = collections.namedtuple('Rule', 'lhs rhs')
+
+GRAPHEME_RULES = [
+    Rule(['n-n'], ['n', '-', 'n']),
+    Rule(['naᵐ', '_', 'batina'], ['n', 'a', '_', 'ᵐb', 'a', 't', 'i', 'n', 'a']),
+    Rule(['ʃ', '_', 'ʰovi'], ['ʃ', 'o', 'v', 'i']),
+    Rule(['ne-βulʉ-'], ['n', 'e', '-', 'β', 'u', 'l', 'ʉ', '-']),
+    Rule(['t', '-͡s', 'ɪ'], ['t', '-', 's', 'ɪ']),
+    Rule(['-mᵐẽ'], ['-', 'ᵐm', 'ẽ']),
+    Rule([chr(794)], []),  # ◌̚
+]
+
+GRAPHEME_REPLACEMENTS = {
+    'ⁿᵈr': 'ⁿdʳ',
+    'ⁿᵈɾ': 'ⁿdʳ',
+    'ⁿᵈɹ': 'ⁿdʳ',
+    'ᵈr': 'r',
+}
+
+
+class MalformedRule(Exception):
+    """Error for when a user passes in an invalid rule object."""
+
+
+def _apply_rule_iter(rule, items):
+    index = 0
+    while index < len(items):
+        rule_index = 0
+        while (
+            rule_index < len(rule.lhs)
+            and index + rule_index < len(items)
+            and items[index+rule_index] == rule.lhs[rule_index]
+        ):
+            rule_index += 1
+        if rule_index == len(rule.lhs):
+            yield from rule.rhs
+            index += rule_index
+        else:
+            yield items[index]
+            index += 1
+
+
+def apply_rule(rule, items):
+    if not rule.lhs:
+        raise MalformedRule('Left-hand-side of a transformation rule must not be empty')
+    return list(_apply_rule_iter(rule, items))
+
+
+def graphemes_to_orthography(grapheme_correspondance, lexeme):
+    segments = re.sub('_+', ' _ ', lexeme['Graphemes'].lstrip('^').rstrip('$')).split()
+
+    for rule in GRAPHEME_RULES:
+        segments = apply_rule(rule, segments)
+
+    unknown_segments = set()
+    graphemes = []
+    for segment in segments:
+        if segment == '-':
+            grapheme = segment
+        elif segment == '_':
+            grapheme = ' '
+        elif (replacement := GRAPHEME_REPLACEMENTS.get(segment)):
+            return grapheme_correspondance[replacement]
+        elif segment not in grapheme_correspondance:
+            unknown_segments.add(segment)
+            grapheme = segment
+        else:
+            grapheme = grapheme_correspondance[segment]
+        graphemes.append(grapheme)
+    if unknown_segments:
+        print(
+            'unknown segments:',
+            '; '.join(sorted(unknown_segments)),
+            file=sys.stderr)
+
+    return ''.join(graphemes)
 
 
 @dataclasses.dataclass
@@ -32,6 +113,11 @@ class CustomLanguage(Language):
 class CustomConcept(Concept):
     Bislama_Gloss: str | None = None
     Concepticon_SemanticField: str | None = None
+
+
+@dataclasses.dataclass
+class CustomLexeme(Lexeme):
+    Orthography: str | None = None
 
 
 class Dataset(BaseDataset):
@@ -53,8 +139,20 @@ class Dataset(BaseDataset):
 
     concept_class = CustomConcept
     language_class = CustomLanguage
+    lexeme_class = CustomLexeme
 
     def cmd_makecldf(self, args):
+        with open(self.etc_dir / 'graphemes-unique-correspondances.csv') as f:
+            rdr = csv.reader(f)
+            header = next(rdr)
+            grapheme_col = header.index('VV_grapheme')
+            assert grapheme_col >= 0
+            orthography_col = header.index('orthography')
+            assert orthography_col >= 0
+            grapheme_correspondance = {
+                row[grapheme_col]: row[orthography_col]
+                for row in rdr}
+            assert grapheme_correspondance
 
         sc_fp_map = {}  # old cat format lg file path map
         with open(self.etc_dir / 'sc_fp_map.tsv', 'r') as f:
@@ -162,6 +260,9 @@ class Dataset(BaseDataset):
                                     Loan=False,
                                     Source=source,
                                 )
+                                new['Orthography'] = graphemes_to_orthography(
+                                    grapheme_correspondance,
+                                    new)
 
                                 # try old media IDs first
                                 old_id = False
