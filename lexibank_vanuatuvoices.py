@@ -5,6 +5,7 @@ import itertools
 import pathlib
 import re
 import sys
+from typing import Optional
 
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Concept, Lexeme
@@ -104,20 +105,22 @@ def graphemes_to_orthography(grapheme_correspondance, lexeme):
 
 @dataclasses.dataclass
 class CustomLanguage(Language):
-    LongName: str | None = None
-    IsProto: str | None = None
-    Island: str | None = None
+    LongName: Optional[str] = None
+    IsProto: Optional[str] = None
+    Island: Optional[str] = None
 
 
 @dataclasses.dataclass
 class CustomConcept(Concept):
-    Bislama_Gloss: str | None = None
-    Concepticon_SemanticField: str | None = None
+    Bislama_Gloss: Optional[str] = None
+    Concepticon_SemanticField: Optional[str] = None
 
 
 @dataclasses.dataclass
 class CustomLexeme(Lexeme):
-    Orthography: str | None = None
+    Orthography: Optional[str] = None
+    Bislama_Gloss: Optional[str] = None
+    Concepticon_SemanticField: Optional[str] = None
 
 
 class Dataset(BaseDataset):
