@@ -87,12 +87,12 @@ def graphemes_to_orthography(grapheme_correspondance, lexeme):
         elif segment == '_':
             grapheme = ' '
         elif (replacement := GRAPHEME_REPLACEMENTS.get(segment)):
-            return grapheme_correspondance[replacement]
-        elif segment not in grapheme_correspondance:
+            grapheme = grapheme_correspondance[replacement]
+        elif segment in grapheme_correspondance:
+            grapheme = grapheme_correspondance[segment]
+        else:
             unknown_segments.add(segment)
             grapheme = segment
-        else:
-            grapheme = grapheme_correspondance[segment]
         graphemes.append(grapheme)
     if unknown_segments:
         print(
