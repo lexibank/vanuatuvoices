@@ -1,0 +1,477 @@
+frequency,VV_grapheme,orthography,notes
+41613,a,a,
+21795,n,n,
+20438,i,i,
+16032,u,u,
+14760,l,l,
+14294,o,o,
+13514,m,m,
+12238,e,e,
+12173,t,t,
+11616,r,r,
+8485,s,s,
+7313,ɛ,e,
+6835,k,k,
+5672,,,
+4605,ŋ,ng,
+4274,p,p,
+4193,v,v,
+3882,ɪ,i,
+3040,x,kh,
+2944,w,w,
+2738,ɣ,gh,
+2494,ᵐb,mb,
+2469,h,h,
+2332,β,v,
+1789,j,y,
+1721,ⁿd,nd,
+1583,ə,ë,
+1517,b,b,
+1439,ɾ,r,
+1376,f,f,
+963,mʷ,mw,
+948,g,gh,
+823,ᵑg,ngg,
+818,ɸ,f,
+793,æ,ä,
+790,ɔ,o,
+754,ʔ,',
+599,ʊ,u,
+591,ʧ,j,
+587,d,d,
+579,c,k,
+509,t͡ʃ,j,
+490,ⁿdʳ,ndr,
+473,aː,a,
+443,ð,dh,
+430,ᵐbʷ,mbw,
+380,ᵑɡ,nng,
+366,ʉ,u,
+358,a:,a,
+262,pʷ,pw,
+261,ᵐʙ,mbb,
+259,t͡s,ts,
+168,vʷ,vw,
+163,z,z,
+161,ɡ,gh,
+160,ⁿ,n,should be united with the following segment in the Segments and Graphemes column
+139,ᵑɡʷ,nngw,
+135,ls,ls,probably should be separate in the Segments and Graphemes column
+134,u:,u,
+129,ʰ,h,should be united with the preceding segment in the Segments and Graphemes column
+117,kʷ,kw,
+116,ᵈ,d,should be united with a following or preceding segment in the Segments and Graphemes column
+114,ŋʷ,ngw,
+106,e:,e,
+103,y,y,
+101,ʃ,sh,
+99,ø,ö,
+95,œ,ö,
+93,ns,ns,probably should be separate in the Segments and Graphemes column
+90,i:,I,
+90,rs,rs,probably should be separate in the Segments and Graphemes column
+89,ɒ,aa,
+88,mw,mw,
+85,ⁿʒ,nzh,
+84,fʷ,fw,
+78,bw,bw,
+78,ms,ms,probably should be separate in the Segments and Graphemes column
+75,ɸʷ,fw,
+74,iː,I,
+73,vs,vs,probably should be separate in the Segments and Graphemes column
+72,k̚,k,
+71,βʷ,vw,
+67,o:,o,
+67,ʋ,v,
+66,ᵑk,ngk,
+64,aa,aa,
+64,ɑ,aa,
+62,lw,lw,probably should be separate in the Segments and Graphemes column
+61,bʷ,bw,
+60,xʷ,xw,
+59,ʒ,zh,
+58,p˺,p,
+55,ʷ,w,should be united with the preceding segment in the Segments and Graphemes column
+54,n᷈a,na,probably should be separate in the Segments and Graphemes column
+51,ts,ts,
+51,ⁿt,nt,
+49,ŋs,ngs,probably should be separate in the Segments and Graphemes column
+49,ʙ,bb,
+47,kʰ,k,
+44,uː,u,
+44,ŋw,ngw,
+43,š,sh,
+42,ɲ,ng,
+41,k͡p,kp,
+41,oː,o,
+41,ã,a,
+41,ɬ,l,
+41,ⁿt͡s,nts,
+41,ⁿt͡ʃ,nj,
+39,eː,e,
+38,tʰ,t,
+37,ⁿz,nzh,
+36,ñ,n,
+36,ᴩ,pp,
+35,uʷa,uwa,probably should be separate in the Segments and Graphemes column
+34,aʰu,ahu,probably should be separate in the Segments and Graphemes column
+34,iʲa,iya,probably should be separate in the Segments and Graphemes column
+34,oʰu,ohu,probably should be separate in the Segments and Graphemes column
+34,u̥,u,
+34,ᵏpʷ,kpw,
+31,aˑ,a,
+31,ɣs,ghs,probably should be separate in the Segments and Graphemes column
+31,ⁿʧ,nj,
+30,xs,khs,probably should be separate in the Segments and Graphemes column
+30,ɐ,a,
+29,ks,ks,probably should be separate in the Segments and Graphemes column
+29,sw,sw,probably should be separate in the Segments and Graphemes column
+29,t̚,t,
+29,ʲ,y,should be united with the preceding segment in the Segments and Graphemes column
+28,ĩ,I,
+28,θ,th,
+27,nh,nh,probably should be separate in the Segments and Graphemes column
+27,ᵐp,mp,
+26,oo,oo,
+26,ɦ,h,
+24,oʷ,ow,
+23,p̚,p,
+23,t˺,t,
+23,ɹ,r,
+23,χ,x,
+23,ⁿg,nng,
+22,kw,kw,
+22,mᵇ,mb,
+22,pw,pw,
+22,tw,tw,probably should be separate in the Segments and Graphemes column
+22,uʷe,uwe,probably should be separate in the Segments and Graphemes column
+22,ɘ,ë,
+22,ʰo,ho,probably should be separate in the Segments and Graphemes column
+21,fs,fs,
+21,nw,nw,
+21,rw,rw,
+21,õ,o,
+20,t͡s̠,ts,
+19,ly,ly,probably should be separate in the Segments and Graphemes column
+19,uʰ,uh,probably should be separate in the Segments and Graphemes column
+19,ŭ,u,
+18,lh,lh,probably should be separate in the Segments and Graphemes column
+18,βs,vs,probably should be separate in the Segments and Graphemes column
+18,ᵐl,ml,probably should be separate in the Segments and Graphemes column
+17,i̥,I,
+17,ps,ps,probably should be separate in the Segments and Graphemes column
+17,ɸ̚,f,
+16,ɾs,rs,probably should be separate in the Segments and Graphemes column
+16,ẽ,e,
+15,ɛʰ,eh,
+15,ⁱ,I,should be united with the preceding or following segment in the Segments and Graphemes column
+14,iʰ,ih,probably should be separate in the Segments and Graphemes column
+14,t̠͡s̠,ts,
+14,xw,xw,probably should be separate in the Segments and Graphemes column
+13,aʰ,ah,probably should be separate in the Segments and Graphemes column
+13,ɨ,I,
+12,th,th,probably should be separate in the Segments and Graphemes column
+12,u͂,u,
+12,vh,vh,probably should be separate in the Segments and Graphemes column
+12,æ:,ä,
+12,ɛ:,e,
+12,ɸw,fw,
+11,o̥,o,
+10,eʰu,ehu,probably should be separate in the Segments and Graphemes column
+10,ɡʷ,gw,
+10,ɣʷ,ghw,
+10,ɰʷ,uw,
+9,ii,ii,
+9,ph,p,
+9,vw,vw,
+9,ɜ,ë,
+8,aʷi,awi,probably should be separate in the Segments and Graphemes column
+8,dᵗ,d,
+8,eʲ,ey,
+8,oʰ,ohu,
+8,ɳ,n,
+8,ɺ,r,
+8,ɾw,rw,probably should be separate in the Segments and Graphemes column
+8,ʏ,ü,
+7,.,.,
+7,e̥,e,
+7,iʲe,iye,
+7,kh,kh,
+7,ll,ll,
+7,nn,nng,
+7,nʒ,nzh,
+7,ŋʲ,ny,
+7,ɪʲa,iya,
+7,ɯ,u,
+6,bs,bs,probably should be separate in the Segments and Graphemes column
+6,dʳ,dr,
+6,oʰi,ohi,probably should be separate in the Segments and Graphemes column
+6,rh,rh,probably should be separate in the Segments and Graphemes column
+6,rᵑ,rng,probably should be separate in the Segments and Graphemes column
+6,zw,zw,
+6,ðː,dh,
+6,ă,a,
+6,ŋg̊,nng,
+6,ɑ:j,ay,
+6,ʍ,w,
+6,ʷi,wi,
+6,ᵐd,md,
+6,ᵐβ,mv,
+5,aiʲ,ai,probably should be separate in the Segments and Graphemes column
+5,aʷe,awe,probably should be separate in the Segments and Graphemes column
+5,gs,gs,probably should be separate in the Segments and Graphemes column
+5,hw,hw,probably should be separate in the Segments and Graphemes column
+5,nʃ,nsh,
+5,nː,nn,
+5,q,',
+5,rː,rr,
+5,ss,ss,
+5,tⁿ,tn,
+5,uu,uu,
+5,ß,v,
+5,ŋ͡ma,ngma,probably should be separate in the Segments and Graphemes column
+5,əʷa,ëwa,probably should be separate in the Segments and Graphemes column
+5,ɞ,ë,
+5,ʌ,o,
+5,ᵐj,mj,
+4,hs,hs,
+4,iʰu,ihu,
+4,lː,l,
+4,pʰ,p,
+4,pː,p,
+4,rr,rr,
+4,tː,t,
+4,t̠,t,
+4,tᵐb,tmb,probably should be separate in the Segments and Graphemes column
+4,vʃ,vsh,probably should be separate in the Segments and Graphemes column
+4,ŋ͡mo,ngmo,probably should be separate in the Segments and Graphemes column
+4,ɑː,a,
+4,ə̥,ë,
+4,ɟ,g,
+4,ɰ,w,
+4,ɵ,ö,
+4,ɾ̚,r,
+4,ʁ,rh,
+4,ʊ̥,u,
+4,βh,vh,probably should be separate in the Segments and Graphemes column
+4,βː,v,
+4,ᵐm,m,
+4,ᵑgʷ,nggw,
+4,’,',
+4,ⁿt͡ɕ,nj,
+4,ⁿɡ,nng,
+3,a͂,a,
+3,a͡t,at,
+3,a͡ul,aul,probably should be separate in the Segments and Graphemes column
+3,ch,j,
+3,ee,ee,
+3,iˑ,I,
+3,k˺,k,
+3,l:,l,
+3,lʰ,lh,
+3,mm,mm,
+3,m̚,m,
+3,mᵚ,mw,
+3,nʲ,ny,
+3,rʃ,rsh,
+3,tʃ,tsh,
+3,tʷ,tw,
+3,t̪ʰ,t,
+3,t͡sʰ,ts,
+3,xᵐb,khmb,probably should be separate in the Segments and Graphemes column
+3,ĭ,I,
+3,ɔ͂,o,
+3,ɛˀ,e,
+3,ɪ:,i,
+3,ɶ,ö,
+3,ʙʳ,bb,
+3,ͻ,o,
+3,βw,vw,
+3,ᵐbs,mbs,probably should be separate in the Segments and Graphemes column
+3,ᵐv,mv,
+2,<ɻ>,r,<> should probably be removed
+2,<̠>,,to be fixed
+2,<̥>,,to be fixed
+2,<̹>,,to be fixed
+2,<ᵑ>,,to be fixed
+2,<ᶮ>,,to be fixed
+2,B,bb,
+2,aˀ,a’,
+2,d̚,d,
+2,ɖ,dr,
+2,eˑ,e,
+2,fʲ,fy,
+2,gʷ,gw,
+2,hʷ,hw,
+2,iya,iya,probably should be separate in the Segments and Graphemes column
+2,key,key,probably should be separate in the Segments and Graphemes column
+2,mᵖ,mp,
+2,naᵐbatina,nambatina,probably should be separate in the Segments and Graphemes column
+2,ng̊,ng,
+2,n̩,n,
+2,nᵗ,nt,
+2,oˀ,o’,
+2,sʷ,sw,
+2,sː,s,
+2,tᵏ,tk,
+2,uʰe,uhe,probably should be separate in the Segments and Graphemes column
+2,ŋ͡ba,ngba,probably should be separate in the Segments and Graphemes column
+2,œː,ö,
+2,ũ,u,
+2,ɔʰ,oh,
+2,əʰi,ëhi,
+2,əʲa,ëya,
+2,ɛː,e,
+2,ɛ̃,e,
+2,ɛ̃:,e,
+2,ɣ̞,gh,
+2,ɤ,ë,
+2,ɪ̥,i,
+2,ɹː,r,
+2,ɾh,rh,probably should be separate in the Segments and Graphemes column
+2,ʊ:,u,
+2,ʝ,g,
+2,ᴘ,pp,
+2,ᵐʙs,mbbs,probably should be separate in the Segments and Graphemes column
+2,ᵑd,ngd,
+2,ᶰd,nd,
+2,ⁿm,nm,
+1,<ˈ>,,to be fixed
+1,<̝>,,to be fixed
+1,<̮>,,to be fixed
+1,I,l,
+1,L,l,
+1,N,n,
+1,R,r,
+1,ayi,ayi,probably should be separate in the Segments and Graphemes column
+1,aʰuʷa,ahuwa,probably should be separate in the Segments and Graphemes column
+1,aʰuː,ahu,probably should be separate in the Segments and Graphemes column
+1,aʷə,awë,probably should be separate in the Segments and Graphemes column
+1,a͡m,am,
+1,a͡ŋ,ang,
+1,by,by,probably should be separate in the Segments and Graphemes column
+1,byl,byl,probably should be separate in the Segments and Graphemes column
+1,b˺,b,
+1,e:ⁿd,end,probably should be separate in the Segments and Graphemes column
+1,eiʲ,eiy,
+1,eʰ,eh,
+1,eʰy,ehy,
+1,eˀᵐb,e’mb,
+1,e͡,e,
+1,eᵃj,eay,
+1,fW,fw,
+1,fᵗ,ft,
+1,gw,gw,
+1,gʰ,g,
+1,hʰ,h,
+1,hʲ,hy,
+1,iʷi,iwi,probably should be separate in the Segments and Graphemes column
+1,iˀ,i',
+1,iᵐn,imn,probably should be separate in the Segments and Graphemes column
+1,kʒ,kzh,probably should be separate in the Segments and Graphemes column
+1,kᵚ,ku,
+1,lʃ,lsh,probably should be separate in the Segments and Graphemes column
+1,l̩,l,
+1,lᵗ,lt,
+1,mː,m,
+1,mᴮ,mbb,
+1,mᵇs,mbs,probably should be separate in the Segments and Graphemes column
+1,mᵐẽ,mme,probably should be separate in the Segments and Graphemes column
+1,mᵗs,mts,probably should be separate in the Segments and Graphemes column
+1,m’ⁿd,mnd,probably should be separate in the Segments and Graphemes column
+1,m⁽ʷ⁾,mw,
+1,nD,nd,
+1,neβulʉ,nevulu,probably should be separate in the Segments and Graphemes column
+1,nʰ,n,
+1,nʷ,nw,
+1,n̪,n,
+1,oloʰyliyli,olohyliyli,probably should be separate in the Segments and Graphemes column
+1,oˑ,o,
+1,o͂,o,
+1,o͡i,oi,
+1,o᷈ŋ,ong,probably should be separate in the Segments and Graphemes column
+1,pp,p,
+1,p̚w,ow,
+1,pⁿ,pn,
+1,r:aru,rraru,probably should be separate in the Segments and Graphemes column
+1,rʒ,rzh,probably should be separate in the Segments and Graphemes column
+1,rʲ,ry,
+1,s:,s,
+1,sh,sh,
+1,tt͡s,tts,probably should be separate in the Segments and Graphemes column
+1,tyl,tyl,
+1,t̚n,tn,
+1,t̚w,tw,
+1,t̪,t,
+1,t̻,t,
+1,tⁿd,tnd,
+1,uʷaʲe,uwaje,probably should be separate in the Segments and Graphemes column
+1,uʷaː,uwa,probably should be separate in the Segments and Graphemes column
+1,uˑ,u,
+1,vy,vy,
+1,wʰ,wh,
+1,xʃ,khsh,probably should be separate in the Segments and Graphemes column
+1,xⁱ,kh,
+1,ã:,a,
+1,æˑ,ä,
+1,æ̃,ä,
+1,ĕ,e,
+1,ŋg̥a,nnga,probably should be separate in the Segments and Graphemes column
+1,ŋʃ,ngsh,probably should be separate in the Segments and Graphemes column
+1,ŋ͡be,ngbe,probably should be separate in the Segments and Graphemes column
+1,ŋ͡bo,ngbo,probably should be separate in the Segments and Graphemes column
+1,ŋ͡mw,ngmw,
+1,ŏ,o,
+1,ɐːj,ay,
+1,ɒːj,ay,
+1,ɔ:j,oy,
+1,ɔ̃,o,
+1,əʰ,ë,
+1,əʲe,ëye,
+1,əː,ë,
+1,ɛɛ,ee,
+1,ɛʲ,ey,
+1,ɛˑ,e,
+1,ɛ͂,e,
+1,ɣw,ghw,probably should be separate in the Segments and Graphemes column
+1,ɣʃ,ghsh,probably should be separate in the Segments and Graphemes column
+1,ɣⁱ,gh,
+1,ɥ,h,
+1,ɪɪ,ii,
+1,ɪʰ,ih,
+1,ɪʲe,iye,
+1,ɫ,l,
+1,ɰs,ws,probably should be separate in the Segments and Graphemes column
+1,ɵ͡l,öl,
+1,ɸʲ,fy,
+1,ɺw,rw,
+1,ʃʰovi,shovi,probably should be separate in the Segments and Graphemes column
+1,ʉ:,u,
+1,ʊʷe,uwe,probably should be separate in the Segments and Graphemes column
+1,ʋʷ,vw,
+1,ʙs,bbs,probably should be separate in the Segments and Graphemes column
+1,ʱ,h,should be united with previous segment
+1,ʷl,wl,
+1,ˤ,',
+1,͡s,s,
+1,βʲ,vy,
+1,ᵃ,a,
+1,ᵉ,e,
+1,ᵐbʳ,mbb,
+1,ᵐbⁿ,mbn,
+1,ᵐk,mk,
+1,ᵐpʰ,mph,
+1,ᵐr,mr,
+1,ᵐs,ms,
+1,ᵐt͡s,mts,
+1,ᵐᴩ,mpp,
+1,ᵑa,nga,
+1,ᵑgs,nggs,probably should be separate in the Segments and Graphemes column
+1,ᵑɡuⁿɡu,nggunggu,probably should be separate in the Segments and Graphemes column
+1,ᵘ,u,
+1,ᶯ,n,
+1,ᶰs,ns,
+1,ẽ:,e,
+1,ẽʲ,ey,
+1,ⁿd͡ʒ,nj,
+1,ⁿs,ns,
