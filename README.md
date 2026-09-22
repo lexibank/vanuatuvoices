@@ -18,11 +18,11 @@ Available online at https://vanuatuvoices.clld.org
 
 
 [![CLDF validation](https://github.com/lexibank/vanuatuvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/vanuatuvoices/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 82%](https://img.shields.io/badge/Glottolog-82%25-yellowgreen.svg "Glottolog: 82%")
-![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Glottolog: 82%](etc/badge_languages.svg)
+![Concepticon: 97%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 236 (linked to 69 different Glottocodes)
 - **Concepts:** 432 (linked to 319 different Concepticon concept sets)
@@ -33,6 +33,11 @@ Available online at https://vanuatuvoices.clld.org
 - **Tokens:** 283,088
 - **Segments:** 257 (1 BIPA errors, 1 CLTS sound class errors, 255 CLTS modified)
 - **Inventory size (avg):** 41.52
+
+## Possible Improvements:
+
+- Languages missing glottocodes: 41/236 (17.37%%)
+
 
 # Contributors
 

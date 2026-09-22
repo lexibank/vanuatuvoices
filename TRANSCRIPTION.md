@@ -4,7 +4,7 @@
 ## Segments
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
-|:----------|-------------:|:-------|:------------------|
+| :-----: | :--------: | :--: | :-------------: |
 | a | 41842 | ✓ | ✓ |
 | n | 21967 | ✓ | ✓ |
 | i | 20547 | ✓ | ✓ |
@@ -270,7 +270,8 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-|------|------------|-----------|--------|
+| :-: | :------: | :-----: | :--: |
+| | | | |
 
 (0 rows)
 
@@ -279,10 +280,10 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------|:-----------|:--------------|:----------|:----------------------------------|
+| :---------------------: | :------: | :-----------: | :-------: | :-------------------------------: |
 | Kitano-120_small-1 | Kitano | 120_small | taβaβaˈri | t a β a β a <s> ? </s> r i |
-| Linduri-145_turn-1 | Linduri | 145_turn | r̥ir̥pur | r <s> ? </s> i r <s> ? </s> p u r |
 | Linduri-20_webothincl-1 | Linduri | 20_webothincl | iᵑɟerua | i <s> ? </s> ɟ e r u a |
+| Linduri-145_turn-1 | Linduri | 145_turn | r̥ir̥pur | r <s> ? </s> i r <s> ? </s> p u r |
 | Linduri-22_weallincl-1 | Linduri | 22_weallincl | iᵑɟe | i <s> ? </s> ɟ e |
 | Penour-69_egg-1 | Penour | 69_egg | otolu̮ | o t o l u <s> ? </s> |
 | Petawata-189_shoot-1 | Petawata | 189_shoot | s̠ulia | s <s> ? </s> u l i a |

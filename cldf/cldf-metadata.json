@@ -4,9 +4,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Vanuatu Voices presents phonetically-transcribed primary recordings, from numerous villages throughout different islands, to both document and exhibit the extensive variation and unparalleled diversity of the Vanuatu languages.",
     "dc:identifier": "https://vanuatuvoices.clld.org",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Vanuatu Voices",
     "dcat:accessURL": "https://github.com/lexibank/vanuatuvoices",
@@ -14,13 +12,13 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.3-15-g7a100e4",
+            "dc:created": "v1.4-13-g57cb1b0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -43,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.13.5"
         },
         {
             "dc:title": "python-packages",
@@ -55,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
+            "dc:description": "CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, Orthography: Optional[str] = None, Bislama_Gloss: Optional[str] = None, Concepticon_SemanticField: Optional[str] = None)",
             "dc:extent": 45255,
             "tableSchema": {
                 "columns": [
@@ -125,6 +123,18 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Orthography"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Bislama_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_SemanticField"
                     }
                 ],
                 "foreignKeys": [
@@ -159,6 +169,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, LongName: Optional[str] = None, IsProto: Optional[str] = None, Island: Optional[str] = None)",
             "dc:extent": 236,
             "tableSchema": {
                 "columns": [
@@ -237,6 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "CustomConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Bislama_Gloss: Optional[str] = None, Concepticon_SemanticField: Optional[str] = None)",
             "dc:extent": 506,
             "tableSchema": {
                 "columns": [

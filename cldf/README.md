@@ -14,22 +14,15 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://vanuatuvoices.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/vanuatuvoices
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/vanuatuvoices/tree/7a100e4">lexibank/vanuatuvoices v1.3-15-g7a100e4</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/vanuatuvoices/tree/57cb1b0">lexibank/vanuatuvoices  v1.4-13-g57cb1b0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.13.5</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | vanuatuvoices
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
 
 ## <a name="table-formscsv"></a>Table [forms.csv](./forms.csv)
 
-
-Raw lexical data item as it can be pulled out of the original datasets.
-
-This is the basis for creating rows in CLDF representations of the data by
-- splitting the lexical item into forms
-- cleaning the forms
-- potentially tokenizing the form
-
+CustomLexeme(ID: str, Form: str, Value: str, Language_ID: str, Parameter_ID: str, Local_ID: Optional[str] = None, Segments: list[str] = <factory>, Graphemes: Optional[list[str]] = None, Profile: Optional[str] = None, Source: list[str] = <factory>, Comment: Optional[str] = None, Cognacy: Optional[str] = None, Loan: Optional[bool] = None, Orthography: Optional[str] = None, Bislama_Gloss: Optional[str] = None, Concepticon_SemanticField: Optional[str] = None)
 
 property | value
  --- | ---
@@ -54,8 +47,13 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
+`Orthography` | `string` | 
+`Bislama_Gloss` | `string` | 
+`Concepticon_SemanticField` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
+
+CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, LongName: Optional[str] = None, IsProto: Optional[str] = None, Island: Optional[str] = None)
 
 property | value
  --- | ---
@@ -81,6 +79,8 @@ Name/Property | Datatype | Description
 `Island` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
+
+CustomConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Bislama_Gloss: Optional[str] = None, Concepticon_SemanticField: Optional[str] = None)
 
 property | value
  --- | ---
@@ -135,4 +135,3 @@ Name/Property | Datatype | Description
 `recording` | `string` | 
 `sound_editing` | `string` | 
 [Language_ID](http://cldf.clld.org/v1.0/terms.rdf#languageReference) | `string` | References [languages.csv::ID](#table-languagescsv)
-
