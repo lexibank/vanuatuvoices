@@ -1,7 +1,10 @@
 # Releasing Vanuatu Voices
 
 ```shell
-cldfbench lexibank.makecldf lexibank_vanuatuvoices.py --glottolog-version v5.2 --concepticon-version v3.4.0 --clts-version v2.3.0
+cldfbench lexibank.makecldf lexibank_vanuatuvoices.py --glottolog-version v5.3 --concepticon-version v3.4.0 --clts-version v2.3.0
+```
+
+```shell
 pytest
 ```
 

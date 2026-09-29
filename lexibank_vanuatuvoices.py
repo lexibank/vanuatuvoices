@@ -1,19 +1,18 @@
-import collections
-import csv
-import dataclasses
-import itertools
-import pathlib
 import re
 import sys
+import pathlib
+import itertools
+import collections
+import dataclasses
 from typing import Optional
 
 from pylexibank import Dataset as BaseDataset
 from pylexibank import Language, Concept, Lexeme
 from pylexibank import FormSpec
 from pylexibank import progressbar
-from csvw.metadata import URITemplate
+from csvw.dsv import reader
 
-
+MEDIA_DEPOSIT_ID = "23015980"
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
     'ContrbutorPhoneticTranscriptionBy': 'phonetic_transcriptions',
@@ -24,6 +23,17 @@ ROLE_MAP = {
     'ContributorRecordedBy2': 'recording',
 }
 
+def media_file(bs, fid):
+    digit = bs["objid"][6]
+    return {
+        'ID': bs['ID'],
+        'Name': bs['Name'],
+        'Download_URL': f'https://zenodo.org/records/{MEDIA_DEPOSIT_ID}/files/vv_media_{digit}.zip',
+        'Path_In_Zip': f'{digit}/{bs["objid"]}/{bs["Name"]}',
+        'Media_Type': 'audio/x-wav' if bs['mimetype'] == 'audio/wav' else bs['mimetype'],
+        'size': bs['size'],
+        'Form_ID': fid,
+    }
 
 Rule = collections.namedtuple('Rule', 'lhs rhs')
 
@@ -145,81 +155,26 @@ class Dataset(BaseDataset):
     lexeme_class = CustomLexeme
 
     def cmd_makecldf(self, args):
-        with open(self.etc_dir / 'graphemes-unique-correspondances.csv') as f:
-            rdr = csv.reader(f)
-            header = next(rdr)
-            grapheme_col = header.index('VV_grapheme')
-            assert grapheme_col >= 0
-            orthography_col = header.index('orthography')
-            assert orthography_col >= 0
-            grapheme_correspondance = {
-                row[grapheme_col]: row[orthography_col]
-                for row in rdr}
-            assert grapheme_correspondance
+        grapheme_correspondance = {
+            r['VV_grapheme']: r['orthography'] for r in
+            self.etc_dir.read_csv('graphemes-unique-correspondances.csv', dicts=True)}
 
-        sc_fp_map = {}  # old cat format lg file path map
-        with open(self.etc_dir / 'sc_fp_map.tsv', 'r') as f:
-            for x in f:
-                m = x.strip().split('\t')
-                sc_fp_map[m[0]] = m[1]
-
-        sc_wp_map = {}  # old cat format word file path map
-        sc_p_map = {}  # old cat format parameter map
+        sound_per_word = collections.defaultdict(
+            lambda: collections.defaultdict(list))
+        for row in reader(self.raw_dir / 'media.csv', dicts=True):
+            lid, pid, n = row['Form_ID'].split('-')
+            sound_per_word[lid, pid][int(n)].append(row)
 
         with args.writer as ds:
+            self.schema(ds.cldf)
             ds.add_sources()
 
             for concept in self.concepts:
-                sc_p_map[concept['ID']] = concept['IndexInSource']
                 del concept['IndexInSource']
                 ds.add_concept(**concept)
 
-            with open(self.etc_dir / 'sc_wp_map.tsv', 'r') as f:
-                for x in f:
-                    m = x.strip().split('\t')
-                    sc_wp_map[m[0]] = m[1]
-
             known_param_ids = set([d['ID'] for d in ds.objects['ParameterTable']])
 
-            ds.cldf.add_component(
-                'MediaTable',
-                'objid',
-                {'name': 'size', 'datatype': 'integer'},
-                {
-                    'name': 'Form_ID',
-                    'required': True,
-                    'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference',
-                    'datatype': 'string'
-                },
-                {
-                    'name': 'mimetype',
-                    'required': True,
-                    'datatype': {'base': 'string', 'format': '[^/]+/.+'}
-                },
-            )
-            ds.cldf.remove_columns('MediaTable', 'Download_URL')
-            ds.cldf.remove_columns('MediaTable', 'Description')
-            ds.cldf.remove_columns('MediaTable', 'Path_In_Zip')
-            ds.cldf.remove_columns('MediaTable', 'Media_Type')
-            ds.cldf['MediaTable', 'ID'].valueUrl = URITemplate('https://cdstar.eva.mpg.de/bitstreams/{objid}/{Name}')
-            ds.cldf['MediaTable', 'mimetype'].propertyUrl = URITemplate('http://cldf.clld.org/v1.0/terms.rdf#mediaType')
-
-            sound_cat = self.raw_dir.read_json('catalog_vv.json')
-            sound_cat.update(self.raw_dir.read_json('catalog-santo.json'))
-            sound_map = dict()
-            for k, v in sound_cat.items():
-                sound_map[v['metadata']['name']] = k
-
-            # load old cat format
-            sound_cat_old = self.raw_dir.read_json('catalog.json')
-            for k, v in sound_cat_old.items():
-                sound_map[v['metadata']['name']] = v['id']
-                sound_cat[v['id']] = v
-
-            # load santo catalog
-            sound_cat_old = self.raw_dir.read_json('catalog-santo.json')
-            for k, v in sound_cat_old.items():
-                sound_map[v['metadata']['name']] = k
 
             for lang_dir in progressbar(
                     sorted((self.raw_dir / 'data').iterdir(), key=lambda f: f.name),
@@ -229,12 +184,7 @@ class Dataset(BaseDataset):
                     continue
 
                 lang_id = lang_dir.name
-
-                with open(lang_dir / 'languages.csv') as f:
-                    reader = csv.DictReader(f)
-                    for row in reader:
-                        language = row
-                        break
+                language = next(reader(lang_dir / 'languages.csv', dicts=True))
                 source = language['Source']
                 del language['Source']
                 del language['ORG_LG_NAME']
@@ -242,101 +192,33 @@ class Dataset(BaseDataset):
                     del language['IndexInSource']
                 ds.add_language(**language)
 
-                seen_lexemes_old = collections.defaultdict(lambda: 1)
-                seen_lexemes_new = collections.defaultdict(lambda: 1)
-                seen_pron2 = collections.defaultdict(lambda: False)
-
                 # Do not sort data.csv files - form id index refers to import
-                with open(lang_dir / 'data.csv') as f:
-                    reader = csv.reader(f)
-                    for i, row in enumerate(reader):
-                        value = row[0].strip()
-                        if i > 0 and value != "►":
-                            param_id = row[1].strip()
-                            if param_id in known_param_ids and v != "►":
-                                new = ds.add_form(
-                                    Language_ID=lang_id,
-                                    Local_ID='',
-                                    Parameter_ID=param_id,
-                                    Value=value,
-                                    Form=self.form_spec.clean(self.lexemes.get(value, value)),
-                                    Loan=False,
-                                    Source=source,
-                                )
-                                new['Orthography'] = graphemes_to_orthography(
-                                    grapheme_correspondance,
-                                    new)
+                for i, row in enumerate(lang_dir.read_csv('data.csv')):
+                    value = row[0].strip()
+                    if i == 0 or value == "►":
+                        continue
+                    param_id = row[1].strip()
+                    if param_id not in known_param_ids:
+                        continue
+                    new = ds.add_form(
+                        Language_ID=lang_id,
+                        Local_ID='',
+                        Parameter_ID=param_id,
+                        Value=value,
+                        Form=self.form_spec.clean(self.lexemes.get(value, value)),
+                        Loan=False,
+                        Source=source,
+                    )
+                    new['Orthography'] = graphemes_to_orthography(grapheme_correspondance, new)
 
-                                # try old media IDs first
-                                old_id = False
-                                media_id = None
-                                if lang_id in sc_fp_map and param_id in sc_p_map and sc_p_map[param_id] in sc_wp_map:
-                                    lex_idx = seen_lexemes_old[param_id]
-                                    if lex_idx == 1:
-                                        media_id = '{}{}'.format(sc_fp_map[lang_id],
-                                                                 sc_wp_map[sc_p_map[param_id]])
-                                    else:
-                                        media_id = '{}{}_lex{}'.format(sc_fp_map[lang_id],
-                                                                       sc_wp_map[sc_p_map[param_id]],
-                                                                       lex_idx)
-                                    old_id = True
-
-                                # if no old media ID is found try it with _pron2 (there're only _pron2 without _lex)
-                                if media_id is None or (media_id not in sound_map or sound_map[media_id] not in sound_cat):
-                                    old_id = False
-                                    media_id = None
-                                    if lang_id in sc_fp_map and param_id in sc_p_map and sc_p_map[param_id] in sc_wp_map:
-                                        lex_idx = seen_lexemes_old[param_id]
-                                        media_id = '{}{}_pron2'.format(sc_fp_map[lang_id], sc_wp_map[sc_p_map[param_id]])
-                                        if seen_pron2[media_id]:
-                                            media_id = None
-                                        else:
-                                            old_id = True
-
-                                # if no old media ID is found take new ones
-                                if media_id is None or (media_id not in sound_map or sound_map[media_id] not in sound_cat):
-                                    lex_idx = seen_lexemes_new[param_id]
-                                    if lex_idx == 1:
-                                        media_id = '{}_{}'.format(lang_id, param_id)
-                                    else:
-                                        media_id = '{}_{}__{}'.format(lang_id, param_id, lex_idx)
-                                    old_id = False
-
-                                if media_id is not None and media_id in sound_map and sound_map[media_id] in sound_cat:
-                                    if old_id:
-                                        seen_lexemes_old[param_id] += 1
-                                        if media_id.endswith('_pron2'):
-                                            seen_pron2[media_id] = True
-                                    else:
-                                        seen_lexemes_new[param_id] += 1
-
-                                    for bs in sorted(sound_cat[sound_map[media_id]]['bitstreams'],
-                                                     key=lambda x: x['content-type']):
-                                        ds.objects['MediaTable'].append({
-                                            'ID': bs['checksum'],
-                                            'Name': bs['bitstreamid'],
-                                            'objid': sound_map[media_id],
-                                            'mimetype': bs['content-type'],
-                                            'size': bs['filesize'],
-                                            'Form_ID': new['ID'],
-                                        })
-
-            ds.cldf.add_component(
-                'ContributionTable',
-                'phonetic_transcriptions',
-                'recording',
-                'sound_editing',
-                {
-                    "name": "Language_ID",
-                    "required": True,
-                    "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
-                    "datatype": "string"
-                },
-            )
-            ds.cldf.remove_columns('ContributionTable', 'Name')
-            ds.cldf.remove_columns('ContributionTable', 'Description')
-            ds.cldf.remove_columns('ContributionTable', 'Contributor')
-            ds.cldf.remove_columns('ContributionTable', 'Citation')
+                    if (lang_id, param_id) in sound_per_word:
+                        key = list(sound_per_word[lang_id, param_id].keys())[0]
+                        for bs in sorted(sound_per_word[lang_id, param_id][key], key=lambda i: i['mimetype']):
+                            ds.objects['MediaTable'].append(media_file(bs, new['ID']))
+                        del sound_per_word[lang_id, param_id][key]
+                        if not sound_per_word[lang_id, param_id]:
+                            del sound_per_word[lang_id, param_id]
+            assert not sound_per_word
 
             for lid, contribs in itertools.groupby(
                 sorted(
@@ -357,3 +239,32 @@ class Dataset(BaseDataset):
                         res[k] += ' and '
                     res[k] += contrib['Contributor']
                 args.writer.objects['contributions.csv'].append(res)
+
+    def schema(self, cldf):
+        cldf.add_component(
+            'MediaTable',
+            {'name': 'size', 'datatype': 'integer'},
+            {
+                'name': 'Form_ID',
+                'required': True,
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#formReference',
+                'datatype': 'string'
+            },
+        )
+        cldf.remove_columns('MediaTable', 'Description')
+        cldf.add_component(
+            'ContributionTable',
+            'phonetic_transcriptions',
+            'recording',
+            'sound_editing',
+            {
+                "name": "Language_ID",
+                "required": True,
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                "datatype": "string"
+            },
+        )
+        cldf.remove_columns('ContributionTable', 'Name')
+        cldf.remove_columns('ContributionTable', 'Description')
+        cldf.remove_columns('ContributionTable', 'Contributor')
+        cldf.remove_columns('ContributionTable', 'Citation')
