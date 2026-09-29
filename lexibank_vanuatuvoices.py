@@ -13,6 +13,7 @@ from pylexibank import progressbar
 from csvw.dsv import reader
 
 MEDIA_DEPOSIT_ID = "23015980"
+media_doi = f"10.5281/zenodo.{MEDIA_DEPOSIT_ID}"
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
     'ContrbutorPhoneticTranscriptionBy': 'phonetic_transcriptions',
@@ -155,6 +156,10 @@ class Dataset(BaseDataset):
     lexeme_class = CustomLexeme
 
     def cmd_makecldf(self, args):
+        self.dir.joinpath('NOTES.md').write_text('\n'.join([
+            "Associated sound files are available in a separate dataset at",
+            f"DOI: [{media_doi}](https://doi.org/{media_doi})"
+        ]), encoding='utf8')
         grapheme_correspondance = {
             r['VV_grapheme']: r['orthography'] for r in
             self.etc_dir.read_csv('graphemes-unique-correspondances.csv', dicts=True)}
@@ -241,7 +246,7 @@ class Dataset(BaseDataset):
                 args.writer.objects['contributions.csv'].append(res)
 
     def schema(self, cldf):
-        cldf.add_component(
+        t = cldf.add_component(
             'MediaTable',
             {'name': 'size', 'datatype': 'integer'},
             {
@@ -251,6 +256,7 @@ class Dataset(BaseDataset):
                 'datatype': 'string'
             },
         )
+        t.common_props['dc:identifier'] = f"https://doi.org/{media_doi}"
         cldf.remove_columns('MediaTable', 'Description')
         cldf.add_component(
             'ContributionTable',

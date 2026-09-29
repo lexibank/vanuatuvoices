@@ -14,6 +14,12 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 
 Available online at https://vanuatuvoices.clld.org
 
+## Notes
+
+Associated sound files are available in a separate dataset at
+DOI: [10.5281/zenodo.23015980](https://doi.org/10.5281/zenodo.23015980)
+
+
 ## Statistics
 
 

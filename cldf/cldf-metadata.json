@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/lexibank/vanuatuvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.4-13-g57cb1b0",
+            "dc:created": "v1.5-1-ged11d44",
             "dc:title": "Repository"
         },
         {
@@ -41,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.13.5"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -290,6 +290,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:extent": 123658,
+            "dc:identifier": "https://doi.org/10.5281/zenodo.23015980",
             "tableSchema": {
                 "columns": [
                     {
@@ -299,7 +300,6 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "valueUrl": "https://cdstar.eva.mpg.de/bitstreams/{objid}/{Name}",
                         "name": "ID"
                     },
                     {
@@ -309,8 +309,25 @@
                         "name": "Name"
                     },
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
+                    },
+                    {
                         "datatype": "string",
-                        "name": "objid"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
                     },
                     {
                         "datatype": "integer",
@@ -321,15 +338,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
                         "required": true,
                         "name": "Form_ID"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[^/]+/.+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
-                        "required": true,
-                        "name": "mimetype"
                     }
                 ],
                 "foreignKeys": [
